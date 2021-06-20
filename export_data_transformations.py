@@ -18,36 +18,111 @@ trade_crops_data = pd.read_csv(
 )
 
 
-regex = re.compile(r'^Y\d{4}$')
-year_columns = []
-new_columns = []
-for iii, col_name in enumerate(trade_crops_data.columns):
-    if re.match(regex, col_name):
-        col_name = int(col_name.strip('Y'))
-        year_columns.append(col_name)
-    
-    new_columns.append(col_name)
+year_regex = re.compile(r'^Y\d{4}$')
+year_columns = [
+    col for col in trade_crops_data.columns if re.match(year_regex, col)
+]
 
-trade_crops_data.columns = new_columns
+word_regex = re.compile('\w+')
+multi_word_items = {
+    'fruit',
+    'nuts',
+    'oil, olive',
+    'oil, palm',
+    'other food',
+    'potatoes', # listed here to avoid matching on sweet potatoes
+    'sweet corn',
+    'cotton',
+    'cereal',
+}
+item_map = {
+    word: {word} for word in (
+        'beverages',
+        'almonds',
+        'flax',
+        'apricots',
+        'barley',
+        'sunflower',
+        'soybeans',
+        'palm',
+        'cashew',
+        'peppers',
+        'cocoa',
+        'dates',
+        'coconuts',
+        'coffee',
+        'eggs',
+        'figs',
+        'flour',
+        'hazelnuts',
+        'citrus',
+        'lemon',
+        'apple',
+        'grape',
+        'grapefruit',
+        'groundnuts',
+        'milk',
+        'oats',
+        'oilseeds',
+        'orange',
+        'pineapples',
+        'rice',
+        'roots',
+        'rubber',
+        'silk',
+        'sheep',
+        'sugar',
+        'tea',
+        'tobacco',
+        'tomatoes',
+        'vegetables',
+        'watermelons',
+        'wool',
+        'peas',
+        'offals',
+        'mushrooms',
+    )
+}
+item_map['chicken'] = {'chicken', 'poultry'}
+item_map['beef'] = {'beef', 'cattle', 'bovine', 'whey'}
+item_map['grape'] = {'grape', 'grapes'}
+item_map['wheat'] = {'wheat', 'bread'}
+item_map['pig'] = {'pig', 'bacon', 'pigmeat', 'pigs'}
+item_map['pepper'] = {'pepper', 'peppers'}
+def combine_item_names(item):
+    item = item.lower()
+    for multi_word in multi_word_items:
+        if item.startswith(multi_word):
+            return multi_word
+    for word in re.findall(word_regex, item):
+        for key, match_words in item_map.items():
+            if word in match_words:
+                return key
+    return item
+
+trade_crops_data['updated_item'] = trade_crops_data['Item'].apply(
+    combine_item_names
+)
 
 brazil_exports = pd.DataFrame(columns=['item', 'year', 'tonnes_exported'])
 for item, group in (
     trade_crops_data.loc[
         (trade_crops_data['Area'] == 'Brazil') &
         (trade_crops_data['Element'] == 'Export Quantity')
-    ].groupby('Item')
+    ].groupby('updated_item')
 ):
-    item_data = pd.melt(
-        group,
-        value_vars=year_columns,
-        var_name='year',
-        value_name='tonnes_exported',
-    )
-    item_data['item'] = item
-    brazil_exports = brazil_exports.append(
-        item_data.loc[item_data['year'].notna()],
-        ignore_index=True,
-    )
+    for col in year_columns:
+        year = int(col.strip('Y'))
+        value = group[col].sum(skipna=True)
+        if not np.isnan(value):
+            brazil_exports = brazil_exports.append(
+                pd.DataFrame({
+                    'item': [item],
+                    'year': [year],
+                    'tonnes_exported': [value],
+                }),
+                ignore_index=True,
+            )
 
 total_deforestation_data = pd.DataFrame(
     {
