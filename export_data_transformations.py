@@ -156,3 +156,22 @@ brazil_joined_data.to_csv(
 brazil_corr_data.to_csv(
     f'{data_dir}/processed/brazil_corr_data.csv',
 )
+
+total_deforestation_data.to_csv(
+    f'{data_dir}/processed/brazil_deforested_area.csv',
+)
+
+min_year = total_deforestation_data['year'].min()
+max_year = total_deforestation_data['year'].max()
+
+brazil_exports.loc[
+    np.bitwise_and(
+        np.bitwise_and(
+            brazil_exports['year'] >= min_year,
+            brazil_exports['year'] <= max_year,
+        ),
+        np.bitwise_not(np.isnan(brazil_exports['tonnes_exported'])),
+    )
+].to_csv(
+    f'{data_dir}/processed/brazil_exports.csv',
+)
