@@ -164,7 +164,7 @@ total_deforestation_data.to_csv(
 min_year = total_deforestation_data['year'].min()
 max_year = total_deforestation_data['year'].max()
 
-brazil_exports.loc[
+brazil_exports = brazil_exports.loc[
     np.bitwise_and(
         np.bitwise_and(
             brazil_exports['year'] >= min_year,
@@ -172,6 +172,34 @@ brazil_exports.loc[
         ),
         np.bitwise_not(np.isnan(brazil_exports['tonnes_exported'])),
     )
-].to_csv(
+]
+
+brazil_exports.to_csv(
     f'{data_dir}/processed/brazil_exports.csv',
+)
+
+# put everything for the plots in one df to use with vega-lite
+brazil_corr_data['type'] = 'correlation'
+brazil_corr_data.rename(
+    columns={'item': 'label', 'corr': 'value'}, inplace=True,
+)
+
+total_deforestation_data['type'] = 'deforestation'
+total_deforestation_data.rename(
+    columns={'deforested_area_km2': 'value'}, inplace=True,
+)
+
+brazil_exports['type'] = 'deforestation'
+brazil_exports.rename(
+    columns={'item': 'label', 'tonnes_exported': 'value'}, inplace=True,
+)
+
+pd.concat(
+    (
+        brazil_corr_data,
+        total_deforestation_data,
+        brazil_exports,
+    ),
+).to_csv(
+    f'{data_dir}/processed/plot_data.csv',
 )

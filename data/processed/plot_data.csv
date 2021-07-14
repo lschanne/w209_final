@@ -1,0 +1,3988 @@
+,label,n,value,type,year
+0,alfalfa meal and pellets,16,-0.29066621608216076,correlation,
+1,almonds,16,0.24894454150224696,correlation,
+2,animal fats and oils (excl. butter),16,0.8931981753698409,correlation,
+3,"anise, badian, fennel, coriander",16,0.3897220491767559,correlation,
+4,apple,16,0.2540651353231884,correlation,
+5,apples,16,0.6996797711927283,correlation,
+6,apricots,16,-0.062134889340466744,correlation,
+7,artichokes,16,-0.011296584257691126,correlation,
+8,asparagus,16,-0.011296584257691126,correlation,
+9,avocados,16,-0.5359565970470114,correlation,
+10,bananas,16,0.7162324287759084,correlation,
+11,barley,16,-0.6470576450130417,correlation,
+12,"beans, dry",16,-0.45471483117140415,correlation,
+13,"beans, green",16,0.8358059229707505,correlation,
+14,beef,16,-0.003631474484411433,correlation,
+15,beeswax,16,0.7651650550877263,correlation,
+16,beet pulp,16,-0.12353794635380995,correlation,
+17,beverages,16,-0.5250465143706664,correlation,
+18,"bran, maize",16,0.30758719454772077,correlation,
+19,"brazil nuts, shelled",16,0.47011044044743067,correlation,
+20,buckwheat,16,-0.5504513603650045,correlation,
+21,cabbages and other brassicas,16,-0.028059978316441688,correlation,
+22,"cake, copra",16,0.07111422013633652,correlation,
+23,"cake, cottonseed",16,0.676716388852637,correlation,
+24,"cake, maize",16,0.19918575684881193,correlation,
+25,canary seed,16,-0.15774985721565782,correlation,
+26,carrots and turnips,16,-0.21128899782402416,correlation,
+27,cashew,16,0.5836113556265915,correlation,
+28,cassava dried,16,0.6496505278244051,correlation,
+29,cauliflowers and broccoli,16,-0.03664417070706147,correlation,
+30,cereal,16,-0.5583483529001997,correlation,
+31,"cheese, processed",16,0.35385538020938634,correlation,
+32,cherries,16,-0.022763141273989346,correlation,
+33,chestnut,16,-0.10828234778683096,correlation,
+34,chicken,16,-0.8694199928298084,correlation,
+35,chocolate products nes,16,0.9070237601462292,correlation,
+36,cider etc,16,-0.6622021204752983,correlation,
+37,cigarettes,16,0.6083171352934398,correlation,
+38,"cigars, cheroots",16,-0.15422626859139146,correlation,
+39,cinnamon (cannella),16,0.8151242882204591,correlation,
+40,citrus,16,-0.4465348578858709,correlation,
+41,cloves,16,0.31044175744689656,correlation,
+42,cocoa,16,0.7307481659772417,correlation,
+43,coconuts,16,-0.3091537145184088,correlation,
+44,"cocoons, unreelable & waste",16,0.9415420028097105,correlation,
+45,coffee,16,-0.5613006312544264,correlation,
+46,coir,16,0.8712640155652657,correlation,
+47,copra,16,-0.1801754745749389,correlation,
+48,cotton,16,-0.4503258365601186,correlation,
+49,cream fresh,16,-0.8035060960724597,correlation,
+50,crude materials nes,16,0.05186917070298041,correlation,
+51,cucumbers and gherkins,16,-0.041814696077365536,correlation,
+52,dairy products,16,0.36414972249244504,correlation,
+53,dates,16,0.00720848119024163,correlation,
+54,"dregs from brewing, distillation",16,-0.1571842125761816,correlation,
+55,eggplants (aubergines),16,-0.07328970866455824,correlation,
+56,eggs,16,-0.41802866157798774,correlation,
+57,"fat nes, prepared",16,-0.00996108128228795,correlation,
+58,fatty acids,16,-0.11838026334796316,correlation,
+59,fatty substance residues,16,0.21211287223483166,correlation,
+60,"feed and meal, gluten",16,-0.03029676321491619,correlation,
+61,"feed, pulp of fruit",16,0.7002764375761863,correlation,
+62,fibre crops nes,16,-0.8035816812588166,correlation,
+63,figs,16,-0.5226947485208974,correlation,
+64,flax,16,0.16901338916744083,correlation,
+65,flour,16,-0.5932256825071927,correlation,
+66,fodder and feeding stuff,16,0.051541239670570366,correlation,
+67,food prep nes,16,-0.12830626802206183,correlation,
+68,food wastes,16,-0.5982104515193661,correlation,
+69,forage products,16,-0.15923316764304643,correlation,
+70,"fructose and syrup, other",16,0.2925981582145609,correlation,
+71,fruit,16,-0.33985309231687144,correlation,
+72,garlic,16,0.46612091242784326,correlation,
+73,"germ, maize",16,0.26383210856057093,correlation,
+74,ginger,16,0.03516437262010366,correlation,
+75,glucose and dextrose,16,0.15256725564726584,correlation,
+76,grape,16,0.0985140138897101,correlation,
+77,grapefruit,16,0.2851745925534308,correlation,
+78,groundnuts,16,-0.3197938960917839,correlation,
+79,hazelnuts,16,0.6696901004097976,correlation,
+80,hides and skins,16,0.04508150060528725,correlation,
+81,hides nes,16,-0.418793444946738,correlation,
+82,"honey, natural",16,-0.29710211533378184,correlation,
+83,hops,16,0.09612098909176364,correlation,
+84,ice cream and edible ice,16,0.3212621687383726,correlation,
+85,infant food,16,0.7814137844002016,correlation,
+86,"juice, fruit nes",16,-0.5810659556498236,correlation,
+87,"juice, pineapple",16,0.9105501854463361,correlation,
+88,"juice, pineapple, concentrated",16,0.5838307926992325,correlation,
+89,"juice, tomato",16,0.07600920959143619,correlation,
+90,jute,16,-0.2596247090247896,correlation,
+91,kiwi fruit,16,0.7189719661394576,correlation,
+92,kola nuts,16,-0.2384376921000687,correlation,
+93,lactose,16,0.25208445001266183,correlation,
+94,lard,16,-0.5464887002075705,correlation,
+95,lemon,16,0.3226686969480359,correlation,
+96,lemons and limes,16,-0.7081980265744495,correlation,
+97,lentils,16,-0.07846561799617421,correlation,
+98,lettuce and chicory,16,-0.08126076230819952,correlation,
+99,linseed,16,0.3606661362033343,correlation,
+100,macaroni,16,-0.35268721894739735,correlation,
+101,maize,16,-0.5364229872293192,correlation,
+102,"maize, green",16,-0.1429179134828027,correlation,
+103,malt,16,0.26163058504272463,correlation,
+104,"mangoes, mangosteens, guavas",16,-0.31965408431993075,correlation,
+105,"margarine, short",16,0.1194992870338962,correlation,
+106,mat�,16,-0.7622706142154662,correlation,
+107,"meal, meat",16,-0.3314883738801584,correlation,
+108,meat nes,16,0.17556815188297692,correlation,
+109,"meat, dried nes",16,-0.7944002489816085,correlation,
+110,"meat, duck",16,-0.6675148228379015,correlation,
+111,"meat, goat",16,0.23616485575791624,correlation,
+112,"meat, horse",16,0.9023073239219255,correlation,
+113,"meat, pork",16,-0.3579212993846344,correlation,
+114,"meat, turkey",16,0.6333945913774296,correlation,
+115,"melons, other (inc.cantaloupes)",16,-0.4576518395358613,correlation,
+116,milk,16,0.36754344958269464,correlation,
+117,millet,16,-0.016073659967112054,correlation,
+118,mixes and doughs,16,-0.1256836033752318,correlation,
+119,molasses,16,0.6256882194409774,correlation,
+120,mushrooms,16,0.4827888543090487,correlation,
+121,mustard seed,16,0.39628486689640235,correlation,
+122,"nutmeg, mace and cardamoms",16,0.5826714243690573,correlation,
+123,nuts,16,-0.17352703787777582,correlation,
+124,oats,16,-0.45647116023973316,correlation,
+125,offals,16,-0.7184712240559312,correlation,
+126,"oil, boiled etc",16,-0.15301587307733527,correlation,
+127,"oil, castor beans",16,0.19677316498362352,correlation,
+128,"oil, coconut (copra)",16,-0.2848548224314819,correlation,
+129,"oil, cottonseed",16,0.8724430182119746,correlation,
+130,"oil, essential nes",16,0.5641528281612544,correlation,
+131,"oil, groundnut",16,-0.6233412828468233,correlation,
+132,"oil, linseed",16,0.10172865486376156,correlation,
+133,"oil, maize",16,0.38528821889458253,correlation,
+134,"oil, olive",16,0.03067312834835893,correlation,
+135,"oil, palm",16,-0.48943024719789446,correlation,
+136,"oil, rapeseed",16,0.36100200299748425,correlation,
+137,"oil, sesame",16,-0.2971808070042062,correlation,
+138,"oil, soybean",16,0.7570469528933086,correlation,
+139,"oil, vegetable origin nes",16,-0.506697790586988,correlation,
+140,"oils, fats of animal nes",16,0.3120154359959826,correlation,
+141,oilseeds,16,-0.4648577222415704,correlation,
+142,olives,16,-0.011296584257691126,correlation,
+143,olives preserved,16,-0.7414034855330611,correlation,
+144,"onions, shallots, green",16,-0.08784180320979572,correlation,
+145,orange,16,-0.6126580456550079,correlation,
+146,oranges,16,0.7735679640566916,correlation,
+147,other food,16,-0.470525730689431,correlation,
+148,other meat,16,-0.7674634103280201,correlation,
+149,palm,16,-0.09283485498952686,correlation,
+150,papayas,16,0.20678743089978496,correlation,
+151,pastry,16,0.28764751574415703,correlation,
+152,peaches and nectarines,16,-0.1883003271771096,correlation,
+153,pears,16,-0.11678789338065751,correlation,
+154,peas,16,0.053291714856152986,correlation,
+155,pepper,16,0.06987177444783162,correlation,
+156,peppers,16,0.7351978115129586,correlation,
+157,persimmons,16,0.4824035920999166,correlation,
+158,pet food,16,0.3107752783932818,correlation,
+159,pig,16,0.07390816724852513,correlation,
+160,pineapples,16,0.6438907736602312,correlation,
+161,pistachios,16,-0.009744766968331391,correlation,
+162,plantains and others,16,-0.44858379804452314,correlation,
+163,plums and sloes,16,0.3442173560955401,correlation,
+164,plums dried (prunes),16,0.01749459149824027,correlation,
+165,potatoes,16,-0.3403135661862918,correlation,
+166,pulses,16,-0.40739835739121766,correlation,
+167,"pumpkins, squash and gourds",16,-0.1922059022062085,correlation,
+168,"pyrethrum, extraction",16,-0.13039881315863774,correlation,
+169,quinces,16,0.4874696967650438,correlation,
+170,raisins,16,0.44340771762243064,correlation,
+171,rapeseed,16,-0.12255242737884862,correlation,
+172,rice,16,-0.7140633753943223,correlation,
+173,roots,16,-0.16856161413056706,correlation,
+174,rubber,16,-0.48034320919468604,correlation,
+175,rye,16,0.28414592540897654,correlation,
+176,sesame seed,16,-0.06767739331162141,correlation,
+177,sheep,16,-0.055997089538537555,correlation,
+178,silk,16,0.7102156773260359,correlation,
+179,sorghum,16,0.4857332912837421,correlation,
+180,soya sauce,16,-0.6853859851315731,correlation,
+181,soybeans,16,-0.44616409576326355,correlation,
+182,spices nes,16,0.10315514076195001,correlation,
+183,spinach,16,-0.010855269667097768,correlation,
+184,"starch, cassava",16,0.14295061133347317,correlation,
+185,straw husks,16,0.7704963844944286,correlation,
+186,strawberries,16,0.6705868269597041,correlation,
+187,sugar,16,-0.7439246516530515,correlation,
+188,sunflower,16,0.7455321509551195,correlation,
+189,sweet corn,16,-0.3837573457669586,correlation,
+190,sweet potatoes,16,-0.22625748034784962,correlation,
+191,tallow,16,0.8665083295394527,correlation,
+192,"tangerines, mandarins, clementines, satsumas",16,0.9515877341529146,correlation,
+193,tea,16,0.6706962586108146,correlation,
+194,textile fibres,16,-0.4657016360688218,correlation,
+195,tobacco,16,0.3143745643834818,correlation,
+196,tomatoes,16,0.644246268303305,correlation,
+197,vanilla,16,0.7556788216581177,correlation,
+198,vegetable oil and fat,16,0.7487919449733481,correlation,
+199,vegetables,16,0.23581940579565452,correlation,
+200,vermouths & similar,16,0.48693510782003524,correlation,
+201,wafers,16,-0.5644038047482167,correlation,
+202,"walnuts, shelled",16,0.7129663882034502,correlation,
+203,"walnuts, with shell",16,0.28086048645304923,correlation,
+204,watermelons,16,-0.3462814781253003,correlation,
+205,"waters,ice etc",16,-0.04822574094706135,correlation,
+206,waxes vegetable,16,-0.2638654257958784,correlation,
+207,wheat,16,-0.20682301187823518,correlation,
+208,wine,16,-0.19044774376238346,correlation,
+209,wool,16,-0.8131845269138638,correlation,
+210,"yoghurt, concentrated or not",16,-0.1362956471153497,correlation,
+0,,,27772.0,deforestation,2004
+1,,,19014.0,deforestation,2005
+2,,,14286.0,deforestation,2006
+3,,,11651.0,deforestation,2007
+4,,,12911.0,deforestation,2008
+5,,,7464.0,deforestation,2009
+6,,,7000.0,deforestation,2010
+7,,,6418.0,deforestation,2011
+8,,,4571.0,deforestation,2012
+9,,,5891.0,deforestation,2013
+10,,,5012.0,deforestation,2014
+11,,,6207.0,deforestation,2015
+12,,,7893.0,deforestation,2016
+13,,,6947.0,deforestation,2017
+14,,,7536.0,deforestation,2018
+15,,,9762.0,deforestation,2019
+43,alfalfa meal and pellets,,0.0,deforestation,2004
+44,alfalfa meal and pellets,,3.0,deforestation,2005
+45,alfalfa meal and pellets,,0.0,deforestation,2006
+46,alfalfa meal and pellets,,0.0,deforestation,2007
+47,alfalfa meal and pellets,,14.0,deforestation,2008
+48,alfalfa meal and pellets,,8.0,deforestation,2009
+49,alfalfa meal and pellets,,0.0,deforestation,2010
+50,alfalfa meal and pellets,,75.0,deforestation,2011
+51,alfalfa meal and pellets,,0.0,deforestation,2012
+52,alfalfa meal and pellets,,0.0,deforestation,2013
+53,alfalfa meal and pellets,,92.0,deforestation,2014
+54,alfalfa meal and pellets,,0.0,deforestation,2015
+55,alfalfa meal and pellets,,0.0,deforestation,2016
+56,alfalfa meal and pellets,,0.0,deforestation,2017
+57,alfalfa meal and pellets,,92.0,deforestation,2018
+58,alfalfa meal and pellets,,44.0,deforestation,2019
+102,almonds,,10.0,deforestation,2004
+103,almonds,,0.0,deforestation,2005
+104,almonds,,0.0,deforestation,2006
+105,almonds,,0.0,deforestation,2007
+106,almonds,,0.0,deforestation,2008
+107,almonds,,0.0,deforestation,2009
+108,almonds,,0.0,deforestation,2010
+109,almonds,,1.0,deforestation,2011
+110,almonds,,0.0,deforestation,2012
+111,almonds,,2.0,deforestation,2013
+112,almonds,,1.0,deforestation,2014
+113,almonds,,0.0,deforestation,2015
+114,almonds,,0.0,deforestation,2016
+115,almonds,,0.0,deforestation,2017
+116,almonds,,0.0,deforestation,2018
+117,almonds,,26.0,deforestation,2019
+161,animal fats and oils (excl. butter),,61326.0,deforestation,2004
+162,animal fats and oils (excl. butter),,60197.0,deforestation,2005
+163,animal fats and oils (excl. butter),,27612.0,deforestation,2006
+164,animal fats and oils (excl. butter),,32826.0,deforestation,2007
+165,animal fats and oils (excl. butter),,9968.0,deforestation,2008
+166,animal fats and oils (excl. butter),,11938.0,deforestation,2009
+167,animal fats and oils (excl. butter),,12351.0,deforestation,2010
+168,animal fats and oils (excl. butter),,7892.0,deforestation,2011
+169,animal fats and oils (excl. butter),,12280.0,deforestation,2012
+170,animal fats and oils (excl. butter),,19143.0,deforestation,2013
+171,animal fats and oils (excl. butter),,6929.0,deforestation,2014
+172,animal fats and oils (excl. butter),,12112.0,deforestation,2015
+173,animal fats and oils (excl. butter),,13866.0,deforestation,2016
+174,animal fats and oils (excl. butter),,17967.0,deforestation,2017
+175,animal fats and oils (excl. butter),,10472.0,deforestation,2018
+176,animal fats and oils (excl. butter),,18721.0,deforestation,2019
+220,"anise, badian, fennel, coriander",,58.0,deforestation,2004
+221,"anise, badian, fennel, coriander",,12.0,deforestation,2005
+222,"anise, badian, fennel, coriander",,26.0,deforestation,2006
+223,"anise, badian, fennel, coriander",,137.0,deforestation,2007
+224,"anise, badian, fennel, coriander",,24.0,deforestation,2008
+225,"anise, badian, fennel, coriander",,16.0,deforestation,2009
+226,"anise, badian, fennel, coriander",,1.0,deforestation,2010
+227,"anise, badian, fennel, coriander",,5.0,deforestation,2011
+228,"anise, badian, fennel, coriander",,13.0,deforestation,2012
+229,"anise, badian, fennel, coriander",,6.0,deforestation,2013
+230,"anise, badian, fennel, coriander",,26.0,deforestation,2014
+231,"anise, badian, fennel, coriander",,4.0,deforestation,2015
+232,"anise, badian, fennel, coriander",,3.0,deforestation,2016
+233,"anise, badian, fennel, coriander",,2.0,deforestation,2017
+234,"anise, badian, fennel, coriander",,5.0,deforestation,2018
+235,"anise, badian, fennel, coriander",,21.0,deforestation,2019
+279,apple,,31538.0,deforestation,2004
+280,apple,,33796.0,deforestation,2005
+281,apple,,22642.0,deforestation,2006
+282,apple,,30135.0,deforestation,2007
+283,apple,,30662.0,deforestation,2008
+284,apple,,22069.0,deforestation,2009
+285,apple,,38398.0,deforestation,2010
+286,apple,,31609.0,deforestation,2011
+287,apple,,37069.0,deforestation,2012
+288,apple,,24774.0,deforestation,2013
+289,apple,,15838.0,deforestation,2014
+290,apple,,23533.0,deforestation,2015
+291,apple,,11497.0,deforestation,2016
+292,apple,,17149.0,deforestation,2017
+293,apple,,26908.0,deforestation,2018
+294,apple,,14144.0,deforestation,2019
+338,apples,,153043.0,deforestation,2004
+339,apples,,99332.0,deforestation,2005
+340,apples,,57147.0,deforestation,2006
+341,apples,,112076.0,deforestation,2007
+342,apples,,112250.0,deforestation,2008
+343,apples,,98264.0,deforestation,2009
+344,apples,,90839.0,deforestation,2010
+345,apples,,48666.0,deforestation,2011
+346,apples,,72253.0,deforestation,2012
+347,apples,,85429.0,deforestation,2013
+348,apples,,44294.0,deforestation,2014
+349,apples,,60112.0,deforestation,2015
+350,apples,,30646.0,deforestation,2016
+351,apples,,55437.0,deforestation,2017
+352,apples,,70997.0,deforestation,2018
+353,apples,,56464.0,deforestation,2019
+397,apricots,,0.0,deforestation,2004
+398,apricots,,0.0,deforestation,2005
+399,apricots,,3.0,deforestation,2006
+400,apricots,,0.0,deforestation,2007
+401,apricots,,0.0,deforestation,2008
+402,apricots,,0.0,deforestation,2009
+403,apricots,,1.0,deforestation,2010
+404,apricots,,1.0,deforestation,2011
+405,apricots,,0.0,deforestation,2012
+406,apricots,,1.0,deforestation,2013
+407,apricots,,14.0,deforestation,2014
+408,apricots,,0.0,deforestation,2015
+409,apricots,,0.0,deforestation,2016
+410,apricots,,0.0,deforestation,2017
+411,apricots,,0.0,deforestation,2018
+412,apricots,,58.0,deforestation,2019
+456,areca nuts,,0.0,deforestation,2004
+457,areca nuts,,0.0,deforestation,2005
+458,areca nuts,,0.0,deforestation,2006
+459,areca nuts,,0.0,deforestation,2007
+460,areca nuts,,0.0,deforestation,2008
+461,areca nuts,,0.0,deforestation,2009
+462,areca nuts,,0.0,deforestation,2010
+463,areca nuts,,0.0,deforestation,2011
+464,areca nuts,,0.0,deforestation,2012
+465,areca nuts,,0.0,deforestation,2013
+466,areca nuts,,0.0,deforestation,2014
+467,areca nuts,,0.0,deforestation,2015
+468,areca nuts,,0.0,deforestation,2016
+469,areca nuts,,0.0,deforestation,2017
+470,areca nuts,,0.0,deforestation,2018
+471,areca nuts,,0.0,deforestation,2019
+515,artichokes,,0.0,deforestation,2004
+516,artichokes,,0.0,deforestation,2005
+517,artichokes,,0.0,deforestation,2006
+518,artichokes,,0.0,deforestation,2007
+519,artichokes,,0.0,deforestation,2008
+520,artichokes,,0.0,deforestation,2009
+521,artichokes,,0.0,deforestation,2010
+522,artichokes,,0.0,deforestation,2011
+523,artichokes,,0.0,deforestation,2012
+524,artichokes,,0.0,deforestation,2013
+525,artichokes,,0.0,deforestation,2014
+526,artichokes,,0.0,deforestation,2015
+527,artichokes,,0.0,deforestation,2016
+528,artichokes,,0.0,deforestation,2017
+529,artichokes,,0.0,deforestation,2018
+530,artichokes,,1.0,deforestation,2019
+574,asparagus,,0.0,deforestation,2004
+575,asparagus,,0.0,deforestation,2005
+576,asparagus,,0.0,deforestation,2006
+577,asparagus,,0.0,deforestation,2007
+578,asparagus,,0.0,deforestation,2008
+579,asparagus,,0.0,deforestation,2009
+580,asparagus,,0.0,deforestation,2010
+581,asparagus,,0.0,deforestation,2011
+582,asparagus,,0.0,deforestation,2012
+583,asparagus,,0.0,deforestation,2013
+584,asparagus,,0.0,deforestation,2014
+585,asparagus,,0.0,deforestation,2015
+586,asparagus,,0.0,deforestation,2016
+587,asparagus,,0.0,deforestation,2017
+588,asparagus,,0.0,deforestation,2018
+589,asparagus,,3.0,deforestation,2019
+633,avocados,,890.0,deforestation,2004
+634,avocados,,625.0,deforestation,2005
+635,avocados,,1426.0,deforestation,2006
+636,avocados,,1490.0,deforestation,2007
+637,avocados,,1801.0,deforestation,2008
+638,avocados,,2932.0,deforestation,2009
+639,avocados,,2464.0,deforestation,2010
+640,avocados,,3263.0,deforestation,2011
+641,avocados,,4273.0,deforestation,2012
+642,avocados,,4313.0,deforestation,2013
+643,avocados,,5807.0,deforestation,2014
+644,avocados,,4628.0,deforestation,2015
+645,avocados,,4951.0,deforestation,2016
+646,avocados,,7835.0,deforestation,2017
+647,avocados,,7564.0,deforestation,2018
+648,avocados,,10245.0,deforestation,2019
+692,bananas,,188087.0,deforestation,2004
+693,bananas,,212176.0,deforestation,2005
+694,bananas,,194331.0,deforestation,2006
+695,bananas,,185721.0,deforestation,2007
+696,bananas,,130888.0,deforestation,2008
+697,bananas,,143872.0,deforestation,2009
+698,bananas,,139540.0,deforestation,2010
+699,bananas,,110054.0,deforestation,2011
+700,bananas,,92973.0,deforestation,2012
+701,bananas,,97976.0,deforestation,2013
+702,bananas,,83462.0,deforestation,2014
+703,bananas,,80275.0,deforestation,2015
+704,bananas,,63567.0,deforestation,2016
+705,bananas,,40933.0,deforestation,2017
+706,bananas,,64859.0,deforestation,2018
+707,bananas,,78945.0,deforestation,2019
+751,barley,,28300.0,deforestation,2004
+752,barley,,61626.0,deforestation,2005
+753,barley,,62920.0,deforestation,2006
+754,barley,,54914.0,deforestation,2007
+755,barley,,86244.0,deforestation,2008
+756,barley,,66782.0,deforestation,2009
+757,barley,,55683.0,deforestation,2010
+758,barley,,80332.0,deforestation,2011
+759,barley,,99267.0,deforestation,2012
+760,barley,,135570.0,deforestation,2013
+761,barley,,137601.0,deforestation,2014
+762,barley,,168736.0,deforestation,2015
+763,barley,,128179.0,deforestation,2016
+764,barley,,156546.0,deforestation,2017
+765,barley,,135527.0,deforestation,2018
+766,barley,,128351.0,deforestation,2019
+810,"beans, dry",,1996.0,deforestation,2004
+811,"beans, dry",,2285.0,deforestation,2005
+812,"beans, dry",,7771.0,deforestation,2006
+813,"beans, dry",,30847.0,deforestation,2007
+814,"beans, dry",,1966.0,deforestation,2008
+815,"beans, dry",,33014.0,deforestation,2009
+816,"beans, dry",,4302.0,deforestation,2010
+817,"beans, dry",,20458.0,deforestation,2011
+818,"beans, dry",,37668.0,deforestation,2012
+819,"beans, dry",,33147.0,deforestation,2013
+820,"beans, dry",,64626.0,deforestation,2014
+821,"beans, dry",,119958.0,deforestation,2015
+822,"beans, dry",,45049.0,deforestation,2016
+823,"beans, dry",,116373.0,deforestation,2017
+824,"beans, dry",,117110.0,deforestation,2018
+825,"beans, dry",,123106.0,deforestation,2019
+869,"beans, green",,347.0,deforestation,2004
+870,"beans, green",,16.0,deforestation,2005
+871,"beans, green",,46.0,deforestation,2006
+872,"beans, green",,57.0,deforestation,2007
+873,"beans, green",,27.0,deforestation,2008
+874,"beans, green",,37.0,deforestation,2009
+875,"beans, green",,1.0,deforestation,2010
+876,"beans, green",,0.0,deforestation,2011
+877,"beans, green",,0.0,deforestation,2012
+878,"beans, green",,0.0,deforestation,2013
+879,"beans, green",,0.0,deforestation,2014
+880,"beans, green",,3.0,deforestation,2015
+881,"beans, green",,0.0,deforestation,2016
+882,"beans, green",,0.0,deforestation,2017
+883,"beans, green",,1.0,deforestation,2018
+884,"beans, green",,7.0,deforestation,2019
+928,beef,,2591151.0,deforestation,2004
+929,beef,,2976098.0,deforestation,2005
+930,beef,,3365371.0,deforestation,2006
+931,beef,,3531711.0,deforestation,2007
+932,beef,,2905616.0,deforestation,2008
+933,beef,,2599643.0,deforestation,2009
+934,beef,,2566685.0,deforestation,2010
+935,beef,,2226524.0,deforestation,2011
+936,beef,,2535318.0,deforestation,2012
+937,beef,,3103164.0,deforestation,2013
+938,beef,,3203183.0,deforestation,2014
+939,beef,,2859134.0,deforestation,2015
+940,beef,,2855078.0,deforestation,2016
+941,beef,,3126912.0,deforestation,2017
+942,beef,,3496866.0,deforestation,2018
+943,beef,,4007304.0,deforestation,2019
+987,beeswax,,89.0,deforestation,2004
+988,beeswax,,59.0,deforestation,2005
+989,beeswax,,89.0,deforestation,2006
+990,beeswax,,60.0,deforestation,2007
+991,beeswax,,65.0,deforestation,2008
+992,beeswax,,61.0,deforestation,2009
+993,beeswax,,46.0,deforestation,2010
+994,beeswax,,43.0,deforestation,2011
+995,beeswax,,44.0,deforestation,2012
+996,beeswax,,55.0,deforestation,2013
+997,beeswax,,40.0,deforestation,2014
+998,beeswax,,40.0,deforestation,2015
+999,beeswax,,41.0,deforestation,2016
+1000,beeswax,,46.0,deforestation,2017
+1001,beeswax,,34.0,deforestation,2018
+1002,beeswax,,37.0,deforestation,2019
+1046,beet pulp,,68.0,deforestation,2004
+1047,beet pulp,,214.0,deforestation,2005
+1048,beet pulp,,11.0,deforestation,2006
+1049,beet pulp,,28.0,deforestation,2007
+1050,beet pulp,,5.0,deforestation,2008
+1051,beet pulp,,548.0,deforestation,2009
+1052,beet pulp,,44.0,deforestation,2010
+1053,beet pulp,,13.0,deforestation,2011
+1054,beet pulp,,60.0,deforestation,2012
+1055,beet pulp,,366.0,deforestation,2013
+1056,beet pulp,,548.0,deforestation,2014
+1057,beet pulp,,31.0,deforestation,2015
+1058,beet pulp,,11.0,deforestation,2016
+1059,beet pulp,,18.0,deforestation,2017
+1060,beet pulp,,9838.0,deforestation,2018
+1061,beet pulp,,2.0,deforestation,2019
+1105,beverages,,260185.0,deforestation,2004
+1106,beverages,,289751.0,deforestation,2005
+1107,beverages,,294699.0,deforestation,2006
+1108,beverages,,284262.0,deforestation,2007
+1109,beverages,,303773.0,deforestation,2008
+1110,beverages,,339968.0,deforestation,2009
+1111,beverages,,262222.0,deforestation,2010
+1112,beverages,,289803.0,deforestation,2011
+1113,beverages,,341059.0,deforestation,2012
+1114,beverages,,401156.0,deforestation,2013
+1115,beverages,,440878.0,deforestation,2014
+1116,beverages,,437710.0,deforestation,2015
+1117,beverages,,417676.0,deforestation,2016
+1118,beverages,,481958.0,deforestation,2017
+1119,beverages,,455630.0,deforestation,2018
+1120,beverages,,476858.0,deforestation,2019
+1164,"bran, maize",,7534.0,deforestation,2004
+1165,"bran, maize",,1219.0,deforestation,2005
+1166,"bran, maize",,5044.0,deforestation,2006
+1167,"bran, maize",,1666.0,deforestation,2007
+1168,"bran, maize",,7485.0,deforestation,2008
+1169,"bran, maize",,3140.0,deforestation,2009
+1170,"bran, maize",,6365.0,deforestation,2010
+1171,"bran, maize",,5636.0,deforestation,2011
+1172,"bran, maize",,3506.0,deforestation,2012
+1173,"bran, maize",,3341.0,deforestation,2013
+1174,"bran, maize",,2506.0,deforestation,2014
+1175,"bran, maize",,4182.0,deforestation,2015
+1176,"bran, maize",,425.0,deforestation,2016
+1177,"bran, maize",,4655.0,deforestation,2017
+1178,"bran, maize",,1749.0,deforestation,2018
+1179,"bran, maize",,2381.0,deforestation,2019
+1223,"brazil nuts, shelled",,3095.0,deforestation,2004
+1224,"brazil nuts, shelled",,4184.0,deforestation,2005
+1225,"brazil nuts, shelled",,1863.0,deforestation,2006
+1226,"brazil nuts, shelled",,2330.0,deforestation,2007
+1227,"brazil nuts, shelled",,1013.0,deforestation,2008
+1228,"brazil nuts, shelled",,837.0,deforestation,2009
+1229,"brazil nuts, shelled",,856.0,deforestation,2010
+1230,"brazil nuts, shelled",,85.0,deforestation,2011
+1231,"brazil nuts, shelled",,673.0,deforestation,2012
+1232,"brazil nuts, shelled",,1476.0,deforestation,2013
+1233,"brazil nuts, shelled",,812.0,deforestation,2014
+1234,"brazil nuts, shelled",,3065.0,deforestation,2015
+1235,"brazil nuts, shelled",,587.0,deforestation,2016
+1236,"brazil nuts, shelled",,300.0,deforestation,2017
+1237,"brazil nuts, shelled",,4973.0,deforestation,2018
+1238,"brazil nuts, shelled",,1395.0,deforestation,2019
+1282,"broad beans, horse beans, dry",,0.0,deforestation,2004
+1283,"broad beans, horse beans, dry",,0.0,deforestation,2005
+1284,"broad beans, horse beans, dry",,0.0,deforestation,2006
+1285,"broad beans, horse beans, dry",,0.0,deforestation,2007
+1286,"broad beans, horse beans, dry",,0.0,deforestation,2008
+1287,"broad beans, horse beans, dry",,0.0,deforestation,2009
+1288,"broad beans, horse beans, dry",,0.0,deforestation,2010
+1289,"broad beans, horse beans, dry",,0.0,deforestation,2011
+1290,"broad beans, horse beans, dry",,0.0,deforestation,2012
+1291,"broad beans, horse beans, dry",,0.0,deforestation,2013
+1292,"broad beans, horse beans, dry",,0.0,deforestation,2014
+1293,"broad beans, horse beans, dry",,0.0,deforestation,2015
+1294,"broad beans, horse beans, dry",,0.0,deforestation,2016
+1295,"broad beans, horse beans, dry",,0.0,deforestation,2017
+1296,"broad beans, horse beans, dry",,0.0,deforestation,2018
+1297,"broad beans, horse beans, dry",,0.0,deforestation,2019
+1341,buckwheat,,0.0,deforestation,2004
+1342,buckwheat,,1.0,deforestation,2005
+1343,buckwheat,,2.0,deforestation,2006
+1344,buckwheat,,1.0,deforestation,2007
+1345,buckwheat,,1.0,deforestation,2008
+1346,buckwheat,,211.0,deforestation,2009
+1347,buckwheat,,234.0,deforestation,2010
+1348,buckwheat,,675.0,deforestation,2011
+1349,buckwheat,,1012.0,deforestation,2012
+1350,buckwheat,,841.0,deforestation,2013
+1351,buckwheat,,1103.0,deforestation,2014
+1352,buckwheat,,1719.0,deforestation,2015
+1353,buckwheat,,1916.0,deforestation,2016
+1354,buckwheat,,2467.0,deforestation,2017
+1355,buckwheat,,1803.0,deforestation,2018
+1356,buckwheat,,1099.0,deforestation,2019
+1400,cabbages and other brassicas,,0.0,deforestation,2004
+1401,cabbages and other brassicas,,8.0,deforestation,2005
+1402,cabbages and other brassicas,,0.0,deforestation,2006
+1403,cabbages and other brassicas,,276.0,deforestation,2007
+1404,cabbages and other brassicas,,1.0,deforestation,2008
+1405,cabbages and other brassicas,,7.0,deforestation,2009
+1406,cabbages and other brassicas,,3.0,deforestation,2010
+1407,cabbages and other brassicas,,0.0,deforestation,2011
+1408,cabbages and other brassicas,,0.0,deforestation,2012
+1409,cabbages and other brassicas,,0.0,deforestation,2013
+1410,cabbages and other brassicas,,23.0,deforestation,2014
+1411,cabbages and other brassicas,,0.0,deforestation,2015
+1412,cabbages and other brassicas,,150.0,deforestation,2016
+1413,cabbages and other brassicas,,20.0,deforestation,2017
+1414,cabbages and other brassicas,,75.0,deforestation,2018
+1415,cabbages and other brassicas,,333.0,deforestation,2019
+1459,"cake, copra",,0.0,deforestation,2004
+1460,"cake, copra",,0.0,deforestation,2005
+1461,"cake, copra",,0.0,deforestation,2006
+1462,"cake, copra",,20.0,deforestation,2007
+1463,"cake, copra",,0.0,deforestation,2008
+1464,"cake, copra",,0.0,deforestation,2009
+1465,"cake, copra",,0.0,deforestation,2010
+1466,"cake, copra",,0.0,deforestation,2011
+1467,"cake, copra",,0.0,deforestation,2012
+1468,"cake, copra",,0.0,deforestation,2013
+1469,"cake, copra",,0.0,deforestation,2014
+1470,"cake, copra",,0.0,deforestation,2015
+1471,"cake, copra",,0.0,deforestation,2016
+1472,"cake, copra",,0.0,deforestation,2017
+1473,"cake, copra",,0.0,deforestation,2018
+1474,"cake, copra",,0.0,deforestation,2019
+1518,"cake, cottonseed",,13164.0,deforestation,2004
+1519,"cake, cottonseed",,0.0,deforestation,2005
+1520,"cake, cottonseed",,0.0,deforestation,2006
+1521,"cake, cottonseed",,0.0,deforestation,2007
+1522,"cake, cottonseed",,0.0,deforestation,2008
+1523,"cake, cottonseed",,1108.0,deforestation,2009
+1524,"cake, cottonseed",,0.0,deforestation,2010
+1525,"cake, cottonseed",,1.0,deforestation,2011
+1526,"cake, cottonseed",,73.0,deforestation,2012
+1527,"cake, cottonseed",,24.0,deforestation,2013
+1528,"cake, cottonseed",,144.0,deforestation,2014
+1529,"cake, cottonseed",,3164.0,deforestation,2015
+1530,"cake, cottonseed",,3352.0,deforestation,2016
+1531,"cake, cottonseed",,263.0,deforestation,2017
+1532,"cake, cottonseed",,1494.0,deforestation,2018
+1533,"cake, cottonseed",,203.0,deforestation,2019
+1577,"cake, linseed",,0.0,deforestation,2004
+1578,"cake, linseed",,0.0,deforestation,2005
+1579,"cake, linseed",,0.0,deforestation,2006
+1580,"cake, linseed",,0.0,deforestation,2007
+1581,"cake, linseed",,0.0,deforestation,2008
+1582,"cake, linseed",,0.0,deforestation,2009
+1583,"cake, linseed",,0.0,deforestation,2010
+1584,"cake, linseed",,0.0,deforestation,2011
+1585,"cake, linseed",,0.0,deforestation,2012
+1586,"cake, linseed",,0.0,deforestation,2013
+1587,"cake, linseed",,0.0,deforestation,2014
+1588,"cake, linseed",,0.0,deforestation,2015
+1589,"cake, linseed",,0.0,deforestation,2016
+1590,"cake, linseed",,0.0,deforestation,2017
+1591,"cake, linseed",,0.0,deforestation,2018
+1592,"cake, linseed",,0.0,deforestation,2019
+1636,"cake, maize",,0.0,deforestation,2004
+1637,"cake, maize",,0.0,deforestation,2005
+1638,"cake, maize",,2460.0,deforestation,2006
+1639,"cake, maize",,504.0,deforestation,2007
+1640,"cake, maize",,0.0,deforestation,2008
+1641,"cake, maize",,0.0,deforestation,2009
+1642,"cake, maize",,0.0,deforestation,2010
+1643,"cake, maize",,0.0,deforestation,2011
+1644,"cake, maize",,0.0,deforestation,2012
+1645,"cake, maize",,0.0,deforestation,2013
+1646,"cake, maize",,0.0,deforestation,2014
+1647,"cake, maize",,0.0,deforestation,2015
+1648,"cake, maize",,0.0,deforestation,2016
+1649,"cake, maize",,0.0,deforestation,2017
+1650,"cake, maize",,0.0,deforestation,2018
+1651,"cake, maize",,0.0,deforestation,2019
+1695,"cake, rapeseed",,0.0,deforestation,2004
+1696,"cake, rapeseed",,0.0,deforestation,2005
+1697,"cake, rapeseed",,0.0,deforestation,2006
+1698,"cake, rapeseed",,0.0,deforestation,2007
+1699,"cake, rapeseed",,0.0,deforestation,2008
+1700,"cake, rapeseed",,0.0,deforestation,2009
+1701,"cake, rapeseed",,0.0,deforestation,2010
+1702,"cake, rapeseed",,0.0,deforestation,2011
+1703,"cake, rapeseed",,0.0,deforestation,2012
+1704,"cake, rapeseed",,0.0,deforestation,2013
+1705,"cake, rapeseed",,0.0,deforestation,2014
+1706,"cake, rapeseed",,0.0,deforestation,2015
+1707,"cake, rapeseed",,0.0,deforestation,2016
+1708,"cake, rapeseed",,0.0,deforestation,2017
+1709,"cake, rapeseed",,0.0,deforestation,2018
+1710,"cake, rapeseed",,0.0,deforestation,2019
+1754,canary seed,,0.0,deforestation,2004
+1755,canary seed,,1.0,deforestation,2005
+1756,canary seed,,3.0,deforestation,2006
+1757,canary seed,,4.0,deforestation,2007
+1758,canary seed,,2.0,deforestation,2008
+1759,canary seed,,4.0,deforestation,2009
+1760,canary seed,,127.0,deforestation,2010
+1761,canary seed,,4.0,deforestation,2011
+1762,canary seed,,3.0,deforestation,2012
+1763,canary seed,,1.0,deforestation,2013
+1764,canary seed,,0.0,deforestation,2014
+1765,canary seed,,2.0,deforestation,2015
+1766,canary seed,,4.0,deforestation,2016
+1767,canary seed,,8.0,deforestation,2017
+1768,canary seed,,5.0,deforestation,2018
+1769,canary seed,,5.0,deforestation,2019
+1813,carrots and turnips,,4.0,deforestation,2004
+1814,carrots and turnips,,319.0,deforestation,2005
+1815,carrots and turnips,,5.0,deforestation,2006
+1816,carrots and turnips,,2537.0,deforestation,2007
+1817,carrots and turnips,,272.0,deforestation,2008
+1818,carrots and turnips,,1140.0,deforestation,2009
+1819,carrots and turnips,,547.0,deforestation,2010
+1820,carrots and turnips,,81.0,deforestation,2011
+1821,carrots and turnips,,314.0,deforestation,2012
+1822,carrots and turnips,,5.0,deforestation,2013
+1823,carrots and turnips,,3351.0,deforestation,2014
+1824,carrots and turnips,,851.0,deforestation,2015
+1825,carrots and turnips,,12126.0,deforestation,2016
+1826,carrots and turnips,,4143.0,deforestation,2017
+1827,carrots and turnips,,620.0,deforestation,2018
+1828,carrots and turnips,,901.0,deforestation,2019
+1872,cashew,,47442.0,deforestation,2004
+1873,cashew,,41856.0,deforestation,2005
+1874,cashew,,43231.0,deforestation,2006
+1875,cashew,,51556.0,deforestation,2007
+1876,cashew,,35414.0,deforestation,2008
+1877,cashew,,48245.0,deforestation,2009
+1878,cashew,,42174.0,deforestation,2010
+1879,cashew,,26302.0,deforestation,2011
+1880,cashew,,25431.0,deforestation,2012
+1881,cashew,,20964.0,deforestation,2013
+1882,cashew,,17024.0,deforestation,2014
+1883,cashew,,12957.0,deforestation,2015
+1884,cashew,,15605.0,deforestation,2016
+1885,cashew,,11424.0,deforestation,2017
+1886,cashew,,12470.0,deforestation,2018
+1887,cashew,,17090.0,deforestation,2019
+1931,cassava,,0.0,deforestation,2004
+1932,cassava,,0.0,deforestation,2005
+1933,cassava,,0.0,deforestation,2006
+1934,cassava,,0.0,deforestation,2007
+1935,cassava,,0.0,deforestation,2008
+1936,cassava,,0.0,deforestation,2009
+1937,cassava,,0.0,deforestation,2010
+1938,cassava,,0.0,deforestation,2011
+1939,cassava,,0.0,deforestation,2012
+1940,cassava,,0.0,deforestation,2013
+1941,cassava,,0.0,deforestation,2014
+1942,cassava,,0.0,deforestation,2015
+1943,cassava,,0.0,deforestation,2016
+1944,cassava,,0.0,deforestation,2017
+1945,cassava,,0.0,deforestation,2018
+1946,cassava,,0.0,deforestation,2019
+1990,cassava dried,,383.0,deforestation,2004
+1991,cassava dried,,691.0,deforestation,2005
+1992,cassava dried,,435.0,deforestation,2006
+1993,cassava dried,,433.0,deforestation,2007
+1994,cassava dried,,962.0,deforestation,2008
+1995,cassava dried,,109.0,deforestation,2009
+1996,cassava dried,,73.0,deforestation,2010
+1997,cassava dried,,22.0,deforestation,2011
+1998,cassava dried,,15.0,deforestation,2012
+1999,cassava dried,,19.0,deforestation,2013
+2000,cassava dried,,21.0,deforestation,2014
+2001,cassava dried,,18.0,deforestation,2015
+2002,cassava dried,,24.0,deforestation,2016
+2003,cassava dried,,36.0,deforestation,2017
+2004,cassava dried,,46.0,deforestation,2018
+2005,cassava dried,,102.0,deforestation,2019
+2049,cauliflowers and broccoli,,0.0,deforestation,2004
+2050,cauliflowers and broccoli,,0.0,deforestation,2005
+2051,cauliflowers and broccoli,,0.0,deforestation,2006
+2052,cauliflowers and broccoli,,0.0,deforestation,2007
+2053,cauliflowers and broccoli,,0.0,deforestation,2008
+2054,cauliflowers and broccoli,,0.0,deforestation,2009
+2055,cauliflowers and broccoli,,0.0,deforestation,2010
+2056,cauliflowers and broccoli,,0.0,deforestation,2011
+2057,cauliflowers and broccoli,,0.0,deforestation,2012
+2058,cauliflowers and broccoli,,0.0,deforestation,2013
+2059,cauliflowers and broccoli,,0.0,deforestation,2014
+2060,cauliflowers and broccoli,,0.0,deforestation,2015
+2061,cauliflowers and broccoli,,1.0,deforestation,2016
+2062,cauliflowers and broccoli,,0.0,deforestation,2017
+2063,cauliflowers and broccoli,,40.0,deforestation,2018
+2064,cauliflowers and broccoli,,172.0,deforestation,2019
+2108,cereal,,6660439.0,deforestation,2004
+2109,cereal,,1679000.0,deforestation,2005
+2110,cereal,,5069644.0,deforestation,2006
+2111,cereal,,11715589.0,deforestation,2007
+2112,cereal,,7904302.0,deforestation,2008
+2113,cereal,,9008925.0,deforestation,2009
+2114,cereal,,12756353.0,deforestation,2010
+2115,cereal,,13352985.0,deforestation,2011
+2116,cereal,,23520895.0,deforestation,2012
+2117,cereal,,28912448.0,deforestation,2013
+2118,cereal,,22082913.0,deforestation,2014
+2119,cereal,,31912919.0,deforestation,2015
+2120,cereal,,23463711.0,deforestation,2016
+2121,cereal,,30834218.0,deforestation,2017
+2122,cereal,,25275313.0,deforestation,2018
+2123,cereal,,44620258.0,deforestation,2019
+2167,"cheese, processed",,2099.0,deforestation,2004
+2168,"cheese, processed",,2499.0,deforestation,2005
+2169,"cheese, processed",,2996.0,deforestation,2006
+2170,"cheese, processed",,3584.0,deforestation,2007
+2171,"cheese, processed",,3749.0,deforestation,2008
+2172,"cheese, processed",,3782.0,deforestation,2009
+2173,"cheese, processed",,2624.0,deforestation,2010
+2174,"cheese, processed",,1707.0,deforestation,2011
+2175,"cheese, processed",,1169.0,deforestation,2012
+2176,"cheese, processed",,1422.0,deforestation,2013
+2177,"cheese, processed",,864.0,deforestation,2014
+2178,"cheese, processed",,956.0,deforestation,2015
+2179,"cheese, processed",,1574.0,deforestation,2016
+2180,"cheese, processed",,1700.0,deforestation,2017
+2181,"cheese, processed",,1580.0,deforestation,2018
+2182,"cheese, processed",,1109.0,deforestation,2019
+2226,cherries,,0.0,deforestation,2004
+2227,cherries,,0.0,deforestation,2005
+2228,cherries,,0.0,deforestation,2006
+2229,cherries,,0.0,deforestation,2007
+2230,cherries,,1.0,deforestation,2008
+2231,cherries,,0.0,deforestation,2009
+2232,cherries,,0.0,deforestation,2010
+2233,cherries,,1.0,deforestation,2011
+2234,cherries,,0.0,deforestation,2012
+2235,cherries,,0.0,deforestation,2013
+2236,cherries,,0.0,deforestation,2014
+2237,cherries,,0.0,deforestation,2015
+2238,cherries,,0.0,deforestation,2016
+2239,cherries,,0.0,deforestation,2017
+2240,cherries,,0.0,deforestation,2018
+2241,cherries,,0.0,deforestation,2019
+2285,"cherries, sour",,0.0,deforestation,2004
+2286,"cherries, sour",,0.0,deforestation,2005
+2287,"cherries, sour",,0.0,deforestation,2006
+2288,"cherries, sour",,0.0,deforestation,2007
+2289,"cherries, sour",,0.0,deforestation,2008
+2290,"cherries, sour",,0.0,deforestation,2009
+2291,"cherries, sour",,0.0,deforestation,2010
+2292,"cherries, sour",,0.0,deforestation,2011
+2293,"cherries, sour",,0.0,deforestation,2012
+2294,"cherries, sour",,0.0,deforestation,2013
+2295,"cherries, sour",,0.0,deforestation,2014
+2296,"cherries, sour",,0.0,deforestation,2015
+2297,"cherries, sour",,0.0,deforestation,2016
+2298,"cherries, sour",,0.0,deforestation,2017
+2299,"cherries, sour",,0.0,deforestation,2018
+2300,"cherries, sour",,0.0,deforestation,2019
+2344,chestnut,,3.0,deforestation,2004
+2345,chestnut,,6.0,deforestation,2005
+2346,chestnut,,0.0,deforestation,2006
+2347,chestnut,,0.0,deforestation,2007
+2348,chestnut,,0.0,deforestation,2008
+2349,chestnut,,1.0,deforestation,2009
+2350,chestnut,,0.0,deforestation,2010
+2351,chestnut,,0.0,deforestation,2011
+2352,chestnut,,1.0,deforestation,2012
+2353,chestnut,,32.0,deforestation,2013
+2354,chestnut,,0.0,deforestation,2014
+2355,chestnut,,0.0,deforestation,2015
+2356,chestnut,,9.0,deforestation,2016
+2357,chestnut,,5.0,deforestation,2017
+2358,chestnut,,4.0,deforestation,2018
+2359,chestnut,,9.0,deforestation,2019
+2403,chicken,,5100704.0,deforestation,2004
+2404,chicken,,5963168.0,deforestation,2005
+2405,chicken,,5754734.0,deforestation,2006
+2406,chicken,,6717881.0,deforestation,2007
+2407,chicken,,7320621.0,deforestation,2008
+2408,chicken,,7252129.0,deforestation,2009
+2409,chicken,,7615777.0,deforestation,2010
+2410,chicken,,7822674.0,deforestation,2011
+2411,chicken,,7845616.0,deforestation,2012
+2412,chicken,,7763859.0,deforestation,2013
+2413,chicken,,7896397.0,deforestation,2014
+2414,chicken,,8369703.0,deforestation,2015
+2415,chicken,,8535937.0,deforestation,2016
+2416,chicken,,8411047.0,deforestation,2017
+2417,chicken,,7983845.0,deforestation,2018
+2418,chicken,,8182409.0,deforestation,2019
+2462,chocolate products nes,,54623.0,deforestation,2004
+2463,chocolate products nes,,54913.0,deforestation,2005
+2464,chocolate products nes,,44826.0,deforestation,2006
+2465,chocolate products nes,,39285.0,deforestation,2007
+2466,chocolate products nes,,37402.0,deforestation,2008
+2467,chocolate products nes,,32739.0,deforestation,2009
+2468,chocolate products nes,,31219.0,deforestation,2010
+2469,chocolate products nes,,31767.0,deforestation,2011
+2470,chocolate products nes,,30522.0,deforestation,2012
+2471,chocolate products nes,,29332.0,deforestation,2013
+2472,chocolate products nes,,28455.0,deforestation,2014
+2473,chocolate products nes,,24489.0,deforestation,2015
+2474,chocolate products nes,,26896.0,deforestation,2016
+2475,chocolate products nes,,25470.0,deforestation,2017
+2476,chocolate products nes,,28886.0,deforestation,2018
+2477,chocolate products nes,,27776.0,deforestation,2019
+2521,cider etc,,1806.0,deforestation,2004
+2522,cider etc,,2076.0,deforestation,2005
+2523,cider etc,,2870.0,deforestation,2006
+2524,cider etc,,3573.0,deforestation,2007
+2525,cider etc,,4690.0,deforestation,2008
+2526,cider etc,,3923.0,deforestation,2009
+2527,cider etc,,5055.0,deforestation,2010
+2528,cider etc,,4038.0,deforestation,2011
+2529,cider etc,,4292.0,deforestation,2012
+2530,cider etc,,4326.0,deforestation,2013
+2531,cider etc,,4473.0,deforestation,2014
+2532,cider etc,,3802.0,deforestation,2015
+2533,cider etc,,4027.0,deforestation,2016
+2534,cider etc,,4249.0,deforestation,2017
+2535,cider etc,,4288.0,deforestation,2018
+2536,cider etc,,6757.0,deforestation,2019
+2580,cigarettes,,2871.0,deforestation,2004
+2581,cigarettes,,2808.0,deforestation,2005
+2582,cigarettes,,3852.0,deforestation,2006
+2583,cigarettes,,5197.0,deforestation,2007
+2584,cigarettes,,3671.0,deforestation,2008
+2585,cigarettes,,1931.0,deforestation,2009
+2586,cigarettes,,344.0,deforestation,2010
+2587,cigarettes,,247.0,deforestation,2011
+2588,cigarettes,,161.0,deforestation,2012
+2589,cigarettes,,772.0,deforestation,2013
+2590,cigarettes,,359.0,deforestation,2014
+2591,cigarettes,,263.0,deforestation,2015
+2592,cigarettes,,228.0,deforestation,2016
+2593,cigarettes,,1662.0,deforestation,2017
+2594,cigarettes,,1821.0,deforestation,2018
+2595,cigarettes,,2168.0,deforestation,2019
+2639,"cigars, cheroots",,36.0,deforestation,2004
+2640,"cigars, cheroots",,25.0,deforestation,2005
+2641,"cigars, cheroots",,46.0,deforestation,2006
+2642,"cigars, cheroots",,47.0,deforestation,2007
+2643,"cigars, cheroots",,41.0,deforestation,2008
+2644,"cigars, cheroots",,27.0,deforestation,2009
+2645,"cigars, cheroots",,71.0,deforestation,2010
+2646,"cigars, cheroots",,130.0,deforestation,2011
+2647,"cigars, cheroots",,181.0,deforestation,2012
+2648,"cigars, cheroots",,29.0,deforestation,2013
+2649,"cigars, cheroots",,7.0,deforestation,2014
+2650,"cigars, cheroots",,7.0,deforestation,2015
+2651,"cigars, cheroots",,4.0,deforestation,2016
+2652,"cigars, cheroots",,5.0,deforestation,2017
+2653,"cigars, cheroots",,4.0,deforestation,2018
+2654,"cigars, cheroots",,5.0,deforestation,2019
+2698,cinnamon (cannella),,2256.0,deforestation,2004
+2699,cinnamon (cannella),,2321.0,deforestation,2005
+2700,cinnamon (cannella),,2850.0,deforestation,2006
+2701,cinnamon (cannella),,405.0,deforestation,2007
+2702,cinnamon (cannella),,184.0,deforestation,2008
+2703,cinnamon (cannella),,32.0,deforestation,2009
+2704,cinnamon (cannella),,14.0,deforestation,2010
+2705,cinnamon (cannella),,8.0,deforestation,2011
+2706,cinnamon (cannella),,10.0,deforestation,2012
+2707,cinnamon (cannella),,8.0,deforestation,2013
+2708,cinnamon (cannella),,5.0,deforestation,2014
+2709,cinnamon (cannella),,6.0,deforestation,2015
+2710,cinnamon (cannella),,2.0,deforestation,2016
+2711,cinnamon (cannella),,7.0,deforestation,2017
+2712,cinnamon (cannella),,2.0,deforestation,2018
+2713,cinnamon (cannella),,3.0,deforestation,2019
+2757,citrus,,3160.0,deforestation,2004
+2758,citrus,,4537.0,deforestation,2005
+2759,citrus,,10019.0,deforestation,2006
+2760,citrus,,12128.0,deforestation,2007
+2761,citrus,,14114.0,deforestation,2008
+2762,citrus,,9179.0,deforestation,2009
+2763,citrus,,8936.0,deforestation,2010
+2764,citrus,,8124.0,deforestation,2011
+2765,citrus,,4993.0,deforestation,2012
+2766,citrus,,6329.0,deforestation,2013
+2767,citrus,,13291.0,deforestation,2014
+2768,citrus,,11711.0,deforestation,2015
+2769,citrus,,12222.0,deforestation,2016
+2770,citrus,,16218.0,deforestation,2017
+2771,citrus,,11767.0,deforestation,2018
+2772,citrus,,12359.0,deforestation,2019
+2816,cloves,,6211.0,deforestation,2004
+2817,cloves,,2107.0,deforestation,2005
+2818,cloves,,3533.0,deforestation,2006
+2819,cloves,,2576.0,deforestation,2007
+2820,cloves,,5093.0,deforestation,2008
+2821,cloves,,5620.0,deforestation,2009
+2822,cloves,,2835.0,deforestation,2010
+2823,cloves,,4274.0,deforestation,2011
+2824,cloves,,140.0,deforestation,2012
+2825,cloves,,4095.0,deforestation,2013
+2826,cloves,,5619.0,deforestation,2014
+2827,cloves,,1367.0,deforestation,2015
+2828,cloves,,3868.0,deforestation,2016
+2829,cloves,,3535.0,deforestation,2017
+2830,cloves,,2940.0,deforestation,2018
+2831,cloves,,2409.0,deforestation,2019
+2875,cocoa,,79795.0,deforestation,2004
+2876,cocoa,,89775.0,deforestation,2005
+2877,cocoa,,91857.0,deforestation,2006
+2878,cocoa,,82523.0,deforestation,2007
+2879,cocoa,,66347.0,deforestation,2008
+2880,cocoa,,53616.0,deforestation,2009
+2881,cocoa,,59519.0,deforestation,2010
+2882,cocoa,,60119.0,deforestation,2011
+2883,cocoa,,53374.0,deforestation,2012
+2884,cocoa,,47893.0,deforestation,2013
+2885,cocoa,,50778.0,deforestation,2014
+2886,cocoa,,64806.0,deforestation,2015
+2887,cocoa,,60976.0,deforestation,2016
+2888,cocoa,,60655.0,deforestation,2017
+2889,cocoa,,50048.0,deforestation,2018
+2890,cocoa,,51231.0,deforestation,2019
+2934,coconuts,,878.0,deforestation,2004
+2935,coconuts,,1118.0,deforestation,2005
+2936,coconuts,,448.0,deforestation,2006
+2937,coconuts,,534.0,deforestation,2007
+2938,coconuts,,654.0,deforestation,2008
+2939,coconuts,,808.0,deforestation,2009
+2940,coconuts,,474.0,deforestation,2010
+2941,coconuts,,1038.0,deforestation,2011
+2942,coconuts,,1207.0,deforestation,2012
+2943,coconuts,,1342.0,deforestation,2013
+2944,coconuts,,1028.0,deforestation,2014
+2945,coconuts,,1177.0,deforestation,2015
+2946,coconuts,,1130.0,deforestation,2016
+2947,coconuts,,1485.0,deforestation,2017
+2948,coconuts,,1148.0,deforestation,2018
+2949,coconuts,,975.0,deforestation,2019
+2993,"cocoons, unreelable & waste",,356.0,deforestation,2004
+2994,"cocoons, unreelable & waste",,348.0,deforestation,2005
+2995,"cocoons, unreelable & waste",,240.0,deforestation,2006
+2996,"cocoons, unreelable & waste",,195.0,deforestation,2007
+2997,"cocoons, unreelable & waste",,126.0,deforestation,2008
+2998,"cocoons, unreelable & waste",,86.0,deforestation,2009
+2999,"cocoons, unreelable & waste",,129.0,deforestation,2010
+3000,"cocoons, unreelable & waste",,96.0,deforestation,2011
+3001,"cocoons, unreelable & waste",,54.0,deforestation,2012
+3002,"cocoons, unreelable & waste",,82.0,deforestation,2013
+3003,"cocoons, unreelable & waste",,63.0,deforestation,2014
+3004,"cocoons, unreelable & waste",,79.0,deforestation,2015
+3005,"cocoons, unreelable & waste",,119.0,deforestation,2016
+3006,"cocoons, unreelable & waste",,110.0,deforestation,2017
+3007,"cocoons, unreelable & waste",,101.0,deforestation,2018
+3008,"cocoons, unreelable & waste",,128.0,deforestation,2019
+3052,coffee,,1493847.0,deforestation,2004
+3053,coffee,,1444273.0,deforestation,2005
+3054,coffee,,1556762.0,deforestation,2006
+3055,coffee,,1574231.0,deforestation,2007
+3056,coffee,,1653960.0,deforestation,2008
+3057,coffee,,1715209.0,deforestation,2009
+3058,coffee,,1877210.0,deforestation,2010
+3059,coffee,,1879870.0,deforestation,2011
+3060,coffee,,1589703.0,deforestation,2012
+3061,coffee,,1785419.0,deforestation,2013
+3062,coffee,,2071063.0,deforestation,2014
+3063,coffee,,2091394.0,deforestation,2015
+3064,coffee,,1918276.0,deforestation,2016
+3065,coffee,,1737369.0,deforestation,2017
+3066,coffee,,1917865.0,deforestation,2018
+3067,coffee,,2332165.0,deforestation,2019
+3111,coir,,149.0,deforestation,2004
+3112,coir,,174.0,deforestation,2005
+3113,coir,,101.0,deforestation,2006
+3114,coir,,11.0,deforestation,2007
+3115,coir,,0.0,deforestation,2008
+3116,coir,,0.0,deforestation,2009
+3117,coir,,0.0,deforestation,2010
+3118,coir,,0.0,deforestation,2011
+3119,coir,,0.0,deforestation,2012
+3120,coir,,1.0,deforestation,2013
+3121,coir,,0.0,deforestation,2014
+3122,coir,,0.0,deforestation,2015
+3123,coir,,0.0,deforestation,2016
+3124,coir,,0.0,deforestation,2017
+3125,coir,,0.0,deforestation,2018
+3126,coir,,0.0,deforestation,2019
+3170,copra,,0.0,deforestation,2004
+3171,copra,,0.0,deforestation,2005
+3172,copra,,0.0,deforestation,2006
+3173,copra,,0.0,deforestation,2007
+3174,copra,,0.0,deforestation,2008
+3175,copra,,0.0,deforestation,2009
+3176,copra,,0.0,deforestation,2010
+3177,copra,,0.0,deforestation,2011
+3178,copra,,0.0,deforestation,2012
+3179,copra,,3.0,deforestation,2013
+3180,copra,,0.0,deforestation,2014
+3181,copra,,0.0,deforestation,2015
+3182,copra,,0.0,deforestation,2016
+3183,copra,,0.0,deforestation,2017
+3184,copra,,0.0,deforestation,2018
+3185,copra,,0.0,deforestation,2019
+3229,cotton,,454692.0,deforestation,2004
+3230,cotton,,428408.0,deforestation,2005
+3231,cotton,,342182.0,deforestation,2006
+3232,cotton,,445413.0,deforestation,2007
+3233,cotton,,573334.0,deforestation,2008
+3234,cotton,,616633.0,deforestation,2009
+3235,cotton,,534070.0,deforestation,2010
+3236,cotton,,812673.0,deforestation,2011
+3237,cotton,,1080642.0,deforestation,2012
+3238,cotton,,584476.0,deforestation,2013
+3239,cotton,,839323.0,deforestation,2014
+3240,cotton,,938816.0,deforestation,2015
+3241,cotton,,926944.0,deforestation,2016
+3242,cotton,,873764.0,deforestation,2017
+3243,cotton,,961469.0,deforestation,2018
+3244,cotton,,1691210.0,deforestation,2019
+3288,cream fresh,,2972.0,deforestation,2004
+3289,cream fresh,,1532.0,deforestation,2005
+3290,cream fresh,,4950.0,deforestation,2006
+3291,cream fresh,,6118.0,deforestation,2007
+3292,cream fresh,,5827.0,deforestation,2008
+3293,cream fresh,,5513.0,deforestation,2009
+3294,cream fresh,,8767.0,deforestation,2010
+3295,cream fresh,,5572.0,deforestation,2011
+3296,cream fresh,,7344.0,deforestation,2012
+3297,cream fresh,,6642.0,deforestation,2013
+3298,cream fresh,,6877.0,deforestation,2014
+3299,cream fresh,,6390.0,deforestation,2015
+3300,cream fresh,,6584.0,deforestation,2016
+3301,cream fresh,,7129.0,deforestation,2017
+3302,cream fresh,,5968.0,deforestation,2018
+3303,cream fresh,,6341.0,deforestation,2019
+3347,crude materials,,0.0,deforestation,2004
+3348,crude materials,,0.0,deforestation,2005
+3349,crude materials,,0.0,deforestation,2006
+3350,crude materials,,0.0,deforestation,2007
+3351,crude materials,,0.0,deforestation,2008
+3352,crude materials,,0.0,deforestation,2009
+3353,crude materials,,0.0,deforestation,2010
+3354,crude materials,,0.0,deforestation,2011
+3355,crude materials,,0.0,deforestation,2012
+3356,crude materials,,0.0,deforestation,2013
+3357,crude materials,,0.0,deforestation,2014
+3358,crude materials,,0.0,deforestation,2015
+3359,crude materials,,0.0,deforestation,2016
+3360,crude materials,,0.0,deforestation,2017
+3361,crude materials,,0.0,deforestation,2018
+3362,crude materials,,0.0,deforestation,2019
+3406,crude materials nes,,1806.0,deforestation,2004
+3407,crude materials nes,,3259.0,deforestation,2005
+3408,crude materials nes,,7241.0,deforestation,2006
+3409,crude materials nes,,14207.0,deforestation,2007
+3410,crude materials nes,,17075.0,deforestation,2008
+3411,crude materials nes,,10223.0,deforestation,2009
+3412,crude materials nes,,8332.0,deforestation,2010
+3413,crude materials nes,,2367.0,deforestation,2011
+3414,crude materials nes,,4374.0,deforestation,2012
+3415,crude materials nes,,6174.0,deforestation,2013
+3416,crude materials nes,,4016.0,deforestation,2014
+3417,crude materials nes,,1548.0,deforestation,2015
+3418,crude materials nes,,876.0,deforestation,2016
+3419,crude materials nes,,667.0,deforestation,2017
+3420,crude materials nes,,593.0,deforestation,2018
+3421,crude materials nes,,655.0,deforestation,2019
+3465,cucumbers and gherkins,,0.0,deforestation,2004
+3466,cucumbers and gherkins,,0.0,deforestation,2005
+3467,cucumbers and gherkins,,0.0,deforestation,2006
+3468,cucumbers and gherkins,,0.0,deforestation,2007
+3469,cucumbers and gherkins,,0.0,deforestation,2008
+3470,cucumbers and gherkins,,0.0,deforestation,2009
+3471,cucumbers and gherkins,,1.0,deforestation,2010
+3472,cucumbers and gherkins,,0.0,deforestation,2011
+3473,cucumbers and gherkins,,0.0,deforestation,2012
+3474,cucumbers and gherkins,,0.0,deforestation,2013
+3475,cucumbers and gherkins,,2.0,deforestation,2014
+3476,cucumbers and gherkins,,1.0,deforestation,2015
+3477,cucumbers and gherkins,,0.0,deforestation,2016
+3478,cucumbers and gherkins,,1.0,deforestation,2017
+3479,cucumbers and gherkins,,35.0,deforestation,2018
+3480,cucumbers and gherkins,,151.0,deforestation,2019
+3524,currants,,0.0,deforestation,2004
+3525,currants,,0.0,deforestation,2005
+3526,currants,,0.0,deforestation,2006
+3527,currants,,0.0,deforestation,2007
+3528,currants,,0.0,deforestation,2008
+3529,currants,,0.0,deforestation,2009
+3530,currants,,0.0,deforestation,2010
+3531,currants,,0.0,deforestation,2011
+3532,currants,,0.0,deforestation,2012
+3533,currants,,0.0,deforestation,2013
+3534,currants,,0.0,deforestation,2014
+3535,currants,,0.0,deforestation,2015
+3536,currants,,0.0,deforestation,2016
+3537,currants,,0.0,deforestation,2017
+3538,currants,,0.0,deforestation,2018
+3539,currants,,0.0,deforestation,2019
+3583,dairy products,,68242.0,deforestation,2004
+3584,dairy products,,78367.0,deforestation,2005
+3585,dairy products,,89050.0,deforestation,2006
+3586,dairy products,,96579.0,deforestation,2007
+3587,dairy products,,142348.0,deforestation,2008
+3588,dairy products,,64420.0,deforestation,2009
+3589,dairy products,,53217.0,deforestation,2010
+3590,dairy products,,37551.0,deforestation,2011
+3591,dairy products,,38806.0,deforestation,2012
+3592,dairy products,,38406.0,deforestation,2013
+3593,dairy products,,83666.0,deforestation,2014
+3594,dairy products,,73609.0,deforestation,2015
+3595,dairy products,,51649.0,deforestation,2016
+3596,dairy products,,36043.0,deforestation,2017
+3597,dairy products,,22241.0,deforestation,2018
+3598,dairy products,,23780.0,deforestation,2019
+3642,dates,,1.0,deforestation,2004
+3643,dates,,0.0,deforestation,2005
+3644,dates,,0.0,deforestation,2006
+3645,dates,,3.0,deforestation,2007
+3646,dates,,0.0,deforestation,2008
+3647,dates,,0.0,deforestation,2009
+3648,dates,,0.0,deforestation,2010
+3649,dates,,0.0,deforestation,2011
+3650,dates,,0.0,deforestation,2012
+3651,dates,,0.0,deforestation,2013
+3652,dates,,0.0,deforestation,2014
+3653,dates,,0.0,deforestation,2015
+3654,dates,,0.0,deforestation,2016
+3655,dates,,0.0,deforestation,2017
+3656,dates,,4.0,deforestation,2018
+3657,dates,,30.0,deforestation,2019
+3701,"dregs from brewing, distillation",,0.0,deforestation,2004
+3702,"dregs from brewing, distillation",,0.0,deforestation,2005
+3703,"dregs from brewing, distillation",,0.0,deforestation,2006
+3704,"dregs from brewing, distillation",,0.0,deforestation,2007
+3705,"dregs from brewing, distillation",,0.0,deforestation,2008
+3706,"dregs from brewing, distillation",,0.0,deforestation,2009
+3707,"dregs from brewing, distillation",,0.0,deforestation,2010
+3708,"dregs from brewing, distillation",,73.0,deforestation,2011
+3709,"dregs from brewing, distillation",,0.0,deforestation,2012
+3710,"dregs from brewing, distillation",,0.0,deforestation,2013
+3711,"dregs from brewing, distillation",,0.0,deforestation,2014
+3712,"dregs from brewing, distillation",,0.0,deforestation,2015
+3713,"dregs from brewing, distillation",,0.0,deforestation,2016
+3714,"dregs from brewing, distillation",,0.0,deforestation,2017
+3715,"dregs from brewing, distillation",,0.0,deforestation,2018
+3716,"dregs from brewing, distillation",,0.0,deforestation,2019
+3760,eggplants (aubergines),,0.0,deforestation,2004
+3761,eggplants (aubergines),,0.0,deforestation,2005
+3762,eggplants (aubergines),,0.0,deforestation,2006
+3763,eggplants (aubergines),,104.0,deforestation,2007
+3764,eggplants (aubergines),,0.0,deforestation,2008
+3765,eggplants (aubergines),,2.0,deforestation,2009
+3766,eggplants (aubergines),,148.0,deforestation,2010
+3767,eggplants (aubergines),,0.0,deforestation,2011
+3768,eggplants (aubergines),,0.0,deforestation,2012
+3769,eggplants (aubergines),,0.0,deforestation,2013
+3770,eggplants (aubergines),,0.0,deforestation,2014
+3771,eggplants (aubergines),,0.0,deforestation,2015
+3772,eggplants (aubergines),,19.0,deforestation,2016
+3773,eggplants (aubergines),,0.0,deforestation,2017
+3774,eggplants (aubergines),,30.0,deforestation,2018
+3775,eggplants (aubergines),,231.0,deforestation,2019
+3819,eggs,,21382.0,deforestation,2004
+3820,eggs,,39406.0,deforestation,2005
+3821,eggs,,38194.0,deforestation,2006
+3822,eggs,,53088.0,deforestation,2007
+3823,eggs,,90488.0,deforestation,2008
+3824,eggs,,93068.0,deforestation,2009
+3825,eggs,,82052.0,deforestation,2010
+3826,eggs,,60408.0,deforestation,2011
+3827,eggs,,73090.0,deforestation,2012
+3828,eggs,,39224.0,deforestation,2013
+3829,eggs,,47878.0,deforestation,2014
+3830,eggs,,57298.0,deforestation,2015
+3831,eggs,,39462.0,deforestation,2016
+3832,eggs,,33748.0,deforestation,2017
+3833,eggs,,51676.0,deforestation,2018
+3834,eggs,,42362.0,deforestation,2019
+3878,"fat nes, prepared",,1710.0,deforestation,2004
+3879,"fat nes, prepared",,2229.0,deforestation,2005
+3880,"fat nes, prepared",,2059.0,deforestation,2006
+3881,"fat nes, prepared",,1272.0,deforestation,2007
+3882,"fat nes, prepared",,918.0,deforestation,2008
+3883,"fat nes, prepared",,380.0,deforestation,2009
+3884,"fat nes, prepared",,690.0,deforestation,2010
+3885,"fat nes, prepared",,979.0,deforestation,2011
+3886,"fat nes, prepared",,833.0,deforestation,2012
+3887,"fat nes, prepared",,946.0,deforestation,2013
+3888,"fat nes, prepared",,2347.0,deforestation,2014
+3889,"fat nes, prepared",,2770.0,deforestation,2015
+3890,"fat nes, prepared",,4030.0,deforestation,2016
+3891,"fat nes, prepared",,2923.0,deforestation,2017
+3892,"fat nes, prepared",,3679.0,deforestation,2018
+3893,"fat nes, prepared",,3579.0,deforestation,2019
+3937,"fat, liver prepared (foie gras)",,0.0,deforestation,2004
+3938,"fat, liver prepared (foie gras)",,0.0,deforestation,2005
+3939,"fat, liver prepared (foie gras)",,0.0,deforestation,2006
+3940,"fat, liver prepared (foie gras)",,0.0,deforestation,2007
+3941,"fat, liver prepared (foie gras)",,0.0,deforestation,2008
+3942,"fat, liver prepared (foie gras)",,0.0,deforestation,2009
+3943,"fat, liver prepared (foie gras)",,0.0,deforestation,2010
+3944,"fat, liver prepared (foie gras)",,0.0,deforestation,2011
+3945,"fat, liver prepared (foie gras)",,0.0,deforestation,2012
+3946,"fat, liver prepared (foie gras)",,0.0,deforestation,2013
+3947,"fat, liver prepared (foie gras)",,0.0,deforestation,2014
+3948,"fat, liver prepared (foie gras)",,0.0,deforestation,2015
+3949,"fat, liver prepared (foie gras)",,0.0,deforestation,2016
+3950,"fat, liver prepared (foie gras)",,0.0,deforestation,2017
+3951,"fat, liver prepared (foie gras)",,0.0,deforestation,2018
+3952,"fat, liver prepared (foie gras)",,0.0,deforestation,2019
+3996,fatty acids,,28724.0,deforestation,2004
+3997,fatty acids,,22374.0,deforestation,2005
+3998,fatty acids,,33275.0,deforestation,2006
+3999,fatty acids,,33411.0,deforestation,2007
+4000,fatty acids,,28834.0,deforestation,2008
+4001,fatty acids,,27728.0,deforestation,2009
+4002,fatty acids,,44060.0,deforestation,2010
+4003,fatty acids,,57573.0,deforestation,2011
+4004,fatty acids,,34530.0,deforestation,2012
+4005,fatty acids,,36676.0,deforestation,2013
+4006,fatty acids,,27011.0,deforestation,2014
+4007,fatty acids,,31969.0,deforestation,2015
+4008,fatty acids,,19074.0,deforestation,2016
+4009,fatty acids,,13843.0,deforestation,2017
+4010,fatty acids,,10942.0,deforestation,2018
+4011,fatty acids,,11736.0,deforestation,2019
+4055,fatty substance residues,,1360.0,deforestation,2004
+4056,fatty substance residues,,1205.0,deforestation,2005
+4057,fatty substance residues,,1613.0,deforestation,2006
+4058,fatty substance residues,,644.0,deforestation,2007
+4059,fatty substance residues,,392.0,deforestation,2008
+4060,fatty substance residues,,940.0,deforestation,2009
+4061,fatty substance residues,,933.0,deforestation,2010
+4062,fatty substance residues,,1053.0,deforestation,2011
+4063,fatty substance residues,,1160.0,deforestation,2012
+4064,fatty substance residues,,1453.0,deforestation,2013
+4065,fatty substance residues,,151.0,deforestation,2014
+4066,fatty substance residues,,604.0,deforestation,2015
+4067,fatty substance residues,,907.0,deforestation,2016
+4068,fatty substance residues,,1701.0,deforestation,2017
+4069,fatty substance residues,,1482.0,deforestation,2018
+4070,fatty substance residues,,790.0,deforestation,2019
+4114,"feed and meal, gluten",,0.0,deforestation,2004
+4115,"feed and meal, gluten",,0.0,deforestation,2005
+4116,"feed and meal, gluten",,0.0,deforestation,2006
+4117,"feed and meal, gluten",,0.0,deforestation,2007
+4118,"feed and meal, gluten",,0.0,deforestation,2008
+4119,"feed and meal, gluten",,0.0,deforestation,2009
+4120,"feed and meal, gluten",,0.0,deforestation,2010
+4121,"feed and meal, gluten",,0.0,deforestation,2011
+4122,"feed and meal, gluten",,0.0,deforestation,2012
+4123,"feed and meal, gluten",,0.0,deforestation,2013
+4124,"feed and meal, gluten",,54.0,deforestation,2014
+4125,"feed and meal, gluten",,0.0,deforestation,2015
+4126,"feed and meal, gluten",,1.0,deforestation,2016
+4127,"feed and meal, gluten",,14.0,deforestation,2017
+4128,"feed and meal, gluten",,11.0,deforestation,2018
+4129,"feed and meal, gluten",,793.0,deforestation,2019
+4173,"feed, pulp of fruit",,889375.0,deforestation,2004
+4174,"feed, pulp of fruit",,792959.0,deforestation,2005
+4175,"feed, pulp of fruit",,801732.0,deforestation,2006
+4176,"feed, pulp of fruit",,799712.0,deforestation,2007
+4177,"feed, pulp of fruit",,515021.0,deforestation,2008
+4178,"feed, pulp of fruit",,721781.0,deforestation,2009
+4179,"feed, pulp of fruit",,663213.0,deforestation,2010
+4180,"feed, pulp of fruit",,350812.0,deforestation,2011
+4181,"feed, pulp of fruit",,341110.0,deforestation,2012
+4182,"feed, pulp of fruit",,280954.0,deforestation,2013
+4183,"feed, pulp of fruit",,147749.0,deforestation,2014
+4184,"feed, pulp of fruit",,218762.0,deforestation,2015
+4185,"feed, pulp of fruit",,105641.0,deforestation,2016
+4186,"feed, pulp of fruit",,188668.0,deforestation,2017
+4187,"feed, pulp of fruit",,206154.0,deforestation,2018
+4188,"feed, pulp of fruit",,195978.0,deforestation,2019
+4232,"feed, vegetable products nes",,0.0,deforestation,2004
+4233,"feed, vegetable products nes",,0.0,deforestation,2005
+4234,"feed, vegetable products nes",,0.0,deforestation,2006
+4235,"feed, vegetable products nes",,0.0,deforestation,2007
+4236,"feed, vegetable products nes",,0.0,deforestation,2008
+4237,"feed, vegetable products nes",,0.0,deforestation,2009
+4238,"feed, vegetable products nes",,0.0,deforestation,2010
+4239,"feed, vegetable products nes",,0.0,deforestation,2011
+4240,"feed, vegetable products nes",,0.0,deforestation,2012
+4241,"feed, vegetable products nes",,0.0,deforestation,2013
+4242,"feed, vegetable products nes",,0.0,deforestation,2014
+4243,"feed, vegetable products nes",,0.0,deforestation,2015
+4244,"feed, vegetable products nes",,0.0,deforestation,2016
+4245,"feed, vegetable products nes",,0.0,deforestation,2017
+4246,"feed, vegetable products nes",,0.0,deforestation,2018
+4247,"feed, vegetable products nes",,0.0,deforestation,2019
+4291,fibre crops nes,,0.0,deforestation,2004
+4292,fibre crops nes,,0.0,deforestation,2005
+4293,fibre crops nes,,0.0,deforestation,2006
+4294,fibre crops nes,,236.0,deforestation,2007
+4295,fibre crops nes,,16412.0,deforestation,2008
+4296,fibre crops nes,,20981.0,deforestation,2009
+4297,fibre crops nes,,30475.0,deforestation,2010
+4298,fibre crops nes,,39100.0,deforestation,2011
+4299,fibre crops nes,,36133.0,deforestation,2012
+4300,fibre crops nes,,29707.0,deforestation,2013
+4301,fibre crops nes,,40640.0,deforestation,2014
+4302,fibre crops nes,,34259.0,deforestation,2015
+4303,fibre crops nes,,34321.0,deforestation,2016
+4304,fibre crops nes,,23294.0,deforestation,2017
+4305,fibre crops nes,,29622.0,deforestation,2018
+4306,fibre crops nes,,36150.0,deforestation,2019
+4350,figs,,910.0,deforestation,2004
+4351,figs,,837.0,deforestation,2005
+4352,figs,,875.0,deforestation,2006
+4353,figs,,1601.0,deforestation,2007
+4354,figs,,1645.0,deforestation,2008
+4355,figs,,1669.0,deforestation,2009
+4356,figs,,817.0,deforestation,2010
+4357,figs,,1456.0,deforestation,2011
+4358,figs,,1635.0,deforestation,2012
+4359,figs,,1369.0,deforestation,2013
+4360,figs,,1348.0,deforestation,2014
+4361,figs,,1365.0,deforestation,2015
+4362,figs,,1191.0,deforestation,2016
+4363,figs,,1313.0,deforestation,2017
+4364,figs,,1394.0,deforestation,2018
+4365,figs,,1386.0,deforestation,2019
+4409,flax,,85.0,deforestation,2004
+4410,flax,,93.0,deforestation,2005
+4411,flax,,147.0,deforestation,2006
+4412,flax,,176.0,deforestation,2007
+4413,flax,,118.0,deforestation,2008
+4414,flax,,60.0,deforestation,2009
+4415,flax,,36.0,deforestation,2010
+4416,flax,,266.0,deforestation,2011
+4417,flax,,96.0,deforestation,2012
+4418,flax,,73.0,deforestation,2013
+4419,flax,,25.0,deforestation,2014
+4420,flax,,29.0,deforestation,2015
+4421,flax,,78.0,deforestation,2016
+4422,flax,,17.0,deforestation,2017
+4423,flax,,11.0,deforestation,2018
+4424,flax,,11.0,deforestation,2019
+4468,flour,,43289.0,deforestation,2004
+4469,flour,,68164.0,deforestation,2005
+4470,flour,,72311.0,deforestation,2006
+4471,flour,,96055.0,deforestation,2007
+4472,flour,,132487.0,deforestation,2008
+4473,flour,,118561.0,deforestation,2009
+4474,flour,,89615.0,deforestation,2010
+4475,flour,,108805.0,deforestation,2011
+4476,flour,,94942.0,deforestation,2012
+4477,flour,,114693.0,deforestation,2013
+4478,flour,,152857.0,deforestation,2014
+4479,flour,,135761.0,deforestation,2015
+4480,flour,,123860.0,deforestation,2016
+4481,flour,,233223.0,deforestation,2017
+4482,flour,,153206.0,deforestation,2018
+4483,flour,,151603.0,deforestation,2019
+4527,fodder and feeding stuff,,15576814.0,deforestation,2004
+4528,fodder and feeding stuff,,15373975.0,deforestation,2005
+4529,fodder and feeding stuff,,13337835.0,deforestation,2006
+4530,fodder and feeding stuff,,13478043.0,deforestation,2007
+4531,fodder and feeding stuff,,13132059.0,deforestation,2008
+4532,fodder and feeding stuff,,13334404.0,deforestation,2009
+4533,fodder and feeding stuff,,14683677.0,deforestation,2010
+4534,fodder and feeding stuff,,14909516.0,deforestation,2011
+4535,fodder and feeding stuff,,14885277.0,deforestation,2012
+4536,fodder and feeding stuff,,13907686.0,deforestation,2013
+4537,fodder and feeding stuff,,14162365.0,deforestation,2014
+4538,fodder and feeding stuff,,15342275.0,deforestation,2015
+4539,fodder and feeding stuff,,14880793.0,deforestation,2016
+4540,fodder and feeding stuff,,14797224.0,deforestation,2017
+4541,fodder and feeding stuff,,17548763.0,deforestation,2018
+4542,fodder and feeding stuff,,17342369.0,deforestation,2019
+4586,food prep nes,,103044.0,deforestation,2004
+4587,food prep nes,,109489.0,deforestation,2005
+4588,food prep nes,,207812.0,deforestation,2006
+4589,food prep nes,,312746.0,deforestation,2007
+4590,food prep nes,,281988.0,deforestation,2008
+4591,food prep nes,,239477.0,deforestation,2009
+4592,food prep nes,,409262.0,deforestation,2010
+4593,food prep nes,,141234.0,deforestation,2011
+4594,food prep nes,,149134.0,deforestation,2012
+4595,food prep nes,,165806.0,deforestation,2013
+4596,food prep nes,,117786.0,deforestation,2014
+4597,food prep nes,,127907.0,deforestation,2015
+4598,food prep nes,,138200.0,deforestation,2016
+4599,food prep nes,,133680.0,deforestation,2017
+4600,food prep nes,,143797.0,deforestation,2018
+4601,food prep nes,,154890.0,deforestation,2019
+4645,food wastes,,57278.0,deforestation,2004
+4646,food wastes,,55304.0,deforestation,2005
+4647,food wastes,,69339.0,deforestation,2006
+4648,food wastes,,100211.0,deforestation,2007
+4649,food wastes,,105257.0,deforestation,2008
+4650,food wastes,,78575.0,deforestation,2009
+4651,food wastes,,120915.0,deforestation,2010
+4652,food wastes,,128290.0,deforestation,2011
+4653,food wastes,,137884.0,deforestation,2012
+4654,food wastes,,170124.0,deforestation,2013
+4655,food wastes,,176418.0,deforestation,2014
+4656,food wastes,,149089.0,deforestation,2015
+4657,food wastes,,164500.0,deforestation,2016
+4658,food wastes,,229247.0,deforestation,2017
+4659,food wastes,,241746.0,deforestation,2018
+4660,food wastes,,237370.0,deforestation,2019
+4704,forage products,,5.0,deforestation,2004
+4705,forage products,,2.0,deforestation,2005
+4706,forage products,,0.0,deforestation,2006
+4707,forage products,,28.0,deforestation,2007
+4708,forage products,,166.0,deforestation,2008
+4709,forage products,,10.0,deforestation,2009
+4710,forage products,,17.0,deforestation,2010
+4711,forage products,,3.0,deforestation,2011
+4712,forage products,,81.0,deforestation,2012
+4713,forage products,,0.0,deforestation,2013
+4714,forage products,,19.0,deforestation,2014
+4715,forage products,,0.0,deforestation,2015
+4716,forage products,,145.0,deforestation,2016
+4717,forage products,,66.0,deforestation,2017
+4718,forage products,,230.0,deforestation,2018
+4719,forage products,,174.0,deforestation,2019
+4763,"fructose and syrup, other",,12.0,deforestation,2004
+4764,"fructose and syrup, other",,23.0,deforestation,2005
+4765,"fructose and syrup, other",,133.0,deforestation,2006
+4766,"fructose and syrup, other",,5.0,deforestation,2007
+4767,"fructose and syrup, other",,14.0,deforestation,2008
+4768,"fructose and syrup, other",,14.0,deforestation,2009
+4769,"fructose and syrup, other",,18.0,deforestation,2010
+4770,"fructose and syrup, other",,5.0,deforestation,2011
+4771,"fructose and syrup, other",,8.0,deforestation,2012
+4772,"fructose and syrup, other",,0.0,deforestation,2013
+4773,"fructose and syrup, other",,0.0,deforestation,2014
+4774,"fructose and syrup, other",,4.0,deforestation,2015
+4775,"fructose and syrup, other",,0.0,deforestation,2016
+4776,"fructose and syrup, other",,0.0,deforestation,2017
+4777,"fructose and syrup, other",,0.0,deforestation,2018
+4778,"fructose and syrup, other",,0.0,deforestation,2019
+4822,fruit,,2602614.0,deforestation,2004
+4823,fruit,,2777227.0,deforestation,2005
+4824,fruit,,2757435.0,deforestation,2006
+4825,fruit,,3204742.0,deforestation,2007
+4826,fruit,,3168995.0,deforestation,2008
+4827,fruit,,3021242.0,deforestation,2009
+4828,fruit,,2879161.0,deforestation,2010
+4829,fruit,,2836244.0,deforestation,2011
+4830,fruit,,2745224.0,deforestation,2012
+4831,fruit,,2975113.0,deforestation,2013
+4832,fruit,,2759006.0,deforestation,2014
+4833,fruit,,2970050.0,deforestation,2015
+4834,fruit,,3255105.0,deforestation,2016
+4835,fruit,,3169894.0,deforestation,2017
+4836,fruit,,3481472.0,deforestation,2018
+4837,fruit,,3372456.0,deforestation,2019
+4881,garlic,,46.0,deforestation,2004
+4882,garlic,,832.0,deforestation,2005
+4883,garlic,,739.0,deforestation,2006
+4884,garlic,,666.0,deforestation,2007
+4885,garlic,,477.0,deforestation,2008
+4886,garlic,,67.0,deforestation,2009
+4887,garlic,,0.0,deforestation,2010
+4888,garlic,,218.0,deforestation,2011
+4889,garlic,,1.0,deforestation,2012
+4890,garlic,,1.0,deforestation,2013
+4891,garlic,,2.0,deforestation,2014
+4892,garlic,,1.0,deforestation,2015
+4893,garlic,,1.0,deforestation,2016
+4894,garlic,,9.0,deforestation,2017
+4895,garlic,,30.0,deforestation,2018
+4896,garlic,,57.0,deforestation,2019
+4940,"germ, maize",,19.0,deforestation,2004
+4941,"germ, maize",,56.0,deforestation,2005
+4942,"germ, maize",,4.0,deforestation,2006
+4943,"germ, maize",,17.0,deforestation,2007
+4944,"germ, maize",,3.0,deforestation,2008
+4945,"germ, maize",,1.0,deforestation,2009
+4946,"germ, maize",,15.0,deforestation,2010
+4947,"germ, maize",,22.0,deforestation,2011
+4948,"germ, maize",,23.0,deforestation,2012
+4949,"germ, maize",,35.0,deforestation,2013
+4950,"germ, maize",,17.0,deforestation,2014
+4951,"germ, maize",,8.0,deforestation,2015
+4952,"germ, maize",,10.0,deforestation,2016
+4953,"germ, maize",,0.0,deforestation,2017
+4954,"germ, maize",,1.0,deforestation,2018
+4955,"germ, maize",,6.0,deforestation,2019
+4999,ginger,,6002.0,deforestation,2004
+5000,ginger,,9106.0,deforestation,2005
+5001,ginger,,7070.0,deforestation,2006
+5002,ginger,,7290.0,deforestation,2007
+5003,ginger,,3865.0,deforestation,2008
+5004,ginger,,3952.0,deforestation,2009
+5005,ginger,,6212.0,deforestation,2010
+5006,ginger,,6668.0,deforestation,2011
+5007,ginger,,4480.0,deforestation,2012
+5008,ginger,,5220.0,deforestation,2013
+5009,ginger,,3692.0,deforestation,2014
+5010,ginger,,7588.0,deforestation,2015
+5011,ginger,,8847.0,deforestation,2016
+5012,ginger,,5639.0,deforestation,2017
+5013,ginger,,15326.0,deforestation,2018
+5014,ginger,,22095.0,deforestation,2019
+5058,glucose and dextrose,,9387.0,deforestation,2004
+5059,glucose and dextrose,,10007.0,deforestation,2005
+5060,glucose and dextrose,,6390.0,deforestation,2006
+5061,glucose and dextrose,,4569.0,deforestation,2007
+5062,glucose and dextrose,,3869.0,deforestation,2008
+5063,glucose and dextrose,,4585.0,deforestation,2009
+5064,glucose and dextrose,,3351.0,deforestation,2010
+5065,glucose and dextrose,,4533.0,deforestation,2011
+5066,glucose and dextrose,,2936.0,deforestation,2012
+5067,glucose and dextrose,,4156.0,deforestation,2013
+5068,glucose and dextrose,,5134.0,deforestation,2014
+5069,glucose and dextrose,,8128.0,deforestation,2015
+5070,glucose and dextrose,,9188.0,deforestation,2016
+5071,glucose and dextrose,,12963.0,deforestation,2017
+5072,glucose and dextrose,,15445.0,deforestation,2018
+5073,glucose and dextrose,,21255.0,deforestation,2019
+5117,grape,,36481.0,deforestation,2004
+5118,grape,,58924.0,deforestation,2005
+5119,grape,,67749.0,deforestation,2006
+5120,grape,,85703.0,deforestation,2007
+5121,grape,,88790.0,deforestation,2008
+5122,grape,,60420.0,deforestation,2009
+5123,grape,,63896.0,deforestation,2010
+5124,grape,,63843.0,deforestation,2011
+5125,grape,,54489.0,deforestation,2012
+5126,grape,,47393.0,deforestation,2013
+5127,grape,,33301.0,deforestation,2014
+5128,grape,,36995.0,deforestation,2015
+5129,grape,,33622.0,deforestation,2016
+5130,grape,,46766.0,deforestation,2017
+5131,grape,,41116.0,deforestation,2018
+5132,grape,,47477.0,deforestation,2019
+5176,grapefruit,,287.0,deforestation,2004
+5177,grapefruit,,372.0,deforestation,2005
+5178,grapefruit,,321.0,deforestation,2006
+5179,grapefruit,,196.0,deforestation,2007
+5180,grapefruit,,0.0,deforestation,2008
+5181,grapefruit,,591.0,deforestation,2009
+5182,grapefruit,,370.0,deforestation,2010
+5183,grapefruit,,258.0,deforestation,2011
+5184,grapefruit,,286.0,deforestation,2012
+5185,grapefruit,,3.0,deforestation,2013
+5186,grapefruit,,0.0,deforestation,2014
+5187,grapefruit,,0.0,deforestation,2015
+5188,grapefruit,,0.0,deforestation,2016
+5189,grapefruit,,0.0,deforestation,2017
+5190,grapefruit,,20.0,deforestation,2018
+5191,grapefruit,,10.0,deforestation,2019
+5235,groundnuts,,37706.0,deforestation,2004
+5236,groundnuts,,58699.0,deforestation,2005
+5237,groundnuts,,51220.0,deforestation,2006
+5238,groundnuts,,34242.0,deforestation,2007
+5239,groundnuts,,46225.0,deforestation,2008
+5240,groundnuts,,54934.0,deforestation,2009
+5241,groundnuts,,53556.0,deforestation,2010
+5242,groundnuts,,55162.0,deforestation,2011
+5243,groundnuts,,66169.0,deforestation,2012
+5244,groundnuts,,85586.0,deforestation,2013
+5245,groundnuts,,69717.0,deforestation,2014
+5246,groundnuts,,106573.0,deforestation,2015
+5247,groundnuts,,122826.0,deforestation,2016
+5248,groundnuts,,166532.0,deforestation,2017
+5249,groundnuts,,223114.0,deforestation,2018
+5250,groundnuts,,205234.0,deforestation,2019
+5294,"hair, fine",,0.0,deforestation,2004
+5295,"hair, fine",,0.0,deforestation,2005
+5296,"hair, fine",,0.0,deforestation,2006
+5297,"hair, fine",,0.0,deforestation,2007
+5298,"hair, fine",,0.0,deforestation,2008
+5299,"hair, fine",,0.0,deforestation,2009
+5300,"hair, fine",,0.0,deforestation,2010
+5301,"hair, fine",,0.0,deforestation,2011
+5302,"hair, fine",,0.0,deforestation,2012
+5303,"hair, fine",,0.0,deforestation,2013
+5304,"hair, fine",,0.0,deforestation,2014
+5305,"hair, fine",,0.0,deforestation,2015
+5306,"hair, fine",,0.0,deforestation,2016
+5307,"hair, fine",,0.0,deforestation,2017
+5308,"hair, fine",,0.0,deforestation,2018
+5309,"hair, fine",,0.0,deforestation,2019
+5353,"hair, goat, coarse",,0.0,deforestation,2004
+5354,"hair, goat, coarse",,0.0,deforestation,2005
+5355,"hair, goat, coarse",,0.0,deforestation,2006
+5356,"hair, goat, coarse",,0.0,deforestation,2007
+5357,"hair, goat, coarse",,0.0,deforestation,2008
+5358,"hair, goat, coarse",,0.0,deforestation,2009
+5359,"hair, goat, coarse",,0.0,deforestation,2010
+5360,"hair, goat, coarse",,0.0,deforestation,2011
+5361,"hair, goat, coarse",,0.0,deforestation,2012
+5362,"hair, goat, coarse",,0.0,deforestation,2013
+5363,"hair, goat, coarse",,0.0,deforestation,2014
+5364,"hair, goat, coarse",,0.0,deforestation,2015
+5365,"hair, goat, coarse",,0.0,deforestation,2016
+5366,"hair, goat, coarse",,0.0,deforestation,2017
+5367,"hair, goat, coarse",,0.0,deforestation,2018
+5368,"hair, goat, coarse",,0.0,deforestation,2019
+5412,hazelnuts,,21.0,deforestation,2004
+5413,hazelnuts,,49.0,deforestation,2005
+5414,hazelnuts,,0.0,deforestation,2006
+5415,hazelnuts,,0.0,deforestation,2007
+5416,hazelnuts,,24.0,deforestation,2008
+5417,hazelnuts,,0.0,deforestation,2009
+5418,hazelnuts,,0.0,deforestation,2010
+5419,hazelnuts,,0.0,deforestation,2011
+5420,hazelnuts,,0.0,deforestation,2012
+5421,hazelnuts,,0.0,deforestation,2013
+5422,hazelnuts,,0.0,deforestation,2014
+5423,hazelnuts,,0.0,deforestation,2015
+5424,hazelnuts,,15.0,deforestation,2016
+5425,hazelnuts,,0.0,deforestation,2017
+5426,hazelnuts,,0.0,deforestation,2018
+5427,hazelnuts,,2.0,deforestation,2019
+5471,hides and skins,,5617.0,deforestation,2004
+5472,hides and skins,,10045.0,deforestation,2005
+5473,hides and skins,,12443.0,deforestation,2006
+5474,hides and skins,,15467.0,deforestation,2007
+5475,hides and skins,,18997.0,deforestation,2008
+5476,hides and skins,,12632.0,deforestation,2009
+5477,hides and skins,,14854.0,deforestation,2010
+5478,hides and skins,,3074.0,deforestation,2011
+5479,hides and skins,,7105.0,deforestation,2012
+5480,hides and skins,,15045.0,deforestation,2013
+5481,hides and skins,,8987.0,deforestation,2014
+5482,hides and skins,,8154.0,deforestation,2015
+5483,hides and skins,,4768.0,deforestation,2016
+5484,hides and skins,,4394.0,deforestation,2017
+5485,hides and skins,,5187.0,deforestation,2018
+5486,hides and skins,,6320.0,deforestation,2019
+5530,hides nes,,0.0,deforestation,2004
+5531,hides nes,,0.0,deforestation,2005
+5532,hides nes,,0.0,deforestation,2006
+5533,hides nes,,0.0,deforestation,2007
+5534,hides nes,,0.0,deforestation,2008
+5535,hides nes,,0.0,deforestation,2009
+5536,hides nes,,0.0,deforestation,2010
+5537,hides nes,,0.0,deforestation,2011
+5538,hides nes,,4.0,deforestation,2012
+5539,hides nes,,15.0,deforestation,2013
+5540,hides nes,,2.0,deforestation,2014
+5541,hides nes,,6.0,deforestation,2015
+5542,hides nes,,2.0,deforestation,2016
+5543,hides nes,,6.0,deforestation,2017
+5544,hides nes,,7.0,deforestation,2018
+5545,hides nes,,3.0,deforestation,2019
+5589,"hides, horse, dry salted",,0.0,deforestation,2004
+5590,"hides, horse, dry salted",,0.0,deforestation,2005
+5591,"hides, horse, dry salted",,0.0,deforestation,2006
+5592,"hides, horse, dry salted",,0.0,deforestation,2007
+5593,"hides, horse, dry salted",,0.0,deforestation,2008
+5594,"hides, horse, dry salted",,0.0,deforestation,2009
+5595,"hides, horse, dry salted",,0.0,deforestation,2010
+5596,"hides, horse, dry salted",,0.0,deforestation,2011
+5597,"hides, horse, dry salted",,0.0,deforestation,2012
+5598,"hides, horse, dry salted",,0.0,deforestation,2013
+5599,"hides, horse, dry salted",,0.0,deforestation,2014
+5600,"hides, horse, dry salted",,0.0,deforestation,2015
+5601,"hides, horse, dry salted",,0.0,deforestation,2016
+5602,"hides, horse, dry salted",,0.0,deforestation,2017
+5603,"hides, horse, dry salted",,0.0,deforestation,2018
+5604,"hides, horse, dry salted",,0.0,deforestation,2019
+5648,"honey, natural",,21029.0,deforestation,2004
+5649,"honey, natural",,14442.0,deforestation,2005
+5650,"honey, natural",,14600.0,deforestation,2006
+5651,"honey, natural",,12907.0,deforestation,2007
+5652,"honey, natural",,18271.0,deforestation,2008
+5653,"honey, natural",,25987.0,deforestation,2009
+5654,"honey, natural",,18629.0,deforestation,2010
+5655,"honey, natural",,22399.0,deforestation,2011
+5656,"honey, natural",,16707.0,deforestation,2012
+5657,"honey, natural",,16181.0,deforestation,2013
+5658,"honey, natural",,25317.0,deforestation,2014
+5659,"honey, natural",,22206.0,deforestation,2015
+5660,"honey, natural",,24203.0,deforestation,2016
+5661,"honey, natural",,27053.0,deforestation,2017
+5662,"honey, natural",,28524.0,deforestation,2018
+5663,"honey, natural",,30039.0,deforestation,2019
+5707,hops,,0.0,deforestation,2004
+5708,hops,,0.0,deforestation,2005
+5709,hops,,9.0,deforestation,2006
+5710,hops,,5.0,deforestation,2007
+5711,hops,,11.0,deforestation,2008
+5712,hops,,0.0,deforestation,2009
+5713,hops,,0.0,deforestation,2010
+5714,hops,,0.0,deforestation,2011
+5715,hops,,0.0,deforestation,2012
+5716,hops,,0.0,deforestation,2013
+5717,hops,,1.0,deforestation,2014
+5718,hops,,1.0,deforestation,2015
+5719,hops,,1.0,deforestation,2016
+5720,hops,,2.0,deforestation,2017
+5721,hops,,1.0,deforestation,2018
+5722,hops,,22.0,deforestation,2019
+5766,ice cream and edible ice,,742.0,deforestation,2004
+5767,ice cream and edible ice,,279.0,deforestation,2005
+5768,ice cream and edible ice,,213.0,deforestation,2006
+5769,ice cream and edible ice,,222.0,deforestation,2007
+5770,ice cream and edible ice,,158.0,deforestation,2008
+5771,ice cream and edible ice,,320.0,deforestation,2009
+5772,ice cream and edible ice,,296.0,deforestation,2010
+5773,ice cream and edible ice,,82.0,deforestation,2011
+5774,ice cream and edible ice,,104.0,deforestation,2012
+5775,ice cream and edible ice,,47.0,deforestation,2013
+5776,ice cream and edible ice,,505.0,deforestation,2014
+5777,ice cream and edible ice,,102.0,deforestation,2015
+5778,ice cream and edible ice,,1069.0,deforestation,2016
+5779,ice cream and edible ice,,114.0,deforestation,2017
+5780,ice cream and edible ice,,269.0,deforestation,2018
+5781,ice cream and edible ice,,617.0,deforestation,2019
+5825,infant food,,11584.0,deforestation,2004
+5826,infant food,,9785.0,deforestation,2005
+5827,infant food,,12268.0,deforestation,2006
+5828,infant food,,9330.0,deforestation,2007
+5829,infant food,,8851.0,deforestation,2008
+5830,infant food,,7082.0,deforestation,2009
+5831,infant food,,8169.0,deforestation,2010
+5832,infant food,,7734.0,deforestation,2011
+5833,infant food,,7988.0,deforestation,2012
+5834,infant food,,7879.0,deforestation,2013
+5835,infant food,,5685.0,deforestation,2014
+5836,infant food,,7748.0,deforestation,2015
+5837,infant food,,8450.0,deforestation,2016
+5838,infant food,,8046.0,deforestation,2017
+5839,infant food,,6915.0,deforestation,2018
+5840,infant food,,7239.0,deforestation,2019
+5884,"juice, fruit nes",,26389.0,deforestation,2004
+5885,"juice, fruit nes",,26318.0,deforestation,2005
+5886,"juice, fruit nes",,36096.0,deforestation,2006
+5887,"juice, fruit nes",,39830.0,deforestation,2007
+5888,"juice, fruit nes",,38239.0,deforestation,2008
+5889,"juice, fruit nes",,33488.0,deforestation,2009
+5890,"juice, fruit nes",,35839.0,deforestation,2010
+5891,"juice, fruit nes",,41586.0,deforestation,2011
+5892,"juice, fruit nes",,48717.0,deforestation,2012
+5893,"juice, fruit nes",,52122.0,deforestation,2013
+5894,"juice, fruit nes",,59376.0,deforestation,2014
+5895,"juice, fruit nes",,62638.0,deforestation,2015
+5896,"juice, fruit nes",,76559.0,deforestation,2016
+5897,"juice, fruit nes",,70943.0,deforestation,2017
+5898,"juice, fruit nes",,70436.0,deforestation,2018
+5899,"juice, fruit nes",,69486.0,deforestation,2019
+5943,"juice, pineapple",,5660.0,deforestation,2004
+5944,"juice, pineapple",,2517.0,deforestation,2005
+5945,"juice, pineapple",,451.0,deforestation,2006
+5946,"juice, pineapple",,2395.0,deforestation,2007
+5947,"juice, pineapple",,2106.0,deforestation,2008
+5948,"juice, pineapple",,1267.0,deforestation,2009
+5949,"juice, pineapple",,46.0,deforestation,2010
+5950,"juice, pineapple",,22.0,deforestation,2011
+5951,"juice, pineapple",,23.0,deforestation,2012
+5952,"juice, pineapple",,12.0,deforestation,2013
+5953,"juice, pineapple",,11.0,deforestation,2014
+5954,"juice, pineapple",,34.0,deforestation,2015
+5955,"juice, pineapple",,56.0,deforestation,2016
+5956,"juice, pineapple",,4.0,deforestation,2017
+5957,"juice, pineapple",,7.0,deforestation,2018
+5958,"juice, pineapple",,32.0,deforestation,2019
+6002,"juice, pineapple, concentrated",,9318.0,deforestation,2004
+6003,"juice, pineapple, concentrated",,7069.0,deforestation,2005
+6004,"juice, pineapple, concentrated",,6188.0,deforestation,2006
+6005,"juice, pineapple, concentrated",,5565.0,deforestation,2007
+6006,"juice, pineapple, concentrated",,4432.0,deforestation,2008
+6007,"juice, pineapple, concentrated",,5353.0,deforestation,2009
+6008,"juice, pineapple, concentrated",,3394.0,deforestation,2010
+6009,"juice, pineapple, concentrated",,5181.0,deforestation,2011
+6010,"juice, pineapple, concentrated",,2230.0,deforestation,2012
+6011,"juice, pineapple, concentrated",,1650.0,deforestation,2013
+6012,"juice, pineapple, concentrated",,2155.0,deforestation,2014
+6013,"juice, pineapple, concentrated",,7455.0,deforestation,2015
+6014,"juice, pineapple, concentrated",,9994.0,deforestation,2016
+6015,"juice, pineapple, concentrated",,5243.0,deforestation,2017
+6016,"juice, pineapple, concentrated",,3348.0,deforestation,2018
+6017,"juice, pineapple, concentrated",,4796.0,deforestation,2019
+6061,"juice, tomato",,0.0,deforestation,2004
+6062,"juice, tomato",,0.0,deforestation,2005
+6063,"juice, tomato",,11.0,deforestation,2006
+6064,"juice, tomato",,0.0,deforestation,2007
+6065,"juice, tomato",,0.0,deforestation,2008
+6066,"juice, tomato",,0.0,deforestation,2009
+6067,"juice, tomato",,0.0,deforestation,2010
+6068,"juice, tomato",,0.0,deforestation,2011
+6069,"juice, tomato",,0.0,deforestation,2012
+6070,"juice, tomato",,0.0,deforestation,2013
+6071,"juice, tomato",,0.0,deforestation,2014
+6072,"juice, tomato",,0.0,deforestation,2015
+6073,"juice, tomato",,0.0,deforestation,2016
+6074,"juice, tomato",,0.0,deforestation,2017
+6075,"juice, tomato",,4.0,deforestation,2018
+6076,"juice, tomato",,16.0,deforestation,2019
+6120,jute,,1.0,deforestation,2004
+6121,jute,,0.0,deforestation,2005
+6122,jute,,0.0,deforestation,2006
+6123,jute,,3.0,deforestation,2007
+6124,jute,,0.0,deforestation,2008
+6125,jute,,4.0,deforestation,2009
+6126,jute,,0.0,deforestation,2010
+6127,jute,,0.0,deforestation,2011
+6128,jute,,10.0,deforestation,2012
+6129,jute,,0.0,deforestation,2013
+6130,jute,,3.0,deforestation,2014
+6131,jute,,0.0,deforestation,2015
+6132,jute,,0.0,deforestation,2016
+6133,jute,,2.0,deforestation,2017
+6134,jute,,0.0,deforestation,2018
+6135,jute,,0.0,deforestation,2019
+6179,kiwi fruit,,41.0,deforestation,2004
+6180,kiwi fruit,,10.0,deforestation,2005
+6181,kiwi fruit,,3.0,deforestation,2006
+6182,kiwi fruit,,4.0,deforestation,2007
+6183,kiwi fruit,,22.0,deforestation,2008
+6184,kiwi fruit,,2.0,deforestation,2009
+6185,kiwi fruit,,0.0,deforestation,2010
+6186,kiwi fruit,,0.0,deforestation,2011
+6187,kiwi fruit,,0.0,deforestation,2012
+6188,kiwi fruit,,0.0,deforestation,2013
+6189,kiwi fruit,,0.0,deforestation,2014
+6190,kiwi fruit,,0.0,deforestation,2015
+6191,kiwi fruit,,0.0,deforestation,2016
+6192,kiwi fruit,,0.0,deforestation,2017
+6193,kiwi fruit,,7.0,deforestation,2018
+6194,kiwi fruit,,35.0,deforestation,2019
+6238,kola nuts,,0.0,deforestation,2004
+6239,kola nuts,,0.0,deforestation,2005
+6240,kola nuts,,0.0,deforestation,2006
+6241,kola nuts,,0.0,deforestation,2007
+6242,kola nuts,,0.0,deforestation,2008
+6243,kola nuts,,0.0,deforestation,2009
+6244,kola nuts,,0.0,deforestation,2010
+6245,kola nuts,,0.0,deforestation,2011
+6246,kola nuts,,10.0,deforestation,2012
+6247,kola nuts,,0.0,deforestation,2013
+6248,kola nuts,,0.0,deforestation,2014
+6249,kola nuts,,0.0,deforestation,2015
+6250,kola nuts,,0.0,deforestation,2016
+6251,kola nuts,,0.0,deforestation,2017
+6252,kola nuts,,0.0,deforestation,2018
+6253,kola nuts,,2.0,deforestation,2019
+6297,lactose,,53.0,deforestation,2004
+6298,lactose,,76.0,deforestation,2005
+6299,lactose,,3.0,deforestation,2006
+6300,lactose,,17.0,deforestation,2007
+6301,lactose,,6.0,deforestation,2008
+6302,lactose,,8.0,deforestation,2009
+6303,lactose,,1.0,deforestation,2010
+6304,lactose,,4.0,deforestation,2011
+6305,lactose,,5.0,deforestation,2012
+6306,lactose,,13.0,deforestation,2013
+6307,lactose,,8.0,deforestation,2014
+6308,lactose,,5.0,deforestation,2015
+6309,lactose,,184.0,deforestation,2016
+6310,lactose,,2.0,deforestation,2017
+6311,lactose,,7.0,deforestation,2018
+6312,lactose,,21.0,deforestation,2019
+6356,lard,,2337.0,deforestation,2004
+6357,lard,,2482.0,deforestation,2005
+6358,lard,,3215.0,deforestation,2006
+6359,lard,,3532.0,deforestation,2007
+6360,lard,,2287.0,deforestation,2008
+6361,lard,,2929.0,deforestation,2009
+6362,lard,,2341.0,deforestation,2010
+6363,lard,,4090.0,deforestation,2011
+6364,lard,,4372.0,deforestation,2012
+6365,lard,,3555.0,deforestation,2013
+6366,lard,,3424.0,deforestation,2014
+6367,lard,,3592.0,deforestation,2015
+6368,lard,,3306.0,deforestation,2016
+6369,lard,,2686.0,deforestation,2017
+6370,lard,,3275.0,deforestation,2018
+6371,lard,,2323.0,deforestation,2019
+6415,lemon,,7101.0,deforestation,2004
+6416,lemon,,577.0,deforestation,2005
+6417,lemon,,406.0,deforestation,2006
+6418,lemon,,1638.0,deforestation,2007
+6419,lemon,,4899.0,deforestation,2008
+6420,lemon,,1455.0,deforestation,2009
+6421,lemon,,38.0,deforestation,2010
+6422,lemon,,208.0,deforestation,2011
+6423,lemon,,0.0,deforestation,2012
+6424,lemon,,0.0,deforestation,2013
+6425,lemon,,840.0,deforestation,2014
+6426,lemon,,1910.0,deforestation,2015
+6427,lemon,,1294.0,deforestation,2016
+6428,lemon,,2056.0,deforestation,2017
+6429,lemon,,9396.0,deforestation,2018
+6430,lemon,,9870.0,deforestation,2019
+6474,lemons and limes,,37326.0,deforestation,2004
+6475,lemons and limes,,44258.0,deforestation,2005
+6476,lemons and limes,,51440.0,deforestation,2006
+6477,lemons and limes,,58250.0,deforestation,2007
+6478,lemons and limes,,60335.0,deforestation,2008
+6479,lemons and limes,,66374.0,deforestation,2009
+6480,lemons and limes,,63027.0,deforestation,2010
+6481,lemons and limes,,66458.0,deforestation,2011
+6482,lemons and limes,,72810.0,deforestation,2012
+6483,lemons and limes,,78603.0,deforestation,2013
+6484,lemons and limes,,92301.0,deforestation,2014
+6485,lemons and limes,,96632.0,deforestation,2015
+6486,lemons and limes,,95748.0,deforestation,2016
+6487,lemons and limes,,92393.0,deforestation,2017
+6488,lemons and limes,,97502.0,deforestation,2018
+6489,lemons and limes,,104617.0,deforestation,2019
+6533,lentils,,10.0,deforestation,2004
+6534,lentils,,12.0,deforestation,2005
+6535,lentils,,31.0,deforestation,2006
+6536,lentils,,40.0,deforestation,2007
+6537,lentils,,6.0,deforestation,2008
+6538,lentils,,18.0,deforestation,2009
+6539,lentils,,5.0,deforestation,2010
+6540,lentils,,5.0,deforestation,2011
+6541,lentils,,6.0,deforestation,2012
+6542,lentils,,8.0,deforestation,2013
+6543,lentils,,9.0,deforestation,2014
+6544,lentils,,9.0,deforestation,2015
+6545,lentils,,8.0,deforestation,2016
+6546,lentils,,148.0,deforestation,2017
+6547,lentils,,20.0,deforestation,2018
+6548,lentils,,23.0,deforestation,2019
+6592,lettuce and chicory,,0.0,deforestation,2004
+6593,lettuce and chicory,,3.0,deforestation,2005
+6594,lettuce and chicory,,0.0,deforestation,2006
+6595,lettuce and chicory,,0.0,deforestation,2007
+6596,lettuce and chicory,,0.0,deforestation,2008
+6597,lettuce and chicory,,0.0,deforestation,2009
+6598,lettuce and chicory,,7.0,deforestation,2010
+6599,lettuce and chicory,,4.0,deforestation,2011
+6600,lettuce and chicory,,1.0,deforestation,2012
+6601,lettuce and chicory,,0.0,deforestation,2013
+6602,lettuce and chicory,,2.0,deforestation,2014
+6603,lettuce and chicory,,0.0,deforestation,2015
+6604,lettuce and chicory,,82.0,deforestation,2016
+6605,lettuce and chicory,,12.0,deforestation,2017
+6606,lettuce and chicory,,86.0,deforestation,2018
+6607,lettuce and chicory,,268.0,deforestation,2019
+6651,linseed,,0.0,deforestation,2004
+6652,linseed,,107.0,deforestation,2005
+6653,linseed,,1.0,deforestation,2006
+6654,linseed,,1.0,deforestation,2007
+6655,linseed,,1.0,deforestation,2008
+6656,linseed,,3.0,deforestation,2009
+6657,linseed,,3.0,deforestation,2010
+6658,linseed,,2.0,deforestation,2011
+6659,linseed,,4.0,deforestation,2012
+6660,linseed,,4.0,deforestation,2013
+6661,linseed,,2.0,deforestation,2014
+6662,linseed,,1.0,deforestation,2015
+6663,linseed,,1.0,deforestation,2016
+6664,linseed,,1.0,deforestation,2017
+6665,linseed,,2.0,deforestation,2018
+6666,linseed,,25.0,deforestation,2019
+6710,macaroni,,5077.0,deforestation,2004
+6711,macaroni,,4649.0,deforestation,2005
+6712,macaroni,,1477.0,deforestation,2006
+6713,macaroni,,2061.0,deforestation,2007
+6714,macaroni,,17861.0,deforestation,2008
+6715,macaroni,,14985.0,deforestation,2009
+6716,macaroni,,4927.0,deforestation,2010
+6717,macaroni,,6556.0,deforestation,2011
+6718,macaroni,,9958.0,deforestation,2012
+6719,macaroni,,18909.0,deforestation,2013
+6720,macaroni,,22463.0,deforestation,2014
+6721,macaroni,,2929.0,deforestation,2015
+6722,macaroni,,7144.0,deforestation,2016
+6723,macaroni,,8268.0,deforestation,2017
+6724,macaroni,,9488.0,deforestation,2018
+6725,macaroni,,6145.0,deforestation,2019
+6769,maize,,5030999.0,deforestation,2004
+6770,maize,,1070016.0,deforestation,2005
+6771,maize,,3937999.0,deforestation,2006
+6772,maize,,10933455.0,deforestation,2007
+6773,maize,,6432662.0,deforestation,2008
+6774,maize,,7781900.0,deforestation,2009
+6775,maize,,10815275.0,deforestation,2010
+6776,maize,,9486914.0,deforestation,2011
+6777,maize,,19801939.0,deforestation,2012
+6778,maize,,26624890.0,deforestation,2013
+6779,maize,,20654640.0,deforestation,2014
+6780,maize,,28923951.0,deforestation,2015
+6781,maize,,21873310.0,deforestation,2016
+6782,maize,,29265911.0,deforestation,2017
+6783,maize,,23566198.0,deforestation,2018
+6784,maize,,42752102.0,deforestation,2019
+6828,"maize, green",,0.0,deforestation,2004
+6829,"maize, green",,0.0,deforestation,2005
+6830,"maize, green",,0.0,deforestation,2006
+6831,"maize, green",,0.0,deforestation,2007
+6832,"maize, green",,0.0,deforestation,2008
+6833,"maize, green",,0.0,deforestation,2009
+6834,"maize, green",,0.0,deforestation,2010
+6835,"maize, green",,0.0,deforestation,2011
+6836,"maize, green",,0.0,deforestation,2012
+6837,"maize, green",,0.0,deforestation,2013
+6838,"maize, green",,5.0,deforestation,2014
+6839,"maize, green",,7.0,deforestation,2015
+6840,"maize, green",,9.0,deforestation,2016
+6841,"maize, green",,56.0,deforestation,2017
+6842,"maize, green",,47.0,deforestation,2018
+6843,"maize, green",,104.0,deforestation,2019
+6887,malt,,7331.0,deforestation,2004
+6888,malt,,950.0,deforestation,2005
+6889,malt,,6773.0,deforestation,2006
+6890,malt,,7188.0,deforestation,2007
+6891,malt,,1313.0,deforestation,2008
+6892,malt,,317.0,deforestation,2009
+6893,malt,,6.0,deforestation,2010
+6894,malt,,0.0,deforestation,2011
+6895,malt,,0.0,deforestation,2012
+6896,malt,,1172.0,deforestation,2013
+6897,malt,,3793.0,deforestation,2014
+6898,malt,,6482.0,deforestation,2015
+6899,malt,,7488.0,deforestation,2016
+6900,malt,,7283.0,deforestation,2017
+6901,malt,,7133.0,deforestation,2018
+6902,malt,,3342.0,deforestation,2019
+6946,"mangoes, mangosteens, guavas",,111181.0,deforestation,2004
+6947,"mangoes, mangosteens, guavas",,113882.0,deforestation,2005
+6948,"mangoes, mangosteens, guavas",,114694.0,deforestation,2006
+6949,"mangoes, mangosteens, guavas",,116271.0,deforestation,2007
+6950,"mangoes, mangosteens, guavas",,133944.0,deforestation,2008
+6951,"mangoes, mangosteens, guavas",,110355.0,deforestation,2009
+6952,"mangoes, mangosteens, guavas",,124380.0,deforestation,2010
+6953,"mangoes, mangosteens, guavas",,126568.0,deforestation,2011
+6954,"mangoes, mangosteens, guavas",,127132.0,deforestation,2012
+6955,"mangoes, mangosteens, guavas",,122178.0,deforestation,2013
+6956,"mangoes, mangosteens, guavas",,133219.0,deforestation,2014
+6957,"mangoes, mangosteens, guavas",,156557.0,deforestation,2015
+6958,"mangoes, mangosteens, guavas",,154383.0,deforestation,2016
+6959,"mangoes, mangosteens, guavas",,179744.0,deforestation,2017
+6960,"mangoes, mangosteens, guavas",,170630.0,deforestation,2018
+6961,"mangoes, mangosteens, guavas",,216048.0,deforestation,2019
+7005,manila fibre (abaca),,0.0,deforestation,2004
+7006,manila fibre (abaca),,0.0,deforestation,2005
+7007,manila fibre (abaca),,0.0,deforestation,2006
+7008,manila fibre (abaca),,0.0,deforestation,2007
+7009,manila fibre (abaca),,0.0,deforestation,2008
+7010,manila fibre (abaca),,0.0,deforestation,2009
+7011,manila fibre (abaca),,0.0,deforestation,2010
+7012,manila fibre (abaca),,0.0,deforestation,2011
+7013,manila fibre (abaca),,0.0,deforestation,2012
+7014,manila fibre (abaca),,0.0,deforestation,2013
+7015,manila fibre (abaca),,0.0,deforestation,2014
+7016,manila fibre (abaca),,0.0,deforestation,2015
+7017,manila fibre (abaca),,0.0,deforestation,2016
+7018,manila fibre (abaca),,0.0,deforestation,2017
+7019,manila fibre (abaca),,0.0,deforestation,2018
+7020,manila fibre (abaca),,0.0,deforestation,2019
+7064,"margarine, short",,34084.0,deforestation,2004
+7065,"margarine, short",,20353.0,deforestation,2005
+7066,"margarine, short",,14372.0,deforestation,2006
+7067,"margarine, short",,24868.0,deforestation,2007
+7068,"margarine, short",,34548.0,deforestation,2008
+7069,"margarine, short",,24730.0,deforestation,2009
+7070,"margarine, short",,26948.0,deforestation,2010
+7071,"margarine, short",,35918.0,deforestation,2011
+7072,"margarine, short",,17753.0,deforestation,2012
+7073,"margarine, short",,25300.0,deforestation,2013
+7074,"margarine, short",,42037.0,deforestation,2014
+7075,"margarine, short",,25748.0,deforestation,2015
+7076,"margarine, short",,15585.0,deforestation,2016
+7077,"margarine, short",,12906.0,deforestation,2017
+7078,"margarine, short",,11793.0,deforestation,2018
+7079,"margarine, short",,17520.0,deforestation,2019
+7123,mat�,,28552.0,deforestation,2004
+7124,mat�,,31441.0,deforestation,2005
+7125,mat�,,31619.0,deforestation,2006
+7126,mat�,,31064.0,deforestation,2007
+7127,mat�,,31607.0,deforestation,2008
+7128,mat�,,31051.0,deforestation,2009
+7129,mat�,,33144.0,deforestation,2010
+7130,mat�,,35437.0,deforestation,2011
+7131,mat�,,36272.0,deforestation,2012
+7132,mat�,,38010.0,deforestation,2013
+7133,mat�,,34599.0,deforestation,2014
+7134,mat�,,35956.0,deforestation,2015
+7135,mat�,,35325.0,deforestation,2016
+7136,mat�,,33625.0,deforestation,2017
+7137,mat�,,36164.0,deforestation,2018
+7138,mat�,,36189.0,deforestation,2019
+7182,"meal, meat",,44505.0,deforestation,2004
+7183,"meal, meat",,40296.0,deforestation,2005
+7184,"meal, meat",,67624.0,deforestation,2006
+7185,"meal, meat",,71056.0,deforestation,2007
+7186,"meal, meat",,62903.0,deforestation,2008
+7187,"meal, meat",,19499.0,deforestation,2009
+7188,"meal, meat",,30865.0,deforestation,2010
+7189,"meal, meat",,36930.0,deforestation,2011
+7190,"meal, meat",,84011.0,deforestation,2012
+7191,"meal, meat",,93985.0,deforestation,2013
+7192,"meal, meat",,98388.0,deforestation,2014
+7193,"meal, meat",,110543.0,deforestation,2015
+7194,"meal, meat",,112935.0,deforestation,2016
+7195,"meal, meat",,136249.0,deforestation,2017
+7196,"meal, meat",,168265.0,deforestation,2018
+7197,"meal, meat",,170580.0,deforestation,2019
+7241,meat nes,,211.0,deforestation,2004
+7242,meat nes,,319.0,deforestation,2005
+7243,meat nes,,274.0,deforestation,2006
+7244,meat nes,,369.0,deforestation,2007
+7245,meat nes,,250.0,deforestation,2008
+7246,meat nes,,301.0,deforestation,2009
+7247,meat nes,,791.0,deforestation,2010
+7248,meat nes,,240.0,deforestation,2011
+7249,meat nes,,136.0,deforestation,2012
+7250,meat nes,,106.0,deforestation,2013
+7251,meat nes,,101.0,deforestation,2014
+7252,meat nes,,20.0,deforestation,2015
+7253,meat nes,,0.0,deforestation,2016
+7254,meat nes,,10.0,deforestation,2017
+7255,meat nes,,8.0,deforestation,2018
+7256,meat nes,,1.0,deforestation,2019
+7300,"meat, dried nes",,1.0,deforestation,2004
+7301,"meat, dried nes",,7.0,deforestation,2005
+7302,"meat, dried nes",,4575.0,deforestation,2006
+7303,"meat, dried nes",,124360.0,deforestation,2007
+7304,"meat, dried nes",,208880.0,deforestation,2008
+7305,"meat, dried nes",,196574.0,deforestation,2009
+7306,"meat, dried nes",,190106.0,deforestation,2010
+7307,"meat, dried nes",,192925.0,deforestation,2011
+7308,"meat, dried nes",,176857.0,deforestation,2012
+7309,"meat, dried nes",,178421.0,deforestation,2013
+7310,"meat, dried nes",,188729.0,deforestation,2014
+7311,"meat, dried nes",,179205.0,deforestation,2015
+7312,"meat, dried nes",,181500.0,deforestation,2016
+7313,"meat, dried nes",,142549.0,deforestation,2017
+7314,"meat, dried nes",,95015.0,deforestation,2018
+7315,"meat, dried nes",,127950.0,deforestation,2019
+7359,"meat, duck",,430.0,deforestation,2004
+7360,"meat, duck",,1220.0,deforestation,2005
+7361,"meat, duck",,1510.0,deforestation,2006
+7362,"meat, duck",,1159.0,deforestation,2007
+7363,"meat, duck",,1181.0,deforestation,2008
+7364,"meat, duck",,1917.0,deforestation,2009
+7365,"meat, duck",,2178.0,deforestation,2010
+7366,"meat, duck",,1507.0,deforestation,2011
+7367,"meat, duck",,3025.0,deforestation,2012
+7368,"meat, duck",,1489.0,deforestation,2013
+7369,"meat, duck",,2062.0,deforestation,2014
+7370,"meat, duck",,2385.0,deforestation,2015
+7371,"meat, duck",,2983.0,deforestation,2016
+7372,"meat, duck",,3433.0,deforestation,2017
+7373,"meat, duck",,2968.0,deforestation,2018
+7374,"meat, duck",,3082.0,deforestation,2019
+7418,"meat, goat",,1.0,deforestation,2004
+7419,"meat, goat",,0.0,deforestation,2005
+7420,"meat, goat",,0.0,deforestation,2006
+7421,"meat, goat",,6.0,deforestation,2007
+7422,"meat, goat",,6.0,deforestation,2008
+7423,"meat, goat",,0.0,deforestation,2009
+7424,"meat, goat",,0.0,deforestation,2010
+7425,"meat, goat",,0.0,deforestation,2011
+7426,"meat, goat",,0.0,deforestation,2012
+7427,"meat, goat",,0.0,deforestation,2013
+7428,"meat, goat",,0.0,deforestation,2014
+7429,"meat, goat",,0.0,deforestation,2015
+7430,"meat, goat",,0.0,deforestation,2016
+7431,"meat, goat",,0.0,deforestation,2017
+7432,"meat, goat",,0.0,deforestation,2018
+7433,"meat, goat",,2.0,deforestation,2019
+7477,"meat, goose and guinea fowl",,0.0,deforestation,2004
+7478,"meat, goose and guinea fowl",,0.0,deforestation,2005
+7479,"meat, goose and guinea fowl",,0.0,deforestation,2006
+7480,"meat, goose and guinea fowl",,0.0,deforestation,2007
+7481,"meat, goose and guinea fowl",,0.0,deforestation,2008
+7482,"meat, goose and guinea fowl",,0.0,deforestation,2009
+7483,"meat, goose and guinea fowl",,0.0,deforestation,2010
+7484,"meat, goose and guinea fowl",,0.0,deforestation,2011
+7485,"meat, goose and guinea fowl",,0.0,deforestation,2012
+7486,"meat, goose and guinea fowl",,0.0,deforestation,2013
+7487,"meat, goose and guinea fowl",,0.0,deforestation,2014
+7488,"meat, goose and guinea fowl",,0.0,deforestation,2015
+7489,"meat, goose and guinea fowl",,0.0,deforestation,2016
+7490,"meat, goose and guinea fowl",,0.0,deforestation,2017
+7491,"meat, goose and guinea fowl",,0.0,deforestation,2018
+7492,"meat, goose and guinea fowl",,0.0,deforestation,2019
+7536,"meat, horse",,20514.0,deforestation,2004
+7537,"meat, horse",,19101.0,deforestation,2005
+7538,"meat, horse",,16186.0,deforestation,2006
+7539,"meat, horse",,13102.0,deforestation,2007
+7540,"meat, horse",,9870.0,deforestation,2008
+7541,"meat, horse",,9247.0,deforestation,2009
+7542,"meat, horse",,3348.0,deforestation,2010
+7543,"meat, horse",,2082.0,deforestation,2011
+7544,"meat, horse",,2376.0,deforestation,2012
+7545,"meat, horse",,1768.0,deforestation,2013
+7546,"meat, horse",,2118.0,deforestation,2014
+7547,"meat, horse",,2775.0,deforestation,2015
+7548,"meat, horse",,2747.0,deforestation,2016
+7549,"meat, horse",,3063.0,deforestation,2017
+7550,"meat, horse",,3862.0,deforestation,2018
+7551,"meat, horse",,2535.0,deforestation,2019
+7595,"meat, pork",,335684.0,deforestation,2004
+7596,"meat, pork",,389755.0,deforestation,2005
+7597,"meat, pork",,349530.0,deforestation,2006
+7598,"meat, pork",,427505.0,deforestation,2007
+7599,"meat, pork",,369723.0,deforestation,2008
+7600,"meat, pork",,436488.0,deforestation,2009
+7601,"meat, pork",,394607.0,deforestation,2010
+7602,"meat, pork",,377096.0,deforestation,2011
+7603,"meat, pork",,415625.0,deforestation,2012
+7604,"meat, pork",,387648.0,deforestation,2013
+7605,"meat, pork",,392204.0,deforestation,2014
+7606,"meat, pork",,441855.0,deforestation,2015
+7607,"meat, pork",,590805.0,deforestation,2016
+7608,"meat, pork",,561249.0,deforestation,2017
+7609,"meat, pork",,524319.0,deforestation,2018
+7610,"meat, pork",,627382.0,deforestation,2019
+7654,"meat, rabbit",,0.0,deforestation,2004
+7655,"meat, rabbit",,0.0,deforestation,2005
+7656,"meat, rabbit",,0.0,deforestation,2006
+7657,"meat, rabbit",,0.0,deforestation,2007
+7658,"meat, rabbit",,0.0,deforestation,2008
+7659,"meat, rabbit",,0.0,deforestation,2009
+7660,"meat, rabbit",,0.0,deforestation,2010
+7661,"meat, rabbit",,0.0,deforestation,2011
+7662,"meat, rabbit",,0.0,deforestation,2012
+7663,"meat, rabbit",,0.0,deforestation,2013
+7664,"meat, rabbit",,0.0,deforestation,2014
+7665,"meat, rabbit",,0.0,deforestation,2015
+7666,"meat, rabbit",,0.0,deforestation,2016
+7667,"meat, rabbit",,0.0,deforestation,2017
+7668,"meat, rabbit",,0.0,deforestation,2018
+7669,"meat, rabbit",,0.0,deforestation,2019
+7713,"meat, turkey",,134339.0,deforestation,2004
+7714,"meat, turkey",,111837.0,deforestation,2005
+7715,"meat, turkey",,78991.0,deforestation,2006
+7716,"meat, turkey",,84202.0,deforestation,2007
+7717,"meat, turkey",,95567.0,deforestation,2008
+7718,"meat, turkey",,76687.0,deforestation,2009
+7719,"meat, turkey",,78062.0,deforestation,2010
+7720,"meat, turkey",,72661.0,deforestation,2011
+7721,"meat, turkey",,94242.0,deforestation,2012
+7722,"meat, turkey",,92057.0,deforestation,2013
+7723,"meat, turkey",,79576.0,deforestation,2014
+7724,"meat, turkey",,83525.0,deforestation,2015
+7725,"meat, turkey",,93421.0,deforestation,2016
+7726,"meat, turkey",,72373.0,deforestation,2017
+7727,"meat, turkey",,62749.0,deforestation,2018
+7728,"meat, turkey",,35035.0,deforestation,2019
+7772,"melons, other (inc.cantaloupes)",,142587.0,deforestation,2004
+7773,"melons, other (inc.cantaloupes)",,179831.0,deforestation,2005
+7774,"melons, other (inc.cantaloupes)",,172809.0,deforestation,2006
+7775,"melons, other (inc.cantaloupes)",,204502.0,deforestation,2007
+7776,"melons, other (inc.cantaloupes)",,211790.0,deforestation,2008
+7777,"melons, other (inc.cantaloupes)",,183912.0,deforestation,2009
+7778,"melons, other (inc.cantaloupes)",,177828.0,deforestation,2010
+7779,"melons, other (inc.cantaloupes)",,169576.0,deforestation,2011
+7780,"melons, other (inc.cantaloupes)",,181768.0,deforestation,2012
+7781,"melons, other (inc.cantaloupes)",,191413.0,deforestation,2013
+7782,"melons, other (inc.cantaloupes)",,196850.0,deforestation,2014
+7783,"melons, other (inc.cantaloupes)",,223746.0,deforestation,2015
+7784,"melons, other (inc.cantaloupes)",,224688.0,deforestation,2016
+7785,"melons, other (inc.cantaloupes)",,233653.0,deforestation,2017
+7786,"melons, other (inc.cantaloupes)",,197596.0,deforestation,2018
+7787,"melons, other (inc.cantaloupes)",,251638.0,deforestation,2019
+7831,milk,,59295.0,deforestation,2004
+7832,milk,,68673.0,deforestation,2005
+7833,milk,,78076.0,deforestation,2006
+7834,milk,,84392.0,deforestation,2007
+7835,milk,,131011.0,deforestation,2008
+7836,milk,,54614.0,deforestation,2009
+7837,milk,,41059.0,deforestation,2010
+7838,milk,,28940.0,deforestation,2011
+7839,milk,,29518.0,deforestation,2012
+7840,milk,,29375.0,deforestation,2013
+7841,milk,,73858.0,deforestation,2014
+7842,milk,,65534.0,deforestation,2015
+7843,milk,,42891.0,deforestation,2016
+7844,milk,,25985.0,deforestation,2017
+7845,milk,,13083.0,deforestation,2018
+7846,milk,,14171.0,deforestation,2019
+7890,millet,,0.0,deforestation,2004
+7891,millet,,0.0,deforestation,2005
+7892,millet,,1.0,deforestation,2006
+7893,millet,,0.0,deforestation,2007
+7894,millet,,0.0,deforestation,2008
+7895,millet,,2.0,deforestation,2009
+7896,millet,,2.0,deforestation,2010
+7897,millet,,2.0,deforestation,2011
+7898,millet,,3.0,deforestation,2012
+7899,millet,,2.0,deforestation,2013
+7900,millet,,0.0,deforestation,2014
+7901,millet,,0.0,deforestation,2015
+7902,millet,,0.0,deforestation,2016
+7903,millet,,0.0,deforestation,2017
+7904,millet,,39.0,deforestation,2018
+7905,millet,,1248.0,deforestation,2019
+7949,mixes and doughs,,723.0,deforestation,2004
+7950,mixes and doughs,,957.0,deforestation,2005
+7951,mixes and doughs,,701.0,deforestation,2006
+7952,mixes and doughs,,971.0,deforestation,2007
+7953,mixes and doughs,,930.0,deforestation,2008
+7954,mixes and doughs,,1306.0,deforestation,2009
+7955,mixes and doughs,,1225.0,deforestation,2010
+7956,mixes and doughs,,1492.0,deforestation,2011
+7957,mixes and doughs,,1894.0,deforestation,2012
+7958,mixes and doughs,,2068.0,deforestation,2013
+7959,mixes and doughs,,2330.0,deforestation,2014
+7960,mixes and doughs,,2670.0,deforestation,2015
+7961,mixes and doughs,,5633.0,deforestation,2016
+7962,mixes and doughs,,5538.0,deforestation,2017
+7963,mixes and doughs,,7220.0,deforestation,2018
+7964,mixes and doughs,,28537.0,deforestation,2019
+8008,molasses,,56219.0,deforestation,2004
+8009,molasses,,61224.0,deforestation,2005
+8010,molasses,,21199.0,deforestation,2006
+8011,molasses,,97.0,deforestation,2007
+8012,molasses,,12234.0,deforestation,2008
+8013,molasses,,55913.0,deforestation,2009
+8014,molasses,,46894.0,deforestation,2010
+8015,molasses,,2.0,deforestation,2011
+8016,molasses,,3.0,deforestation,2012
+8017,molasses,,29.0,deforestation,2013
+8018,molasses,,8.0,deforestation,2014
+8019,molasses,,69.0,deforestation,2015
+8020,molasses,,1200.0,deforestation,2016
+8021,molasses,,65.0,deforestation,2017
+8022,molasses,,54.0,deforestation,2018
+8023,molasses,,72.0,deforestation,2019
+8067,mushrooms,,62.0,deforestation,2004
+8068,mushrooms,,55.0,deforestation,2005
+8069,mushrooms,,16.0,deforestation,2006
+8070,mushrooms,,17.0,deforestation,2007
+8071,mushrooms,,12.0,deforestation,2008
+8072,mushrooms,,17.0,deforestation,2009
+8073,mushrooms,,21.0,deforestation,2010
+8074,mushrooms,,26.0,deforestation,2011
+8075,mushrooms,,26.0,deforestation,2012
+8076,mushrooms,,37.0,deforestation,2013
+8077,mushrooms,,26.0,deforestation,2014
+8078,mushrooms,,25.0,deforestation,2015
+8079,mushrooms,,29.0,deforestation,2016
+8080,mushrooms,,26.0,deforestation,2017
+8081,mushrooms,,37.0,deforestation,2018
+8082,mushrooms,,70.0,deforestation,2019
+8126,mustard seed,,0.0,deforestation,2004
+8127,mustard seed,,5.0,deforestation,2005
+8128,mustard seed,,2.0,deforestation,2006
+8129,mustard seed,,0.0,deforestation,2007
+8130,mustard seed,,0.0,deforestation,2008
+8131,mustard seed,,1.0,deforestation,2009
+8132,mustard seed,,0.0,deforestation,2010
+8133,mustard seed,,0.0,deforestation,2011
+8134,mustard seed,,0.0,deforestation,2012
+8135,mustard seed,,0.0,deforestation,2013
+8136,mustard seed,,0.0,deforestation,2014
+8137,mustard seed,,0.0,deforestation,2015
+8138,mustard seed,,0.0,deforestation,2016
+8139,mustard seed,,1.0,deforestation,2017
+8140,mustard seed,,0.0,deforestation,2018
+8141,mustard seed,,1.0,deforestation,2019
+8185,"nutmeg, mace and cardamoms",,474.0,deforestation,2004
+8186,"nutmeg, mace and cardamoms",,744.0,deforestation,2005
+8187,"nutmeg, mace and cardamoms",,1490.0,deforestation,2006
+8188,"nutmeg, mace and cardamoms",,368.0,deforestation,2007
+8189,"nutmeg, mace and cardamoms",,5.0,deforestation,2008
+8190,"nutmeg, mace and cardamoms",,2.0,deforestation,2009
+8191,"nutmeg, mace and cardamoms",,0.0,deforestation,2010
+8192,"nutmeg, mace and cardamoms",,13.0,deforestation,2011
+8193,"nutmeg, mace and cardamoms",,1.0,deforestation,2012
+8194,"nutmeg, mace and cardamoms",,0.0,deforestation,2013
+8195,"nutmeg, mace and cardamoms",,0.0,deforestation,2014
+8196,"nutmeg, mace and cardamoms",,26.0,deforestation,2015
+8197,"nutmeg, mace and cardamoms",,0.0,deforestation,2016
+8198,"nutmeg, mace and cardamoms",,0.0,deforestation,2017
+8199,"nutmeg, mace and cardamoms",,0.0,deforestation,2018
+8200,"nutmeg, mace and cardamoms",,1.0,deforestation,2019
+8244,nuts,,107522.0,deforestation,2004
+8245,nuts,,127143.0,deforestation,2005
+8246,nuts,,111935.0,deforestation,2006
+8247,nuts,,108419.0,deforestation,2007
+8248,nuts,,102408.0,deforestation,2008
+8249,nuts,,117295.0,deforestation,2009
+8250,nuts,,108729.0,deforestation,2010
+8251,nuts,,99882.0,deforestation,2011
+8252,nuts,,109895.0,deforestation,2012
+8253,nuts,,125596.0,deforestation,2013
+8254,nuts,,100449.0,deforestation,2014
+8255,nuts,,149370.0,deforestation,2015
+8256,nuts,,151256.0,deforestation,2016
+8257,nuts,,188047.0,deforestation,2017
+8258,nuts,,256720.0,deforestation,2018
+8259,nuts,,236997.0,deforestation,2019
+8303,oats,,2441.0,deforestation,2004
+8304,oats,,1602.0,deforestation,2005
+8305,oats,,994.0,deforestation,2006
+8306,oats,,1962.0,deforestation,2007
+8307,oats,,5112.0,deforestation,2008
+8308,oats,,9982.0,deforestation,2009
+8309,oats,,4369.0,deforestation,2010
+8310,oats,,9570.0,deforestation,2011
+8311,oats,,2477.0,deforestation,2012
+8312,oats,,7030.0,deforestation,2013
+8313,oats,,6493.0,deforestation,2014
+8314,oats,,10043.0,deforestation,2015
+8315,oats,,1663.0,deforestation,2016
+8316,oats,,2005.0,deforestation,2017
+8317,oats,,5394.0,deforestation,2018
+8318,oats,,5216.0,deforestation,2019
+8362,offals,,82304.0,deforestation,2004
+8363,offals,,88161.0,deforestation,2005
+8364,offals,,98684.0,deforestation,2006
+8365,offals,,112648.0,deforestation,2007
+8366,offals,,120669.0,deforestation,2008
+8367,offals,,141200.0,deforestation,2009
+8368,offals,,140218.0,deforestation,2010
+8369,offals,,158944.0,deforestation,2011
+8370,offals,,171137.0,deforestation,2012
+8371,offals,,194539.0,deforestation,2013
+8372,offals,,202578.0,deforestation,2014
+8373,offals,,181090.0,deforestation,2015
+8374,offals,,209883.0,deforestation,2016
+8375,offals,,218356.0,deforestation,2017
+8376,offals,,219496.0,deforestation,2018
+8377,offals,,234246.0,deforestation,2019
+8421,"oil, boiled etc",,6527.0,deforestation,2004
+8422,"oil, boiled etc",,11331.0,deforestation,2005
+8423,"oil, boiled etc",,14276.0,deforestation,2006
+8424,"oil, boiled etc",,19600.0,deforestation,2007
+8425,"oil, boiled etc",,8545.0,deforestation,2008
+8426,"oil, boiled etc",,9190.0,deforestation,2009
+8427,"oil, boiled etc",,14398.0,deforestation,2010
+8428,"oil, boiled etc",,11348.0,deforestation,2011
+8429,"oil, boiled etc",,12480.0,deforestation,2012
+8430,"oil, boiled etc",,10379.0,deforestation,2013
+8431,"oil, boiled etc",,7520.0,deforestation,2014
+8432,"oil, boiled etc",,11134.0,deforestation,2015
+8433,"oil, boiled etc",,11193.0,deforestation,2016
+8434,"oil, boiled etc",,8774.0,deforestation,2017
+8435,"oil, boiled etc",,10678.0,deforestation,2018
+8436,"oil, boiled etc",,13497.0,deforestation,2019
+8480,"oil, castor beans",,824.0,deforestation,2004
+8481,"oil, castor beans",,11782.0,deforestation,2005
+8482,"oil, castor beans",,4343.0,deforestation,2006
+8483,"oil, castor beans",,746.0,deforestation,2007
+8484,"oil, castor beans",,237.0,deforestation,2008
+8485,"oil, castor beans",,874.0,deforestation,2009
+8486,"oil, castor beans",,2007.0,deforestation,2010
+8487,"oil, castor beans",,10627.0,deforestation,2011
+8488,"oil, castor beans",,368.0,deforestation,2012
+8489,"oil, castor beans",,112.0,deforestation,2013
+8490,"oil, castor beans",,585.0,deforestation,2014
+8491,"oil, castor beans",,4598.0,deforestation,2015
+8492,"oil, castor beans",,1466.0,deforestation,2016
+8493,"oil, castor beans",,385.0,deforestation,2017
+8494,"oil, castor beans",,332.0,deforestation,2018
+8495,"oil, castor beans",,466.0,deforestation,2019
+8539,"oil, citronella",,0.0,deforestation,2004
+8540,"oil, citronella",,0.0,deforestation,2005
+8541,"oil, citronella",,0.0,deforestation,2006
+8542,"oil, citronella",,0.0,deforestation,2007
+8543,"oil, citronella",,0.0,deforestation,2008
+8544,"oil, citronella",,0.0,deforestation,2009
+8545,"oil, citronella",,0.0,deforestation,2010
+8546,"oil, citronella",,0.0,deforestation,2011
+8547,"oil, citronella",,0.0,deforestation,2012
+8548,"oil, citronella",,0.0,deforestation,2013
+8549,"oil, citronella",,0.0,deforestation,2014
+8550,"oil, citronella",,0.0,deforestation,2015
+8551,"oil, citronella",,0.0,deforestation,2016
+8552,"oil, citronella",,0.0,deforestation,2017
+8553,"oil, citronella",,0.0,deforestation,2018
+8554,"oil, citronella",,0.0,deforestation,2019
+8598,"oil, coconut (copra)",,2.0,deforestation,2004
+8599,"oil, coconut (copra)",,0.0,deforestation,2005
+8600,"oil, coconut (copra)",,2.0,deforestation,2006
+8601,"oil, coconut (copra)",,0.0,deforestation,2007
+8602,"oil, coconut (copra)",,0.0,deforestation,2008
+8603,"oil, coconut (copra)",,2.0,deforestation,2009
+8604,"oil, coconut (copra)",,0.0,deforestation,2010
+8605,"oil, coconut (copra)",,13.0,deforestation,2011
+8606,"oil, coconut (copra)",,24.0,deforestation,2012
+8607,"oil, coconut (copra)",,2.0,deforestation,2013
+8608,"oil, coconut (copra)",,1.0,deforestation,2014
+8609,"oil, coconut (copra)",,14.0,deforestation,2015
+8610,"oil, coconut (copra)",,75.0,deforestation,2016
+8611,"oil, coconut (copra)",,43.0,deforestation,2017
+8612,"oil, coconut (copra)",,28.0,deforestation,2018
+8613,"oil, coconut (copra)",,46.0,deforestation,2019
+8657,"oil, cottonseed",,44410.0,deforestation,2004
+8658,"oil, cottonseed",,62644.0,deforestation,2005
+8659,"oil, cottonseed",,26081.0,deforestation,2006
+8660,"oil, cottonseed",,17607.0,deforestation,2007
+8661,"oil, cottonseed",,20488.0,deforestation,2008
+8662,"oil, cottonseed",,6683.0,deforestation,2009
+8663,"oil, cottonseed",,56.0,deforestation,2010
+8664,"oil, cottonseed",,3521.0,deforestation,2011
+8665,"oil, cottonseed",,1000.0,deforestation,2012
+8666,"oil, cottonseed",,1.0,deforestation,2013
+8667,"oil, cottonseed",,2711.0,deforestation,2014
+8668,"oil, cottonseed",,7735.0,deforestation,2015
+8669,"oil, cottonseed",,14250.0,deforestation,2016
+8670,"oil, cottonseed",,3969.0,deforestation,2017
+8671,"oil, cottonseed",,512.0,deforestation,2018
+8672,"oil, cottonseed",,3041.0,deforestation,2019
+8716,"oil, essential nes",,73507.0,deforestation,2004
+8717,"oil, essential nes",,74356.0,deforestation,2005
+8718,"oil, essential nes",,78518.0,deforestation,2006
+8719,"oil, essential nes",,75651.0,deforestation,2007
+8720,"oil, essential nes",,72534.0,deforestation,2008
+8721,"oil, essential nes",,68681.0,deforestation,2009
+8722,"oil, essential nes",,70205.0,deforestation,2010
+8723,"oil, essential nes",,59443.0,deforestation,2011
+8724,"oil, essential nes",,66829.0,deforestation,2012
+8725,"oil, essential nes",,68915.0,deforestation,2013
+8726,"oil, essential nes",,56348.0,deforestation,2014
+8727,"oil, essential nes",,55916.0,deforestation,2015
+8728,"oil, essential nes",,52655.0,deforestation,2016
+8729,"oil, essential nes",,53794.0,deforestation,2017
+8730,"oil, essential nes",,54501.0,deforestation,2018
+8731,"oil, essential nes",,56149.0,deforestation,2019
+8775,"oil, groundnut",,8717.0,deforestation,2004
+8776,"oil, groundnut",,20524.0,deforestation,2005
+8777,"oil, groundnut",,17829.0,deforestation,2006
+8778,"oil, groundnut",,9152.0,deforestation,2007
+8779,"oil, groundnut",,19468.0,deforestation,2008
+8780,"oil, groundnut",,31056.0,deforestation,2009
+8781,"oil, groundnut",,23516.0,deforestation,2010
+8782,"oil, groundnut",,23485.0,deforestation,2011
+8783,"oil, groundnut",,37948.0,deforestation,2012
+8784,"oil, groundnut",,63250.0,deforestation,2013
+8785,"oil, groundnut",,38389.0,deforestation,2014
+8786,"oil, groundnut",,58729.0,deforestation,2015
+8787,"oil, groundnut",,45398.0,deforestation,2016
+8788,"oil, groundnut",,48683.0,deforestation,2017
+8789,"oil, groundnut",,63430.0,deforestation,2018
+8790,"oil, groundnut",,48676.0,deforestation,2019
+8834,"oil, linseed",,22.0,deforestation,2004
+8835,"oil, linseed",,13.0,deforestation,2005
+8836,"oil, linseed",,10.0,deforestation,2006
+8837,"oil, linseed",,521.0,deforestation,2007
+8838,"oil, linseed",,13.0,deforestation,2008
+8839,"oil, linseed",,4.0,deforestation,2009
+8840,"oil, linseed",,2.0,deforestation,2010
+8841,"oil, linseed",,3.0,deforestation,2011
+8842,"oil, linseed",,5.0,deforestation,2012
+8843,"oil, linseed",,5.0,deforestation,2013
+8844,"oil, linseed",,3.0,deforestation,2014
+8845,"oil, linseed",,6.0,deforestation,2015
+8846,"oil, linseed",,46.0,deforestation,2016
+8847,"oil, linseed",,6.0,deforestation,2017
+8848,"oil, linseed",,4.0,deforestation,2018
+8849,"oil, linseed",,6.0,deforestation,2019
+8893,"oil, maize",,36550.0,deforestation,2004
+8894,"oil, maize",,41221.0,deforestation,2005
+8895,"oil, maize",,35589.0,deforestation,2006
+8896,"oil, maize",,32997.0,deforestation,2007
+8897,"oil, maize",,25891.0,deforestation,2008
+8898,"oil, maize",,37666.0,deforestation,2009
+8899,"oil, maize",,32199.0,deforestation,2010
+8900,"oil, maize",,34435.0,deforestation,2011
+8901,"oil, maize",,35525.0,deforestation,2012
+8902,"oil, maize",,25965.0,deforestation,2013
+8903,"oil, maize",,1937.0,deforestation,2014
+8904,"oil, maize",,21187.0,deforestation,2015
+8905,"oil, maize",,34475.0,deforestation,2016
+8906,"oil, maize",,34452.0,deforestation,2017
+8907,"oil, maize",,20336.0,deforestation,2018
+8908,"oil, maize",,16305.0,deforestation,2019
+8952,"oil, olive",,73.0,deforestation,2004
+8953,"oil, olive",,62.0,deforestation,2005
+8954,"oil, olive",,88.0,deforestation,2006
+8955,"oil, olive",,41.0,deforestation,2007
+8956,"oil, olive",,54.0,deforestation,2008
+8957,"oil, olive",,39.0,deforestation,2009
+8958,"oil, olive",,23.0,deforestation,2010
+8959,"oil, olive",,34.0,deforestation,2011
+8960,"oil, olive",,33.0,deforestation,2012
+8961,"oil, olive",,39.0,deforestation,2013
+8962,"oil, olive",,48.0,deforestation,2014
+8963,"oil, olive",,195.0,deforestation,2015
+8964,"oil, olive",,233.0,deforestation,2016
+8965,"oil, olive",,36.0,deforestation,2017
+8966,"oil, olive",,16.0,deforestation,2018
+8967,"oil, olive",,71.0,deforestation,2019
+9011,"oil, palm",,13838.0,deforestation,2004
+9012,"oil, palm",,44991.0,deforestation,2005
+9013,"oil, palm",,24924.0,deforestation,2006
+9014,"oil, palm",,2822.0,deforestation,2007
+9015,"oil, palm",,9380.0,deforestation,2008
+9016,"oil, palm",,24933.0,deforestation,2009
+9017,"oil, palm",,17443.0,deforestation,2010
+9018,"oil, palm",,52237.0,deforestation,2011
+9019,"oil, palm",,69526.0,deforestation,2012
+9020,"oil, palm",,82806.0,deforestation,2013
+9021,"oil, palm",,108181.0,deforestation,2014
+9022,"oil, palm",,139258.0,deforestation,2015
+9023,"oil, palm",,47319.0,deforestation,2016
+9024,"oil, palm",,92544.0,deforestation,2017
+9025,"oil, palm",,31319.0,deforestation,2018
+9026,"oil, palm",,17384.0,deforestation,2019
+9070,"oil, rapeseed",,419.0,deforestation,2004
+9071,"oil, rapeseed",,3868.0,deforestation,2005
+9072,"oil, rapeseed",,331.0,deforestation,2006
+9073,"oil, rapeseed",,522.0,deforestation,2007
+9074,"oil, rapeseed",,2202.0,deforestation,2008
+9075,"oil, rapeseed",,1061.0,deforestation,2009
+9076,"oil, rapeseed",,1169.0,deforestation,2010
+9077,"oil, rapeseed",,608.0,deforestation,2011
+9078,"oil, rapeseed",,535.0,deforestation,2012
+9079,"oil, rapeseed",,391.0,deforestation,2013
+9080,"oil, rapeseed",,397.0,deforestation,2014
+9081,"oil, rapeseed",,415.0,deforestation,2015
+9082,"oil, rapeseed",,443.0,deforestation,2016
+9083,"oil, rapeseed",,381.0,deforestation,2017
+9084,"oil, rapeseed",,405.0,deforestation,2018
+9085,"oil, rapeseed",,346.0,deforestation,2019
+9129,"oil, sesame",,0.0,deforestation,2004
+9130,"oil, sesame",,0.0,deforestation,2005
+9131,"oil, sesame",,1.0,deforestation,2006
+9132,"oil, sesame",,4.0,deforestation,2007
+9133,"oil, sesame",,1.0,deforestation,2008
+9134,"oil, sesame",,1.0,deforestation,2009
+9135,"oil, sesame",,0.0,deforestation,2010
+9136,"oil, sesame",,8.0,deforestation,2011
+9137,"oil, sesame",,7.0,deforestation,2012
+9138,"oil, sesame",,0.0,deforestation,2013
+9139,"oil, sesame",,2.0,deforestation,2014
+9140,"oil, sesame",,5.0,deforestation,2015
+9141,"oil, sesame",,22.0,deforestation,2016
+9142,"oil, sesame",,38.0,deforestation,2017
+9143,"oil, sesame",,22.0,deforestation,2018
+9144,"oil, sesame",,21.0,deforestation,2019
+9188,"oil, soybean",,2517244.0,deforestation,2004
+9189,"oil, soybean",,2697054.0,deforestation,2005
+9190,"oil, soybean",,2419378.0,deforestation,2006
+9191,"oil, soybean",,2342541.0,deforestation,2007
+9192,"oil, soybean",,2315837.0,deforestation,2008
+9193,"oil, soybean",,1593649.0,deforestation,2009
+9194,"oil, soybean",,1559776.0,deforestation,2010
+9195,"oil, soybean",,1741413.0,deforestation,2011
+9196,"oil, soybean",,1757144.0,deforestation,2012
+9197,"oil, soybean",,1362467.0,deforestation,2013
+9198,"oil, soybean",,1305097.0,deforestation,2014
+9199,"oil, soybean",,1669949.0,deforestation,2015
+9200,"oil, soybean",,1254185.0,deforestation,2016
+9201,"oil, soybean",,1342511.0,deforestation,2017
+9202,"oil, soybean",,1414683.0,deforestation,2018
+9203,"oil, soybean",,1041966.0,deforestation,2019
+9247,"oil, vegetable origin nes",,85.0,deforestation,2004
+9248,"oil, vegetable origin nes",,923.0,deforestation,2005
+9249,"oil, vegetable origin nes",,2689.0,deforestation,2006
+9250,"oil, vegetable origin nes",,4446.0,deforestation,2007
+9251,"oil, vegetable origin nes",,1891.0,deforestation,2008
+9252,"oil, vegetable origin nes",,284.0,deforestation,2009
+9253,"oil, vegetable origin nes",,4788.0,deforestation,2010
+9254,"oil, vegetable origin nes",,11287.0,deforestation,2011
+9255,"oil, vegetable origin nes",,8516.0,deforestation,2012
+9256,"oil, vegetable origin nes",,6847.0,deforestation,2013
+9257,"oil, vegetable origin nes",,5908.0,deforestation,2014
+9258,"oil, vegetable origin nes",,18820.0,deforestation,2015
+9259,"oil, vegetable origin nes",,16627.0,deforestation,2016
+9260,"oil, vegetable origin nes",,17613.0,deforestation,2017
+9261,"oil, vegetable origin nes",,18854.0,deforestation,2018
+9262,"oil, vegetable origin nes",,19328.0,deforestation,2019
+9306,"oils, fats of animal nes",,3.0,deforestation,2004
+9307,"oils, fats of animal nes",,45.0,deforestation,2005
+9308,"oils, fats of animal nes",,45.0,deforestation,2006
+9309,"oils, fats of animal nes",,48.0,deforestation,2007
+9310,"oils, fats of animal nes",,23.0,deforestation,2008
+9311,"oils, fats of animal nes",,38.0,deforestation,2009
+9312,"oils, fats of animal nes",,12.0,deforestation,2010
+9313,"oils, fats of animal nes",,14.0,deforestation,2011
+9314,"oils, fats of animal nes",,0.0,deforestation,2012
+9315,"oils, fats of animal nes",,0.0,deforestation,2013
+9316,"oils, fats of animal nes",,1.0,deforestation,2014
+9317,"oils, fats of animal nes",,19.0,deforestation,2015
+9318,"oils, fats of animal nes",,4.0,deforestation,2016
+9319,"oils, fats of animal nes",,3.0,deforestation,2017
+9320,"oils, fats of animal nes",,3.0,deforestation,2018
+9321,"oils, fats of animal nes",,10.0,deforestation,2019
+9365,oilseeds,,19354530.0,deforestation,2004
+9366,oilseeds,,22454965.0,deforestation,2005
+9367,oilseeds,,24960197.0,deforestation,2006
+9368,oilseeds,,23747081.0,deforestation,2007
+9369,oilseeds,,24514338.0,deforestation,2008
+9370,oilseeds,,28638072.0,deforestation,2009
+9371,oilseeds,,29077648.0,deforestation,2010
+9372,oilseeds,,33025074.0,deforestation,2011
+9373,oilseeds,,32472495.0,deforestation,2012
+9374,oilseeds,,42797141.0,deforestation,2013
+9375,oilseeds,,45764646.0,deforestation,2014
+9376,oilseeds,,54417717.0,deforestation,2015
+9377,oilseeds,,51683414.0,deforestation,2016
+9378,oilseeds,,68173830.0,deforestation,2017
+9379,oilseeds,,83633598.0,deforestation,2018
+9380,oilseeds,,74146933.0,deforestation,2019
+9424,olives,,0.0,deforestation,2004
+9425,olives,,0.0,deforestation,2005
+9426,olives,,0.0,deforestation,2006
+9427,olives,,0.0,deforestation,2007
+9428,olives,,0.0,deforestation,2008
+9429,olives,,0.0,deforestation,2009
+9430,olives,,0.0,deforestation,2010
+9431,olives,,0.0,deforestation,2011
+9432,olives,,0.0,deforestation,2012
+9433,olives,,0.0,deforestation,2013
+9434,olives,,0.0,deforestation,2014
+9435,olives,,0.0,deforestation,2015
+9436,olives,,0.0,deforestation,2016
+9437,olives,,0.0,deforestation,2017
+9438,olives,,0.0,deforestation,2018
+9439,olives,,1.0,deforestation,2019
+9483,olives preserved,,146.0,deforestation,2004
+9484,olives preserved,,146.0,deforestation,2005
+9485,olives preserved,,156.0,deforestation,2006
+9486,olives preserved,,173.0,deforestation,2007
+9487,olives preserved,,227.0,deforestation,2008
+9488,olives preserved,,191.0,deforestation,2009
+9489,olives preserved,,212.0,deforestation,2010
+9490,olives preserved,,214.0,deforestation,2011
+9491,olives preserved,,229.0,deforestation,2012
+9492,olives preserved,,266.0,deforestation,2013
+9493,olives preserved,,268.0,deforestation,2014
+9494,olives preserved,,262.0,deforestation,2015
+9495,olives preserved,,262.0,deforestation,2016
+9496,olives preserved,,267.0,deforestation,2017
+9497,olives preserved,,285.0,deforestation,2018
+9498,olives preserved,,190.0,deforestation,2019
+9542,"onions, dry",,0.0,deforestation,2004
+9543,"onions, dry",,0.0,deforestation,2005
+9544,"onions, dry",,0.0,deforestation,2006
+9545,"onions, dry",,0.0,deforestation,2007
+9546,"onions, dry",,0.0,deforestation,2008
+9547,"onions, dry",,0.0,deforestation,2009
+9548,"onions, dry",,0.0,deforestation,2010
+9549,"onions, dry",,0.0,deforestation,2011
+9550,"onions, dry",,0.0,deforestation,2012
+9551,"onions, dry",,0.0,deforestation,2013
+9552,"onions, dry",,0.0,deforestation,2014
+9553,"onions, dry",,0.0,deforestation,2015
+9554,"onions, dry",,0.0,deforestation,2016
+9555,"onions, dry",,0.0,deforestation,2017
+9556,"onions, dry",,0.0,deforestation,2018
+9557,"onions, dry",,0.0,deforestation,2019
+9601,"onions, shallots, green",,3240.0,deforestation,2004
+9602,"onions, shallots, green",,1186.0,deforestation,2005
+9603,"onions, shallots, green",,1008.0,deforestation,2006
+9604,"onions, shallots, green",,37681.0,deforestation,2007
+9605,"onions, shallots, green",,6032.0,deforestation,2008
+9606,"onions, shallots, green",,374.0,deforestation,2009
+9607,"onions, shallots, green",,1212.0,deforestation,2010
+9608,"onions, shallots, green",,14079.0,deforestation,2011
+9609,"onions, shallots, green",,278.0,deforestation,2012
+9610,"onions, shallots, green",,3604.0,deforestation,2013
+9611,"onions, shallots, green",,1020.0,deforestation,2014
+9612,"onions, shallots, green",,4856.0,deforestation,2015
+9613,"onions, shallots, green",,21817.0,deforestation,2016
+9614,"onions, shallots, green",,12279.0,deforestation,2017
+9615,"onions, shallots, green",,21787.0,deforestation,2018
+9616,"onions, shallots, green",,11011.0,deforestation,2019
+9660,orange,,1584057.0,deforestation,2004
+9661,orange,,1777599.0,deforestation,2005
+9662,orange,,1772042.0,deforestation,2006
+9663,orange,,2066205.0,deforestation,2007
+9664,orange,,2053915.0,deforestation,2008
+9665,orange,,2069188.0,deforestation,2009
+9666,orange,,1977637.0,deforestation,2010
+9667,orange,,2006504.0,deforestation,2011
+9668,orange,,1895038.0,deforestation,2012
+9669,orange,,2120409.0,deforestation,2013
+9670,orange,,1928234.0,deforestation,2014
+9671,orange,,2007854.0,deforestation,2015
+9672,orange,,2314679.0,deforestation,2016
+9673,orange,,2149737.0,deforestation,2017
+9674,orange,,2461490.0,deforestation,2018
+9675,orange,,2250600.0,deforestation,2019
+9719,oranges,,90119.0,deforestation,2004
+9720,oranges,,30652.0,deforestation,2005
+9721,oranges,,50139.0,deforestation,2006
+9722,oranges,,49749.0,deforestation,2007
+9723,oranges,,38257.0,deforestation,2008
+9724,oranges,,26185.0,deforestation,2009
+9725,oranges,,37819.0,deforestation,2010
+9726,oranges,,33311.0,deforestation,2011
+9727,oranges,,22447.0,deforestation,2012
+9728,oranges,,23208.0,deforestation,2013
+9729,oranges,,20111.0,deforestation,2014
+9730,oranges,,23520.0,deforestation,2015
+9731,oranges,,31086.0,deforestation,2016
+9732,oranges,,32298.0,deforestation,2017
+9733,oranges,,26068.0,deforestation,2018
+9734,oranges,,2908.0,deforestation,2019
+9778,other food,,23018507.0,deforestation,2004
+9779,other food,,26047971.0,deforestation,2005
+9780,other food,,28959366.0,deforestation,2006
+9781,other food,,27946919.0,deforestation,2007
+9782,other food,,28768246.0,deforestation,2008
+9783,other food,,32897595.0,deforestation,2009
+9784,other food,,33990574.0,deforestation,2010
+9785,other food,,37416682.0,deforestation,2011
+9786,other food,,36272460.0,deforestation,2012
+9787,other food,,47021625.0,deforestation,2013
+9788,other food,,50772282.0,deforestation,2014
+9789,other food,,59309783.0,deforestation,2015
+9790,other food,,56243582.0,deforestation,2016
+9791,other food,,72434109.0,deforestation,2017
+9792,other food,,88416125.0,deforestation,2018
+9793,other food,,79764559.0,deforestation,2019
+9837,other meat,,24270.0,deforestation,2004
+9838,other meat,,24799.0,deforestation,2005
+9839,other meat,,29064.0,deforestation,2006
+9840,other meat,,146060.0,deforestation,2007
+9841,other meat,,224167.0,deforestation,2008
+9842,other meat,,208888.0,deforestation,2009
+9843,other meat,,197048.0,deforestation,2010
+9844,other meat,,198186.0,deforestation,2011
+9845,other meat,,182174.0,deforestation,2012
+9846,other meat,,182779.0,deforestation,2013
+9847,other meat,,193661.0,deforestation,2014
+9848,other meat,,184964.0,deforestation,2015
+9849,other meat,,187639.0,deforestation,2016
+9850,other meat,,149260.0,deforestation,2017
+9851,other meat,,104694.0,deforestation,2018
+9852,other meat,,134653.0,deforestation,2019
+9896,palm,,0.0,deforestation,2004
+9897,palm,,0.0,deforestation,2005
+9898,palm,,0.0,deforestation,2006
+9899,palm,,0.0,deforestation,2007
+9900,palm,,0.0,deforestation,2008
+9901,palm,,0.0,deforestation,2009
+9902,palm,,0.0,deforestation,2010
+9903,palm,,0.0,deforestation,2011
+9904,palm,,0.0,deforestation,2012
+9905,palm,,0.0,deforestation,2013
+9906,palm,,0.0,deforestation,2014
+9907,palm,,0.0,deforestation,2015
+9908,palm,,5.0,deforestation,2016
+9909,palm,,0.0,deforestation,2017
+9910,palm,,0.0,deforestation,2018
+9911,palm,,0.0,deforestation,2019
+9955,papayas,,35930.0,deforestation,2004
+9956,papayas,,38757.0,deforestation,2005
+9957,papayas,,32475.0,deforestation,2006
+9958,papayas,,32267.0,deforestation,2007
+9959,papayas,,29968.0,deforestation,2008
+9960,papayas,,27554.0,deforestation,2009
+9961,papayas,,25562.0,deforestation,2010
+9962,papayas,,28823.0,deforestation,2011
+9963,papayas,,26131.0,deforestation,2012
+9964,papayas,,28561.0,deforestation,2013
+9965,papayas,,33688.0,deforestation,2014
+9966,papayas,,39799.0,deforestation,2015
+9967,papayas,,37939.0,deforestation,2016
+9968,papayas,,39117.0,deforestation,2017
+9969,papayas,,42671.0,deforestation,2018
+9970,papayas,,44238.0,deforestation,2019
+10014,pastry,,37571.0,deforestation,2004
+10015,pastry,,36917.0,deforestation,2005
+10016,pastry,,36929.0,deforestation,2006
+10017,pastry,,33506.0,deforestation,2007
+10018,pastry,,35845.0,deforestation,2008
+10019,pastry,,32906.0,deforestation,2009
+10020,pastry,,31827.0,deforestation,2010
+10021,pastry,,31891.0,deforestation,2011
+10022,pastry,,33638.0,deforestation,2012
+10023,pastry,,36799.0,deforestation,2013
+10024,pastry,,37768.0,deforestation,2014
+10025,pastry,,30507.0,deforestation,2015
+10026,pastry,,29049.0,deforestation,2016
+10027,pastry,,33993.0,deforestation,2017
+10028,pastry,,38952.0,deforestation,2018
+10029,pastry,,45341.0,deforestation,2019
+10073,peaches and nectarines,,0.0,deforestation,2004
+10074,peaches and nectarines,,0.0,deforestation,2005
+10075,peaches and nectarines,,0.0,deforestation,2006
+10076,peaches and nectarines,,0.0,deforestation,2007
+10077,peaches and nectarines,,0.0,deforestation,2008
+10078,peaches and nectarines,,14.0,deforestation,2009
+10079,peaches and nectarines,,0.0,deforestation,2010
+10080,peaches and nectarines,,0.0,deforestation,2011
+10081,peaches and nectarines,,0.0,deforestation,2012
+10082,peaches and nectarines,,0.0,deforestation,2013
+10083,peaches and nectarines,,22.0,deforestation,2014
+10084,peaches and nectarines,,0.0,deforestation,2015
+10085,peaches and nectarines,,1.0,deforestation,2016
+10086,peaches and nectarines,,4.0,deforestation,2017
+10087,peaches and nectarines,,6.0,deforestation,2018
+10088,peaches and nectarines,,38.0,deforestation,2019
+10132,pears,,4.0,deforestation,2004
+10133,pears,,0.0,deforestation,2005
+10134,pears,,21.0,deforestation,2006
+10135,pears,,44.0,deforestation,2007
+10136,pears,,66.0,deforestation,2008
+10137,pears,,0.0,deforestation,2009
+10138,pears,,23.0,deforestation,2010
+10139,pears,,16.0,deforestation,2011
+10140,pears,,22.0,deforestation,2012
+10141,pears,,0.0,deforestation,2013
+10142,pears,,0.0,deforestation,2014
+10143,pears,,140.0,deforestation,2015
+10144,pears,,0.0,deforestation,2016
+10145,pears,,0.0,deforestation,2017
+10146,pears,,17.0,deforestation,2018
+10147,pears,,87.0,deforestation,2019
+10191,peas,,151.0,deforestation,2004
+10192,peas,,11.0,deforestation,2005
+10193,peas,,25.0,deforestation,2006
+10194,peas,,61.0,deforestation,2007
+10195,peas,,45.0,deforestation,2008
+10196,peas,,38.0,deforestation,2009
+10197,peas,,54.0,deforestation,2010
+10198,peas,,6.0,deforestation,2011
+10199,peas,,10.0,deforestation,2012
+10200,peas,,16.0,deforestation,2013
+10201,peas,,18.0,deforestation,2014
+10202,peas,,5.0,deforestation,2015
+10203,peas,,259.0,deforestation,2016
+10204,peas,,199.0,deforestation,2017
+10205,peas,,362.0,deforestation,2018
+10206,peas,,102.0,deforestation,2019
+10250,pepper,,43003.0,deforestation,2004
+10251,pepper,,38424.0,deforestation,2005
+10252,pepper,,42200.0,deforestation,2006
+10253,pepper,,38679.0,deforestation,2007
+10254,pepper,,36728.0,deforestation,2008
+10255,pepper,,35770.0,deforestation,2009
+10256,pepper,,30761.0,deforestation,2010
+10257,pepper,,32696.0,deforestation,2011
+10258,pepper,,29129.0,deforestation,2012
+10259,pepper,,30605.0,deforestation,2013
+10260,pepper,,34269.0,deforestation,2014
+10261,pepper,,38034.0,deforestation,2015
+10262,pepper,,31085.0,deforestation,2016
+10263,pepper,,59501.0,deforestation,2017
+10264,pepper,,72580.0,deforestation,2018
+10265,pepper,,84676.0,deforestation,2019
+10309,peppermint,,0.0,deforestation,2004
+10310,peppermint,,0.0,deforestation,2005
+10311,peppermint,,0.0,deforestation,2006
+10312,peppermint,,0.0,deforestation,2007
+10313,peppermint,,0.0,deforestation,2008
+10314,peppermint,,0.0,deforestation,2009
+10315,peppermint,,0.0,deforestation,2010
+10316,peppermint,,0.0,deforestation,2011
+10317,peppermint,,0.0,deforestation,2012
+10318,peppermint,,0.0,deforestation,2013
+10319,peppermint,,0.0,deforestation,2014
+10320,peppermint,,0.0,deforestation,2015
+10321,peppermint,,0.0,deforestation,2016
+10322,peppermint,,0.0,deforestation,2017
+10323,peppermint,,0.0,deforestation,2018
+10324,peppermint,,0.0,deforestation,2019
+10368,peppers,,8562.0,deforestation,2004
+10369,peppers,,9222.0,deforestation,2005
+10370,peppers,,4858.0,deforestation,2006
+10371,peppers,,6364.0,deforestation,2007
+10372,peppers,,5384.0,deforestation,2008
+10373,peppers,,8684.0,deforestation,2009
+10374,peppers,,2287.0,deforestation,2010
+10375,peppers,,380.0,deforestation,2011
+10376,peppers,,3206.0,deforestation,2012
+10377,peppers,,1805.0,deforestation,2013
+10378,peppers,,1769.0,deforestation,2014
+10379,peppers,,1580.0,deforestation,2015
+10380,peppers,,1030.0,deforestation,2016
+10381,peppers,,2073.0,deforestation,2017
+10382,peppers,,2200.0,deforestation,2018
+10383,peppers,,2858.0,deforestation,2019
+10427,persimmons,,802.0,deforestation,2004
+10428,persimmons,,842.0,deforestation,2005
+10429,persimmons,,995.0,deforestation,2006
+10430,persimmons,,864.0,deforestation,2007
+10431,persimmons,,1724.0,deforestation,2008
+10432,persimmons,,989.0,deforestation,2009
+10433,persimmons,,662.0,deforestation,2010
+10434,persimmons,,673.0,deforestation,2011
+10435,persimmons,,222.0,deforestation,2012
+10436,persimmons,,207.0,deforestation,2013
+10437,persimmons,,257.0,deforestation,2014
+10438,persimmons,,291.0,deforestation,2015
+10439,persimmons,,88.0,deforestation,2016
+10440,persimmons,,301.0,deforestation,2017
+10441,persimmons,,203.0,deforestation,2018
+10442,persimmons,,282.0,deforestation,2019
+10486,pet food,,35602.0,deforestation,2004
+10487,pet food,,39109.0,deforestation,2005
+10488,pet food,,34222.0,deforestation,2006
+10489,pet food,,26942.0,deforestation,2007
+10490,pet food,,28494.0,deforestation,2008
+10491,pet food,,23334.0,deforestation,2009
+10492,pet food,,20285.0,deforestation,2010
+10493,pet food,,20691.0,deforestation,2011
+10494,pet food,,22740.0,deforestation,2012
+10495,pet food,,19035.0,deforestation,2013
+10496,pet food,,17616.0,deforestation,2014
+10497,pet food,,22540.0,deforestation,2015
+10498,pet food,,47178.0,deforestation,2016
+10499,pet food,,52189.0,deforestation,2017
+10500,pet food,,40956.0,deforestation,2018
+10501,pet food,,41416.0,deforestation,2019
+10545,pig,,830785.0,deforestation,2004
+10546,pig,,1086364.0,deforestation,2005
+10547,pig,,873663.0,deforestation,2006
+10548,pig,,1017532.0,deforestation,2007
+10549,pig,,927524.0,deforestation,2008
+10550,pig,,974193.0,deforestation,2009
+10551,pig,,880320.0,deforestation,2010
+10552,pig,,843701.0,deforestation,2011
+10553,pig,,918396.0,deforestation,2012
+10554,pig,,832766.0,deforestation,2013
+10555,pig,,819047.0,deforestation,2014
+10556,pig,,833054.0,deforestation,2015
+10557,pig,,1042117.0,deforestation,2016
+10558,pig,,1016879.0,deforestation,2017
+10559,pig,,957551.0,deforestation,2018
+10560,pig,,1110520.0,deforestation,2019
+10604,pineapples,,24405.0,deforestation,2004
+10605,pineapples,,19979.0,deforestation,2005
+10606,pineapples,,22763.0,deforestation,2006
+10607,pineapples,,36856.0,deforestation,2007
+10608,pineapples,,32651.0,deforestation,2008
+10609,pineapples,,19936.0,deforestation,2009
+10610,pineapples,,1994.0,deforestation,2010
+10611,pineapples,,2445.0,deforestation,2011
+10612,pineapples,,1501.0,deforestation,2012
+10613,pineapples,,1302.0,deforestation,2013
+10614,pineapples,,1448.0,deforestation,2014
+10615,pineapples,,1823.0,deforestation,2015
+10616,pineapples,,3223.0,deforestation,2016
+10617,pineapples,,4050.0,deforestation,2017
+10618,pineapples,,1693.0,deforestation,2018
+10619,pineapples,,2349.0,deforestation,2019
+10663,pistachios,,0.0,deforestation,2004
+10664,pistachios,,0.0,deforestation,2005
+10665,pistachios,,6.0,deforestation,2006
+10666,pistachios,,0.0,deforestation,2007
+10667,pistachios,,0.0,deforestation,2008
+10668,pistachios,,1.0,deforestation,2009
+10669,pistachios,,1.0,deforestation,2010
+10670,pistachios,,0.0,deforestation,2011
+10671,pistachios,,0.0,deforestation,2012
+10672,pistachios,,2.0,deforestation,2013
+10673,pistachios,,1.0,deforestation,2014
+10674,pistachios,,2.0,deforestation,2015
+10675,pistachios,,0.0,deforestation,2016
+10676,pistachios,,0.0,deforestation,2017
+10677,pistachios,,0.0,deforestation,2018
+10678,pistachios,,2.0,deforestation,2019
+10722,plantains and others,,0.0,deforestation,2004
+10723,plantains and others,,0.0,deforestation,2005
+10724,plantains and others,,0.0,deforestation,2006
+10725,plantains and others,,0.0,deforestation,2007
+10726,plantains and others,,0.0,deforestation,2008
+10727,plantains and others,,0.0,deforestation,2009
+10728,plantains and others,,0.0,deforestation,2010
+10729,plantains and others,,0.0,deforestation,2011
+10730,plantains and others,,2726.0,deforestation,2012
+10731,plantains and others,,1239.0,deforestation,2013
+10732,plantains and others,,483.0,deforestation,2014
+10733,plantains and others,,630.0,deforestation,2015
+10734,plantains and others,,794.0,deforestation,2016
+10735,plantains and others,,464.0,deforestation,2017
+10736,plantains and others,,667.0,deforestation,2018
+10737,plantains and others,,1006.0,deforestation,2019
+10781,plums and sloes,,17.0,deforestation,2004
+10782,plums and sloes,,0.0,deforestation,2005
+10783,plums and sloes,,0.0,deforestation,2006
+10784,plums and sloes,,0.0,deforestation,2007
+10785,plums and sloes,,19.0,deforestation,2008
+10786,plums and sloes,,0.0,deforestation,2009
+10787,plums and sloes,,0.0,deforestation,2010
+10788,plums and sloes,,1.0,deforestation,2011
+10789,plums and sloes,,1.0,deforestation,2012
+10790,plums and sloes,,2.0,deforestation,2013
+10791,plums and sloes,,2.0,deforestation,2014
+10792,plums and sloes,,0.0,deforestation,2015
+10793,plums and sloes,,0.0,deforestation,2016
+10794,plums and sloes,,22.0,deforestation,2017
+10795,plums and sloes,,2.0,deforestation,2018
+10796,plums and sloes,,15.0,deforestation,2019
+10840,plums dried (prunes),,1.0,deforestation,2004
+10841,plums dried (prunes),,6.0,deforestation,2005
+10842,plums dried (prunes),,16.0,deforestation,2006
+10843,plums dried (prunes),,16.0,deforestation,2007
+10844,plums dried (prunes),,16.0,deforestation,2008
+10845,plums dried (prunes),,15.0,deforestation,2009
+10846,plums dried (prunes),,16.0,deforestation,2010
+10847,plums dried (prunes),,14.0,deforestation,2011
+10848,plums dried (prunes),,5.0,deforestation,2012
+10849,plums dried (prunes),,1.0,deforestation,2013
+10850,plums dried (prunes),,1.0,deforestation,2014
+10851,plums dried (prunes),,2.0,deforestation,2015
+10852,plums dried (prunes),,4.0,deforestation,2016
+10853,plums dried (prunes),,2.0,deforestation,2017
+10854,plums dried (prunes),,2.0,deforestation,2018
+10855,plums dried (prunes),,4.0,deforestation,2019
+10899,poppy seed,,0.0,deforestation,2004
+10900,poppy seed,,0.0,deforestation,2005
+10901,poppy seed,,0.0,deforestation,2006
+10902,poppy seed,,0.0,deforestation,2007
+10903,poppy seed,,0.0,deforestation,2008
+10904,poppy seed,,0.0,deforestation,2009
+10905,poppy seed,,0.0,deforestation,2010
+10906,poppy seed,,0.0,deforestation,2011
+10907,poppy seed,,0.0,deforestation,2012
+10908,poppy seed,,0.0,deforestation,2013
+10909,poppy seed,,0.0,deforestation,2014
+10910,poppy seed,,0.0,deforestation,2015
+10911,poppy seed,,0.0,deforestation,2016
+10912,poppy seed,,0.0,deforestation,2017
+10913,poppy seed,,0.0,deforestation,2018
+10914,poppy seed,,0.0,deforestation,2019
+10958,potatoes,,34.0,deforestation,2004
+10959,potatoes,,296.0,deforestation,2005
+10960,potatoes,,43.0,deforestation,2006
+10961,potatoes,,13296.0,deforestation,2007
+10962,potatoes,,1161.0,deforestation,2008
+10963,potatoes,,4355.0,deforestation,2009
+10964,potatoes,,709.0,deforestation,2010
+10965,potatoes,,3041.0,deforestation,2011
+10966,potatoes,,298.0,deforestation,2012
+10967,potatoes,,2025.0,deforestation,2013
+10968,potatoes,,9244.0,deforestation,2014
+10969,potatoes,,10725.0,deforestation,2015
+10970,potatoes,,2477.0,deforestation,2016
+10971,potatoes,,21045.0,deforestation,2017
+10972,potatoes,,13032.0,deforestation,2018
+10973,potatoes,,2677.0,deforestation,2019
+11017,pulses,,2157.0,deforestation,2004
+11018,pulses,,2328.0,deforestation,2005
+11019,pulses,,7828.0,deforestation,2006
+11020,pulses,,30988.0,deforestation,2007
+11021,pulses,,2018.0,deforestation,2008
+11022,pulses,,33072.0,deforestation,2009
+11023,pulses,,4366.0,deforestation,2010
+11024,pulses,,20469.0,deforestation,2011
+11025,pulses,,43358.0,deforestation,2012
+11026,pulses,,35322.0,deforestation,2013
+11027,pulses,,65204.0,deforestation,2014
+11028,pulses,,122644.0,deforestation,2015
+11029,pulses,,45436.0,deforestation,2016
+11030,pulses,,122945.0,deforestation,2017
+11031,pulses,,152949.0,deforestation,2018
+11032,pulses,,166273.0,deforestation,2019
+11076,"pumpkins, squash and gourds",,0.0,deforestation,2004
+11077,"pumpkins, squash and gourds",,0.0,deforestation,2005
+11078,"pumpkins, squash and gourds",,0.0,deforestation,2006
+11079,"pumpkins, squash and gourds",,0.0,deforestation,2007
+11080,"pumpkins, squash and gourds",,0.0,deforestation,2008
+11081,"pumpkins, squash and gourds",,0.0,deforestation,2009
+11082,"pumpkins, squash and gourds",,0.0,deforestation,2010
+11083,"pumpkins, squash and gourds",,0.0,deforestation,2011
+11084,"pumpkins, squash and gourds",,77.0,deforestation,2012
+11085,"pumpkins, squash and gourds",,276.0,deforestation,2013
+11086,"pumpkins, squash and gourds",,1126.0,deforestation,2014
+11087,"pumpkins, squash and gourds",,0.0,deforestation,2015
+11088,"pumpkins, squash and gourds",,11383.0,deforestation,2016
+11089,"pumpkins, squash and gourds",,4031.0,deforestation,2017
+11090,"pumpkins, squash and gourds",,6559.0,deforestation,2018
+11091,"pumpkins, squash and gourds",,7439.0,deforestation,2019
+11135,"pyrethrum, dried",,0.0,deforestation,2004
+11136,"pyrethrum, dried",,0.0,deforestation,2005
+11137,"pyrethrum, dried",,0.0,deforestation,2006
+11138,"pyrethrum, dried",,0.0,deforestation,2007
+11139,"pyrethrum, dried",,0.0,deforestation,2008
+11140,"pyrethrum, dried",,0.0,deforestation,2009
+11141,"pyrethrum, dried",,0.0,deforestation,2010
+11142,"pyrethrum, dried",,0.0,deforestation,2011
+11143,"pyrethrum, dried",,0.0,deforestation,2012
+11144,"pyrethrum, dried",,0.0,deforestation,2013
+11145,"pyrethrum, dried",,0.0,deforestation,2014
+11146,"pyrethrum, dried",,0.0,deforestation,2015
+11147,"pyrethrum, dried",,0.0,deforestation,2016
+11148,"pyrethrum, dried",,0.0,deforestation,2017
+11149,"pyrethrum, dried",,0.0,deforestation,2018
+11150,"pyrethrum, dried",,0.0,deforestation,2019
+11194,"pyrethrum, extraction",,0.0,deforestation,2004
+11195,"pyrethrum, extraction",,0.0,deforestation,2005
+11196,"pyrethrum, extraction",,0.0,deforestation,2006
+11197,"pyrethrum, extraction",,0.0,deforestation,2007
+11198,"pyrethrum, extraction",,0.0,deforestation,2008
+11199,"pyrethrum, extraction",,0.0,deforestation,2009
+11200,"pyrethrum, extraction",,0.0,deforestation,2010
+11201,"pyrethrum, extraction",,0.0,deforestation,2011
+11202,"pyrethrum, extraction",,0.0,deforestation,2012
+11203,"pyrethrum, extraction",,0.0,deforestation,2013
+11204,"pyrethrum, extraction",,0.0,deforestation,2014
+11205,"pyrethrum, extraction",,0.0,deforestation,2015
+11206,"pyrethrum, extraction",,0.0,deforestation,2016
+11207,"pyrethrum, extraction",,1.0,deforestation,2017
+11208,"pyrethrum, extraction",,6.0,deforestation,2018
+11209,"pyrethrum, extraction",,0.0,deforestation,2019
+11253,quinces,,1.0,deforestation,2004
+11254,quinces,,0.0,deforestation,2005
+11255,quinces,,0.0,deforestation,2006
+11256,quinces,,0.0,deforestation,2007
+11257,quinces,,0.0,deforestation,2008
+11258,quinces,,0.0,deforestation,2009
+11259,quinces,,0.0,deforestation,2010
+11260,quinces,,0.0,deforestation,2011
+11261,quinces,,0.0,deforestation,2012
+11262,quinces,,0.0,deforestation,2013
+11263,quinces,,0.0,deforestation,2014
+11264,quinces,,0.0,deforestation,2015
+11265,quinces,,0.0,deforestation,2016
+11266,quinces,,0.0,deforestation,2017
+11267,quinces,,1.0,deforestation,2018
+11268,quinces,,0.0,deforestation,2019
+11312,quinoa,,0.0,deforestation,2004
+11313,quinoa,,0.0,deforestation,2005
+11314,quinoa,,0.0,deforestation,2006
+11315,quinoa,,0.0,deforestation,2007
+11316,quinoa,,0.0,deforestation,2008
+11317,quinoa,,0.0,deforestation,2009
+11318,quinoa,,0.0,deforestation,2010
+11319,quinoa,,0.0,deforestation,2011
+11320,quinoa,,0.0,deforestation,2012
+11321,quinoa,,0.0,deforestation,2013
+11322,quinoa,,0.0,deforestation,2014
+11323,quinoa,,0.0,deforestation,2015
+11324,quinoa,,0.0,deforestation,2016
+11325,quinoa,,0.0,deforestation,2017
+11326,quinoa,,0.0,deforestation,2018
+11327,quinoa,,0.0,deforestation,2019
+11371,raisins,,36.0,deforestation,2004
+11372,raisins,,0.0,deforestation,2005
+11373,raisins,,3.0,deforestation,2006
+11374,raisins,,1.0,deforestation,2007
+11375,raisins,,2.0,deforestation,2008
+11376,raisins,,18.0,deforestation,2009
+11377,raisins,,3.0,deforestation,2010
+11378,raisins,,2.0,deforestation,2011
+11379,raisins,,2.0,deforestation,2012
+11380,raisins,,1.0,deforestation,2013
+11381,raisins,,21.0,deforestation,2014
+11382,raisins,,14.0,deforestation,2015
+11383,raisins,,2.0,deforestation,2016
+11384,raisins,,1.0,deforestation,2017
+11385,raisins,,2.0,deforestation,2018
+11386,raisins,,6.0,deforestation,2019
+11430,rapeseed,,26.0,deforestation,2004
+11431,rapeseed,,63.0,deforestation,2005
+11432,rapeseed,,0.0,deforestation,2006
+11433,rapeseed,,2.0,deforestation,2007
+11434,rapeseed,,0.0,deforestation,2008
+11435,rapeseed,,0.0,deforestation,2009
+11436,rapeseed,,14.0,deforestation,2010
+11437,rapeseed,,0.0,deforestation,2011
+11438,rapeseed,,4.0,deforestation,2012
+11439,rapeseed,,0.0,deforestation,2013
+11440,rapeseed,,0.0,deforestation,2014
+11441,rapeseed,,0.0,deforestation,2015
+11442,rapeseed,,623.0,deforestation,2016
+11443,rapeseed,,255.0,deforestation,2017
+11444,rapeseed,,303.0,deforestation,2018
+11445,rapeseed,,192.0,deforestation,2019
+11489,rice,,73358.0,deforestation,2004
+11490,rice,,544354.0,deforestation,2005
+11491,rice,,580038.0,deforestation,2006
+11492,rice,,402817.0,deforestation,2007
+11493,rice,,1028600.0,deforestation,2008
+11494,rice,,1191847.0,deforestation,2009
+11495,rice,,843521.0,deforestation,2010
+11496,rice,,2642518.0,deforestation,2011
+11497,rice,,2251938.0,deforestation,2012
+11498,rice,,1734451.0,deforestation,2013
+11499,rice,,1767149.0,deforestation,2014
+11500,rice,,1845520.0,deforestation,2015
+11501,rice,,1328271.0,deforestation,2016
+11502,rice,,1213126.0,deforestation,2017
+11503,rice,,2669378.0,deforestation,2018
+11504,rice,,2031307.0,deforestation,2019
+11548,roots,,22097.0,deforestation,2004
+11549,roots,,24791.0,deforestation,2005
+11550,roots,,23386.0,deforestation,2006
+11551,roots,,41166.0,deforestation,2007
+11552,roots,,25033.0,deforestation,2008
+11553,roots,,28592.0,deforestation,2009
+11554,roots,,14873.0,deforestation,2010
+11555,roots,,20262.0,deforestation,2011
+11556,roots,,19049.0,deforestation,2012
+11557,roots,,18868.0,deforestation,2013
+11558,roots,,26152.0,deforestation,2014
+11559,roots,,42486.0,deforestation,2015
+11560,roots,,47194.0,deforestation,2016
+11561,roots,,42703.0,deforestation,2017
+11562,roots,,48104.0,deforestation,2018
+11563,roots,,37738.0,deforestation,2019
+11607,rubber,,549.0,deforestation,2004
+11608,rubber,,325.0,deforestation,2005
+11609,rubber,,408.0,deforestation,2006
+11610,rubber,,1915.0,deforestation,2007
+11611,rubber,,911.0,deforestation,2008
+11612,rubber,,3328.0,deforestation,2009
+11613,rubber,,14754.0,deforestation,2010
+11614,rubber,,15523.0,deforestation,2011
+11615,rubber,,18460.0,deforestation,2012
+11616,rubber,,3400.0,deforestation,2013
+11617,rubber,,2428.0,deforestation,2014
+11618,rubber,,4644.0,deforestation,2015
+11619,rubber,,2962.0,deforestation,2016
+11620,rubber,,5086.0,deforestation,2017
+11621,rubber,,1202.0,deforestation,2018
+11622,rubber,,1640.0,deforestation,2019
+11666,rye,,27.0,deforestation,2004
+11667,rye,,0.0,deforestation,2005
+11668,rye,,200.0,deforestation,2006
+11669,rye,,22.0,deforestation,2007
+11670,rye,,0.0,deforestation,2008
+11671,rye,,0.0,deforestation,2009
+11672,rye,,0.0,deforestation,2010
+11673,rye,,0.0,deforestation,2011
+11674,rye,,0.0,deforestation,2012
+11675,rye,,2.0,deforestation,2013
+11676,rye,,0.0,deforestation,2014
+11677,rye,,0.0,deforestation,2015
+11678,rye,,0.0,deforestation,2016
+11679,rye,,0.0,deforestation,2017
+11680,rye,,26.0,deforestation,2018
+11681,rye,,1.0,deforestation,2019
+11725,sesame seed,,1.0,deforestation,2004
+11726,sesame seed,,19.0,deforestation,2005
+11727,sesame seed,,75.0,deforestation,2006
+11728,sesame seed,,1.0,deforestation,2007
+11729,sesame seed,,65.0,deforestation,2008
+11730,sesame seed,,19.0,deforestation,2009
+11731,sesame seed,,90.0,deforestation,2010
+11732,sesame seed,,198.0,deforestation,2011
+11733,sesame seed,,95.0,deforestation,2012
+11734,sesame seed,,2.0,deforestation,2013
+11735,sesame seed,,415.0,deforestation,2014
+11736,sesame seed,,1389.0,deforestation,2015
+11737,sesame seed,,1556.0,deforestation,2016
+11738,sesame seed,,1955.0,deforestation,2017
+11739,sesame seed,,3159.0,deforestation,2018
+11740,sesame seed,,19960.0,deforestation,2019
+11784,sheep,,38.0,deforestation,2004
+11785,sheep,,4.0,deforestation,2005
+11786,sheep,,3.0,deforestation,2006
+11787,sheep,,139.0,deforestation,2007
+11788,sheep,,36.0,deforestation,2008
+11789,sheep,,48.0,deforestation,2009
+11790,sheep,,170.0,deforestation,2010
+11791,sheep,,103.0,deforestation,2011
+11792,sheep,,36.0,deforestation,2012
+11793,sheep,,21.0,deforestation,2013
+11794,sheep,,0.0,deforestation,2014
+11795,sheep,,0.0,deforestation,2015
+11796,sheep,,0.0,deforestation,2016
+11797,sheep,,0.0,deforestation,2017
+11798,sheep,,8.0,deforestation,2018
+11799,sheep,,51.0,deforestation,2019
+11843,silk,,24.0,deforestation,2004
+11844,silk,,40.0,deforestation,2005
+11845,silk,,6.0,deforestation,2006
+11846,silk,,36.0,deforestation,2007
+11847,silk,,13.0,deforestation,2008
+11848,silk,,8.0,deforestation,2009
+11849,silk,,6.0,deforestation,2010
+11850,silk,,0.0,deforestation,2011
+11851,silk,,0.0,deforestation,2012
+11852,silk,,0.0,deforestation,2013
+11853,silk,,0.0,deforestation,2014
+11854,silk,,0.0,deforestation,2015
+11855,silk,,0.0,deforestation,2016
+11856,silk,,0.0,deforestation,2017
+11857,silk,,0.0,deforestation,2018
+11858,silk,,0.0,deforestation,2019
+11902,"skins, calve, wet salted",,0.0,deforestation,2004
+11903,"skins, calve, wet salted",,0.0,deforestation,2005
+11904,"skins, calve, wet salted",,0.0,deforestation,2006
+11905,"skins, calve, wet salted",,0.0,deforestation,2007
+11906,"skins, calve, wet salted",,0.0,deforestation,2008
+11907,"skins, calve, wet salted",,0.0,deforestation,2009
+11908,"skins, calve, wet salted",,0.0,deforestation,2010
+11909,"skins, calve, wet salted",,0.0,deforestation,2011
+11910,"skins, calve, wet salted",,0.0,deforestation,2012
+11911,"skins, calve, wet salted",,0.0,deforestation,2013
+11912,"skins, calve, wet salted",,0.0,deforestation,2014
+11913,"skins, calve, wet salted",,0.0,deforestation,2015
+11914,"skins, calve, wet salted",,0.0,deforestation,2016
+11915,"skins, calve, wet salted",,0.0,deforestation,2017
+11916,"skins, calve, wet salted",,0.0,deforestation,2018
+11917,"skins, calve, wet salted",,0.0,deforestation,2019
+11961,"skins, goat, wet salted",,0.0,deforestation,2004
+11962,"skins, goat, wet salted",,0.0,deforestation,2005
+11963,"skins, goat, wet salted",,0.0,deforestation,2006
+11964,"skins, goat, wet salted",,0.0,deforestation,2007
+11965,"skins, goat, wet salted",,0.0,deforestation,2008
+11966,"skins, goat, wet salted",,0.0,deforestation,2009
+11967,"skins, goat, wet salted",,0.0,deforestation,2010
+11968,"skins, goat, wet salted",,0.0,deforestation,2011
+11969,"skins, goat, wet salted",,0.0,deforestation,2012
+11970,"skins, goat, wet salted",,0.0,deforestation,2013
+11971,"skins, goat, wet salted",,0.0,deforestation,2014
+11972,"skins, goat, wet salted",,0.0,deforestation,2015
+11973,"skins, goat, wet salted",,0.0,deforestation,2016
+11974,"skins, goat, wet salted",,0.0,deforestation,2017
+11975,"skins, goat, wet salted",,0.0,deforestation,2018
+11976,"skins, goat, wet salted",,0.0,deforestation,2019
+12020,sorghum,,133264.0,deforestation,2004
+12021,sorghum,,23649.0,deforestation,2005
+12022,sorghum,,8770.0,deforestation,2006
+12023,sorghum,,225430.0,deforestation,2007
+12024,sorghum,,5099.0,deforestation,2008
+12025,sorghum,,261.0,deforestation,2009
+12026,sorghum,,110.0,deforestation,2010
+12027,sorghum,,444.0,deforestation,2011
+12028,sorghum,,21.0,deforestation,2012
+12029,sorghum,,5340.0,deforestation,2013
+12030,sorghum,,17502.0,deforestation,2014
+12031,sorghum,,33069.0,deforestation,2015
+12032,sorghum,,4281.0,deforestation,2016
+12033,sorghum,,584.0,deforestation,2017
+12034,sorghum,,1425.0,deforestation,2018
+12035,sorghum,,32397.0,deforestation,2019
+12079,soya sauce,,164.0,deforestation,2004
+12080,soya sauce,,200.0,deforestation,2005
+12081,soya sauce,,244.0,deforestation,2006
+12082,soya sauce,,413.0,deforestation,2007
+12083,soya sauce,,448.0,deforestation,2008
+12084,soya sauce,,417.0,deforestation,2009
+12085,soya sauce,,555.0,deforestation,2010
+12086,soya sauce,,656.0,deforestation,2011
+12087,soya sauce,,702.0,deforestation,2012
+12088,soya sauce,,791.0,deforestation,2013
+12089,soya sauce,,702.0,deforestation,2014
+12090,soya sauce,,912.0,deforestation,2015
+12091,soya sauce,,840.0,deforestation,2016
+12092,soya sauce,,998.0,deforestation,2017
+12093,soya sauce,,1224.0,deforestation,2018
+12094,soya sauce,,997.0,deforestation,2019
+12138,soybeans,,33733312.0,deforestation,2004
+12139,soybeans,,36856752.0,deforestation,2005
+12140,soybeans,,37290326.0,deforestation,2006
+12141,soybeans,,36207959.0,deforestation,2007
+12142,soybeans,,36787387.0,deforestation,2008
+12143,soybeans,,40815698.0,deforestation,2009
+12144,soybeans,,42741799.0,deforestation,2010
+12145,soybeans,,47340731.0,deforestation,2011
+12146,soybeans,,46757071.0,deforestation,2012
+12147,soybeans,,56129653.0,deforestation,2013
+12148,soybeans,,59408324.0,deforestation,2014
+12149,soybeans,,69150900.0,deforestation,2015
+12150,soybeans,,66025667.0,deforestation,2016
+12151,soybeans,,82331615.0,deforestation,2017
+12152,soybeans,,100467198.0,deforestation,2018
+12153,soybeans,,90754725.0,deforestation,2019
+12197,spices nes,,914.0,deforestation,2004
+12198,spices nes,,755.0,deforestation,2005
+12199,spices nes,,862.0,deforestation,2006
+12200,spices nes,,145.0,deforestation,2007
+12201,spices nes,,252.0,deforestation,2008
+12202,spices nes,,43.0,deforestation,2009
+12203,spices nes,,107.0,deforestation,2010
+12204,spices nes,,28.0,deforestation,2011
+12205,spices nes,,821.0,deforestation,2012
+12206,spices nes,,1707.0,deforestation,2013
+12207,spices nes,,426.0,deforestation,2014
+12208,spices nes,,408.0,deforestation,2015
+12209,spices nes,,462.0,deforestation,2016
+12210,spices nes,,605.0,deforestation,2017
+12211,spices nes,,1216.0,deforestation,2018
+12212,spices nes,,2032.0,deforestation,2019
+12256,spinach,,1.0,deforestation,2004
+12257,spinach,,0.0,deforestation,2005
+12258,spinach,,0.0,deforestation,2006
+12259,spinach,,0.0,deforestation,2007
+12260,spinach,,0.0,deforestation,2008
+12261,spinach,,0.0,deforestation,2009
+12262,spinach,,0.0,deforestation,2010
+12263,spinach,,0.0,deforestation,2011
+12264,spinach,,0.0,deforestation,2012
+12265,spinach,,0.0,deforestation,2013
+12266,spinach,,0.0,deforestation,2014
+12267,spinach,,0.0,deforestation,2015
+12268,spinach,,0.0,deforestation,2016
+12269,spinach,,0.0,deforestation,2017
+12270,spinach,,7.0,deforestation,2018
+12271,spinach,,38.0,deforestation,2019
+12315,"starch, cassava",,8444.0,deforestation,2004
+12316,"starch, cassava",,11545.0,deforestation,2005
+12317,"starch, cassava",,11730.0,deforestation,2006
+12318,"starch, cassava",,12876.0,deforestation,2007
+12319,"starch, cassava",,9311.0,deforestation,2008
+12320,"starch, cassava",,9352.0,deforestation,2009
+12321,"starch, cassava",,3759.0,deforestation,2010
+12322,"starch, cassava",,6762.0,deforestation,2011
+12323,"starch, cassava",,7262.0,deforestation,2012
+12324,"starch, cassava",,6244.0,deforestation,2013
+12325,"starch, cassava",,5977.0,deforestation,2014
+12326,"starch, cassava",,21598.0,deforestation,2015
+12327,"starch, cassava",,13382.0,deforestation,2016
+12328,"starch, cassava",,4414.0,deforestation,2017
+12329,"starch, cassava",,4576.0,deforestation,2018
+12330,"starch, cassava",,6539.0,deforestation,2019
+12374,straw husks,,11490.0,deforestation,2004
+12375,straw husks,,70.0,deforestation,2005
+12376,straw husks,,8289.0,deforestation,2006
+12377,straw husks,,74.0,deforestation,2007
+12378,straw husks,,839.0,deforestation,2008
+12379,straw husks,,846.0,deforestation,2009
+12380,straw husks,,441.0,deforestation,2010
+12381,straw husks,,0.0,deforestation,2011
+12382,straw husks,,0.0,deforestation,2012
+12383,straw husks,,16.0,deforestation,2013
+12384,straw husks,,4.0,deforestation,2014
+12385,straw husks,,1.0,deforestation,2015
+12386,straw husks,,43.0,deforestation,2016
+12387,straw husks,,0.0,deforestation,2017
+12388,straw husks,,367.0,deforestation,2018
+12389,straw husks,,384.0,deforestation,2019
+12433,strawberries,,188.0,deforestation,2004
+12434,strawberries,,50.0,deforestation,2005
+12435,strawberries,,18.0,deforestation,2006
+12436,strawberries,,38.0,deforestation,2007
+12437,strawberries,,5.0,deforestation,2008
+12438,strawberries,,2.0,deforestation,2009
+12439,strawberries,,3.0,deforestation,2010
+12440,strawberries,,0.0,deforestation,2011
+12441,strawberries,,0.0,deforestation,2012
+12442,strawberries,,0.0,deforestation,2013
+12443,strawberries,,0.0,deforestation,2014
+12444,strawberries,,0.0,deforestation,2015
+12445,strawberries,,1.0,deforestation,2016
+12446,strawberries,,1.0,deforestation,2017
+12447,strawberries,,65.0,deforestation,2018
+12448,strawberries,,171.0,deforestation,2019
+12492,sugar,,31978018.0,deforestation,2004
+12493,sugar,,36719034.0,deforestation,2005
+12494,sugar,,38095995.0,deforestation,2006
+12495,sugar,,39008701.0,deforestation,2007
+12496,sugar,,39310316.0,deforestation,2008
+12497,sugar,,48917135.0,deforestation,2009
+12498,sugar,,56277149.0,deforestation,2010
+12499,sugar,,50975011.0,deforestation,2011
+12500,sugar,,48254787.0,deforestation,2012
+12501,sugar,,54489921.0,deforestation,2013
+12502,sugar,,48450757.0,deforestation,2014
+12503,sugar,,48216598.0,deforestation,2015
+12504,sugar,,58086789.0,deforestation,2016
+12505,sugar,,57634927.0,deforestation,2017
+12506,sugar,,42841532.0,deforestation,2018
+12507,sugar,,36046384.0,deforestation,2019
+12551,sunflower,,9168.0,deforestation,2004
+12552,sunflower,,2149.0,deforestation,2005
+12553,sunflower,,1217.0,deforestation,2006
+12554,sunflower,,6857.0,deforestation,2007
+12555,sunflower,,5727.0,deforestation,2008
+12556,sunflower,,1032.0,deforestation,2009
+12557,sunflower,,1219.0,deforestation,2010
+12558,sunflower,,701.0,deforestation,2011
+12559,sunflower,,657.0,deforestation,2012
+12560,sunflower,,567.0,deforestation,2013
+12561,sunflower,,479.0,deforestation,2014
+12562,sunflower,,2401.0,deforestation,2015
+12563,sunflower,,1743.0,deforestation,2016
+12564,sunflower,,164.0,deforestation,2017
+12565,sunflower,,563.0,deforestation,2018
+12566,sunflower,,144.0,deforestation,2019
+12610,sweet corn,,8462.0,deforestation,2004
+12611,sweet corn,,6735.0,deforestation,2005
+12612,sweet corn,,7525.0,deforestation,2006
+12613,sweet corn,,12458.0,deforestation,2007
+12614,sweet corn,,10245.0,deforestation,2008
+12615,sweet corn,,10792.0,deforestation,2009
+12616,sweet corn,,11283.0,deforestation,2010
+12617,sweet corn,,12308.0,deforestation,2011
+12618,sweet corn,,8743.0,deforestation,2012
+12619,sweet corn,,10776.0,deforestation,2013
+12620,sweet corn,,8599.0,deforestation,2014
+12621,sweet corn,,10686.0,deforestation,2015
+12622,sweet corn,,13268.0,deforestation,2016
+12623,sweet corn,,17128.0,deforestation,2017
+12624,sweet corn,,17737.0,deforestation,2018
+12625,sweet corn,,16780.0,deforestation,2019
+12669,sweet potatoes,,1103.0,deforestation,2004
+12670,sweet potatoes,,1512.0,deforestation,2005
+12671,sweet potatoes,,1963.0,deforestation,2006
+12672,sweet potatoes,,5921.0,deforestation,2007
+12673,sweet potatoes,,4808.0,deforestation,2008
+12674,sweet potatoes,,4839.0,deforestation,2009
+12675,sweet potatoes,,2904.0,deforestation,2010
+12676,sweet potatoes,,3857.0,deforestation,2011
+12677,sweet potatoes,,2811.0,deforestation,2012
+12678,sweet potatoes,,2784.0,deforestation,2013
+12679,sweet potatoes,,2658.0,deforestation,2014
+12680,sweet potatoes,,1829.0,deforestation,2015
+12681,sweet potatoes,,20237.0,deforestation,2016
+12682,sweet potatoes,,3905.0,deforestation,2017
+12683,sweet potatoes,,9714.0,deforestation,2018
+12684,sweet potatoes,,8797.0,deforestation,2019
+12728,tallow,,46347.0,deforestation,2004
+12729,tallow,,44491.0,deforestation,2005
+12730,tallow,,12445.0,deforestation,2006
+12731,tallow,,18516.0,deforestation,2007
+12732,tallow,,633.0,deforestation,2008
+12733,tallow,,3399.0,deforestation,2009
+12734,tallow,,5380.0,deforestation,2010
+12735,tallow,,261.0,deforestation,2011
+12736,tallow,,4054.0,deforestation,2012
+12737,tallow,,13865.0,deforestation,2013
+12738,tallow,,492.0,deforestation,2014
+12739,tallow,,843.0,deforestation,2015
+12740,tallow,,1323.0,deforestation,2016
+12741,tallow,,9087.0,deforestation,2017
+12742,tallow,,2051.0,deforestation,2018
+12743,tallow,,10429.0,deforestation,2019
+12787,"tangerines, mandarins, clementines, satsumas",,18014.0,deforestation,2004
+12788,"tangerines, mandarins, clementines, satsumas",,12475.0,deforestation,2005
+12789,"tangerines, mandarins, clementines, satsumas",,10712.0,deforestation,2006
+12790,"tangerines, mandarins, clementines, satsumas",,6128.0,deforestation,2007
+12791,"tangerines, mandarins, clementines, satsumas",,6761.0,deforestation,2008
+12792,"tangerines, mandarins, clementines, satsumas",,4412.0,deforestation,2009
+12793,"tangerines, mandarins, clementines, satsumas",,1976.0,deforestation,2010
+12794,"tangerines, mandarins, clementines, satsumas",,921.0,deforestation,2011
+12795,"tangerines, mandarins, clementines, satsumas",,1357.0,deforestation,2012
+12796,"tangerines, mandarins, clementines, satsumas",,638.0,deforestation,2013
+12797,"tangerines, mandarins, clementines, satsumas",,19.0,deforestation,2014
+12798,"tangerines, mandarins, clementines, satsumas",,525.0,deforestation,2015
+12799,"tangerines, mandarins, clementines, satsumas",,59.0,deforestation,2016
+12800,"tangerines, mandarins, clementines, satsumas",,430.0,deforestation,2017
+12801,"tangerines, mandarins, clementines, satsumas",,530.0,deforestation,2018
+12802,"tangerines, mandarins, clementines, satsumas",,440.0,deforestation,2019
+12846,tea,,3658.0,deforestation,2004
+12847,tea,,3427.0,deforestation,2005
+12848,tea,,3277.0,deforestation,2006
+12849,tea,,3433.0,deforestation,2007
+12850,tea,,3191.0,deforestation,2008
+12851,tea,,2458.0,deforestation,2009
+12852,tea,,2637.0,deforestation,2010
+12853,tea,,2117.0,deforestation,2011
+12854,tea,,1832.0,deforestation,2012
+12855,tea,,902.0,deforestation,2013
+12856,tea,,570.0,deforestation,2014
+12857,tea,,477.0,deforestation,2015
+12858,tea,,435.0,deforestation,2016
+12859,tea,,361.0,deforestation,2017
+12860,tea,,336.0,deforestation,2018
+12861,tea,,388.0,deforestation,2019
+12905,textile fibres,,413141.0,deforestation,2004
+12906,textile fibres,,469848.0,deforestation,2005
+12907,textile fibres,,400485.0,deforestation,2006
+12908,textile fibres,,494156.0,deforestation,2007
+12909,textile fibres,,607823.0,deforestation,2008
+12910,textile fibres,,577924.0,deforestation,2009
+12911,textile fibres,,568243.0,deforestation,2010
+12912,textile fibres,,818717.0,deforestation,2011
+12913,textile fibres,,1119979.0,deforestation,2012
+12914,textile fibres,,623167.0,deforestation,2013
+12915,textile fibres,,817443.0,deforestation,2014
+12916,textile fibres,,890800.0,deforestation,2015
+12917,textile fibres,,869468.0,deforestation,2016
+12918,textile fibres,,887240.0,deforestation,2017
+12919,textile fibres,,974016.0,deforestation,2018
+12920,textile fibres,,1682058.0,deforestation,2019
+12964,tobacco,,1182781.0,deforestation,2004
+12965,tobacco,,1256425.0,deforestation,2005
+12966,tobacco,,1158864.0,deforestation,2006
+12967,tobacco,,1415064.0,deforestation,2007
+12968,tobacco,,1379504.0,deforestation,2008
+12969,tobacco,,1347502.0,deforestation,2009
+12970,tobacco,,1010809.0,deforestation,2010
+12971,tobacco,,1090827.0,deforestation,2011
+12972,tobacco,,1275210.0,deforestation,2012
+12973,tobacco,,1253693.0,deforestation,2013
+12974,tobacco,,952068.0,deforestation,2014
+12975,tobacco,,1033242.0,deforestation,2015
+12976,tobacco,,965878.0,deforestation,2016
+12977,tobacco,,922775.0,deforestation,2017
+12978,tobacco,,920175.0,deforestation,2018
+12979,tobacco,,1101449.0,deforestation,2019
+13023,tomatoes,,15107.0,deforestation,2004
+13024,tomatoes,,10285.0,deforestation,2005
+13025,tomatoes,,6564.0,deforestation,2006
+13026,tomatoes,,17301.0,deforestation,2007
+13027,tomatoes,,10733.0,deforestation,2008
+13028,tomatoes,,7363.0,deforestation,2009
+13029,tomatoes,,8947.0,deforestation,2010
+13030,tomatoes,,6806.0,deforestation,2011
+13031,tomatoes,,3997.0,deforestation,2012
+13032,tomatoes,,4349.0,deforestation,2013
+13033,tomatoes,,2645.0,deforestation,2014
+13034,tomatoes,,2382.0,deforestation,2015
+13035,tomatoes,,7187.0,deforestation,2016
+13036,tomatoes,,8446.0,deforestation,2017
+13037,tomatoes,,9529.0,deforestation,2018
+13038,tomatoes,,3407.0,deforestation,2019
+13082,vanilla,,1.0,deforestation,2004
+13083,vanilla,,2.0,deforestation,2005
+13084,vanilla,,1.0,deforestation,2006
+13085,vanilla,,0.0,deforestation,2007
+13086,vanilla,,0.0,deforestation,2008
+13087,vanilla,,0.0,deforestation,2009
+13088,vanilla,,0.0,deforestation,2010
+13089,vanilla,,0.0,deforestation,2011
+13090,vanilla,,0.0,deforestation,2012
+13091,vanilla,,0.0,deforestation,2013
+13092,vanilla,,0.0,deforestation,2014
+13093,vanilla,,0.0,deforestation,2015
+13094,vanilla,,0.0,deforestation,2016
+13095,vanilla,,0.0,deforestation,2017
+13096,vanilla,,0.0,deforestation,2018
+13097,vanilla,,0.0,deforestation,2019
+13141,vegetable oil and fat,,2685857.0,deforestation,2004
+13142,vegetable oil and fat,,2924005.0,deforestation,2005
+13143,vegetable oil and fat,,2562732.0,deforestation,2006
+13144,vegetable oil and fat,,2456452.0,deforestation,2007
+13145,vegetable oil and fat,,2443413.0,deforestation,2008
+13146,vegetable oil and fat,,1728383.0,deforestation,2009
+13147,vegetable oil and fat,,1676836.0,deforestation,2010
+13148,vegetable oil and fat,,1921311.0,deforestation,2011
+13149,vegetable oil and fat,,1935082.0,deforestation,2012
+13150,vegetable oil and fat,,1572851.0,deforestation,2013
+13151,vegetable oil and fat,,1510407.0,deforestation,2014
+13152,vegetable oil and fat,,1954385.0,deforestation,2015
+13153,vegetable oil and fat,,1435162.0,deforestation,2016
+13154,vegetable oil and fat,,1558031.0,deforestation,2017
+13155,vegetable oil and fat,,1565204.0,deforestation,2018
+13156,vegetable oil and fat,,1168548.0,deforestation,2019
+13200,vegetables,,76565.0,deforestation,2004
+13201,vegetables,,69020.0,deforestation,2005
+13202,vegetables,,48893.0,deforestation,2006
+13203,vegetables,,130209.0,deforestation,2007
+13204,vegetables,,61848.0,deforestation,2008
+13205,vegetables,,56001.0,deforestation,2009
+13206,vegetables,,55292.0,deforestation,2010
+13207,vegetables,,63340.0,deforestation,2011
+13208,vegetables,,36635.0,deforestation,2012
+13209,vegetables,,44082.0,deforestation,2013
+13210,vegetables,,42858.0,deforestation,2014
+13211,vegetables,,47644.0,deforestation,2015
+13212,vegetables,,101234.0,deforestation,2016
+13213,vegetables,,79945.0,deforestation,2017
+13214,vegetables,,95155.0,deforestation,2018
+13215,vegetables,,82978.0,deforestation,2019
+13259,vermouths & similar,,450.0,deforestation,2004
+13260,vermouths & similar,,916.0,deforestation,2005
+13261,vermouths & similar,,866.0,deforestation,2006
+13262,vermouths & similar,,854.0,deforestation,2007
+13263,vermouths & similar,,667.0,deforestation,2008
+13264,vermouths & similar,,569.0,deforestation,2009
+13265,vermouths & similar,,167.0,deforestation,2010
+13266,vermouths & similar,,663.0,deforestation,2011
+13267,vermouths & similar,,398.0,deforestation,2012
+13268,vermouths & similar,,194.0,deforestation,2013
+13269,vermouths & similar,,218.0,deforestation,2014
+13270,vermouths & similar,,98.0,deforestation,2015
+13271,vermouths & similar,,76.0,deforestation,2016
+13272,vermouths & similar,,166.0,deforestation,2017
+13273,vermouths & similar,,112.0,deforestation,2018
+13274,vermouths & similar,,200.0,deforestation,2019
+13318,wafers,,10598.0,deforestation,2004
+13319,wafers,,13044.0,deforestation,2005
+13320,wafers,,14456.0,deforestation,2006
+13321,wafers,,14020.0,deforestation,2007
+13322,wafers,,17836.0,deforestation,2008
+13323,wafers,,15519.0,deforestation,2009
+13324,wafers,,16333.0,deforestation,2010
+13325,wafers,,13651.0,deforestation,2011
+13326,wafers,,13865.0,deforestation,2012
+13327,wafers,,14753.0,deforestation,2013
+13328,wafers,,19913.0,deforestation,2014
+13329,wafers,,17148.0,deforestation,2015
+13330,wafers,,17512.0,deforestation,2016
+13331,wafers,,19047.0,deforestation,2017
+13332,wafers,,20031.0,deforestation,2018
+13333,wafers,,20598.0,deforestation,2019
+13377,"walnuts, shelled",,579.0,deforestation,2004
+13378,"walnuts, shelled",,529.0,deforestation,2005
+13379,"walnuts, shelled",,582.0,deforestation,2006
+13380,"walnuts, shelled",,465.0,deforestation,2007
+13381,"walnuts, shelled",,239.0,deforestation,2008
+13382,"walnuts, shelled",,78.0,deforestation,2009
+13383,"walnuts, shelled",,203.0,deforestation,2010
+13384,"walnuts, shelled",,247.0,deforestation,2011
+13385,"walnuts, shelled",,238.0,deforestation,2012
+13386,"walnuts, shelled",,296.0,deforestation,2013
+13387,"walnuts, shelled",,171.0,deforestation,2014
+13388,"walnuts, shelled",,394.0,deforestation,2015
+13389,"walnuts, shelled",,179.0,deforestation,2016
+13390,"walnuts, shelled",,109.0,deforestation,2017
+13391,"walnuts, shelled",,353.0,deforestation,2018
+13392,"walnuts, shelled",,443.0,deforestation,2019
+13436,"walnuts, with shell",,222.0,deforestation,2004
+13437,"walnuts, with shell",,156.0,deforestation,2005
+13438,"walnuts, with shell",,167.0,deforestation,2006
+13439,"walnuts, with shell",,481.0,deforestation,2007
+13440,"walnuts, with shell",,145.0,deforestation,2008
+13441,"walnuts, with shell",,15.0,deforestation,2009
+13442,"walnuts, with shell",,64.0,deforestation,2010
+13443,"walnuts, with shell",,423.0,deforestation,2011
+13444,"walnuts, with shell",,190.0,deforestation,2012
+13445,"walnuts, with shell",,119.0,deforestation,2013
+13446,"walnuts, with shell",,17.0,deforestation,2014
+13447,"walnuts, with shell",,1.0,deforestation,2015
+13448,"walnuts, with shell",,2.0,deforestation,2016
+13449,"walnuts, with shell",,32.0,deforestation,2017
+13450,"walnuts, with shell",,21.0,deforestation,2018
+13451,"walnuts, with shell",,67.0,deforestation,2019
+13495,watermelons,,16143.0,deforestation,2004
+13496,watermelons,,22531.0,deforestation,2005
+13497,watermelons,,30333.0,deforestation,2006
+13498,watermelons,,33649.0,deforestation,2007
+13499,watermelons,,43469.0,deforestation,2008
+13500,watermelons,,39039.0,deforestation,2009
+13501,watermelons,,28262.0,deforestation,2010
+13502,watermelons,,29287.0,deforestation,2011
+13503,watermelons,,33544.0,deforestation,2012
+13504,watermelons,,32050.0,deforestation,2013
+13505,watermelons,,30682.0,deforestation,2014
+13506,watermelons,,54954.0,deforestation,2015
+13507,watermelons,,67437.0,deforestation,2016
+13508,watermelons,,73852.0,deforestation,2017
+13509,watermelons,,67667.0,deforestation,2018
+13510,watermelons,,102987.0,deforestation,2019
+13554,"waters,ice etc",,385.0,deforestation,2004
+13555,"waters,ice etc",,317.0,deforestation,2005
+13556,"waters,ice etc",,880.0,deforestation,2006
+13557,"waters,ice etc",,859.0,deforestation,2007
+13558,"waters,ice etc",,400.0,deforestation,2008
+13559,"waters,ice etc",,1223.0,deforestation,2009
+13560,"waters,ice etc",,251.0,deforestation,2010
+13561,"waters,ice etc",,423.0,deforestation,2011
+13562,"waters,ice etc",,428.0,deforestation,2012
+13563,"waters,ice etc",,213.0,deforestation,2013
+13564,"waters,ice etc",,485.0,deforestation,2014
+13565,"waters,ice etc",,680.0,deforestation,2015
+13566,"waters,ice etc",,768.0,deforestation,2016
+13567,"waters,ice etc",,790.0,deforestation,2017
+13568,"waters,ice etc",,2448.0,deforestation,2018
+13569,"waters,ice etc",,9798.0,deforestation,2019
+13613,waxes vegetable,,14286.0,deforestation,2004
+13614,waxes vegetable,,14885.0,deforestation,2005
+13615,waxes vegetable,,16021.0,deforestation,2006
+13616,waxes vegetable,,15468.0,deforestation,2007
+13617,waxes vegetable,,15195.0,deforestation,2008
+13618,waxes vegetable,,12245.0,deforestation,2009
+13619,waxes vegetable,,17660.0,deforestation,2010
+13620,waxes vegetable,,15828.0,deforestation,2011
+13621,waxes vegetable,,15289.0,deforestation,2012
+13622,waxes vegetable,,15732.0,deforestation,2013
+13623,waxes vegetable,,16128.0,deforestation,2014
+13624,waxes vegetable,,16019.0,deforestation,2015
+13625,waxes vegetable,,15859.0,deforestation,2016
+13626,waxes vegetable,,15696.0,deforestation,2017
+13627,waxes vegetable,,14137.0,deforestation,2018
+13628,waxes vegetable,,15911.0,deforestation,2019
+13672,wheat,,1324344.0,deforestation,2004
+13673,wheat,,157231.0,deforestation,2005
+13674,wheat,,652810.0,deforestation,2006
+13675,wheat,,105222.0,deforestation,2007
+13676,wheat,,645726.0,deforestation,2008
+13677,wheat,,385352.0,deforestation,2009
+13678,wheat,,1324732.0,deforestation,2010
+13679,wheat,,2351459.0,deforestation,2011
+13680,wheat,,2405702.0,deforestation,2012
+13681,wheat,,1189653.0,deforestation,2013
+13682,wheat,,278203.0,deforestation,2014
+13683,wheat,,1780197.0,deforestation,2015
+13684,wheat,,714721.0,deforestation,2016
+13685,wheat,,619309.0,deforestation,2017
+13686,wheat,,222901.0,deforestation,2018
+13687,wheat,,565167.0,deforestation,2019
+13731,wine,,3001.0,deforestation,2004
+13732,wine,,3641.0,deforestation,2005
+13733,wine,,3576.0,deforestation,2006
+13734,wine,,3333.0,deforestation,2007
+13735,wine,,10702.0,deforestation,2008
+13736,wine,,28375.0,deforestation,2009
+13737,wine,,10538.0,deforestation,2010
+13738,wine,,1327.0,deforestation,2011
+13739,wine,,5948.0,deforestation,2012
+13740,wine,,20035.0,deforestation,2013
+13741,wine,,2776.0,deforestation,2014
+13742,wine,,1343.0,deforestation,2015
+13743,wine,,1961.0,deforestation,2016
+13744,wine,,3148.0,deforestation,2017
+13745,wine,,4204.0,deforestation,2018
+13746,wine,,3956.0,deforestation,2019
+13790,wool,,3409.0,deforestation,2004
+13791,wool,,3637.0,deforestation,2005
+13792,wool,,6368.0,deforestation,2006
+13793,wool,,5965.0,deforestation,2007
+13794,wool,,5166.0,deforestation,2008
+13795,wool,,9213.0,deforestation,2009
+13796,wool,,8150.0,deforestation,2010
+13797,wool,,6150.0,deforestation,2011
+13798,wool,,7552.0,deforestation,2012
+13799,wool,,10015.0,deforestation,2013
+13800,wool,,9774.0,deforestation,2014
+13801,wool,,9863.0,deforestation,2015
+13802,wool,,7353.0,deforestation,2016
+13803,wool,,6706.0,deforestation,2017
+13804,wool,,7772.0,deforestation,2018
+13805,wool,,7923.0,deforestation,2019
+13849,"yoghurt, concentrated or not",,60.0,deforestation,2004
+13850,"yoghurt, concentrated or not",,49.0,deforestation,2005
+13851,"yoghurt, concentrated or not",,0.0,deforestation,2006
+13852,"yoghurt, concentrated or not",,8.0,deforestation,2007
+13853,"yoghurt, concentrated or not",,0.0,deforestation,2008
+13854,"yoghurt, concentrated or not",,0.0,deforestation,2009
+13855,"yoghurt, concentrated or not",,225.0,deforestation,2010
+13856,"yoghurt, concentrated or not",,44.0,deforestation,2011
+13857,"yoghurt, concentrated or not",,37.0,deforestation,2012
+13858,"yoghurt, concentrated or not",,0.0,deforestation,2013
+13859,"yoghurt, concentrated or not",,71.0,deforestation,2014
+13860,"yoghurt, concentrated or not",,47.0,deforestation,2015
+13861,"yoghurt, concentrated or not",,0.0,deforestation,2016
+13862,"yoghurt, concentrated or not",,165.0,deforestation,2017
+13863,"yoghurt, concentrated or not",,409.0,deforestation,2018
+13864,"yoghurt, concentrated or not",,388.0,deforestation,2019
