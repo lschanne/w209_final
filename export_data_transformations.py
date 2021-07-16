@@ -137,23 +137,31 @@ brazil_joined_data = brazil_exports.merge(
     how='left',
 )
 
-brazil_corr_data = pd.DataFrame(columns=['item', 'n', 'corr'])
+brazil_corr_data = pd.DataFrame(columns=['item', 'n', 'corr', 'total_tonnes_exported'])
 for item, group in brazil_joined_data.groupby('item'):
     group = group.loc[
         group['tonnes_exported'].notna() & group['deforested_area_km2'].notna()
     ]
     n = group.shape[0]
     correlation = group['tonnes_exported'].corr(group['deforested_area_km2'])
+    total_tonnes_exported = group['tonnes_exported'].sum()
     if not np.isnan(correlation) and n >= 8:
         brazil_corr_data = brazil_corr_data.append(
-            pd.DataFrame({'item': [item], 'n': [n], 'corr': [correlation]}),
+            pd.DataFrame(
+                {
+                    'item': [item],
+                    'n': [n],
+                    'corr': [correlation],
+                    'total_tonnes_exported': [total_tonnes_exported],
+                },
+            ),
             ignore_index=True,
         )
 
 brazil_joined_data.to_csv(
     f'{data_dir}/processed/brazil_joined_data.csv',
 )
-brazil_corr_data.sort_values('corr', ascending=False).to_csv(
+brazil_corr_data.to_csv(
     f'{data_dir}/processed/brazil_corr_data.csv',
 )
 
@@ -176,30 +184,4 @@ brazil_exports = brazil_exports.loc[
 
 brazil_exports.to_csv(
     f'{data_dir}/processed/brazil_exports.csv',
-)
-
-# put everything for the plots in one df to use with vega-lite
-brazil_corr_data['type'] = 'correlation'
-brazil_corr_data.rename(
-    columns={'item': 'label', 'corr': 'value'}, inplace=True,
-)
-
-total_deforestation_data['type'] = 'deforestation'
-total_deforestation_data.rename(
-    columns={'deforested_area_km2': 'value'}, inplace=True,
-)
-
-brazil_exports['type'] = 'deforestation'
-brazil_exports.rename(
-    columns={'item': 'label', 'tonnes_exported': 'value'}, inplace=True,
-)
-
-pd.concat(
-    (
-        brazil_corr_data,
-        total_deforestation_data,
-        brazil_exports,
-    ),
-).to_csv(
-    f'{data_dir}/processed/plot_data.csv',
 )
