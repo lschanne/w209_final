@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+<!-- Load libraries -->
+<script src="https://d3js.org/d3.v6.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<h1>Brazil Exports and Deforestation</h1>
+<p>In this section, we would like to explore which products that are exported from Brazil may be associated with the deforestation of Brazilian rainforests. For this purpose, we are looking at the <a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv">deforestation rates from Kaggle</a> and the <a style="white-space:nowrap;" href="http://www.fao.org/faostat/en/#data/TP/metadata">export trade data from the Food and Agriculture Organization of the United Nations</a>. By comparing the trends in these data, we hope to provide guidance for experiments or regulations that are targeted at combatting the deforestation problem.</p>
+
+<div style="width: 100%; height: 80vh">
+    <div id="product_selection" style="width: 15%; height: 100%; float: left;">
+        <br>
+        <label for="export_items">Choose export items:<br></label>
+        <select name="export_items" id="export_items" multiple style="width: 100%; height:90%">
+            <option value="nuts">Nuts</option>
+            <option value="beef">Beef</option>
+            <option value="rice">Rice</option>
+            <option value="almonds">almonds</option>
+            <option value="soybeans">soybeans</option>
+            <option value="sheep">sheep</option>
+            <option value="rye">rye</option>
+            <option value="rubber">rubber</option>
+            <option value="vegetables">vegetables</option>
+            <option value="wafers">wafers</option>
+            <option value="watermelons">watermelons</option>
+            <option value="traaaaaaaaaaaaain">traaaaaaaaaaaaain</option>
+        </select>
+        <button id="filter_exports_btn" onclick="set_selections()">Apply</button>
+        <button id="select_all_btn" onclick="set_selections(true)" style="margin-left: 50%">Select All</button>
+    </div>
+    <div id="plots_container" style="width: 80%; height: 100%; margin-left: 20%;">
+        <div id="correlation" style="width: 100%; height:33%;"></div>
+        <div id="deforestation" style="width: 100%; height:33%;"></div>
+        <div id="exports" style="width: 100%; height:33%;"></div>
+    </div>
+</div>
+
+<script>
+    var corr_data,
+        deforestation_data,
+        export_data,
+        min_year,
+        max_year;
+
+    d3.csv("./data/processed/brazil_corr_data.csv").then(function(data) {
+        corr_data = data;
+        d3.csv("./data/processed/brazil_deforested_area.csv").then(function(data) {
+            deforestation_data = data;
+            min_year = Infinity;
+            max_year = -Infinity;
+            for (let iii in deforestation_data) {
+                let year = deforestation_data[iii].year;
+                if (year > max_year) {
+                    max_year = year;
+                }
+                if (year < min_year) {
+                    min_year = year;
+                }
+            }
+            plot_deforestation(deforestation_data);
+            d3.csv("./data/processed/brazil_exports.csv").then(function(data) {
+                export_data = data;
+                set_selections(true);
+            })
+        })
+    })
+
+    function set_selections(select_all=false) {
+        if (select_all) {
+            plot_correlations(corr_data);
+            plot_exports(export_data);
+        } else {
+            var selection_map = {},
+                selected_corr_data = [],
+                selected_export_data = [];
+
+            $("#export_items :selected").map(
+                (_, e) => selection_map[e.value] = true
+            );
+            for (let iii in corr_data) {
+                let d = corr_data[iii];
+                if (selection_map[d.item]) {
+                    selected_corr_data.push(d);
+                }
+            }
+            for (let iii in export_data) {
+                let d = export_data[iii];
+                if (selection_map[d.item]) {
+                    selected_export_data.push(d);
+                }
+            }
+            plot_correlations(selected_corr_data);
+            plot_exports(selected_export_data);
+        }
+    }
+
+    function plot_correlations(data) {
+        var selector = "#correlation",
+            div = $(selector),
+            spec = {
+                $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+                description: "Correlation between deforestation and exportation",
+                data: {values: data},
+                mark: "point",
+                encoding: {
+                    x: {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", scale: {type: "log"}},
+                    y: {field: "corr", type: "quantitative", title: "Correlation Between Tonnes Exported and Deforested Area (km^2) Annually", scale: {domain: [-1, 1]}},
+                    color: {field: "item", type: "nominal", title: "Item"},
+                    tooltip: [
+                        {field: "item", type: "nominal", title: "Item"},
+                        {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", format: ".3s"},
+                        {field: "corr", type: "quantitative", title: "Correlation", format: ".3f"},
+                        {field: "n", type: "quantitative", title: "Years Measured", format: ".0f"}
+                    ]
+                },
+                title: "Correlation Between Tonnes Exported and Deforested Area (km^2) Annually v. Total Tonnes Exported by Product",
+                width: div.width(),
+                height: div.height(),
+                autosize: {type: "fit", contains: "padding"}
+            };
+        vegaEmbed("#correlation", spec);
+    }
+
+    function plot_deforestation(data) {
+        var selector = "#deforestation",
+            div = $(selector),
+            spec = {
+                $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+                description: "Deforestation rates by year",
+                data: {values: data},
+                mark: "line",
+                encoding: {
+                    x: {field: "year", type: "temporal", title: "Year", scale: {domain: [min_year, max_year]}, axis: {tickMinStep: 1}},
+                    y: {field: "deforested_area_km2", type: "quantitative", title: "Deforested Area (km^2)"},
+                    tooltip: [
+                        {field: "year", type: "temporal", title: "Year", format: "%Y"},
+                        {field: "deforested_area_km2", type: "quantitative", title: "Deforested Area (km^2)", format: ".3s"}
+                    ]
+                },
+                title: "Total Deforested Area per Year",
+                width: div.width(),
+                height: div.height(),
+                autosize: {type: "fit", contains: "padding"}
+            };
+        vegaEmbed("#deforestation", spec);
+    }
+
+    function plot_exports(data) {
+        var selector = "#exports",
+            div = $(selector),
+            spec = {
+                $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+                description: "Tonnes exported by year and by item",
+                data: {values: data},
+                mark: "line",
+                encoding: {
+                    x: {field: "year", type: "temporal", title: "Year", scale: {domain: [min_year, max_year]}, axis: {tickMinStep: 1}},
+                    y: {field: "tonnes_exported", type: "quantitative", title: "Tonnes Exported"},
+                    color: {field: "item", type: "nominal", title: "Item"},
+                    tooltip: [
+                        {field: "item", type: "nominal", title: "Item"},
+                        {field: "year", type: "temporal", title: "Year", format: "%Y"},
+                        {field: "tonnes_exported", type: "quantitative", title: "Tonnes Exported", format: ".3s"}
+                    ]
+                },
+                title: "Tonnes Exported Annually from Brazil by Product",
+                width: div.width(),
+                height: div.height(),
+                autosize: {type: "fit", contains: "padding"}
+            };
+        vegaEmbed("#exports", spec);
+    }
+</script>
