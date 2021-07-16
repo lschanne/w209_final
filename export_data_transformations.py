@@ -153,7 +153,7 @@ for item, group in brazil_joined_data.groupby('item'):
 brazil_joined_data.to_csv(
     f'{data_dir}/processed/brazil_joined_data.csv',
 )
-brazil_corr_data.to_csv(
+brazil_corr_data.sort_values('corr', ascending=False).to_csv(
     f'{data_dir}/processed/brazil_corr_data.csv',
 )
 
