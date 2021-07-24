@@ -36,59 +36,58 @@ multi_word_items = {
     'cereal',
 }
 item_map = {
-    word: {word} for word in (
-        'beverages',
-        'almonds',
+    word: {word, word + 's'} for word in (
+        'beverage',
+        'almond',
         'flax',
-        'apricots',
+        'apricot',
         'barley',
         'sunflower',
-        'soybeans',
+        'soybean',
         'palm',
         'cashew',
-        'peppers',
+        'pepper',
         'cocoa',
         'dates',
-        'coconuts',
+        'coconut',
         'coffee',
-        'eggs',
-        'figs',
+        'egg',
+        'fig',
         'flour',
-        'hazelnuts',
+        'hazelnut',
         'citrus',
         'lemon',
         'apple',
         'grape',
         'grapefruit',
-        'groundnuts',
+        'groundnut',
         'milk',
-        'oats',
-        'oilseeds',
+        'oat',
+        'oilseed',
         'orange',
-        'pineapples',
+        'pineapple',
         'rice',
-        'roots',
+        'root',
         'rubber',
         'silk',
         'sheep',
         'sugar',
         'tea',
         'tobacco',
-        'tomatoes',
-        'vegetables',
-        'watermelons',
+        'tomato',
+        'vegetable',
+        'watermelon',
         'wool',
-        'peas',
-        'offals',
-        'mushrooms',
+        'pea',
+        'offal',
+        'mushroom',
     )
 }
+item_map['tomato'] |= {'tomatoes'}
 item_map['chicken'] = {'chicken', 'poultry'}
 item_map['beef'] = {'beef', 'cattle', 'bovine', 'whey'}
-item_map['grape'] = {'grape', 'grapes'}
 item_map['wheat'] = {'wheat', 'bread'}
 item_map['pig'] = {'pig', 'bacon', 'pigmeat', 'pigs'}
-item_map['pepper'] = {'pepper', 'peppers'}
 def combine_item_names(item):
     item = item.lower()
     for multi_word in multi_word_items:
@@ -145,7 +144,7 @@ for item, group in brazil_joined_data.groupby('item'):
     n = group.shape[0]
     correlation = group['tonnes_exported'].corr(group['deforested_area_km2'])
     total_tonnes_exported = group['tonnes_exported'].sum()
-    if not np.isnan(correlation) and n >= 8:
+    if not np.isnan(correlation) and total_tonnes_exported >= 10000:
         brazil_corr_data = brazil_corr_data.append(
             pd.DataFrame(
                 {
@@ -175,10 +174,13 @@ max_year = total_deforestation_data['year'].max()
 brazil_exports = brazil_exports.loc[
     np.bitwise_and(
         np.bitwise_and(
-            brazil_exports['year'] >= min_year,
-            brazil_exports['year'] <= max_year,
+            np.bitwise_and(
+                brazil_exports['year'] >= min_year,
+                brazil_exports['year'] <= max_year,
+            ),
+            np.bitwise_not(np.isnan(brazil_exports['tonnes_exported'])),
         ),
-        np.bitwise_not(np.isnan(brazil_exports['tonnes_exported'])),
+        brazil_exports['item'].isin(set(brazil_corr_data['item'].values)),
     )
 ]
 
