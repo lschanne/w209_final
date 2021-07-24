@@ -230,11 +230,12 @@
 <div id="exports_header" style="width: 100%; height: 15%;">
     <h1> Brazil Exports</h1>
     <p>In this section, we would like to explore which products that are exported from Brazil may be associated with the deforestation of Brazilian rainforests. For this purpose, we are looking at the <a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv">deforestation rates from Kaggle</a> and the <a style="white-space:nowrap;" href="http://www.fao.org/faostat/en/#data/TP/metadata">export trade data from the Food and Agriculture Organization of the United Nations</a>. By comparing the trends in these data, we hope to provide guidance for experiments or regulations that are targeted at combatting the deforestation problem.</p>
-    <p>Our main goal in this section is to allow users to explore the data themselves and determine which products may be key factors in the deforestation problem. Generally, we think that products like bananas, with a high amount of total exported tonnes between and a high correlation between annual export rates and deforestation rates are the most likely to have a high impact on the deforestation problem. These export products would be to the top and right of the first plot.</p>
-    <p>To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
+    <p><span style="font-weight: bold;">Goal:</span> Allow use to explore which exports from Brazil may be key factors in deforestation.</p>
+    <p><span style="font-weight: bold;">Takeaway:</span> Generally, export rates in Brazil are increasing at a rapid pace. Increasing production continues to jeopardize the rainforests.</p>
 </div>
 <div id="exports_details" style="width: 100%; height: 120vh; padding: 0; white-space: nowrap;">
-    <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 150px;">
+    <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 20px;">
+        <p style="white-space: normal; font-size: small">To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
         <label for="export_items">Choose export items (Ctrl + Click: Multi):<br></label>
             <select name="export_items" id="export_items" multiple style="width: 100%; height: 90%; float: center;">
                 <option value="animal fats and oils (excl. butter)">animal fats and oils (excl. butter)</option>
