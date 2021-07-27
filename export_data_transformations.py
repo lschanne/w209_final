@@ -26,7 +26,6 @@ year_columns = [
 word_regex = re.compile('\w+')
 multi_word_items = {
     'fruit',
-    'nuts',
     'oil, olive',
     'oil, palm',
     'other food',
@@ -37,7 +36,6 @@ multi_word_items = {
 }
 item_map = {
     word: {word, word + 's'} for word in (
-        'beverage',
         'almond',
         'flax',
         'apricot',
@@ -75,7 +73,6 @@ item_map = {
         'tea',
         'tobacco',
         'tomato',
-        'vegetable',
         'watermelon',
         'wool',
         'pea',
@@ -88,6 +85,8 @@ item_map['chicken'] = {'chicken', 'poultry'}
 item_map['beef'] = {'beef', 'cattle', 'bovine', 'whey'}
 item_map['wheat'] = {'wheat', 'bread'}
 item_map['pig'] = {'pig', 'bacon', 'pigmeat', 'pigs'}
+item_map['other vegetables'] = {'vegetable', 'vegetables'}
+item_map['other beverages'] = {'beverage', 'beverages'}
 def combine_item_names(item):
     item = item.lower()
     for multi_word in multi_word_items:
@@ -97,6 +96,10 @@ def combine_item_names(item):
         for key, match_words in item_map.items():
             if word in match_words:
                 return key
+    if item.startswith('nuts'):
+        return 'other nuts'
+    if item.startswith('mat'):
+        return 'mat'
     return item
 
 trade_crops_data['updated_item'] = trade_crops_data['Item'].apply(
@@ -187,3 +190,7 @@ brazil_exports = brazil_exports.loc[
 brazil_exports.to_csv(
     f'{data_dir}/processed/brazil_exports.csv',
 )
+
+print('---------------------\n')
+for item in brazil_corr_data['item'].values:
+    print(f'<option value="{item}">{item}</option>')

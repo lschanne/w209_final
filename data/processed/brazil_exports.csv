@@ -127,1686 +127,1686 @@
 1000,beet pulp,2017,18.0
 1001,beet pulp,2018,9838.0
 1002,beet pulp,2019,2.0
-1046,beverage,2004,260185.0
-1047,beverage,2005,289751.0
-1048,beverage,2006,294699.0
-1049,beverage,2007,284262.0
-1050,beverage,2008,303773.0
-1051,beverage,2009,339968.0
-1052,beverage,2010,262222.0
-1053,beverage,2011,289803.0
-1054,beverage,2012,341059.0
-1055,beverage,2013,401156.0
-1056,beverage,2014,440878.0
-1057,beverage,2015,437710.0
-1058,beverage,2016,417676.0
-1059,beverage,2017,481958.0
-1060,beverage,2018,455630.0
-1061,beverage,2019,476858.0
-1105,"bran, maize",2004,7534.0
-1106,"bran, maize",2005,1219.0
-1107,"bran, maize",2006,5044.0
-1108,"bran, maize",2007,1666.0
-1109,"bran, maize",2008,7485.0
-1110,"bran, maize",2009,3140.0
-1111,"bran, maize",2010,6365.0
-1112,"bran, maize",2011,5636.0
-1113,"bran, maize",2012,3506.0
-1114,"bran, maize",2013,3341.0
-1115,"bran, maize",2014,2506.0
-1116,"bran, maize",2015,4182.0
-1117,"bran, maize",2016,425.0
-1118,"bran, maize",2017,4655.0
-1119,"bran, maize",2018,1749.0
-1120,"bran, maize",2019,2381.0
-1164,"brazil nuts, shelled",2004,3095.0
-1165,"brazil nuts, shelled",2005,4184.0
-1166,"brazil nuts, shelled",2006,1863.0
-1167,"brazil nuts, shelled",2007,2330.0
-1168,"brazil nuts, shelled",2008,1013.0
-1169,"brazil nuts, shelled",2009,837.0
-1170,"brazil nuts, shelled",2010,856.0
-1171,"brazil nuts, shelled",2011,85.0
-1172,"brazil nuts, shelled",2012,673.0
-1173,"brazil nuts, shelled",2013,1476.0
-1174,"brazil nuts, shelled",2014,812.0
-1175,"brazil nuts, shelled",2015,3065.0
-1176,"brazil nuts, shelled",2016,587.0
-1177,"brazil nuts, shelled",2017,300.0
-1178,"brazil nuts, shelled",2018,4973.0
-1179,"brazil nuts, shelled",2019,1395.0
-1282,buckwheat,2004,0.0
-1283,buckwheat,2005,1.0
-1284,buckwheat,2006,2.0
-1285,buckwheat,2007,1.0
-1286,buckwheat,2008,1.0
-1287,buckwheat,2009,211.0
-1288,buckwheat,2010,234.0
-1289,buckwheat,2011,675.0
-1290,buckwheat,2012,1012.0
-1291,buckwheat,2013,841.0
-1292,buckwheat,2014,1103.0
-1293,buckwheat,2015,1719.0
-1294,buckwheat,2016,1916.0
-1295,buckwheat,2017,2467.0
-1296,buckwheat,2018,1803.0
-1297,buckwheat,2019,1099.0
-1459,"cake, cottonseed",2004,13164.0
-1460,"cake, cottonseed",2005,0.0
-1461,"cake, cottonseed",2006,0.0
-1462,"cake, cottonseed",2007,0.0
-1463,"cake, cottonseed",2008,0.0
-1464,"cake, cottonseed",2009,1108.0
-1465,"cake, cottonseed",2010,0.0
-1466,"cake, cottonseed",2011,1.0
-1467,"cake, cottonseed",2012,73.0
-1468,"cake, cottonseed",2013,24.0
-1469,"cake, cottonseed",2014,144.0
-1470,"cake, cottonseed",2015,3164.0
-1471,"cake, cottonseed",2016,3352.0
-1472,"cake, cottonseed",2017,263.0
-1473,"cake, cottonseed",2018,1494.0
-1474,"cake, cottonseed",2019,203.0
-1754,carrots and turnips,2004,4.0
-1755,carrots and turnips,2005,319.0
-1756,carrots and turnips,2006,5.0
-1757,carrots and turnips,2007,2537.0
-1758,carrots and turnips,2008,272.0
-1759,carrots and turnips,2009,1140.0
-1760,carrots and turnips,2010,547.0
-1761,carrots and turnips,2011,81.0
-1762,carrots and turnips,2012,314.0
-1763,carrots and turnips,2013,5.0
-1764,carrots and turnips,2014,3351.0
-1765,carrots and turnips,2015,851.0
-1766,carrots and turnips,2016,12126.0
-1767,carrots and turnips,2017,4143.0
-1768,carrots and turnips,2018,620.0
-1769,carrots and turnips,2019,901.0
-1813,cashew,2004,47442.0
-1814,cashew,2005,41856.0
-1815,cashew,2006,43231.0
-1816,cashew,2007,51556.0
-1817,cashew,2008,35414.0
-1818,cashew,2009,48245.0
-1819,cashew,2010,42174.0
-1820,cashew,2011,26302.0
-1821,cashew,2012,25431.0
-1822,cashew,2013,20964.0
-1823,cashew,2014,17024.0
-1824,cashew,2015,12957.0
-1825,cashew,2016,15605.0
-1826,cashew,2017,11424.0
-1827,cashew,2018,12470.0
-1828,cashew,2019,17090.0
-2049,cereal,2004,6660439.0
-2050,cereal,2005,1679000.0
-2051,cereal,2006,5069644.0
-2052,cereal,2007,11715589.0
-2053,cereal,2008,7904302.0
-2054,cereal,2009,9008925.0
-2055,cereal,2010,12756353.0
-2056,cereal,2011,13352985.0
-2057,cereal,2012,23520895.0
-2058,cereal,2013,28912448.0
-2059,cereal,2014,22082913.0
-2060,cereal,2015,31912919.0
-2061,cereal,2016,23463711.0
-2062,cereal,2017,30834218.0
-2063,cereal,2018,25275313.0
-2064,cereal,2019,44620258.0
-2108,"cheese, processed",2004,2099.0
-2109,"cheese, processed",2005,2499.0
-2110,"cheese, processed",2006,2996.0
-2111,"cheese, processed",2007,3584.0
-2112,"cheese, processed",2008,3749.0
-2113,"cheese, processed",2009,3782.0
-2114,"cheese, processed",2010,2624.0
-2115,"cheese, processed",2011,1707.0
-2116,"cheese, processed",2012,1169.0
-2117,"cheese, processed",2013,1422.0
-2118,"cheese, processed",2014,864.0
-2119,"cheese, processed",2015,956.0
-2120,"cheese, processed",2016,1574.0
-2121,"cheese, processed",2017,1700.0
-2122,"cheese, processed",2018,1580.0
-2123,"cheese, processed",2019,1109.0
-2344,chicken,2004,5100704.0
-2345,chicken,2005,5963168.0
-2346,chicken,2006,5754734.0
-2347,chicken,2007,6717881.0
-2348,chicken,2008,7320621.0
-2349,chicken,2009,7252129.0
-2350,chicken,2010,7615777.0
-2351,chicken,2011,7822674.0
-2352,chicken,2012,7845616.0
-2353,chicken,2013,7763859.0
-2354,chicken,2014,7896397.0
-2355,chicken,2015,8369703.0
-2356,chicken,2016,8535937.0
-2357,chicken,2017,8411047.0
-2358,chicken,2018,7983845.0
-2359,chicken,2019,8182409.0
-2403,chocolate products nes,2004,54623.0
-2404,chocolate products nes,2005,54913.0
-2405,chocolate products nes,2006,44826.0
-2406,chocolate products nes,2007,39285.0
-2407,chocolate products nes,2008,37402.0
-2408,chocolate products nes,2009,32739.0
-2409,chocolate products nes,2010,31219.0
-2410,chocolate products nes,2011,31767.0
-2411,chocolate products nes,2012,30522.0
-2412,chocolate products nes,2013,29332.0
-2413,chocolate products nes,2014,28455.0
-2414,chocolate products nes,2015,24489.0
-2415,chocolate products nes,2016,26896.0
-2416,chocolate products nes,2017,25470.0
-2417,chocolate products nes,2018,28886.0
-2418,chocolate products nes,2019,27776.0
-2462,cider etc,2004,1806.0
-2463,cider etc,2005,2076.0
-2464,cider etc,2006,2870.0
-2465,cider etc,2007,3573.0
-2466,cider etc,2008,4690.0
-2467,cider etc,2009,3923.0
-2468,cider etc,2010,5055.0
-2469,cider etc,2011,4038.0
-2470,cider etc,2012,4292.0
-2471,cider etc,2013,4326.0
-2472,cider etc,2014,4473.0
-2473,cider etc,2015,3802.0
-2474,cider etc,2016,4027.0
-2475,cider etc,2017,4249.0
-2476,cider etc,2018,4288.0
-2477,cider etc,2019,6757.0
-2521,cigarettes,2004,2871.0
-2522,cigarettes,2005,2808.0
-2523,cigarettes,2006,3852.0
-2524,cigarettes,2007,5197.0
-2525,cigarettes,2008,3671.0
-2526,cigarettes,2009,1931.0
-2527,cigarettes,2010,344.0
-2528,cigarettes,2011,247.0
-2529,cigarettes,2012,161.0
-2530,cigarettes,2013,772.0
-2531,cigarettes,2014,359.0
-2532,cigarettes,2015,263.0
-2533,cigarettes,2016,228.0
-2534,cigarettes,2017,1662.0
-2535,cigarettes,2018,1821.0
-2536,cigarettes,2019,2168.0
-2698,citrus,2004,3160.0
-2699,citrus,2005,4537.0
-2700,citrus,2006,10019.0
-2701,citrus,2007,12128.0
-2702,citrus,2008,14114.0
-2703,citrus,2009,9179.0
-2704,citrus,2010,8936.0
-2705,citrus,2011,8124.0
-2706,citrus,2012,4993.0
-2707,citrus,2013,6329.0
-2708,citrus,2014,13291.0
-2709,citrus,2015,11711.0
-2710,citrus,2016,12222.0
-2711,citrus,2017,16218.0
-2712,citrus,2018,11767.0
-2713,citrus,2019,12359.0
-2757,cloves,2004,6211.0
-2758,cloves,2005,2107.0
-2759,cloves,2006,3533.0
-2760,cloves,2007,2576.0
-2761,cloves,2008,5093.0
-2762,cloves,2009,5620.0
-2763,cloves,2010,2835.0
-2764,cloves,2011,4274.0
-2765,cloves,2012,140.0
-2766,cloves,2013,4095.0
-2767,cloves,2014,5619.0
-2768,cloves,2015,1367.0
-2769,cloves,2016,3868.0
-2770,cloves,2017,3535.0
-2771,cloves,2018,2940.0
-2772,cloves,2019,2409.0
-2816,cocoa,2004,79795.0
-2817,cocoa,2005,89775.0
-2818,cocoa,2006,91857.0
-2819,cocoa,2007,82523.0
-2820,cocoa,2008,66347.0
-2821,cocoa,2009,53616.0
-2822,cocoa,2010,59519.0
-2823,cocoa,2011,60119.0
-2824,cocoa,2012,53374.0
-2825,cocoa,2013,47893.0
-2826,cocoa,2014,50778.0
-2827,cocoa,2015,64806.0
-2828,cocoa,2016,60976.0
-2829,cocoa,2017,60655.0
-2830,cocoa,2018,50048.0
-2831,cocoa,2019,51231.0
-2875,coconut,2004,880.0
-2876,coconut,2005,1118.0
-2877,coconut,2006,450.0
-2878,coconut,2007,534.0
-2879,coconut,2008,654.0
-2880,coconut,2009,810.0
-2881,coconut,2010,474.0
-2882,coconut,2011,1051.0
-2883,coconut,2012,1231.0
-2884,coconut,2013,1344.0
-2885,coconut,2014,1029.0
-2886,coconut,2015,1191.0
-2887,coconut,2016,1205.0
-2888,coconut,2017,1528.0
-2889,coconut,2018,1176.0
-2890,coconut,2019,1021.0
-2993,coffee,2004,1493847.0
-2994,coffee,2005,1444273.0
-2995,coffee,2006,1556762.0
-2996,coffee,2007,1574231.0
-2997,coffee,2008,1653960.0
-2998,coffee,2009,1715209.0
-2999,coffee,2010,1877210.0
-3000,coffee,2011,1879870.0
-3001,coffee,2012,1589703.0
-3002,coffee,2013,1785419.0
-3003,coffee,2014,2071063.0
-3004,coffee,2015,2091394.0
-3005,coffee,2016,1918276.0
-3006,coffee,2017,1737369.0
-3007,coffee,2018,1917865.0
-3008,coffee,2019,2332165.0
-3170,cotton,2004,454692.0
-3171,cotton,2005,428408.0
-3172,cotton,2006,342182.0
-3173,cotton,2007,445413.0
-3174,cotton,2008,573334.0
-3175,cotton,2009,616633.0
-3176,cotton,2010,534070.0
-3177,cotton,2011,812673.0
-3178,cotton,2012,1080642.0
-3179,cotton,2013,584476.0
-3180,cotton,2014,839323.0
-3181,cotton,2015,938816.0
-3182,cotton,2016,926944.0
-3183,cotton,2017,873764.0
-3184,cotton,2018,961469.0
-3185,cotton,2019,1691210.0
-3229,cream fresh,2004,2972.0
-3230,cream fresh,2005,1532.0
-3231,cream fresh,2006,4950.0
-3232,cream fresh,2007,6118.0
-3233,cream fresh,2008,5827.0
-3234,cream fresh,2009,5513.0
-3235,cream fresh,2010,8767.0
-3236,cream fresh,2011,5572.0
-3237,cream fresh,2012,7344.0
-3238,cream fresh,2013,6642.0
-3239,cream fresh,2014,6877.0
-3240,cream fresh,2015,6390.0
-3241,cream fresh,2016,6584.0
-3242,cream fresh,2017,7129.0
-3243,cream fresh,2018,5968.0
-3244,cream fresh,2019,6341.0
-3347,crude materials nes,2004,1806.0
-3348,crude materials nes,2005,3259.0
-3349,crude materials nes,2006,7241.0
-3350,crude materials nes,2007,14207.0
-3351,crude materials nes,2008,17075.0
-3352,crude materials nes,2009,10223.0
-3353,crude materials nes,2010,8332.0
-3354,crude materials nes,2011,2367.0
-3355,crude materials nes,2012,4374.0
-3356,crude materials nes,2013,6174.0
-3357,crude materials nes,2014,4016.0
-3358,crude materials nes,2015,1548.0
-3359,crude materials nes,2016,876.0
-3360,crude materials nes,2017,667.0
-3361,crude materials nes,2018,593.0
-3362,crude materials nes,2019,655.0
-3524,dairy products,2004,68242.0
-3525,dairy products,2005,78367.0
-3526,dairy products,2006,89050.0
-3527,dairy products,2007,96579.0
-3528,dairy products,2008,142348.0
-3529,dairy products,2009,64420.0
-3530,dairy products,2010,53217.0
-3531,dairy products,2011,37551.0
-3532,dairy products,2012,38806.0
-3533,dairy products,2013,38406.0
-3534,dairy products,2014,83666.0
-3535,dairy products,2015,73609.0
-3536,dairy products,2016,51649.0
-3537,dairy products,2017,36043.0
-3538,dairy products,2018,22241.0
-3539,dairy products,2019,23780.0
-3701,egg,2004,21382.0
-3702,egg,2005,39406.0
-3703,egg,2006,38194.0
-3704,egg,2007,53088.0
-3705,egg,2008,90488.0
-3706,egg,2009,93068.0
-3707,egg,2010,82052.0
-3708,egg,2011,60408.0
-3709,egg,2012,73090.0
-3710,egg,2013,39224.0
-3711,egg,2014,47878.0
-3712,egg,2015,57298.0
-3713,egg,2016,39462.0
-3714,egg,2017,33748.0
-3715,egg,2018,51676.0
-3716,egg,2019,42362.0
-3819,"fat nes, prepared",2004,1710.0
-3820,"fat nes, prepared",2005,2229.0
-3821,"fat nes, prepared",2006,2059.0
-3822,"fat nes, prepared",2007,1272.0
-3823,"fat nes, prepared",2008,918.0
-3824,"fat nes, prepared",2009,380.0
-3825,"fat nes, prepared",2010,690.0
-3826,"fat nes, prepared",2011,979.0
-3827,"fat nes, prepared",2012,833.0
-3828,"fat nes, prepared",2013,946.0
-3829,"fat nes, prepared",2014,2347.0
-3830,"fat nes, prepared",2015,2770.0
-3831,"fat nes, prepared",2016,4030.0
-3832,"fat nes, prepared",2017,2923.0
-3833,"fat nes, prepared",2018,3679.0
-3834,"fat nes, prepared",2019,3579.0
-3937,fatty acids,2004,28724.0
-3938,fatty acids,2005,22374.0
-3939,fatty acids,2006,33275.0
-3940,fatty acids,2007,33411.0
-3941,fatty acids,2008,28834.0
-3942,fatty acids,2009,27728.0
-3943,fatty acids,2010,44060.0
-3944,fatty acids,2011,57573.0
-3945,fatty acids,2012,34530.0
-3946,fatty acids,2013,36676.0
-3947,fatty acids,2014,27011.0
-3948,fatty acids,2015,31969.0
-3949,fatty acids,2016,19074.0
-3950,fatty acids,2017,13843.0
-3951,fatty acids,2018,10942.0
-3952,fatty acids,2019,11736.0
-3996,fatty substance residues,2004,1360.0
-3997,fatty substance residues,2005,1205.0
-3998,fatty substance residues,2006,1613.0
-3999,fatty substance residues,2007,644.0
-4000,fatty substance residues,2008,392.0
-4001,fatty substance residues,2009,940.0
-4002,fatty substance residues,2010,933.0
-4003,fatty substance residues,2011,1053.0
-4004,fatty substance residues,2012,1160.0
-4005,fatty substance residues,2013,1453.0
-4006,fatty substance residues,2014,151.0
-4007,fatty substance residues,2015,604.0
-4008,fatty substance residues,2016,907.0
-4009,fatty substance residues,2017,1701.0
-4010,fatty substance residues,2018,1482.0
-4011,fatty substance residues,2019,790.0
-4114,"feed, pulp of fruit",2004,889375.0
-4115,"feed, pulp of fruit",2005,792959.0
-4116,"feed, pulp of fruit",2006,801732.0
-4117,"feed, pulp of fruit",2007,799712.0
-4118,"feed, pulp of fruit",2008,515021.0
-4119,"feed, pulp of fruit",2009,721781.0
-4120,"feed, pulp of fruit",2010,663213.0
-4121,"feed, pulp of fruit",2011,350812.0
-4122,"feed, pulp of fruit",2012,341110.0
-4123,"feed, pulp of fruit",2013,280954.0
-4124,"feed, pulp of fruit",2014,147749.0
-4125,"feed, pulp of fruit",2015,218762.0
-4126,"feed, pulp of fruit",2016,105641.0
-4127,"feed, pulp of fruit",2017,188668.0
-4128,"feed, pulp of fruit",2018,206154.0
-4129,"feed, pulp of fruit",2019,195978.0
-4173,fibre crops nes,2004,0.0
-4174,fibre crops nes,2005,0.0
-4175,fibre crops nes,2006,0.0
-4176,fibre crops nes,2007,236.0
-4177,fibre crops nes,2008,16412.0
-4178,fibre crops nes,2009,20981.0
-4179,fibre crops nes,2010,30475.0
-4180,fibre crops nes,2011,39100.0
-4181,fibre crops nes,2012,36133.0
-4182,fibre crops nes,2013,29707.0
-4183,fibre crops nes,2014,40640.0
-4184,fibre crops nes,2015,34259.0
-4185,fibre crops nes,2016,34321.0
-4186,fibre crops nes,2017,23294.0
-4187,fibre crops nes,2018,29622.0
-4188,fibre crops nes,2019,36150.0
-4232,fig,2004,910.0
-4233,fig,2005,837.0
-4234,fig,2006,875.0
-4235,fig,2007,1601.0
-4236,fig,2008,1645.0
-4237,fig,2009,1669.0
-4238,fig,2010,817.0
-4239,fig,2011,1456.0
-4240,fig,2012,1635.0
-4241,fig,2013,1369.0
-4242,fig,2014,1348.0
-4243,fig,2015,1365.0
-4244,fig,2016,1191.0
-4245,fig,2017,1313.0
-4246,fig,2018,1394.0
-4247,fig,2019,1386.0
-4350,flour,2004,43289.0
-4351,flour,2005,68164.0
-4352,flour,2006,72311.0
-4353,flour,2007,96055.0
-4354,flour,2008,132487.0
-4355,flour,2009,118561.0
-4356,flour,2010,89615.0
-4357,flour,2011,108805.0
-4358,flour,2012,94942.0
-4359,flour,2013,114693.0
-4360,flour,2014,152857.0
-4361,flour,2015,135761.0
-4362,flour,2016,123860.0
-4363,flour,2017,233223.0
-4364,flour,2018,153206.0
-4365,flour,2019,151603.0
-4409,fodder and feeding stuff,2004,15576814.0
-4410,fodder and feeding stuff,2005,15373975.0
-4411,fodder and feeding stuff,2006,13337835.0
-4412,fodder and feeding stuff,2007,13478043.0
-4413,fodder and feeding stuff,2008,13132059.0
-4414,fodder and feeding stuff,2009,13334404.0
-4415,fodder and feeding stuff,2010,14683677.0
-4416,fodder and feeding stuff,2011,14909516.0
-4417,fodder and feeding stuff,2012,14885277.0
-4418,fodder and feeding stuff,2013,13907686.0
-4419,fodder and feeding stuff,2014,14162365.0
-4420,fodder and feeding stuff,2015,15342275.0
-4421,fodder and feeding stuff,2016,14880793.0
-4422,fodder and feeding stuff,2017,14797224.0
-4423,fodder and feeding stuff,2018,17548763.0
-4424,fodder and feeding stuff,2019,17342369.0
-4468,food prep nes,2004,103044.0
-4469,food prep nes,2005,109489.0
-4470,food prep nes,2006,207812.0
-4471,food prep nes,2007,312746.0
-4472,food prep nes,2008,281988.0
-4473,food prep nes,2009,239477.0
-4474,food prep nes,2010,409262.0
-4475,food prep nes,2011,141234.0
-4476,food prep nes,2012,149134.0
-4477,food prep nes,2013,165806.0
-4478,food prep nes,2014,117786.0
-4479,food prep nes,2015,127907.0
-4480,food prep nes,2016,138200.0
-4481,food prep nes,2017,133680.0
-4482,food prep nes,2018,143797.0
-4483,food prep nes,2019,154890.0
-4527,food wastes,2004,57278.0
-4528,food wastes,2005,55304.0
-4529,food wastes,2006,69339.0
-4530,food wastes,2007,100211.0
-4531,food wastes,2008,105257.0
-4532,food wastes,2009,78575.0
-4533,food wastes,2010,120915.0
-4534,food wastes,2011,128290.0
-4535,food wastes,2012,137884.0
-4536,food wastes,2013,170124.0
-4537,food wastes,2014,176418.0
-4538,food wastes,2015,149089.0
-4539,food wastes,2016,164500.0
-4540,food wastes,2017,229247.0
-4541,food wastes,2018,241746.0
-4542,food wastes,2019,237370.0
-4704,fruit,2004,2602614.0
-4705,fruit,2005,2777227.0
-4706,fruit,2006,2757435.0
-4707,fruit,2007,3204742.0
-4708,fruit,2008,3168995.0
-4709,fruit,2009,3021242.0
-4710,fruit,2010,2879161.0
-4711,fruit,2011,2836244.0
-4712,fruit,2012,2745224.0
-4713,fruit,2013,2975113.0
-4714,fruit,2014,2759006.0
-4715,fruit,2015,2970050.0
-4716,fruit,2016,3255105.0
-4717,fruit,2017,3169894.0
-4718,fruit,2018,3481472.0
-4719,fruit,2019,3372456.0
-4881,ginger,2004,6002.0
-4882,ginger,2005,9106.0
-4883,ginger,2006,7070.0
-4884,ginger,2007,7290.0
-4885,ginger,2008,3865.0
-4886,ginger,2009,3952.0
-4887,ginger,2010,6212.0
-4888,ginger,2011,6668.0
-4889,ginger,2012,4480.0
-4890,ginger,2013,5220.0
-4891,ginger,2014,3692.0
-4892,ginger,2015,7588.0
-4893,ginger,2016,8847.0
-4894,ginger,2017,5639.0
-4895,ginger,2018,15326.0
-4896,ginger,2019,22095.0
-4940,glucose and dextrose,2004,9387.0
-4941,glucose and dextrose,2005,10007.0
-4942,glucose and dextrose,2006,6390.0
-4943,glucose and dextrose,2007,4569.0
-4944,glucose and dextrose,2008,3869.0
-4945,glucose and dextrose,2009,4585.0
-4946,glucose and dextrose,2010,3351.0
-4947,glucose and dextrose,2011,4533.0
-4948,glucose and dextrose,2012,2936.0
-4949,glucose and dextrose,2013,4156.0
-4950,glucose and dextrose,2014,5134.0
-4951,glucose and dextrose,2015,8128.0
-4952,glucose and dextrose,2016,9188.0
-4953,glucose and dextrose,2017,12963.0
-4954,glucose and dextrose,2018,15445.0
-4955,glucose and dextrose,2019,21255.0
-4999,grape,2004,36481.0
-5000,grape,2005,58924.0
-5001,grape,2006,67749.0
-5002,grape,2007,85703.0
-5003,grape,2008,88790.0
-5004,grape,2009,60420.0
-5005,grape,2010,63896.0
-5006,grape,2011,63843.0
-5007,grape,2012,54489.0
-5008,grape,2013,47393.0
-5009,grape,2014,33301.0
-5010,grape,2015,36995.0
-5011,grape,2016,33622.0
-5012,grape,2017,46766.0
-5013,grape,2018,41116.0
-5014,grape,2019,47477.0
-5117,groundnut,2004,46423.0
-5118,groundnut,2005,79223.0
-5119,groundnut,2006,69049.0
-5120,groundnut,2007,43394.0
-5121,groundnut,2008,65693.0
-5122,groundnut,2009,85990.0
-5123,groundnut,2010,77072.0
-5124,groundnut,2011,78647.0
-5125,groundnut,2012,104117.0
-5126,groundnut,2013,148836.0
-5127,groundnut,2014,108106.0
-5128,groundnut,2015,165302.0
-5129,groundnut,2016,168224.0
-5130,groundnut,2017,215215.0
-5131,groundnut,2018,286544.0
-5132,groundnut,2019,253910.0
-5353,hides and skins,2004,5617.0
-5354,hides and skins,2005,10045.0
-5355,hides and skins,2006,12443.0
-5356,hides and skins,2007,15467.0
-5357,hides and skins,2008,18997.0
-5358,hides and skins,2009,12632.0
-5359,hides and skins,2010,14854.0
-5360,hides and skins,2011,3074.0
-5361,hides and skins,2012,7105.0
-5362,hides and skins,2013,15045.0
-5363,hides and skins,2014,8987.0
-5364,hides and skins,2015,8154.0
-5365,hides and skins,2016,4768.0
-5366,hides and skins,2017,4394.0
-5367,hides and skins,2018,5187.0
-5368,hides and skins,2019,6320.0
-5530,"honey, natural",2004,21029.0
-5531,"honey, natural",2005,14442.0
-5532,"honey, natural",2006,14600.0
-5533,"honey, natural",2007,12907.0
-5534,"honey, natural",2008,18271.0
-5535,"honey, natural",2009,25987.0
-5536,"honey, natural",2010,18629.0
-5537,"honey, natural",2011,22399.0
-5538,"honey, natural",2012,16707.0
-5539,"honey, natural",2013,16181.0
-5540,"honey, natural",2014,25317.0
-5541,"honey, natural",2015,22206.0
-5542,"honey, natural",2016,24203.0
-5543,"honey, natural",2017,27053.0
-5544,"honey, natural",2018,28524.0
-5545,"honey, natural",2019,30039.0
-5707,infant food,2004,11584.0
-5708,infant food,2005,9785.0
-5709,infant food,2006,12268.0
-5710,infant food,2007,9330.0
-5711,infant food,2008,8851.0
-5712,infant food,2009,7082.0
-5713,infant food,2010,8169.0
-5714,infant food,2011,7734.0
-5715,infant food,2012,7988.0
-5716,infant food,2013,7879.0
-5717,infant food,2014,5685.0
-5718,infant food,2015,7748.0
-5719,infant food,2016,8450.0
-5720,infant food,2017,8046.0
-5721,infant food,2018,6915.0
-5722,infant food,2019,7239.0
-5766,"juice, fruit nes",2004,26389.0
-5767,"juice, fruit nes",2005,26318.0
-5768,"juice, fruit nes",2006,36096.0
-5769,"juice, fruit nes",2007,39830.0
-5770,"juice, fruit nes",2008,38239.0
-5771,"juice, fruit nes",2009,33488.0
-5772,"juice, fruit nes",2010,35839.0
-5773,"juice, fruit nes",2011,41586.0
-5774,"juice, fruit nes",2012,48717.0
-5775,"juice, fruit nes",2013,52122.0
-5776,"juice, fruit nes",2014,59376.0
-5777,"juice, fruit nes",2015,62638.0
-5778,"juice, fruit nes",2016,76559.0
-5779,"juice, fruit nes",2017,70943.0
-5780,"juice, fruit nes",2018,70436.0
-5781,"juice, fruit nes",2019,69486.0
-6061,lard,2004,2337.0
-6062,lard,2005,2482.0
-6063,lard,2006,3215.0
-6064,lard,2007,3532.0
-6065,lard,2008,2287.0
-6066,lard,2009,2929.0
-6067,lard,2010,2341.0
-6068,lard,2011,4090.0
-6069,lard,2012,4372.0
-6070,lard,2013,3555.0
-6071,lard,2014,3424.0
-6072,lard,2015,3592.0
-6073,lard,2016,3306.0
-6074,lard,2017,2686.0
-6075,lard,2018,3275.0
-6076,lard,2019,2323.0
-6120,lemon,2004,44427.0
-6121,lemon,2005,44835.0
-6122,lemon,2006,51846.0
-6123,lemon,2007,59888.0
-6124,lemon,2008,65234.0
-6125,lemon,2009,67829.0
-6126,lemon,2010,63065.0
-6127,lemon,2011,66666.0
-6128,lemon,2012,72810.0
-6129,lemon,2013,78603.0
-6130,lemon,2014,93141.0
-6131,lemon,2015,98542.0
-6132,lemon,2016,97042.0
-6133,lemon,2017,94449.0
-6134,lemon,2018,106898.0
-6135,lemon,2019,114487.0
-6356,macaroni,2004,5077.0
-6357,macaroni,2005,4649.0
-6358,macaroni,2006,1477.0
-6359,macaroni,2007,2061.0
-6360,macaroni,2008,17861.0
-6361,macaroni,2009,14985.0
-6362,macaroni,2010,4927.0
-6363,macaroni,2011,6556.0
-6364,macaroni,2012,9958.0
-6365,macaroni,2013,18909.0
-6366,macaroni,2014,22463.0
-6367,macaroni,2015,2929.0
-6368,macaroni,2016,7144.0
-6369,macaroni,2017,8268.0
-6370,macaroni,2018,9488.0
-6371,macaroni,2019,6145.0
-6415,maize,2004,5030999.0
-6416,maize,2005,1070016.0
-6417,maize,2006,3937999.0
-6418,maize,2007,10933455.0
-6419,maize,2008,6432662.0
-6420,maize,2009,7781900.0
-6421,maize,2010,10815275.0
-6422,maize,2011,9486914.0
-6423,maize,2012,19801939.0
-6424,maize,2013,26624890.0
-6425,maize,2014,20654640.0
-6426,maize,2015,28923951.0
-6427,maize,2016,21873310.0
-6428,maize,2017,29265911.0
-6429,maize,2018,23566198.0
-6430,maize,2019,42752102.0
-6533,malt,2004,7331.0
-6534,malt,2005,950.0
-6535,malt,2006,6773.0
-6536,malt,2007,7188.0
-6537,malt,2008,1313.0
-6538,malt,2009,317.0
-6539,malt,2010,6.0
-6540,malt,2011,0.0
-6541,malt,2012,0.0
-6542,malt,2013,1172.0
-6543,malt,2014,3793.0
-6544,malt,2015,6482.0
-6545,malt,2016,7488.0
-6546,malt,2017,7283.0
-6547,malt,2018,7133.0
-6548,malt,2019,3342.0
-6592,"mangoes, mangosteens, guavas",2004,111181.0
-6593,"mangoes, mangosteens, guavas",2005,113882.0
-6594,"mangoes, mangosteens, guavas",2006,114694.0
-6595,"mangoes, mangosteens, guavas",2007,116271.0
-6596,"mangoes, mangosteens, guavas",2008,133944.0
-6597,"mangoes, mangosteens, guavas",2009,110355.0
-6598,"mangoes, mangosteens, guavas",2010,124380.0
-6599,"mangoes, mangosteens, guavas",2011,126568.0
-6600,"mangoes, mangosteens, guavas",2012,127132.0
-6601,"mangoes, mangosteens, guavas",2013,122178.0
-6602,"mangoes, mangosteens, guavas",2014,133219.0
-6603,"mangoes, mangosteens, guavas",2015,156557.0
-6604,"mangoes, mangosteens, guavas",2016,154383.0
-6605,"mangoes, mangosteens, guavas",2017,179744.0
-6606,"mangoes, mangosteens, guavas",2018,170630.0
-6607,"mangoes, mangosteens, guavas",2019,216048.0
-6710,"margarine, short",2004,34084.0
-6711,"margarine, short",2005,20353.0
-6712,"margarine, short",2006,14372.0
-6713,"margarine, short",2007,24868.0
-6714,"margarine, short",2008,34548.0
-6715,"margarine, short",2009,24730.0
-6716,"margarine, short",2010,26948.0
-6717,"margarine, short",2011,35918.0
-6718,"margarine, short",2012,17753.0
-6719,"margarine, short",2013,25300.0
-6720,"margarine, short",2014,42037.0
-6721,"margarine, short",2015,25748.0
-6722,"margarine, short",2016,15585.0
-6723,"margarine, short",2017,12906.0
-6724,"margarine, short",2018,11793.0
-6725,"margarine, short",2019,17520.0
-6769,mat�,2004,28552.0
-6770,mat�,2005,31441.0
-6771,mat�,2006,31619.0
-6772,mat�,2007,31064.0
-6773,mat�,2008,31607.0
-6774,mat�,2009,31051.0
-6775,mat�,2010,33144.0
-6776,mat�,2011,35437.0
-6777,mat�,2012,36272.0
-6778,mat�,2013,38010.0
-6779,mat�,2014,34599.0
-6780,mat�,2015,35956.0
-6781,mat�,2016,35325.0
-6782,mat�,2017,33625.0
-6783,mat�,2018,36164.0
-6784,mat�,2019,36189.0
-6828,"meal, meat",2004,44505.0
-6829,"meal, meat",2005,40296.0
-6830,"meal, meat",2006,67624.0
-6831,"meal, meat",2007,71056.0
-6832,"meal, meat",2008,62903.0
-6833,"meal, meat",2009,19499.0
-6834,"meal, meat",2010,30865.0
-6835,"meal, meat",2011,36930.0
-6836,"meal, meat",2012,84011.0
-6837,"meal, meat",2013,93985.0
-6838,"meal, meat",2014,98388.0
-6839,"meal, meat",2015,110543.0
-6840,"meal, meat",2016,112935.0
-6841,"meal, meat",2017,136249.0
-6842,"meal, meat",2018,168265.0
-6843,"meal, meat",2019,170580.0
-6946,"meat, dried nes",2004,1.0
-6947,"meat, dried nes",2005,7.0
-6948,"meat, dried nes",2006,4575.0
-6949,"meat, dried nes",2007,124360.0
-6950,"meat, dried nes",2008,208880.0
-6951,"meat, dried nes",2009,196574.0
-6952,"meat, dried nes",2010,190106.0
-6953,"meat, dried nes",2011,192925.0
-6954,"meat, dried nes",2012,176857.0
-6955,"meat, dried nes",2013,178421.0
-6956,"meat, dried nes",2014,188729.0
-6957,"meat, dried nes",2015,179205.0
-6958,"meat, dried nes",2016,181500.0
-6959,"meat, dried nes",2017,142549.0
-6960,"meat, dried nes",2018,95015.0
-6961,"meat, dried nes",2019,127950.0
-7005,"meat, duck",2004,430.0
-7006,"meat, duck",2005,1220.0
-7007,"meat, duck",2006,1510.0
-7008,"meat, duck",2007,1159.0
-7009,"meat, duck",2008,1181.0
-7010,"meat, duck",2009,1917.0
-7011,"meat, duck",2010,2178.0
-7012,"meat, duck",2011,1507.0
-7013,"meat, duck",2012,3025.0
-7014,"meat, duck",2013,1489.0
-7015,"meat, duck",2014,2062.0
-7016,"meat, duck",2015,2385.0
-7017,"meat, duck",2016,2983.0
-7018,"meat, duck",2017,3433.0
-7019,"meat, duck",2018,2968.0
-7020,"meat, duck",2019,3082.0
-7182,"meat, horse",2004,20514.0
-7183,"meat, horse",2005,19101.0
-7184,"meat, horse",2006,16186.0
-7185,"meat, horse",2007,13102.0
-7186,"meat, horse",2008,9870.0
-7187,"meat, horse",2009,9247.0
-7188,"meat, horse",2010,3348.0
-7189,"meat, horse",2011,2082.0
-7190,"meat, horse",2012,2376.0
-7191,"meat, horse",2013,1768.0
-7192,"meat, horse",2014,2118.0
-7193,"meat, horse",2015,2775.0
-7194,"meat, horse",2016,2747.0
-7195,"meat, horse",2017,3063.0
-7196,"meat, horse",2018,3862.0
-7197,"meat, horse",2019,2535.0
-7241,"meat, pork",2004,335684.0
-7242,"meat, pork",2005,389755.0
-7243,"meat, pork",2006,349530.0
-7244,"meat, pork",2007,427505.0
-7245,"meat, pork",2008,369723.0
-7246,"meat, pork",2009,436488.0
-7247,"meat, pork",2010,394607.0
-7248,"meat, pork",2011,377096.0
-7249,"meat, pork",2012,415625.0
-7250,"meat, pork",2013,387648.0
-7251,"meat, pork",2014,392204.0
-7252,"meat, pork",2015,441855.0
-7253,"meat, pork",2016,590805.0
-7254,"meat, pork",2017,561249.0
-7255,"meat, pork",2018,524319.0
-7256,"meat, pork",2019,627382.0
-7359,"meat, turkey",2004,134339.0
-7360,"meat, turkey",2005,111837.0
-7361,"meat, turkey",2006,78991.0
-7362,"meat, turkey",2007,84202.0
-7363,"meat, turkey",2008,95567.0
-7364,"meat, turkey",2009,76687.0
-7365,"meat, turkey",2010,78062.0
-7366,"meat, turkey",2011,72661.0
-7367,"meat, turkey",2012,94242.0
-7368,"meat, turkey",2013,92057.0
-7369,"meat, turkey",2014,79576.0
-7370,"meat, turkey",2015,83525.0
-7371,"meat, turkey",2016,93421.0
-7372,"meat, turkey",2017,72373.0
-7373,"meat, turkey",2018,62749.0
-7374,"meat, turkey",2019,35035.0
-7418,"melons, other (inc.cantaloupes)",2004,142587.0
-7419,"melons, other (inc.cantaloupes)",2005,179831.0
-7420,"melons, other (inc.cantaloupes)",2006,172809.0
-7421,"melons, other (inc.cantaloupes)",2007,204502.0
-7422,"melons, other (inc.cantaloupes)",2008,211790.0
-7423,"melons, other (inc.cantaloupes)",2009,183912.0
-7424,"melons, other (inc.cantaloupes)",2010,177828.0
-7425,"melons, other (inc.cantaloupes)",2011,169576.0
-7426,"melons, other (inc.cantaloupes)",2012,181768.0
-7427,"melons, other (inc.cantaloupes)",2013,191413.0
-7428,"melons, other (inc.cantaloupes)",2014,196850.0
-7429,"melons, other (inc.cantaloupes)",2015,223746.0
-7430,"melons, other (inc.cantaloupes)",2016,224688.0
-7431,"melons, other (inc.cantaloupes)",2017,233653.0
-7432,"melons, other (inc.cantaloupes)",2018,197596.0
-7433,"melons, other (inc.cantaloupes)",2019,251638.0
-7477,milk,2004,59295.0
-7478,milk,2005,68673.0
-7479,milk,2006,78076.0
-7480,milk,2007,84392.0
-7481,milk,2008,131011.0
-7482,milk,2009,54614.0
-7483,milk,2010,41059.0
-7484,milk,2011,28940.0
-7485,milk,2012,29518.0
-7486,milk,2013,29375.0
-7487,milk,2014,73858.0
-7488,milk,2015,65534.0
-7489,milk,2016,42891.0
-7490,milk,2017,25985.0
-7491,milk,2018,13083.0
-7492,milk,2019,14171.0
-7595,mixes and doughs,2004,723.0
-7596,mixes and doughs,2005,957.0
-7597,mixes and doughs,2006,701.0
-7598,mixes and doughs,2007,971.0
-7599,mixes and doughs,2008,930.0
-7600,mixes and doughs,2009,1306.0
-7601,mixes and doughs,2010,1225.0
-7602,mixes and doughs,2011,1492.0
-7603,mixes and doughs,2012,1894.0
-7604,mixes and doughs,2013,2068.0
-7605,mixes and doughs,2014,2330.0
-7606,mixes and doughs,2015,2670.0
-7607,mixes and doughs,2016,5633.0
-7608,mixes and doughs,2017,5538.0
-7609,mixes and doughs,2018,7220.0
-7610,mixes and doughs,2019,28537.0
-7654,molasses,2004,56219.0
-7655,molasses,2005,61224.0
-7656,molasses,2006,21199.0
-7657,molasses,2007,97.0
-7658,molasses,2008,12234.0
-7659,molasses,2009,55913.0
-7660,molasses,2010,46894.0
-7661,molasses,2011,2.0
-7662,molasses,2012,3.0
-7663,molasses,2013,29.0
-7664,molasses,2014,8.0
-7665,molasses,2015,69.0
-7666,molasses,2016,1200.0
-7667,molasses,2017,65.0
-7668,molasses,2018,54.0
-7669,molasses,2019,72.0
-7890,nuts,2004,107522.0
-7891,nuts,2005,127143.0
-7892,nuts,2006,111935.0
-7893,nuts,2007,108419.0
-7894,nuts,2008,102408.0
-7895,nuts,2009,117295.0
-7896,nuts,2010,108729.0
-7897,nuts,2011,99882.0
-7898,nuts,2012,109895.0
-7899,nuts,2013,125596.0
-7900,nuts,2014,100449.0
-7901,nuts,2015,149370.0
-7902,nuts,2016,151256.0
-7903,nuts,2017,188047.0
-7904,nuts,2018,256720.0
-7905,nuts,2019,236997.0
-7949,oat,2004,2441.0
-7950,oat,2005,1602.0
-7951,oat,2006,994.0
-7952,oat,2007,1962.0
-7953,oat,2008,5112.0
-7954,oat,2009,9982.0
-7955,oat,2010,4369.0
-7956,oat,2011,9570.0
-7957,oat,2012,2477.0
-7958,oat,2013,7030.0
-7959,oat,2014,6493.0
-7960,oat,2015,10043.0
-7961,oat,2016,1663.0
-7962,oat,2017,2005.0
-7963,oat,2018,5394.0
-7964,oat,2019,5216.0
-8008,offal,2004,82304.0
-8009,offal,2005,88161.0
-8010,offal,2006,98684.0
-8011,offal,2007,112648.0
-8012,offal,2008,120669.0
-8013,offal,2009,141200.0
-8014,offal,2010,140218.0
-8015,offal,2011,158944.0
-8016,offal,2012,171137.0
-8017,offal,2013,194539.0
-8018,offal,2014,202578.0
-8019,offal,2015,181090.0
-8020,offal,2016,209883.0
-8021,offal,2017,218356.0
-8022,offal,2018,219496.0
-8023,offal,2019,234246.0
-8067,"oil, boiled etc",2004,6527.0
-8068,"oil, boiled etc",2005,11331.0
-8069,"oil, boiled etc",2006,14276.0
-8070,"oil, boiled etc",2007,19600.0
-8071,"oil, boiled etc",2008,8545.0
-8072,"oil, boiled etc",2009,9190.0
-8073,"oil, boiled etc",2010,14398.0
-8074,"oil, boiled etc",2011,11348.0
-8075,"oil, boiled etc",2012,12480.0
-8076,"oil, boiled etc",2013,10379.0
-8077,"oil, boiled etc",2014,7520.0
-8078,"oil, boiled etc",2015,11134.0
-8079,"oil, boiled etc",2016,11193.0
-8080,"oil, boiled etc",2017,8774.0
-8081,"oil, boiled etc",2018,10678.0
-8082,"oil, boiled etc",2019,13497.0
-8126,"oil, castor beans",2004,824.0
-8127,"oil, castor beans",2005,11782.0
-8128,"oil, castor beans",2006,4343.0
-8129,"oil, castor beans",2007,746.0
-8130,"oil, castor beans",2008,237.0
-8131,"oil, castor beans",2009,874.0
-8132,"oil, castor beans",2010,2007.0
-8133,"oil, castor beans",2011,10627.0
-8134,"oil, castor beans",2012,368.0
-8135,"oil, castor beans",2013,112.0
-8136,"oil, castor beans",2014,585.0
-8137,"oil, castor beans",2015,4598.0
-8138,"oil, castor beans",2016,1466.0
-8139,"oil, castor beans",2017,385.0
-8140,"oil, castor beans",2018,332.0
-8141,"oil, castor beans",2019,466.0
-8244,"oil, cottonseed",2004,44410.0
-8245,"oil, cottonseed",2005,62644.0
-8246,"oil, cottonseed",2006,26081.0
-8247,"oil, cottonseed",2007,17607.0
-8248,"oil, cottonseed",2008,20488.0
-8249,"oil, cottonseed",2009,6683.0
-8250,"oil, cottonseed",2010,56.0
-8251,"oil, cottonseed",2011,3521.0
-8252,"oil, cottonseed",2012,1000.0
-8253,"oil, cottonseed",2013,1.0
-8254,"oil, cottonseed",2014,2711.0
-8255,"oil, cottonseed",2015,7735.0
-8256,"oil, cottonseed",2016,14250.0
-8257,"oil, cottonseed",2017,3969.0
-8258,"oil, cottonseed",2018,512.0
-8259,"oil, cottonseed",2019,3041.0
-8303,"oil, essential nes",2004,73507.0
-8304,"oil, essential nes",2005,74356.0
-8305,"oil, essential nes",2006,78518.0
-8306,"oil, essential nes",2007,75651.0
-8307,"oil, essential nes",2008,72534.0
-8308,"oil, essential nes",2009,68681.0
-8309,"oil, essential nes",2010,70205.0
-8310,"oil, essential nes",2011,59443.0
-8311,"oil, essential nes",2012,66829.0
-8312,"oil, essential nes",2013,68915.0
-8313,"oil, essential nes",2014,56348.0
-8314,"oil, essential nes",2015,55916.0
-8315,"oil, essential nes",2016,52655.0
-8316,"oil, essential nes",2017,53794.0
-8317,"oil, essential nes",2018,54501.0
-8318,"oil, essential nes",2019,56149.0
-8421,"oil, maize",2004,36550.0
-8422,"oil, maize",2005,41221.0
-8423,"oil, maize",2006,35589.0
-8424,"oil, maize",2007,32997.0
-8425,"oil, maize",2008,25891.0
-8426,"oil, maize",2009,37666.0
-8427,"oil, maize",2010,32199.0
-8428,"oil, maize",2011,34435.0
-8429,"oil, maize",2012,35525.0
-8430,"oil, maize",2013,25965.0
-8431,"oil, maize",2014,1937.0
-8432,"oil, maize",2015,21187.0
-8433,"oil, maize",2016,34475.0
-8434,"oil, maize",2017,34452.0
-8435,"oil, maize",2018,20336.0
-8436,"oil, maize",2019,16305.0
-8539,"oil, palm",2004,13838.0
-8540,"oil, palm",2005,44991.0
-8541,"oil, palm",2006,24924.0
-8542,"oil, palm",2007,2822.0
-8543,"oil, palm",2008,9380.0
-8544,"oil, palm",2009,24933.0
-8545,"oil, palm",2010,17443.0
-8546,"oil, palm",2011,52237.0
-8547,"oil, palm",2012,69526.0
-8548,"oil, palm",2013,82806.0
-8549,"oil, palm",2014,108181.0
-8550,"oil, palm",2015,139258.0
-8551,"oil, palm",2016,47319.0
-8552,"oil, palm",2017,92544.0
-8553,"oil, palm",2018,31319.0
-8554,"oil, palm",2019,17384.0
-8598,"oil, rapeseed",2004,419.0
-8599,"oil, rapeseed",2005,3868.0
-8600,"oil, rapeseed",2006,331.0
-8601,"oil, rapeseed",2007,522.0
-8602,"oil, rapeseed",2008,2202.0
-8603,"oil, rapeseed",2009,1061.0
-8604,"oil, rapeseed",2010,1169.0
-8605,"oil, rapeseed",2011,608.0
-8606,"oil, rapeseed",2012,535.0
-8607,"oil, rapeseed",2013,391.0
-8608,"oil, rapeseed",2014,397.0
-8609,"oil, rapeseed",2015,415.0
-8610,"oil, rapeseed",2016,443.0
-8611,"oil, rapeseed",2017,381.0
-8612,"oil, rapeseed",2018,405.0
-8613,"oil, rapeseed",2019,346.0
-8775,oilseed,2004,19354530.0
-8776,oilseed,2005,22454965.0
-8777,oilseed,2006,24960197.0
-8778,oilseed,2007,23747081.0
-8779,oilseed,2008,24514338.0
-8780,oilseed,2009,28638072.0
-8781,oilseed,2010,29077648.0
-8782,oilseed,2011,33025074.0
-8783,oilseed,2012,32472495.0
-8784,oilseed,2013,42797141.0
-8785,oilseed,2014,45764646.0
-8786,oilseed,2015,54417717.0
-8787,oilseed,2016,51683414.0
-8788,oilseed,2017,68173830.0
-8789,oilseed,2018,83633598.0
-8790,oilseed,2019,74146933.0
-9011,"onions, shallots, green",2004,3240.0
-9012,"onions, shallots, green",2005,1186.0
-9013,"onions, shallots, green",2006,1008.0
-9014,"onions, shallots, green",2007,37681.0
-9015,"onions, shallots, green",2008,6032.0
-9016,"onions, shallots, green",2009,374.0
-9017,"onions, shallots, green",2010,1212.0
-9018,"onions, shallots, green",2011,14079.0
-9019,"onions, shallots, green",2012,278.0
-9020,"onions, shallots, green",2013,3604.0
-9021,"onions, shallots, green",2014,1020.0
-9022,"onions, shallots, green",2015,4856.0
-9023,"onions, shallots, green",2016,21817.0
-9024,"onions, shallots, green",2017,12279.0
-9025,"onions, shallots, green",2018,21787.0
-9026,"onions, shallots, green",2019,11011.0
-9070,orange,2004,1674176.0
-9071,orange,2005,1808251.0
-9072,orange,2006,1822181.0
-9073,orange,2007,2115954.0
-9074,orange,2008,2092172.0
-9075,orange,2009,2095373.0
-9076,orange,2010,2015456.0
-9077,orange,2011,2039815.0
-9078,orange,2012,1917485.0
-9079,orange,2013,2143617.0
-9080,orange,2014,1948345.0
-9081,orange,2015,2031374.0
-9082,orange,2016,2345765.0
-9083,orange,2017,2182035.0
-9084,orange,2018,2487558.0
-9085,orange,2019,2253508.0
-9129,other food,2004,23018507.0
-9130,other food,2005,26047971.0
-9131,other food,2006,28959366.0
-9132,other food,2007,27946919.0
-9133,other food,2008,28768246.0
-9134,other food,2009,32897595.0
-9135,other food,2010,33990574.0
-9136,other food,2011,37416682.0
-9137,other food,2012,36272460.0
-9138,other food,2013,47021625.0
-9139,other food,2014,50772282.0
-9140,other food,2015,59309783.0
-9141,other food,2016,56243582.0
-9142,other food,2017,72434109.0
-9143,other food,2018,88416125.0
-9144,other food,2019,79764559.0
-9188,other meat,2004,24270.0
-9189,other meat,2005,24799.0
-9190,other meat,2006,29064.0
-9191,other meat,2007,146060.0
-9192,other meat,2008,224167.0
-9193,other meat,2009,208888.0
-9194,other meat,2010,197048.0
-9195,other meat,2011,198186.0
-9196,other meat,2012,182174.0
-9197,other meat,2013,182779.0
-9198,other meat,2014,193661.0
-9199,other meat,2015,184964.0
-9200,other meat,2016,187639.0
-9201,other meat,2017,149260.0
-9202,other meat,2018,104694.0
-9203,other meat,2019,134653.0
-9306,papayas,2004,35930.0
-9307,papayas,2005,38757.0
-9308,papayas,2006,32475.0
-9309,papayas,2007,32267.0
-9310,papayas,2008,29968.0
-9311,papayas,2009,27554.0
-9312,papayas,2010,25562.0
-9313,papayas,2011,28823.0
-9314,papayas,2012,26131.0
-9315,papayas,2013,28561.0
-9316,papayas,2014,33688.0
-9317,papayas,2015,39799.0
-9318,papayas,2016,37939.0
-9319,papayas,2017,39117.0
-9320,papayas,2018,42671.0
-9321,papayas,2019,44238.0
-9365,pastry,2004,37571.0
-9366,pastry,2005,36917.0
-9367,pastry,2006,36929.0
-9368,pastry,2007,33506.0
-9369,pastry,2008,35845.0
-9370,pastry,2009,32906.0
-9371,pastry,2010,31827.0
-9372,pastry,2011,31891.0
-9373,pastry,2012,33638.0
-9374,pastry,2013,36799.0
-9375,pastry,2014,37768.0
-9376,pastry,2015,30507.0
-9377,pastry,2016,29049.0
-9378,pastry,2017,33993.0
-9379,pastry,2018,38952.0
-9380,pastry,2019,45341.0
-9601,pepper,2004,51565.0
-9602,pepper,2005,47646.0
-9603,pepper,2006,47058.0
-9604,pepper,2007,45043.0
-9605,pepper,2008,42112.0
-9606,pepper,2009,44454.0
-9607,pepper,2010,33048.0
-9608,pepper,2011,33076.0
-9609,pepper,2012,32335.0
-9610,pepper,2013,32410.0
-9611,pepper,2014,36038.0
-9612,pepper,2015,39614.0
-9613,pepper,2016,32115.0
-9614,pepper,2017,61574.0
-9615,pepper,2018,74780.0
-9616,pepper,2019,87534.0
-9778,pet food,2004,35602.0
-9779,pet food,2005,39109.0
-9780,pet food,2006,34222.0
-9781,pet food,2007,26942.0
-9782,pet food,2008,28494.0
-9783,pet food,2009,23334.0
-9784,pet food,2010,20285.0
-9785,pet food,2011,20691.0
-9786,pet food,2012,22740.0
-9787,pet food,2013,19035.0
-9788,pet food,2014,17616.0
-9789,pet food,2015,22540.0
-9790,pet food,2016,47178.0
-9791,pet food,2017,52189.0
-9792,pet food,2018,40956.0
-9793,pet food,2019,41416.0
-9837,pig,2004,830785.0
-9838,pig,2005,1086364.0
-9839,pig,2006,873663.0
-9840,pig,2007,1017532.0
-9841,pig,2008,927524.0
-9842,pig,2009,974193.0
-9843,pig,2010,880320.0
-9844,pig,2011,843701.0
-9845,pig,2012,918396.0
-9846,pig,2013,832766.0
-9847,pig,2014,819047.0
-9848,pig,2015,833054.0
-9849,pig,2016,1042117.0
-9850,pig,2017,1016879.0
-9851,pig,2018,957551.0
-9852,pig,2019,1110520.0
-9896,pineapple,2004,39383.0
-9897,pineapple,2005,29565.0
-9898,pineapple,2006,29402.0
-9899,pineapple,2007,44816.0
-9900,pineapple,2008,39189.0
-9901,pineapple,2009,26556.0
-9902,pineapple,2010,5434.0
-9903,pineapple,2011,7648.0
-9904,pineapple,2012,3754.0
-9905,pineapple,2013,2964.0
-9906,pineapple,2014,3614.0
-9907,pineapple,2015,9312.0
-9908,pineapple,2016,13273.0
-9909,pineapple,2017,9297.0
-9910,pineapple,2018,5048.0
-9911,pineapple,2019,7177.0
-10250,potatoes,2004,34.0
-10251,potatoes,2005,296.0
-10252,potatoes,2006,43.0
-10253,potatoes,2007,13296.0
-10254,potatoes,2008,1161.0
-10255,potatoes,2009,4355.0
-10256,potatoes,2010,709.0
-10257,potatoes,2011,3041.0
-10258,potatoes,2012,298.0
-10259,potatoes,2013,2025.0
-10260,potatoes,2014,9244.0
-10261,potatoes,2015,10725.0
-10262,potatoes,2016,2477.0
-10263,potatoes,2017,21045.0
-10264,potatoes,2018,13032.0
-10265,potatoes,2019,2677.0
-10309,pulses,2004,2157.0
-10310,pulses,2005,2328.0
-10311,pulses,2006,7828.0
-10312,pulses,2007,30988.0
-10313,pulses,2008,2018.0
-10314,pulses,2009,33072.0
-10315,pulses,2010,4366.0
-10316,pulses,2011,20469.0
-10317,pulses,2012,43358.0
-10318,pulses,2013,35322.0
-10319,pulses,2014,65204.0
-10320,pulses,2015,122644.0
-10321,pulses,2016,45436.0
-10322,pulses,2017,122945.0
-10323,pulses,2018,152949.0
-10324,pulses,2019,166273.0
-10368,"pumpkins, squash and gourds",2004,0.0
-10369,"pumpkins, squash and gourds",2005,0.0
-10370,"pumpkins, squash and gourds",2006,0.0
-10371,"pumpkins, squash and gourds",2007,0.0
-10372,"pumpkins, squash and gourds",2008,0.0
-10373,"pumpkins, squash and gourds",2009,0.0
-10374,"pumpkins, squash and gourds",2010,0.0
-10375,"pumpkins, squash and gourds",2011,0.0
-10376,"pumpkins, squash and gourds",2012,77.0
-10377,"pumpkins, squash and gourds",2013,276.0
-10378,"pumpkins, squash and gourds",2014,1126.0
-10379,"pumpkins, squash and gourds",2015,0.0
-10380,"pumpkins, squash and gourds",2016,11383.0
-10381,"pumpkins, squash and gourds",2017,4031.0
-10382,"pumpkins, squash and gourds",2018,6559.0
-10383,"pumpkins, squash and gourds",2019,7439.0
-10781,rice,2004,73358.0
-10782,rice,2005,544354.0
-10783,rice,2006,580038.0
-10784,rice,2007,402817.0
-10785,rice,2008,1028600.0
-10786,rice,2009,1191847.0
-10787,rice,2010,843521.0
-10788,rice,2011,2642518.0
-10789,rice,2012,2251938.0
-10790,rice,2013,1734451.0
-10791,rice,2014,1767149.0
-10792,rice,2015,1845520.0
-10793,rice,2016,1328271.0
-10794,rice,2017,1213126.0
-10795,rice,2018,2669378.0
-10796,rice,2019,2031307.0
-10840,root,2004,22097.0
-10841,root,2005,24791.0
-10842,root,2006,23386.0
-10843,root,2007,41166.0
-10844,root,2008,25033.0
-10845,root,2009,28592.0
-10846,root,2010,14873.0
-10847,root,2011,20262.0
-10848,root,2012,19049.0
-10849,root,2013,18868.0
-10850,root,2014,26152.0
-10851,root,2015,42486.0
-10852,root,2016,47194.0
-10853,root,2017,42703.0
-10854,root,2018,48104.0
-10855,root,2019,37738.0
-10899,rubber,2004,549.0
-10900,rubber,2005,325.0
-10901,rubber,2006,408.0
-10902,rubber,2007,1915.0
-10903,rubber,2008,911.0
-10904,rubber,2009,3328.0
-10905,rubber,2010,14754.0
-10906,rubber,2011,15523.0
-10907,rubber,2012,18460.0
-10908,rubber,2013,3400.0
-10909,rubber,2014,2428.0
-10910,rubber,2015,4644.0
-10911,rubber,2016,2962.0
-10912,rubber,2017,5086.0
-10913,rubber,2018,1202.0
-10914,rubber,2019,1640.0
-11017,sesame seed,2004,1.0
-11018,sesame seed,2005,19.0
-11019,sesame seed,2006,75.0
-11020,sesame seed,2007,1.0
-11021,sesame seed,2008,65.0
-11022,sesame seed,2009,19.0
-11023,sesame seed,2010,90.0
-11024,sesame seed,2011,198.0
-11025,sesame seed,2012,95.0
-11026,sesame seed,2013,2.0
-11027,sesame seed,2014,415.0
-11028,sesame seed,2015,1389.0
-11029,sesame seed,2016,1556.0
-11030,sesame seed,2017,1955.0
-11031,sesame seed,2018,3159.0
-11032,sesame seed,2019,19960.0
-11312,sorghum,2004,133264.0
-11313,sorghum,2005,23649.0
-11314,sorghum,2006,8770.0
-11315,sorghum,2007,225430.0
-11316,sorghum,2008,5099.0
-11317,sorghum,2009,261.0
-11318,sorghum,2010,110.0
-11319,sorghum,2011,444.0
-11320,sorghum,2012,21.0
-11321,sorghum,2013,5340.0
-11322,sorghum,2014,17502.0
-11323,sorghum,2015,33069.0
-11324,sorghum,2016,4281.0
-11325,sorghum,2017,584.0
-11326,sorghum,2018,1425.0
-11327,sorghum,2019,32397.0
-11371,soya sauce,2004,164.0
-11372,soya sauce,2005,200.0
-11373,soya sauce,2006,244.0
-11374,soya sauce,2007,413.0
-11375,soya sauce,2008,448.0
-11376,soya sauce,2009,417.0
-11377,soya sauce,2010,555.0
-11378,soya sauce,2011,656.0
-11379,soya sauce,2012,702.0
-11380,soya sauce,2013,791.0
-11381,soya sauce,2014,702.0
-11382,soya sauce,2015,912.0
-11383,soya sauce,2016,840.0
-11384,soya sauce,2017,998.0
-11385,soya sauce,2018,1224.0
-11386,soya sauce,2019,997.0
-11430,soybean,2004,36250556.0
-11431,soybean,2005,39553806.0
-11432,soybean,2006,39709704.0
-11433,soybean,2007,38550500.0
-11434,soybean,2008,39103224.0
-11435,soybean,2009,42409347.0
-11436,soybean,2010,44301575.0
-11437,soybean,2011,49082144.0
-11438,soybean,2012,48514215.0
-11439,soybean,2013,57492120.0
-11440,soybean,2014,60713421.0
-11441,soybean,2015,70820849.0
-11442,soybean,2016,67279852.0
-11443,soybean,2017,83674126.0
-11444,soybean,2018,101881881.0
-11445,soybean,2019,91796691.0
-11489,spices nes,2004,914.0
-11490,spices nes,2005,755.0
-11491,spices nes,2006,862.0
-11492,spices nes,2007,145.0
-11493,spices nes,2008,252.0
-11494,spices nes,2009,43.0
-11495,spices nes,2010,107.0
-11496,spices nes,2011,28.0
-11497,spices nes,2012,821.0
-11498,spices nes,2013,1707.0
-11499,spices nes,2014,426.0
-11500,spices nes,2015,408.0
-11501,spices nes,2016,462.0
-11502,spices nes,2017,605.0
-11503,spices nes,2018,1216.0
-11504,spices nes,2019,2032.0
-11607,"starch, cassava",2004,8444.0
-11608,"starch, cassava",2005,11545.0
-11609,"starch, cassava",2006,11730.0
-11610,"starch, cassava",2007,12876.0
-11611,"starch, cassava",2008,9311.0
-11612,"starch, cassava",2009,9352.0
-11613,"starch, cassava",2010,3759.0
-11614,"starch, cassava",2011,6762.0
-11615,"starch, cassava",2012,7262.0
-11616,"starch, cassava",2013,6244.0
-11617,"starch, cassava",2014,5977.0
-11618,"starch, cassava",2015,21598.0
-11619,"starch, cassava",2016,13382.0
-11620,"starch, cassava",2017,4414.0
-11621,"starch, cassava",2018,4576.0
-11622,"starch, cassava",2019,6539.0
-11666,straw husks,2004,11490.0
-11667,straw husks,2005,70.0
-11668,straw husks,2006,8289.0
-11669,straw husks,2007,74.0
-11670,straw husks,2008,839.0
-11671,straw husks,2009,846.0
-11672,straw husks,2010,441.0
-11673,straw husks,2011,0.0
-11674,straw husks,2012,0.0
-11675,straw husks,2013,16.0
-11676,straw husks,2014,4.0
-11677,straw husks,2015,1.0
-11678,straw husks,2016,43.0
-11679,straw husks,2017,0.0
-11680,straw husks,2018,367.0
-11681,straw husks,2019,384.0
-11784,sugar,2004,31978018.0
-11785,sugar,2005,36719034.0
-11786,sugar,2006,38095995.0
-11787,sugar,2007,39008701.0
-11788,sugar,2008,39310316.0
-11789,sugar,2009,48917135.0
-11790,sugar,2010,56277149.0
-11791,sugar,2011,50975011.0
-11792,sugar,2012,48254787.0
-11793,sugar,2013,54489921.0
-11794,sugar,2014,48450757.0
-11795,sugar,2015,48216598.0
-11796,sugar,2016,58086789.0
-11797,sugar,2017,57634927.0
-11798,sugar,2018,42841532.0
-11799,sugar,2019,36046384.0
-11843,sunflower,2004,9168.0
-11844,sunflower,2005,2149.0
-11845,sunflower,2006,1217.0
-11846,sunflower,2007,6857.0
-11847,sunflower,2008,5727.0
-11848,sunflower,2009,1032.0
-11849,sunflower,2010,1219.0
-11850,sunflower,2011,701.0
-11851,sunflower,2012,657.0
-11852,sunflower,2013,567.0
-11853,sunflower,2014,479.0
-11854,sunflower,2015,2401.0
-11855,sunflower,2016,1743.0
-11856,sunflower,2017,164.0
-11857,sunflower,2018,563.0
-11858,sunflower,2019,144.0
-11902,sweet corn,2004,8462.0
-11903,sweet corn,2005,6735.0
-11904,sweet corn,2006,7525.0
-11905,sweet corn,2007,12458.0
-11906,sweet corn,2008,10245.0
-11907,sweet corn,2009,10792.0
-11908,sweet corn,2010,11283.0
-11909,sweet corn,2011,12308.0
-11910,sweet corn,2012,8743.0
-11911,sweet corn,2013,10776.0
-11912,sweet corn,2014,8599.0
-11913,sweet corn,2015,10686.0
-11914,sweet corn,2016,13268.0
-11915,sweet corn,2017,17128.0
-11916,sweet corn,2018,17737.0
-11917,sweet corn,2019,16780.0
-11961,sweet potatoes,2004,1103.0
-11962,sweet potatoes,2005,1512.0
-11963,sweet potatoes,2006,1963.0
-11964,sweet potatoes,2007,5921.0
-11965,sweet potatoes,2008,4808.0
-11966,sweet potatoes,2009,4839.0
-11967,sweet potatoes,2010,2904.0
-11968,sweet potatoes,2011,3857.0
-11969,sweet potatoes,2012,2811.0
-11970,sweet potatoes,2013,2784.0
-11971,sweet potatoes,2014,2658.0
-11972,sweet potatoes,2015,1829.0
-11973,sweet potatoes,2016,20237.0
-11974,sweet potatoes,2017,3905.0
-11975,sweet potatoes,2018,9714.0
-11976,sweet potatoes,2019,8797.0
-12020,tallow,2004,46347.0
-12021,tallow,2005,44491.0
-12022,tallow,2006,12445.0
-12023,tallow,2007,18516.0
-12024,tallow,2008,633.0
-12025,tallow,2009,3399.0
-12026,tallow,2010,5380.0
-12027,tallow,2011,261.0
-12028,tallow,2012,4054.0
-12029,tallow,2013,13865.0
-12030,tallow,2014,492.0
-12031,tallow,2015,843.0
-12032,tallow,2016,1323.0
-12033,tallow,2017,9087.0
-12034,tallow,2018,2051.0
-12035,tallow,2019,10429.0
-12079,"tangerines, mandarins, clementines, satsumas",2004,18014.0
-12080,"tangerines, mandarins, clementines, satsumas",2005,12475.0
-12081,"tangerines, mandarins, clementines, satsumas",2006,10712.0
-12082,"tangerines, mandarins, clementines, satsumas",2007,6128.0
-12083,"tangerines, mandarins, clementines, satsumas",2008,6761.0
-12084,"tangerines, mandarins, clementines, satsumas",2009,4412.0
-12085,"tangerines, mandarins, clementines, satsumas",2010,1976.0
-12086,"tangerines, mandarins, clementines, satsumas",2011,921.0
-12087,"tangerines, mandarins, clementines, satsumas",2012,1357.0
-12088,"tangerines, mandarins, clementines, satsumas",2013,638.0
-12089,"tangerines, mandarins, clementines, satsumas",2014,19.0
-12090,"tangerines, mandarins, clementines, satsumas",2015,525.0
-12091,"tangerines, mandarins, clementines, satsumas",2016,59.0
-12092,"tangerines, mandarins, clementines, satsumas",2017,430.0
-12093,"tangerines, mandarins, clementines, satsumas",2018,530.0
-12094,"tangerines, mandarins, clementines, satsumas",2019,440.0
-12138,tea,2004,3658.0
-12139,tea,2005,3427.0
-12140,tea,2006,3277.0
-12141,tea,2007,3433.0
-12142,tea,2008,3191.0
-12143,tea,2009,2458.0
-12144,tea,2010,2637.0
-12145,tea,2011,2117.0
-12146,tea,2012,1832.0
-12147,tea,2013,902.0
-12148,tea,2014,570.0
-12149,tea,2015,477.0
-12150,tea,2016,435.0
-12151,tea,2017,361.0
-12152,tea,2018,336.0
-12153,tea,2019,388.0
-12197,textile fibres,2004,413141.0
-12198,textile fibres,2005,469848.0
-12199,textile fibres,2006,400485.0
-12200,textile fibres,2007,494156.0
-12201,textile fibres,2008,607823.0
-12202,textile fibres,2009,577924.0
-12203,textile fibres,2010,568243.0
-12204,textile fibres,2011,818717.0
-12205,textile fibres,2012,1119979.0
-12206,textile fibres,2013,623167.0
-12207,textile fibres,2014,817443.0
-12208,textile fibres,2015,890800.0
-12209,textile fibres,2016,869468.0
-12210,textile fibres,2017,887240.0
-12211,textile fibres,2018,974016.0
-12212,textile fibres,2019,1682058.0
-12256,tobacco,2004,1182781.0
-12257,tobacco,2005,1256425.0
-12258,tobacco,2006,1158864.0
-12259,tobacco,2007,1415064.0
-12260,tobacco,2008,1379504.0
-12261,tobacco,2009,1347502.0
-12262,tobacco,2010,1010809.0
-12263,tobacco,2011,1090827.0
-12264,tobacco,2012,1275210.0
-12265,tobacco,2013,1253693.0
-12266,tobacco,2014,952068.0
-12267,tobacco,2015,1033242.0
-12268,tobacco,2016,965878.0
-12269,tobacco,2017,922775.0
-12270,tobacco,2018,920175.0
-12271,tobacco,2019,1101449.0
-12315,tomato,2004,15107.0
-12316,tomato,2005,10285.0
-12317,tomato,2006,6575.0
-12318,tomato,2007,17301.0
-12319,tomato,2008,10733.0
-12320,tomato,2009,7363.0
-12321,tomato,2010,8947.0
-12322,tomato,2011,6806.0
-12323,tomato,2012,3997.0
-12324,tomato,2013,4349.0
-12325,tomato,2014,2645.0
-12326,tomato,2015,2382.0
-12327,tomato,2016,7187.0
-12328,tomato,2017,8446.0
-12329,tomato,2018,9533.0
-12330,tomato,2019,3423.0
-12433,vegetable,2004,2776793.0
-12434,vegetable,2005,3008833.0
-12435,vegetable,2006,2630335.0
-12436,vegetable,2007,2606575.0
-12437,vegetable,2008,2522347.0
-12438,vegetable,2009,1796913.0
-12439,vegetable,2010,1754576.0
-12440,vegetable,2011,2011766.0
-12441,vegetable,2012,1995522.0
-12442,vegetable,2013,1639512.0
-12443,vegetable,2014,1575301.0
-12444,vegetable,2015,2036868.0
-12445,vegetable,2016,1568882.0
-12446,vegetable,2017,1671285.0
-12447,vegetable,2018,1693350.0
-12448,vegetable,2019,1286765.0
+1046,"bran, maize",2004,7534.0
+1047,"bran, maize",2005,1219.0
+1048,"bran, maize",2006,5044.0
+1049,"bran, maize",2007,1666.0
+1050,"bran, maize",2008,7485.0
+1051,"bran, maize",2009,3140.0
+1052,"bran, maize",2010,6365.0
+1053,"bran, maize",2011,5636.0
+1054,"bran, maize",2012,3506.0
+1055,"bran, maize",2013,3341.0
+1056,"bran, maize",2014,2506.0
+1057,"bran, maize",2015,4182.0
+1058,"bran, maize",2016,425.0
+1059,"bran, maize",2017,4655.0
+1060,"bran, maize",2018,1749.0
+1061,"bran, maize",2019,2381.0
+1105,"brazil nuts, shelled",2004,3095.0
+1106,"brazil nuts, shelled",2005,4184.0
+1107,"brazil nuts, shelled",2006,1863.0
+1108,"brazil nuts, shelled",2007,2330.0
+1109,"brazil nuts, shelled",2008,1013.0
+1110,"brazil nuts, shelled",2009,837.0
+1111,"brazil nuts, shelled",2010,856.0
+1112,"brazil nuts, shelled",2011,85.0
+1113,"brazil nuts, shelled",2012,673.0
+1114,"brazil nuts, shelled",2013,1476.0
+1115,"brazil nuts, shelled",2014,812.0
+1116,"brazil nuts, shelled",2015,3065.0
+1117,"brazil nuts, shelled",2016,587.0
+1118,"brazil nuts, shelled",2017,300.0
+1119,"brazil nuts, shelled",2018,4973.0
+1120,"brazil nuts, shelled",2019,1395.0
+1223,buckwheat,2004,0.0
+1224,buckwheat,2005,1.0
+1225,buckwheat,2006,2.0
+1226,buckwheat,2007,1.0
+1227,buckwheat,2008,1.0
+1228,buckwheat,2009,211.0
+1229,buckwheat,2010,234.0
+1230,buckwheat,2011,675.0
+1231,buckwheat,2012,1012.0
+1232,buckwheat,2013,841.0
+1233,buckwheat,2014,1103.0
+1234,buckwheat,2015,1719.0
+1235,buckwheat,2016,1916.0
+1236,buckwheat,2017,2467.0
+1237,buckwheat,2018,1803.0
+1238,buckwheat,2019,1099.0
+1400,"cake, cottonseed",2004,13164.0
+1401,"cake, cottonseed",2005,0.0
+1402,"cake, cottonseed",2006,0.0
+1403,"cake, cottonseed",2007,0.0
+1404,"cake, cottonseed",2008,0.0
+1405,"cake, cottonseed",2009,1108.0
+1406,"cake, cottonseed",2010,0.0
+1407,"cake, cottonseed",2011,1.0
+1408,"cake, cottonseed",2012,73.0
+1409,"cake, cottonseed",2013,24.0
+1410,"cake, cottonseed",2014,144.0
+1411,"cake, cottonseed",2015,3164.0
+1412,"cake, cottonseed",2016,3352.0
+1413,"cake, cottonseed",2017,263.0
+1414,"cake, cottonseed",2018,1494.0
+1415,"cake, cottonseed",2019,203.0
+1695,carrots and turnips,2004,4.0
+1696,carrots and turnips,2005,319.0
+1697,carrots and turnips,2006,5.0
+1698,carrots and turnips,2007,2537.0
+1699,carrots and turnips,2008,272.0
+1700,carrots and turnips,2009,1140.0
+1701,carrots and turnips,2010,547.0
+1702,carrots and turnips,2011,81.0
+1703,carrots and turnips,2012,314.0
+1704,carrots and turnips,2013,5.0
+1705,carrots and turnips,2014,3351.0
+1706,carrots and turnips,2015,851.0
+1707,carrots and turnips,2016,12126.0
+1708,carrots and turnips,2017,4143.0
+1709,carrots and turnips,2018,620.0
+1710,carrots and turnips,2019,901.0
+1754,cashew,2004,47442.0
+1755,cashew,2005,41856.0
+1756,cashew,2006,43231.0
+1757,cashew,2007,51556.0
+1758,cashew,2008,35414.0
+1759,cashew,2009,48245.0
+1760,cashew,2010,42174.0
+1761,cashew,2011,26302.0
+1762,cashew,2012,25431.0
+1763,cashew,2013,20964.0
+1764,cashew,2014,17024.0
+1765,cashew,2015,12957.0
+1766,cashew,2016,15605.0
+1767,cashew,2017,11424.0
+1768,cashew,2018,12470.0
+1769,cashew,2019,17090.0
+1990,cereal,2004,6660439.0
+1991,cereal,2005,1679000.0
+1992,cereal,2006,5069644.0
+1993,cereal,2007,11715589.0
+1994,cereal,2008,7904302.0
+1995,cereal,2009,9008925.0
+1996,cereal,2010,12756353.0
+1997,cereal,2011,13352985.0
+1998,cereal,2012,23520895.0
+1999,cereal,2013,28912448.0
+2000,cereal,2014,22082913.0
+2001,cereal,2015,31912919.0
+2002,cereal,2016,23463711.0
+2003,cereal,2017,30834218.0
+2004,cereal,2018,25275313.0
+2005,cereal,2019,44620258.0
+2049,"cheese, processed",2004,2099.0
+2050,"cheese, processed",2005,2499.0
+2051,"cheese, processed",2006,2996.0
+2052,"cheese, processed",2007,3584.0
+2053,"cheese, processed",2008,3749.0
+2054,"cheese, processed",2009,3782.0
+2055,"cheese, processed",2010,2624.0
+2056,"cheese, processed",2011,1707.0
+2057,"cheese, processed",2012,1169.0
+2058,"cheese, processed",2013,1422.0
+2059,"cheese, processed",2014,864.0
+2060,"cheese, processed",2015,956.0
+2061,"cheese, processed",2016,1574.0
+2062,"cheese, processed",2017,1700.0
+2063,"cheese, processed",2018,1580.0
+2064,"cheese, processed",2019,1109.0
+2285,chicken,2004,5100704.0
+2286,chicken,2005,5963168.0
+2287,chicken,2006,5754734.0
+2288,chicken,2007,6717881.0
+2289,chicken,2008,7320621.0
+2290,chicken,2009,7252129.0
+2291,chicken,2010,7615777.0
+2292,chicken,2011,7822674.0
+2293,chicken,2012,7845616.0
+2294,chicken,2013,7763859.0
+2295,chicken,2014,7896397.0
+2296,chicken,2015,8369703.0
+2297,chicken,2016,8535937.0
+2298,chicken,2017,8411047.0
+2299,chicken,2018,7983845.0
+2300,chicken,2019,8182409.0
+2344,chocolate products nes,2004,54623.0
+2345,chocolate products nes,2005,54913.0
+2346,chocolate products nes,2006,44826.0
+2347,chocolate products nes,2007,39285.0
+2348,chocolate products nes,2008,37402.0
+2349,chocolate products nes,2009,32739.0
+2350,chocolate products nes,2010,31219.0
+2351,chocolate products nes,2011,31767.0
+2352,chocolate products nes,2012,30522.0
+2353,chocolate products nes,2013,29332.0
+2354,chocolate products nes,2014,28455.0
+2355,chocolate products nes,2015,24489.0
+2356,chocolate products nes,2016,26896.0
+2357,chocolate products nes,2017,25470.0
+2358,chocolate products nes,2018,28886.0
+2359,chocolate products nes,2019,27776.0
+2403,cider etc,2004,1806.0
+2404,cider etc,2005,2076.0
+2405,cider etc,2006,2870.0
+2406,cider etc,2007,3573.0
+2407,cider etc,2008,4690.0
+2408,cider etc,2009,3923.0
+2409,cider etc,2010,5055.0
+2410,cider etc,2011,4038.0
+2411,cider etc,2012,4292.0
+2412,cider etc,2013,4326.0
+2413,cider etc,2014,4473.0
+2414,cider etc,2015,3802.0
+2415,cider etc,2016,4027.0
+2416,cider etc,2017,4249.0
+2417,cider etc,2018,4288.0
+2418,cider etc,2019,6757.0
+2462,cigarettes,2004,2871.0
+2463,cigarettes,2005,2808.0
+2464,cigarettes,2006,3852.0
+2465,cigarettes,2007,5197.0
+2466,cigarettes,2008,3671.0
+2467,cigarettes,2009,1931.0
+2468,cigarettes,2010,344.0
+2469,cigarettes,2011,247.0
+2470,cigarettes,2012,161.0
+2471,cigarettes,2013,772.0
+2472,cigarettes,2014,359.0
+2473,cigarettes,2015,263.0
+2474,cigarettes,2016,228.0
+2475,cigarettes,2017,1662.0
+2476,cigarettes,2018,1821.0
+2477,cigarettes,2019,2168.0
+2639,citrus,2004,3160.0
+2640,citrus,2005,4537.0
+2641,citrus,2006,10019.0
+2642,citrus,2007,12128.0
+2643,citrus,2008,14114.0
+2644,citrus,2009,9179.0
+2645,citrus,2010,8936.0
+2646,citrus,2011,8124.0
+2647,citrus,2012,4993.0
+2648,citrus,2013,6329.0
+2649,citrus,2014,13291.0
+2650,citrus,2015,11711.0
+2651,citrus,2016,12222.0
+2652,citrus,2017,16218.0
+2653,citrus,2018,11767.0
+2654,citrus,2019,12359.0
+2698,cloves,2004,6211.0
+2699,cloves,2005,2107.0
+2700,cloves,2006,3533.0
+2701,cloves,2007,2576.0
+2702,cloves,2008,5093.0
+2703,cloves,2009,5620.0
+2704,cloves,2010,2835.0
+2705,cloves,2011,4274.0
+2706,cloves,2012,140.0
+2707,cloves,2013,4095.0
+2708,cloves,2014,5619.0
+2709,cloves,2015,1367.0
+2710,cloves,2016,3868.0
+2711,cloves,2017,3535.0
+2712,cloves,2018,2940.0
+2713,cloves,2019,2409.0
+2757,cocoa,2004,79795.0
+2758,cocoa,2005,89775.0
+2759,cocoa,2006,91857.0
+2760,cocoa,2007,82523.0
+2761,cocoa,2008,66347.0
+2762,cocoa,2009,53616.0
+2763,cocoa,2010,59519.0
+2764,cocoa,2011,60119.0
+2765,cocoa,2012,53374.0
+2766,cocoa,2013,47893.0
+2767,cocoa,2014,50778.0
+2768,cocoa,2015,64806.0
+2769,cocoa,2016,60976.0
+2770,cocoa,2017,60655.0
+2771,cocoa,2018,50048.0
+2772,cocoa,2019,51231.0
+2816,coconut,2004,880.0
+2817,coconut,2005,1118.0
+2818,coconut,2006,450.0
+2819,coconut,2007,534.0
+2820,coconut,2008,654.0
+2821,coconut,2009,810.0
+2822,coconut,2010,474.0
+2823,coconut,2011,1051.0
+2824,coconut,2012,1231.0
+2825,coconut,2013,1344.0
+2826,coconut,2014,1029.0
+2827,coconut,2015,1191.0
+2828,coconut,2016,1205.0
+2829,coconut,2017,1528.0
+2830,coconut,2018,1176.0
+2831,coconut,2019,1021.0
+2934,coffee,2004,1493847.0
+2935,coffee,2005,1444273.0
+2936,coffee,2006,1556762.0
+2937,coffee,2007,1574231.0
+2938,coffee,2008,1653960.0
+2939,coffee,2009,1715209.0
+2940,coffee,2010,1877210.0
+2941,coffee,2011,1879870.0
+2942,coffee,2012,1589703.0
+2943,coffee,2013,1785419.0
+2944,coffee,2014,2071063.0
+2945,coffee,2015,2091394.0
+2946,coffee,2016,1918276.0
+2947,coffee,2017,1737369.0
+2948,coffee,2018,1917865.0
+2949,coffee,2019,2332165.0
+3111,cotton,2004,454692.0
+3112,cotton,2005,428408.0
+3113,cotton,2006,342182.0
+3114,cotton,2007,445413.0
+3115,cotton,2008,573334.0
+3116,cotton,2009,616633.0
+3117,cotton,2010,534070.0
+3118,cotton,2011,812673.0
+3119,cotton,2012,1080642.0
+3120,cotton,2013,584476.0
+3121,cotton,2014,839323.0
+3122,cotton,2015,938816.0
+3123,cotton,2016,926944.0
+3124,cotton,2017,873764.0
+3125,cotton,2018,961469.0
+3126,cotton,2019,1691210.0
+3170,cream fresh,2004,2972.0
+3171,cream fresh,2005,1532.0
+3172,cream fresh,2006,4950.0
+3173,cream fresh,2007,6118.0
+3174,cream fresh,2008,5827.0
+3175,cream fresh,2009,5513.0
+3176,cream fresh,2010,8767.0
+3177,cream fresh,2011,5572.0
+3178,cream fresh,2012,7344.0
+3179,cream fresh,2013,6642.0
+3180,cream fresh,2014,6877.0
+3181,cream fresh,2015,6390.0
+3182,cream fresh,2016,6584.0
+3183,cream fresh,2017,7129.0
+3184,cream fresh,2018,5968.0
+3185,cream fresh,2019,6341.0
+3288,crude materials nes,2004,1806.0
+3289,crude materials nes,2005,3259.0
+3290,crude materials nes,2006,7241.0
+3291,crude materials nes,2007,14207.0
+3292,crude materials nes,2008,17075.0
+3293,crude materials nes,2009,10223.0
+3294,crude materials nes,2010,8332.0
+3295,crude materials nes,2011,2367.0
+3296,crude materials nes,2012,4374.0
+3297,crude materials nes,2013,6174.0
+3298,crude materials nes,2014,4016.0
+3299,crude materials nes,2015,1548.0
+3300,crude materials nes,2016,876.0
+3301,crude materials nes,2017,667.0
+3302,crude materials nes,2018,593.0
+3303,crude materials nes,2019,655.0
+3465,dairy products,2004,68242.0
+3466,dairy products,2005,78367.0
+3467,dairy products,2006,89050.0
+3468,dairy products,2007,96579.0
+3469,dairy products,2008,142348.0
+3470,dairy products,2009,64420.0
+3471,dairy products,2010,53217.0
+3472,dairy products,2011,37551.0
+3473,dairy products,2012,38806.0
+3474,dairy products,2013,38406.0
+3475,dairy products,2014,83666.0
+3476,dairy products,2015,73609.0
+3477,dairy products,2016,51649.0
+3478,dairy products,2017,36043.0
+3479,dairy products,2018,22241.0
+3480,dairy products,2019,23780.0
+3642,egg,2004,21382.0
+3643,egg,2005,39406.0
+3644,egg,2006,38194.0
+3645,egg,2007,53088.0
+3646,egg,2008,90488.0
+3647,egg,2009,93068.0
+3648,egg,2010,82052.0
+3649,egg,2011,60408.0
+3650,egg,2012,73090.0
+3651,egg,2013,39224.0
+3652,egg,2014,47878.0
+3653,egg,2015,57298.0
+3654,egg,2016,39462.0
+3655,egg,2017,33748.0
+3656,egg,2018,51676.0
+3657,egg,2019,42362.0
+3760,"fat nes, prepared",2004,1710.0
+3761,"fat nes, prepared",2005,2229.0
+3762,"fat nes, prepared",2006,2059.0
+3763,"fat nes, prepared",2007,1272.0
+3764,"fat nes, prepared",2008,918.0
+3765,"fat nes, prepared",2009,380.0
+3766,"fat nes, prepared",2010,690.0
+3767,"fat nes, prepared",2011,979.0
+3768,"fat nes, prepared",2012,833.0
+3769,"fat nes, prepared",2013,946.0
+3770,"fat nes, prepared",2014,2347.0
+3771,"fat nes, prepared",2015,2770.0
+3772,"fat nes, prepared",2016,4030.0
+3773,"fat nes, prepared",2017,2923.0
+3774,"fat nes, prepared",2018,3679.0
+3775,"fat nes, prepared",2019,3579.0
+3878,fatty acids,2004,28724.0
+3879,fatty acids,2005,22374.0
+3880,fatty acids,2006,33275.0
+3881,fatty acids,2007,33411.0
+3882,fatty acids,2008,28834.0
+3883,fatty acids,2009,27728.0
+3884,fatty acids,2010,44060.0
+3885,fatty acids,2011,57573.0
+3886,fatty acids,2012,34530.0
+3887,fatty acids,2013,36676.0
+3888,fatty acids,2014,27011.0
+3889,fatty acids,2015,31969.0
+3890,fatty acids,2016,19074.0
+3891,fatty acids,2017,13843.0
+3892,fatty acids,2018,10942.0
+3893,fatty acids,2019,11736.0
+3937,fatty substance residues,2004,1360.0
+3938,fatty substance residues,2005,1205.0
+3939,fatty substance residues,2006,1613.0
+3940,fatty substance residues,2007,644.0
+3941,fatty substance residues,2008,392.0
+3942,fatty substance residues,2009,940.0
+3943,fatty substance residues,2010,933.0
+3944,fatty substance residues,2011,1053.0
+3945,fatty substance residues,2012,1160.0
+3946,fatty substance residues,2013,1453.0
+3947,fatty substance residues,2014,151.0
+3948,fatty substance residues,2015,604.0
+3949,fatty substance residues,2016,907.0
+3950,fatty substance residues,2017,1701.0
+3951,fatty substance residues,2018,1482.0
+3952,fatty substance residues,2019,790.0
+4055,"feed, pulp of fruit",2004,889375.0
+4056,"feed, pulp of fruit",2005,792959.0
+4057,"feed, pulp of fruit",2006,801732.0
+4058,"feed, pulp of fruit",2007,799712.0
+4059,"feed, pulp of fruit",2008,515021.0
+4060,"feed, pulp of fruit",2009,721781.0
+4061,"feed, pulp of fruit",2010,663213.0
+4062,"feed, pulp of fruit",2011,350812.0
+4063,"feed, pulp of fruit",2012,341110.0
+4064,"feed, pulp of fruit",2013,280954.0
+4065,"feed, pulp of fruit",2014,147749.0
+4066,"feed, pulp of fruit",2015,218762.0
+4067,"feed, pulp of fruit",2016,105641.0
+4068,"feed, pulp of fruit",2017,188668.0
+4069,"feed, pulp of fruit",2018,206154.0
+4070,"feed, pulp of fruit",2019,195978.0
+4114,fibre crops nes,2004,0.0
+4115,fibre crops nes,2005,0.0
+4116,fibre crops nes,2006,0.0
+4117,fibre crops nes,2007,236.0
+4118,fibre crops nes,2008,16412.0
+4119,fibre crops nes,2009,20981.0
+4120,fibre crops nes,2010,30475.0
+4121,fibre crops nes,2011,39100.0
+4122,fibre crops nes,2012,36133.0
+4123,fibre crops nes,2013,29707.0
+4124,fibre crops nes,2014,40640.0
+4125,fibre crops nes,2015,34259.0
+4126,fibre crops nes,2016,34321.0
+4127,fibre crops nes,2017,23294.0
+4128,fibre crops nes,2018,29622.0
+4129,fibre crops nes,2019,36150.0
+4173,fig,2004,910.0
+4174,fig,2005,837.0
+4175,fig,2006,875.0
+4176,fig,2007,1601.0
+4177,fig,2008,1645.0
+4178,fig,2009,1669.0
+4179,fig,2010,817.0
+4180,fig,2011,1456.0
+4181,fig,2012,1635.0
+4182,fig,2013,1369.0
+4183,fig,2014,1348.0
+4184,fig,2015,1365.0
+4185,fig,2016,1191.0
+4186,fig,2017,1313.0
+4187,fig,2018,1394.0
+4188,fig,2019,1386.0
+4291,flour,2004,43289.0
+4292,flour,2005,68164.0
+4293,flour,2006,72311.0
+4294,flour,2007,96055.0
+4295,flour,2008,132487.0
+4296,flour,2009,118561.0
+4297,flour,2010,89615.0
+4298,flour,2011,108805.0
+4299,flour,2012,94942.0
+4300,flour,2013,114693.0
+4301,flour,2014,152857.0
+4302,flour,2015,135761.0
+4303,flour,2016,123860.0
+4304,flour,2017,233223.0
+4305,flour,2018,153206.0
+4306,flour,2019,151603.0
+4350,fodder and feeding stuff,2004,15576814.0
+4351,fodder and feeding stuff,2005,15373975.0
+4352,fodder and feeding stuff,2006,13337835.0
+4353,fodder and feeding stuff,2007,13478043.0
+4354,fodder and feeding stuff,2008,13132059.0
+4355,fodder and feeding stuff,2009,13334404.0
+4356,fodder and feeding stuff,2010,14683677.0
+4357,fodder and feeding stuff,2011,14909516.0
+4358,fodder and feeding stuff,2012,14885277.0
+4359,fodder and feeding stuff,2013,13907686.0
+4360,fodder and feeding stuff,2014,14162365.0
+4361,fodder and feeding stuff,2015,15342275.0
+4362,fodder and feeding stuff,2016,14880793.0
+4363,fodder and feeding stuff,2017,14797224.0
+4364,fodder and feeding stuff,2018,17548763.0
+4365,fodder and feeding stuff,2019,17342369.0
+4409,food prep nes,2004,103044.0
+4410,food prep nes,2005,109489.0
+4411,food prep nes,2006,207812.0
+4412,food prep nes,2007,312746.0
+4413,food prep nes,2008,281988.0
+4414,food prep nes,2009,239477.0
+4415,food prep nes,2010,409262.0
+4416,food prep nes,2011,141234.0
+4417,food prep nes,2012,149134.0
+4418,food prep nes,2013,165806.0
+4419,food prep nes,2014,117786.0
+4420,food prep nes,2015,127907.0
+4421,food prep nes,2016,138200.0
+4422,food prep nes,2017,133680.0
+4423,food prep nes,2018,143797.0
+4424,food prep nes,2019,154890.0
+4468,food wastes,2004,57278.0
+4469,food wastes,2005,55304.0
+4470,food wastes,2006,69339.0
+4471,food wastes,2007,100211.0
+4472,food wastes,2008,105257.0
+4473,food wastes,2009,78575.0
+4474,food wastes,2010,120915.0
+4475,food wastes,2011,128290.0
+4476,food wastes,2012,137884.0
+4477,food wastes,2013,170124.0
+4478,food wastes,2014,176418.0
+4479,food wastes,2015,149089.0
+4480,food wastes,2016,164500.0
+4481,food wastes,2017,229247.0
+4482,food wastes,2018,241746.0
+4483,food wastes,2019,237370.0
+4645,fruit,2004,2602614.0
+4646,fruit,2005,2777227.0
+4647,fruit,2006,2757435.0
+4648,fruit,2007,3204742.0
+4649,fruit,2008,3168995.0
+4650,fruit,2009,3021242.0
+4651,fruit,2010,2879161.0
+4652,fruit,2011,2836244.0
+4653,fruit,2012,2745224.0
+4654,fruit,2013,2975113.0
+4655,fruit,2014,2759006.0
+4656,fruit,2015,2970050.0
+4657,fruit,2016,3255105.0
+4658,fruit,2017,3169894.0
+4659,fruit,2018,3481472.0
+4660,fruit,2019,3372456.0
+4822,ginger,2004,6002.0
+4823,ginger,2005,9106.0
+4824,ginger,2006,7070.0
+4825,ginger,2007,7290.0
+4826,ginger,2008,3865.0
+4827,ginger,2009,3952.0
+4828,ginger,2010,6212.0
+4829,ginger,2011,6668.0
+4830,ginger,2012,4480.0
+4831,ginger,2013,5220.0
+4832,ginger,2014,3692.0
+4833,ginger,2015,7588.0
+4834,ginger,2016,8847.0
+4835,ginger,2017,5639.0
+4836,ginger,2018,15326.0
+4837,ginger,2019,22095.0
+4881,glucose and dextrose,2004,9387.0
+4882,glucose and dextrose,2005,10007.0
+4883,glucose and dextrose,2006,6390.0
+4884,glucose and dextrose,2007,4569.0
+4885,glucose and dextrose,2008,3869.0
+4886,glucose and dextrose,2009,4585.0
+4887,glucose and dextrose,2010,3351.0
+4888,glucose and dextrose,2011,4533.0
+4889,glucose and dextrose,2012,2936.0
+4890,glucose and dextrose,2013,4156.0
+4891,glucose and dextrose,2014,5134.0
+4892,glucose and dextrose,2015,8128.0
+4893,glucose and dextrose,2016,9188.0
+4894,glucose and dextrose,2017,12963.0
+4895,glucose and dextrose,2018,15445.0
+4896,glucose and dextrose,2019,21255.0
+4940,grape,2004,36481.0
+4941,grape,2005,58924.0
+4942,grape,2006,67749.0
+4943,grape,2007,85703.0
+4944,grape,2008,88790.0
+4945,grape,2009,60420.0
+4946,grape,2010,63896.0
+4947,grape,2011,63843.0
+4948,grape,2012,54489.0
+4949,grape,2013,47393.0
+4950,grape,2014,33301.0
+4951,grape,2015,36995.0
+4952,grape,2016,33622.0
+4953,grape,2017,46766.0
+4954,grape,2018,41116.0
+4955,grape,2019,47477.0
+5058,groundnut,2004,48454.0
+5059,groundnut,2005,81618.0
+5060,groundnut,2006,70514.0
+5061,groundnut,2007,45654.0
+5062,groundnut,2008,68553.0
+5063,groundnut,2009,87476.0
+5064,groundnut,2010,78279.0
+5065,groundnut,2011,79856.0
+5066,groundnut,2012,106458.0
+5067,groundnut,2013,150340.0
+5068,groundnut,2014,109554.0
+5069,groundnut,2015,166461.0
+5070,groundnut,2016,169489.0
+5071,groundnut,2017,216594.0
+5072,groundnut,2018,287827.0
+5073,groundnut,2019,255349.0
+5294,hides and skins,2004,5617.0
+5295,hides and skins,2005,10045.0
+5296,hides and skins,2006,12443.0
+5297,hides and skins,2007,15467.0
+5298,hides and skins,2008,18997.0
+5299,hides and skins,2009,12632.0
+5300,hides and skins,2010,14854.0
+5301,hides and skins,2011,3074.0
+5302,hides and skins,2012,7105.0
+5303,hides and skins,2013,15045.0
+5304,hides and skins,2014,8987.0
+5305,hides and skins,2015,8154.0
+5306,hides and skins,2016,4768.0
+5307,hides and skins,2017,4394.0
+5308,hides and skins,2018,5187.0
+5309,hides and skins,2019,6320.0
+5471,"honey, natural",2004,21029.0
+5472,"honey, natural",2005,14442.0
+5473,"honey, natural",2006,14600.0
+5474,"honey, natural",2007,12907.0
+5475,"honey, natural",2008,18271.0
+5476,"honey, natural",2009,25987.0
+5477,"honey, natural",2010,18629.0
+5478,"honey, natural",2011,22399.0
+5479,"honey, natural",2012,16707.0
+5480,"honey, natural",2013,16181.0
+5481,"honey, natural",2014,25317.0
+5482,"honey, natural",2015,22206.0
+5483,"honey, natural",2016,24203.0
+5484,"honey, natural",2017,27053.0
+5485,"honey, natural",2018,28524.0
+5486,"honey, natural",2019,30039.0
+5648,infant food,2004,11584.0
+5649,infant food,2005,9785.0
+5650,infant food,2006,12268.0
+5651,infant food,2007,9330.0
+5652,infant food,2008,8851.0
+5653,infant food,2009,7082.0
+5654,infant food,2010,8169.0
+5655,infant food,2011,7734.0
+5656,infant food,2012,7988.0
+5657,infant food,2013,7879.0
+5658,infant food,2014,5685.0
+5659,infant food,2015,7748.0
+5660,infant food,2016,8450.0
+5661,infant food,2017,8046.0
+5662,infant food,2018,6915.0
+5663,infant food,2019,7239.0
+5707,"juice, fruit nes",2004,26389.0
+5708,"juice, fruit nes",2005,26318.0
+5709,"juice, fruit nes",2006,36096.0
+5710,"juice, fruit nes",2007,39830.0
+5711,"juice, fruit nes",2008,38239.0
+5712,"juice, fruit nes",2009,33488.0
+5713,"juice, fruit nes",2010,35839.0
+5714,"juice, fruit nes",2011,41586.0
+5715,"juice, fruit nes",2012,48717.0
+5716,"juice, fruit nes",2013,52122.0
+5717,"juice, fruit nes",2014,59376.0
+5718,"juice, fruit nes",2015,62638.0
+5719,"juice, fruit nes",2016,76559.0
+5720,"juice, fruit nes",2017,70943.0
+5721,"juice, fruit nes",2018,70436.0
+5722,"juice, fruit nes",2019,69486.0
+6002,lard,2004,2337.0
+6003,lard,2005,2482.0
+6004,lard,2006,3215.0
+6005,lard,2007,3532.0
+6006,lard,2008,2287.0
+6007,lard,2009,2929.0
+6008,lard,2010,2341.0
+6009,lard,2011,4090.0
+6010,lard,2012,4372.0
+6011,lard,2013,3555.0
+6012,lard,2014,3424.0
+6013,lard,2015,3592.0
+6014,lard,2016,3306.0
+6015,lard,2017,2686.0
+6016,lard,2018,3275.0
+6017,lard,2019,2323.0
+6061,lemon,2004,44427.0
+6062,lemon,2005,44835.0
+6063,lemon,2006,51846.0
+6064,lemon,2007,59888.0
+6065,lemon,2008,65234.0
+6066,lemon,2009,67829.0
+6067,lemon,2010,63065.0
+6068,lemon,2011,66666.0
+6069,lemon,2012,72810.0
+6070,lemon,2013,78603.0
+6071,lemon,2014,93141.0
+6072,lemon,2015,98542.0
+6073,lemon,2016,97042.0
+6074,lemon,2017,94449.0
+6075,lemon,2018,106898.0
+6076,lemon,2019,114487.0
+6297,macaroni,2004,5077.0
+6298,macaroni,2005,4649.0
+6299,macaroni,2006,1477.0
+6300,macaroni,2007,2061.0
+6301,macaroni,2008,17861.0
+6302,macaroni,2009,14985.0
+6303,macaroni,2010,4927.0
+6304,macaroni,2011,6556.0
+6305,macaroni,2012,9958.0
+6306,macaroni,2013,18909.0
+6307,macaroni,2014,22463.0
+6308,macaroni,2015,2929.0
+6309,macaroni,2016,7144.0
+6310,macaroni,2017,8268.0
+6311,macaroni,2018,9488.0
+6312,macaroni,2019,6145.0
+6356,maize,2004,5030999.0
+6357,maize,2005,1070016.0
+6358,maize,2006,3937999.0
+6359,maize,2007,10933455.0
+6360,maize,2008,6432662.0
+6361,maize,2009,7781900.0
+6362,maize,2010,10815275.0
+6363,maize,2011,9486914.0
+6364,maize,2012,19801939.0
+6365,maize,2013,26624890.0
+6366,maize,2014,20654640.0
+6367,maize,2015,28923951.0
+6368,maize,2016,21873310.0
+6369,maize,2017,29265911.0
+6370,maize,2018,23566198.0
+6371,maize,2019,42752102.0
+6474,malt,2004,7331.0
+6475,malt,2005,950.0
+6476,malt,2006,6773.0
+6477,malt,2007,7188.0
+6478,malt,2008,1313.0
+6479,malt,2009,317.0
+6480,malt,2010,6.0
+6481,malt,2011,0.0
+6482,malt,2012,0.0
+6483,malt,2013,1172.0
+6484,malt,2014,3793.0
+6485,malt,2015,6482.0
+6486,malt,2016,7488.0
+6487,malt,2017,7283.0
+6488,malt,2018,7133.0
+6489,malt,2019,3342.0
+6533,"mangoes, mangosteens, guavas",2004,111181.0
+6534,"mangoes, mangosteens, guavas",2005,113882.0
+6535,"mangoes, mangosteens, guavas",2006,114694.0
+6536,"mangoes, mangosteens, guavas",2007,116271.0
+6537,"mangoes, mangosteens, guavas",2008,133944.0
+6538,"mangoes, mangosteens, guavas",2009,110355.0
+6539,"mangoes, mangosteens, guavas",2010,124380.0
+6540,"mangoes, mangosteens, guavas",2011,126568.0
+6541,"mangoes, mangosteens, guavas",2012,127132.0
+6542,"mangoes, mangosteens, guavas",2013,122178.0
+6543,"mangoes, mangosteens, guavas",2014,133219.0
+6544,"mangoes, mangosteens, guavas",2015,156557.0
+6545,"mangoes, mangosteens, guavas",2016,154383.0
+6546,"mangoes, mangosteens, guavas",2017,179744.0
+6547,"mangoes, mangosteens, guavas",2018,170630.0
+6548,"mangoes, mangosteens, guavas",2019,216048.0
+6651,"margarine, short",2004,34084.0
+6652,"margarine, short",2005,20353.0
+6653,"margarine, short",2006,14372.0
+6654,"margarine, short",2007,24868.0
+6655,"margarine, short",2008,34548.0
+6656,"margarine, short",2009,24730.0
+6657,"margarine, short",2010,26948.0
+6658,"margarine, short",2011,35918.0
+6659,"margarine, short",2012,17753.0
+6660,"margarine, short",2013,25300.0
+6661,"margarine, short",2014,42037.0
+6662,"margarine, short",2015,25748.0
+6663,"margarine, short",2016,15585.0
+6664,"margarine, short",2017,12906.0
+6665,"margarine, short",2018,11793.0
+6666,"margarine, short",2019,17520.0
+6710,mat,2004,28552.0
+6711,mat,2005,31441.0
+6712,mat,2006,31619.0
+6713,mat,2007,31064.0
+6714,mat,2008,31607.0
+6715,mat,2009,31051.0
+6716,mat,2010,33144.0
+6717,mat,2011,35437.0
+6718,mat,2012,36272.0
+6719,mat,2013,38010.0
+6720,mat,2014,34599.0
+6721,mat,2015,35956.0
+6722,mat,2016,35325.0
+6723,mat,2017,33625.0
+6724,mat,2018,36164.0
+6725,mat,2019,36189.0
+6769,"meal, meat",2004,44505.0
+6770,"meal, meat",2005,40296.0
+6771,"meal, meat",2006,67624.0
+6772,"meal, meat",2007,71056.0
+6773,"meal, meat",2008,62903.0
+6774,"meal, meat",2009,19499.0
+6775,"meal, meat",2010,30865.0
+6776,"meal, meat",2011,36930.0
+6777,"meal, meat",2012,84011.0
+6778,"meal, meat",2013,93985.0
+6779,"meal, meat",2014,98388.0
+6780,"meal, meat",2015,110543.0
+6781,"meal, meat",2016,112935.0
+6782,"meal, meat",2017,136249.0
+6783,"meal, meat",2018,168265.0
+6784,"meal, meat",2019,170580.0
+6887,"meat, dried nes",2004,1.0
+6888,"meat, dried nes",2005,7.0
+6889,"meat, dried nes",2006,4575.0
+6890,"meat, dried nes",2007,124360.0
+6891,"meat, dried nes",2008,208880.0
+6892,"meat, dried nes",2009,196574.0
+6893,"meat, dried nes",2010,190106.0
+6894,"meat, dried nes",2011,192925.0
+6895,"meat, dried nes",2012,176857.0
+6896,"meat, dried nes",2013,178421.0
+6897,"meat, dried nes",2014,188729.0
+6898,"meat, dried nes",2015,179205.0
+6899,"meat, dried nes",2016,181500.0
+6900,"meat, dried nes",2017,142549.0
+6901,"meat, dried nes",2018,95015.0
+6902,"meat, dried nes",2019,127950.0
+6946,"meat, duck",2004,430.0
+6947,"meat, duck",2005,1220.0
+6948,"meat, duck",2006,1510.0
+6949,"meat, duck",2007,1159.0
+6950,"meat, duck",2008,1181.0
+6951,"meat, duck",2009,1917.0
+6952,"meat, duck",2010,2178.0
+6953,"meat, duck",2011,1507.0
+6954,"meat, duck",2012,3025.0
+6955,"meat, duck",2013,1489.0
+6956,"meat, duck",2014,2062.0
+6957,"meat, duck",2015,2385.0
+6958,"meat, duck",2016,2983.0
+6959,"meat, duck",2017,3433.0
+6960,"meat, duck",2018,2968.0
+6961,"meat, duck",2019,3082.0
+7123,"meat, horse",2004,20514.0
+7124,"meat, horse",2005,19101.0
+7125,"meat, horse",2006,16186.0
+7126,"meat, horse",2007,13102.0
+7127,"meat, horse",2008,9870.0
+7128,"meat, horse",2009,9247.0
+7129,"meat, horse",2010,3348.0
+7130,"meat, horse",2011,2082.0
+7131,"meat, horse",2012,2376.0
+7132,"meat, horse",2013,1768.0
+7133,"meat, horse",2014,2118.0
+7134,"meat, horse",2015,2775.0
+7135,"meat, horse",2016,2747.0
+7136,"meat, horse",2017,3063.0
+7137,"meat, horse",2018,3862.0
+7138,"meat, horse",2019,2535.0
+7182,"meat, pork",2004,335684.0
+7183,"meat, pork",2005,389755.0
+7184,"meat, pork",2006,349530.0
+7185,"meat, pork",2007,427505.0
+7186,"meat, pork",2008,369723.0
+7187,"meat, pork",2009,436488.0
+7188,"meat, pork",2010,394607.0
+7189,"meat, pork",2011,377096.0
+7190,"meat, pork",2012,415625.0
+7191,"meat, pork",2013,387648.0
+7192,"meat, pork",2014,392204.0
+7193,"meat, pork",2015,441855.0
+7194,"meat, pork",2016,590805.0
+7195,"meat, pork",2017,561249.0
+7196,"meat, pork",2018,524319.0
+7197,"meat, pork",2019,627382.0
+7300,"meat, turkey",2004,134339.0
+7301,"meat, turkey",2005,111837.0
+7302,"meat, turkey",2006,78991.0
+7303,"meat, turkey",2007,84202.0
+7304,"meat, turkey",2008,95567.0
+7305,"meat, turkey",2009,76687.0
+7306,"meat, turkey",2010,78062.0
+7307,"meat, turkey",2011,72661.0
+7308,"meat, turkey",2012,94242.0
+7309,"meat, turkey",2013,92057.0
+7310,"meat, turkey",2014,79576.0
+7311,"meat, turkey",2015,83525.0
+7312,"meat, turkey",2016,93421.0
+7313,"meat, turkey",2017,72373.0
+7314,"meat, turkey",2018,62749.0
+7315,"meat, turkey",2019,35035.0
+7359,"melons, other (inc.cantaloupes)",2004,142587.0
+7360,"melons, other (inc.cantaloupes)",2005,179831.0
+7361,"melons, other (inc.cantaloupes)",2006,172809.0
+7362,"melons, other (inc.cantaloupes)",2007,204502.0
+7363,"melons, other (inc.cantaloupes)",2008,211790.0
+7364,"melons, other (inc.cantaloupes)",2009,183912.0
+7365,"melons, other (inc.cantaloupes)",2010,177828.0
+7366,"melons, other (inc.cantaloupes)",2011,169576.0
+7367,"melons, other (inc.cantaloupes)",2012,181768.0
+7368,"melons, other (inc.cantaloupes)",2013,191413.0
+7369,"melons, other (inc.cantaloupes)",2014,196850.0
+7370,"melons, other (inc.cantaloupes)",2015,223746.0
+7371,"melons, other (inc.cantaloupes)",2016,224688.0
+7372,"melons, other (inc.cantaloupes)",2017,233653.0
+7373,"melons, other (inc.cantaloupes)",2018,197596.0
+7374,"melons, other (inc.cantaloupes)",2019,251638.0
+7418,milk,2004,59295.0
+7419,milk,2005,68673.0
+7420,milk,2006,78076.0
+7421,milk,2007,84392.0
+7422,milk,2008,131011.0
+7423,milk,2009,54614.0
+7424,milk,2010,41059.0
+7425,milk,2011,28940.0
+7426,milk,2012,29518.0
+7427,milk,2013,29375.0
+7428,milk,2014,73858.0
+7429,milk,2015,65534.0
+7430,milk,2016,42891.0
+7431,milk,2017,25985.0
+7432,milk,2018,13083.0
+7433,milk,2019,14171.0
+7536,mixes and doughs,2004,723.0
+7537,mixes and doughs,2005,957.0
+7538,mixes and doughs,2006,701.0
+7539,mixes and doughs,2007,971.0
+7540,mixes and doughs,2008,930.0
+7541,mixes and doughs,2009,1306.0
+7542,mixes and doughs,2010,1225.0
+7543,mixes and doughs,2011,1492.0
+7544,mixes and doughs,2012,1894.0
+7545,mixes and doughs,2013,2068.0
+7546,mixes and doughs,2014,2330.0
+7547,mixes and doughs,2015,2670.0
+7548,mixes and doughs,2016,5633.0
+7549,mixes and doughs,2017,5538.0
+7550,mixes and doughs,2018,7220.0
+7551,mixes and doughs,2019,28537.0
+7595,molasses,2004,56219.0
+7596,molasses,2005,61224.0
+7597,molasses,2006,21199.0
+7598,molasses,2007,97.0
+7599,molasses,2008,12234.0
+7600,molasses,2009,55913.0
+7601,molasses,2010,46894.0
+7602,molasses,2011,2.0
+7603,molasses,2012,3.0
+7604,molasses,2013,29.0
+7605,molasses,2014,8.0
+7606,molasses,2015,69.0
+7607,molasses,2016,1200.0
+7608,molasses,2017,65.0
+7609,molasses,2018,54.0
+7610,molasses,2019,72.0
+7831,oat,2004,2441.0
+7832,oat,2005,1602.0
+7833,oat,2006,994.0
+7834,oat,2007,1962.0
+7835,oat,2008,5112.0
+7836,oat,2009,9982.0
+7837,oat,2010,4369.0
+7838,oat,2011,9570.0
+7839,oat,2012,2477.0
+7840,oat,2013,7030.0
+7841,oat,2014,6493.0
+7842,oat,2015,10043.0
+7843,oat,2016,1663.0
+7844,oat,2017,2005.0
+7845,oat,2018,5394.0
+7846,oat,2019,5216.0
+7890,offal,2004,82304.0
+7891,offal,2005,88161.0
+7892,offal,2006,98684.0
+7893,offal,2007,112648.0
+7894,offal,2008,120669.0
+7895,offal,2009,141200.0
+7896,offal,2010,140218.0
+7897,offal,2011,158944.0
+7898,offal,2012,171137.0
+7899,offal,2013,194539.0
+7900,offal,2014,202578.0
+7901,offal,2015,181090.0
+7902,offal,2016,209883.0
+7903,offal,2017,218356.0
+7904,offal,2018,219496.0
+7905,offal,2019,234246.0
+7949,"oil, boiled etc",2004,6527.0
+7950,"oil, boiled etc",2005,11331.0
+7951,"oil, boiled etc",2006,14276.0
+7952,"oil, boiled etc",2007,19600.0
+7953,"oil, boiled etc",2008,8545.0
+7954,"oil, boiled etc",2009,9190.0
+7955,"oil, boiled etc",2010,14398.0
+7956,"oil, boiled etc",2011,11348.0
+7957,"oil, boiled etc",2012,12480.0
+7958,"oil, boiled etc",2013,10379.0
+7959,"oil, boiled etc",2014,7520.0
+7960,"oil, boiled etc",2015,11134.0
+7961,"oil, boiled etc",2016,11193.0
+7962,"oil, boiled etc",2017,8774.0
+7963,"oil, boiled etc",2018,10678.0
+7964,"oil, boiled etc",2019,13497.0
+8008,"oil, castor beans",2004,824.0
+8009,"oil, castor beans",2005,11782.0
+8010,"oil, castor beans",2006,4343.0
+8011,"oil, castor beans",2007,746.0
+8012,"oil, castor beans",2008,237.0
+8013,"oil, castor beans",2009,874.0
+8014,"oil, castor beans",2010,2007.0
+8015,"oil, castor beans",2011,10627.0
+8016,"oil, castor beans",2012,368.0
+8017,"oil, castor beans",2013,112.0
+8018,"oil, castor beans",2014,585.0
+8019,"oil, castor beans",2015,4598.0
+8020,"oil, castor beans",2016,1466.0
+8021,"oil, castor beans",2017,385.0
+8022,"oil, castor beans",2018,332.0
+8023,"oil, castor beans",2019,466.0
+8126,"oil, cottonseed",2004,44410.0
+8127,"oil, cottonseed",2005,62644.0
+8128,"oil, cottonseed",2006,26081.0
+8129,"oil, cottonseed",2007,17607.0
+8130,"oil, cottonseed",2008,20488.0
+8131,"oil, cottonseed",2009,6683.0
+8132,"oil, cottonseed",2010,56.0
+8133,"oil, cottonseed",2011,3521.0
+8134,"oil, cottonseed",2012,1000.0
+8135,"oil, cottonseed",2013,1.0
+8136,"oil, cottonseed",2014,2711.0
+8137,"oil, cottonseed",2015,7735.0
+8138,"oil, cottonseed",2016,14250.0
+8139,"oil, cottonseed",2017,3969.0
+8140,"oil, cottonseed",2018,512.0
+8141,"oil, cottonseed",2019,3041.0
+8185,"oil, essential nes",2004,73507.0
+8186,"oil, essential nes",2005,74356.0
+8187,"oil, essential nes",2006,78518.0
+8188,"oil, essential nes",2007,75651.0
+8189,"oil, essential nes",2008,72534.0
+8190,"oil, essential nes",2009,68681.0
+8191,"oil, essential nes",2010,70205.0
+8192,"oil, essential nes",2011,59443.0
+8193,"oil, essential nes",2012,66829.0
+8194,"oil, essential nes",2013,68915.0
+8195,"oil, essential nes",2014,56348.0
+8196,"oil, essential nes",2015,55916.0
+8197,"oil, essential nes",2016,52655.0
+8198,"oil, essential nes",2017,53794.0
+8199,"oil, essential nes",2018,54501.0
+8200,"oil, essential nes",2019,56149.0
+8303,"oil, maize",2004,36550.0
+8304,"oil, maize",2005,41221.0
+8305,"oil, maize",2006,35589.0
+8306,"oil, maize",2007,32997.0
+8307,"oil, maize",2008,25891.0
+8308,"oil, maize",2009,37666.0
+8309,"oil, maize",2010,32199.0
+8310,"oil, maize",2011,34435.0
+8311,"oil, maize",2012,35525.0
+8312,"oil, maize",2013,25965.0
+8313,"oil, maize",2014,1937.0
+8314,"oil, maize",2015,21187.0
+8315,"oil, maize",2016,34475.0
+8316,"oil, maize",2017,34452.0
+8317,"oil, maize",2018,20336.0
+8318,"oil, maize",2019,16305.0
+8421,"oil, palm",2004,13838.0
+8422,"oil, palm",2005,44991.0
+8423,"oil, palm",2006,24924.0
+8424,"oil, palm",2007,2822.0
+8425,"oil, palm",2008,9380.0
+8426,"oil, palm",2009,24933.0
+8427,"oil, palm",2010,17443.0
+8428,"oil, palm",2011,52237.0
+8429,"oil, palm",2012,69526.0
+8430,"oil, palm",2013,82806.0
+8431,"oil, palm",2014,108181.0
+8432,"oil, palm",2015,139258.0
+8433,"oil, palm",2016,47319.0
+8434,"oil, palm",2017,92544.0
+8435,"oil, palm",2018,31319.0
+8436,"oil, palm",2019,17384.0
+8480,"oil, rapeseed",2004,419.0
+8481,"oil, rapeseed",2005,3868.0
+8482,"oil, rapeseed",2006,331.0
+8483,"oil, rapeseed",2007,522.0
+8484,"oil, rapeseed",2008,2202.0
+8485,"oil, rapeseed",2009,1061.0
+8486,"oil, rapeseed",2010,1169.0
+8487,"oil, rapeseed",2011,608.0
+8488,"oil, rapeseed",2012,535.0
+8489,"oil, rapeseed",2013,391.0
+8490,"oil, rapeseed",2014,397.0
+8491,"oil, rapeseed",2015,415.0
+8492,"oil, rapeseed",2016,443.0
+8493,"oil, rapeseed",2017,381.0
+8494,"oil, rapeseed",2018,405.0
+8495,"oil, rapeseed",2019,346.0
+8657,oilseed,2004,19354530.0
+8658,oilseed,2005,22454965.0
+8659,oilseed,2006,24960197.0
+8660,oilseed,2007,23747081.0
+8661,oilseed,2008,24514338.0
+8662,oilseed,2009,28638072.0
+8663,oilseed,2010,29077648.0
+8664,oilseed,2011,33025074.0
+8665,oilseed,2012,32472495.0
+8666,oilseed,2013,42797141.0
+8667,oilseed,2014,45764646.0
+8668,oilseed,2015,54417717.0
+8669,oilseed,2016,51683414.0
+8670,oilseed,2017,68173830.0
+8671,oilseed,2018,83633598.0
+8672,oilseed,2019,74146933.0
+8893,"onions, shallots, green",2004,3240.0
+8894,"onions, shallots, green",2005,1186.0
+8895,"onions, shallots, green",2006,1008.0
+8896,"onions, shallots, green",2007,37681.0
+8897,"onions, shallots, green",2008,6032.0
+8898,"onions, shallots, green",2009,374.0
+8899,"onions, shallots, green",2010,1212.0
+8900,"onions, shallots, green",2011,14079.0
+8901,"onions, shallots, green",2012,278.0
+8902,"onions, shallots, green",2013,3604.0
+8903,"onions, shallots, green",2014,1020.0
+8904,"onions, shallots, green",2015,4856.0
+8905,"onions, shallots, green",2016,21817.0
+8906,"onions, shallots, green",2017,12279.0
+8907,"onions, shallots, green",2018,21787.0
+8908,"onions, shallots, green",2019,11011.0
+8952,orange,2004,1674176.0
+8953,orange,2005,1808251.0
+8954,orange,2006,1822181.0
+8955,orange,2007,2115954.0
+8956,orange,2008,2092172.0
+8957,orange,2009,2095373.0
+8958,orange,2010,2015456.0
+8959,orange,2011,2039815.0
+8960,orange,2012,1917485.0
+8961,orange,2013,2143617.0
+8962,orange,2014,1948345.0
+8963,orange,2015,2031374.0
+8964,orange,2016,2345765.0
+8965,orange,2017,2182035.0
+8966,orange,2018,2487558.0
+8967,orange,2019,2253508.0
+9011,other beverages,2004,260185.0
+9012,other beverages,2005,289751.0
+9013,other beverages,2006,294699.0
+9014,other beverages,2007,284262.0
+9015,other beverages,2008,303773.0
+9016,other beverages,2009,339968.0
+9017,other beverages,2010,262222.0
+9018,other beverages,2011,289803.0
+9019,other beverages,2012,341059.0
+9020,other beverages,2013,401156.0
+9021,other beverages,2014,440878.0
+9022,other beverages,2015,437710.0
+9023,other beverages,2016,417676.0
+9024,other beverages,2017,481958.0
+9025,other beverages,2018,455630.0
+9026,other beverages,2019,476858.0
+9070,other food,2004,23018507.0
+9071,other food,2005,26047971.0
+9072,other food,2006,28959366.0
+9073,other food,2007,27946919.0
+9074,other food,2008,28768246.0
+9075,other food,2009,32897595.0
+9076,other food,2010,33990574.0
+9077,other food,2011,37416682.0
+9078,other food,2012,36272460.0
+9079,other food,2013,47021625.0
+9080,other food,2014,50772282.0
+9081,other food,2015,59309783.0
+9082,other food,2016,56243582.0
+9083,other food,2017,72434109.0
+9084,other food,2018,88416125.0
+9085,other food,2019,79764559.0
+9129,other meat,2004,24270.0
+9130,other meat,2005,24799.0
+9131,other meat,2006,29064.0
+9132,other meat,2007,146060.0
+9133,other meat,2008,224167.0
+9134,other meat,2009,208888.0
+9135,other meat,2010,197048.0
+9136,other meat,2011,198186.0
+9137,other meat,2012,182174.0
+9138,other meat,2013,182779.0
+9139,other meat,2014,193661.0
+9140,other meat,2015,184964.0
+9141,other meat,2016,187639.0
+9142,other meat,2017,149260.0
+9143,other meat,2018,104694.0
+9144,other meat,2019,134653.0
+9188,other nuts,2004,105491.0
+9189,other nuts,2005,124748.0
+9190,other nuts,2006,110470.0
+9191,other nuts,2007,106159.0
+9192,other nuts,2008,99548.0
+9193,other nuts,2009,115809.0
+9194,other nuts,2010,107522.0
+9195,other nuts,2011,98673.0
+9196,other nuts,2012,107554.0
+9197,other nuts,2013,124092.0
+9198,other nuts,2014,99001.0
+9199,other nuts,2015,148211.0
+9200,other nuts,2016,149991.0
+9201,other nuts,2017,186668.0
+9202,other nuts,2018,255437.0
+9203,other nuts,2019,235558.0
+9247,other vegetables,2004,2776793.0
+9248,other vegetables,2005,3008833.0
+9249,other vegetables,2006,2630335.0
+9250,other vegetables,2007,2606575.0
+9251,other vegetables,2008,2522347.0
+9252,other vegetables,2009,1796913.0
+9253,other vegetables,2010,1754576.0
+9254,other vegetables,2011,2011766.0
+9255,other vegetables,2012,1995522.0
+9256,other vegetables,2013,1639512.0
+9257,other vegetables,2014,1575301.0
+9258,other vegetables,2015,2036868.0
+9259,other vegetables,2016,1568882.0
+9260,other vegetables,2017,1671285.0
+9261,other vegetables,2018,1693350.0
+9262,other vegetables,2019,1286765.0
+9365,papayas,2004,35930.0
+9366,papayas,2005,38757.0
+9367,papayas,2006,32475.0
+9368,papayas,2007,32267.0
+9369,papayas,2008,29968.0
+9370,papayas,2009,27554.0
+9371,papayas,2010,25562.0
+9372,papayas,2011,28823.0
+9373,papayas,2012,26131.0
+9374,papayas,2013,28561.0
+9375,papayas,2014,33688.0
+9376,papayas,2015,39799.0
+9377,papayas,2016,37939.0
+9378,papayas,2017,39117.0
+9379,papayas,2018,42671.0
+9380,papayas,2019,44238.0
+9424,pastry,2004,37571.0
+9425,pastry,2005,36917.0
+9426,pastry,2006,36929.0
+9427,pastry,2007,33506.0
+9428,pastry,2008,35845.0
+9429,pastry,2009,32906.0
+9430,pastry,2010,31827.0
+9431,pastry,2011,31891.0
+9432,pastry,2012,33638.0
+9433,pastry,2013,36799.0
+9434,pastry,2014,37768.0
+9435,pastry,2015,30507.0
+9436,pastry,2016,29049.0
+9437,pastry,2017,33993.0
+9438,pastry,2018,38952.0
+9439,pastry,2019,45341.0
+9660,pepper,2004,51565.0
+9661,pepper,2005,47646.0
+9662,pepper,2006,47058.0
+9663,pepper,2007,45043.0
+9664,pepper,2008,42112.0
+9665,pepper,2009,44454.0
+9666,pepper,2010,33048.0
+9667,pepper,2011,33076.0
+9668,pepper,2012,32335.0
+9669,pepper,2013,32410.0
+9670,pepper,2014,36038.0
+9671,pepper,2015,39614.0
+9672,pepper,2016,32115.0
+9673,pepper,2017,61574.0
+9674,pepper,2018,74780.0
+9675,pepper,2019,87534.0
+9837,pet food,2004,35602.0
+9838,pet food,2005,39109.0
+9839,pet food,2006,34222.0
+9840,pet food,2007,26942.0
+9841,pet food,2008,28494.0
+9842,pet food,2009,23334.0
+9843,pet food,2010,20285.0
+9844,pet food,2011,20691.0
+9845,pet food,2012,22740.0
+9846,pet food,2013,19035.0
+9847,pet food,2014,17616.0
+9848,pet food,2015,22540.0
+9849,pet food,2016,47178.0
+9850,pet food,2017,52189.0
+9851,pet food,2018,40956.0
+9852,pet food,2019,41416.0
+9896,pig,2004,830785.0
+9897,pig,2005,1086364.0
+9898,pig,2006,873663.0
+9899,pig,2007,1017532.0
+9900,pig,2008,927524.0
+9901,pig,2009,974193.0
+9902,pig,2010,880320.0
+9903,pig,2011,843701.0
+9904,pig,2012,918396.0
+9905,pig,2013,832766.0
+9906,pig,2014,819047.0
+9907,pig,2015,833054.0
+9908,pig,2016,1042117.0
+9909,pig,2017,1016879.0
+9910,pig,2018,957551.0
+9911,pig,2019,1110520.0
+9955,pineapple,2004,39383.0
+9956,pineapple,2005,29565.0
+9957,pineapple,2006,29402.0
+9958,pineapple,2007,44816.0
+9959,pineapple,2008,39189.0
+9960,pineapple,2009,26556.0
+9961,pineapple,2010,5434.0
+9962,pineapple,2011,7648.0
+9963,pineapple,2012,3754.0
+9964,pineapple,2013,2964.0
+9965,pineapple,2014,3614.0
+9966,pineapple,2015,9312.0
+9967,pineapple,2016,13273.0
+9968,pineapple,2017,9297.0
+9969,pineapple,2018,5048.0
+9970,pineapple,2019,7177.0
+10309,potatoes,2004,34.0
+10310,potatoes,2005,296.0
+10311,potatoes,2006,43.0
+10312,potatoes,2007,13296.0
+10313,potatoes,2008,1161.0
+10314,potatoes,2009,4355.0
+10315,potatoes,2010,709.0
+10316,potatoes,2011,3041.0
+10317,potatoes,2012,298.0
+10318,potatoes,2013,2025.0
+10319,potatoes,2014,9244.0
+10320,potatoes,2015,10725.0
+10321,potatoes,2016,2477.0
+10322,potatoes,2017,21045.0
+10323,potatoes,2018,13032.0
+10324,potatoes,2019,2677.0
+10368,pulses,2004,2157.0
+10369,pulses,2005,2328.0
+10370,pulses,2006,7828.0
+10371,pulses,2007,30988.0
+10372,pulses,2008,2018.0
+10373,pulses,2009,33072.0
+10374,pulses,2010,4366.0
+10375,pulses,2011,20469.0
+10376,pulses,2012,43358.0
+10377,pulses,2013,35322.0
+10378,pulses,2014,65204.0
+10379,pulses,2015,122644.0
+10380,pulses,2016,45436.0
+10381,pulses,2017,122945.0
+10382,pulses,2018,152949.0
+10383,pulses,2019,166273.0
+10427,"pumpkins, squash and gourds",2004,0.0
+10428,"pumpkins, squash and gourds",2005,0.0
+10429,"pumpkins, squash and gourds",2006,0.0
+10430,"pumpkins, squash and gourds",2007,0.0
+10431,"pumpkins, squash and gourds",2008,0.0
+10432,"pumpkins, squash and gourds",2009,0.0
+10433,"pumpkins, squash and gourds",2010,0.0
+10434,"pumpkins, squash and gourds",2011,0.0
+10435,"pumpkins, squash and gourds",2012,77.0
+10436,"pumpkins, squash and gourds",2013,276.0
+10437,"pumpkins, squash and gourds",2014,1126.0
+10438,"pumpkins, squash and gourds",2015,0.0
+10439,"pumpkins, squash and gourds",2016,11383.0
+10440,"pumpkins, squash and gourds",2017,4031.0
+10441,"pumpkins, squash and gourds",2018,6559.0
+10442,"pumpkins, squash and gourds",2019,7439.0
+10840,rice,2004,73358.0
+10841,rice,2005,544354.0
+10842,rice,2006,580038.0
+10843,rice,2007,402817.0
+10844,rice,2008,1028600.0
+10845,rice,2009,1191847.0
+10846,rice,2010,843521.0
+10847,rice,2011,2642518.0
+10848,rice,2012,2251938.0
+10849,rice,2013,1734451.0
+10850,rice,2014,1767149.0
+10851,rice,2015,1845520.0
+10852,rice,2016,1328271.0
+10853,rice,2017,1213126.0
+10854,rice,2018,2669378.0
+10855,rice,2019,2031307.0
+10899,root,2004,22097.0
+10900,root,2005,24791.0
+10901,root,2006,23386.0
+10902,root,2007,41166.0
+10903,root,2008,25033.0
+10904,root,2009,28592.0
+10905,root,2010,14873.0
+10906,root,2011,20262.0
+10907,root,2012,19049.0
+10908,root,2013,18868.0
+10909,root,2014,26152.0
+10910,root,2015,42486.0
+10911,root,2016,47194.0
+10912,root,2017,42703.0
+10913,root,2018,48104.0
+10914,root,2019,37738.0
+10958,rubber,2004,549.0
+10959,rubber,2005,325.0
+10960,rubber,2006,408.0
+10961,rubber,2007,1915.0
+10962,rubber,2008,911.0
+10963,rubber,2009,3328.0
+10964,rubber,2010,14754.0
+10965,rubber,2011,15523.0
+10966,rubber,2012,18460.0
+10967,rubber,2013,3400.0
+10968,rubber,2014,2428.0
+10969,rubber,2015,4644.0
+10970,rubber,2016,2962.0
+10971,rubber,2017,5086.0
+10972,rubber,2018,1202.0
+10973,rubber,2019,1640.0
+11076,sesame seed,2004,1.0
+11077,sesame seed,2005,19.0
+11078,sesame seed,2006,75.0
+11079,sesame seed,2007,1.0
+11080,sesame seed,2008,65.0
+11081,sesame seed,2009,19.0
+11082,sesame seed,2010,90.0
+11083,sesame seed,2011,198.0
+11084,sesame seed,2012,95.0
+11085,sesame seed,2013,2.0
+11086,sesame seed,2014,415.0
+11087,sesame seed,2015,1389.0
+11088,sesame seed,2016,1556.0
+11089,sesame seed,2017,1955.0
+11090,sesame seed,2018,3159.0
+11091,sesame seed,2019,19960.0
+11371,sorghum,2004,133264.0
+11372,sorghum,2005,23649.0
+11373,sorghum,2006,8770.0
+11374,sorghum,2007,225430.0
+11375,sorghum,2008,5099.0
+11376,sorghum,2009,261.0
+11377,sorghum,2010,110.0
+11378,sorghum,2011,444.0
+11379,sorghum,2012,21.0
+11380,sorghum,2013,5340.0
+11381,sorghum,2014,17502.0
+11382,sorghum,2015,33069.0
+11383,sorghum,2016,4281.0
+11384,sorghum,2017,584.0
+11385,sorghum,2018,1425.0
+11386,sorghum,2019,32397.0
+11430,soya sauce,2004,164.0
+11431,soya sauce,2005,200.0
+11432,soya sauce,2006,244.0
+11433,soya sauce,2007,413.0
+11434,soya sauce,2008,448.0
+11435,soya sauce,2009,417.0
+11436,soya sauce,2010,555.0
+11437,soya sauce,2011,656.0
+11438,soya sauce,2012,702.0
+11439,soya sauce,2013,791.0
+11440,soya sauce,2014,702.0
+11441,soya sauce,2015,912.0
+11442,soya sauce,2016,840.0
+11443,soya sauce,2017,998.0
+11444,soya sauce,2018,1224.0
+11445,soya sauce,2019,997.0
+11489,soybean,2004,36250556.0
+11490,soybean,2005,39553806.0
+11491,soybean,2006,39709704.0
+11492,soybean,2007,38550500.0
+11493,soybean,2008,39103224.0
+11494,soybean,2009,42409347.0
+11495,soybean,2010,44301575.0
+11496,soybean,2011,49082144.0
+11497,soybean,2012,48514215.0
+11498,soybean,2013,57492120.0
+11499,soybean,2014,60713421.0
+11500,soybean,2015,70820849.0
+11501,soybean,2016,67279852.0
+11502,soybean,2017,83674126.0
+11503,soybean,2018,101881881.0
+11504,soybean,2019,91796691.0
+11548,spices nes,2004,914.0
+11549,spices nes,2005,755.0
+11550,spices nes,2006,862.0
+11551,spices nes,2007,145.0
+11552,spices nes,2008,252.0
+11553,spices nes,2009,43.0
+11554,spices nes,2010,107.0
+11555,spices nes,2011,28.0
+11556,spices nes,2012,821.0
+11557,spices nes,2013,1707.0
+11558,spices nes,2014,426.0
+11559,spices nes,2015,408.0
+11560,spices nes,2016,462.0
+11561,spices nes,2017,605.0
+11562,spices nes,2018,1216.0
+11563,spices nes,2019,2032.0
+11666,"starch, cassava",2004,8444.0
+11667,"starch, cassava",2005,11545.0
+11668,"starch, cassava",2006,11730.0
+11669,"starch, cassava",2007,12876.0
+11670,"starch, cassava",2008,9311.0
+11671,"starch, cassava",2009,9352.0
+11672,"starch, cassava",2010,3759.0
+11673,"starch, cassava",2011,6762.0
+11674,"starch, cassava",2012,7262.0
+11675,"starch, cassava",2013,6244.0
+11676,"starch, cassava",2014,5977.0
+11677,"starch, cassava",2015,21598.0
+11678,"starch, cassava",2016,13382.0
+11679,"starch, cassava",2017,4414.0
+11680,"starch, cassava",2018,4576.0
+11681,"starch, cassava",2019,6539.0
+11725,straw husks,2004,11490.0
+11726,straw husks,2005,70.0
+11727,straw husks,2006,8289.0
+11728,straw husks,2007,74.0
+11729,straw husks,2008,839.0
+11730,straw husks,2009,846.0
+11731,straw husks,2010,441.0
+11732,straw husks,2011,0.0
+11733,straw husks,2012,0.0
+11734,straw husks,2013,16.0
+11735,straw husks,2014,4.0
+11736,straw husks,2015,1.0
+11737,straw husks,2016,43.0
+11738,straw husks,2017,0.0
+11739,straw husks,2018,367.0
+11740,straw husks,2019,384.0
+11843,sugar,2004,31978018.0
+11844,sugar,2005,36719034.0
+11845,sugar,2006,38095995.0
+11846,sugar,2007,39008701.0
+11847,sugar,2008,39310316.0
+11848,sugar,2009,48917135.0
+11849,sugar,2010,56277149.0
+11850,sugar,2011,50975011.0
+11851,sugar,2012,48254787.0
+11852,sugar,2013,54489921.0
+11853,sugar,2014,48450757.0
+11854,sugar,2015,48216598.0
+11855,sugar,2016,58086789.0
+11856,sugar,2017,57634927.0
+11857,sugar,2018,42841532.0
+11858,sugar,2019,36046384.0
+11902,sunflower,2004,9168.0
+11903,sunflower,2005,2149.0
+11904,sunflower,2006,1217.0
+11905,sunflower,2007,6857.0
+11906,sunflower,2008,5727.0
+11907,sunflower,2009,1032.0
+11908,sunflower,2010,1219.0
+11909,sunflower,2011,701.0
+11910,sunflower,2012,657.0
+11911,sunflower,2013,567.0
+11912,sunflower,2014,479.0
+11913,sunflower,2015,2401.0
+11914,sunflower,2016,1743.0
+11915,sunflower,2017,164.0
+11916,sunflower,2018,563.0
+11917,sunflower,2019,144.0
+11961,sweet corn,2004,8462.0
+11962,sweet corn,2005,6735.0
+11963,sweet corn,2006,7525.0
+11964,sweet corn,2007,12458.0
+11965,sweet corn,2008,10245.0
+11966,sweet corn,2009,10792.0
+11967,sweet corn,2010,11283.0
+11968,sweet corn,2011,12308.0
+11969,sweet corn,2012,8743.0
+11970,sweet corn,2013,10776.0
+11971,sweet corn,2014,8599.0
+11972,sweet corn,2015,10686.0
+11973,sweet corn,2016,13268.0
+11974,sweet corn,2017,17128.0
+11975,sweet corn,2018,17737.0
+11976,sweet corn,2019,16780.0
+12020,sweet potatoes,2004,1103.0
+12021,sweet potatoes,2005,1512.0
+12022,sweet potatoes,2006,1963.0
+12023,sweet potatoes,2007,5921.0
+12024,sweet potatoes,2008,4808.0
+12025,sweet potatoes,2009,4839.0
+12026,sweet potatoes,2010,2904.0
+12027,sweet potatoes,2011,3857.0
+12028,sweet potatoes,2012,2811.0
+12029,sweet potatoes,2013,2784.0
+12030,sweet potatoes,2014,2658.0
+12031,sweet potatoes,2015,1829.0
+12032,sweet potatoes,2016,20237.0
+12033,sweet potatoes,2017,3905.0
+12034,sweet potatoes,2018,9714.0
+12035,sweet potatoes,2019,8797.0
+12079,tallow,2004,46347.0
+12080,tallow,2005,44491.0
+12081,tallow,2006,12445.0
+12082,tallow,2007,18516.0
+12083,tallow,2008,633.0
+12084,tallow,2009,3399.0
+12085,tallow,2010,5380.0
+12086,tallow,2011,261.0
+12087,tallow,2012,4054.0
+12088,tallow,2013,13865.0
+12089,tallow,2014,492.0
+12090,tallow,2015,843.0
+12091,tallow,2016,1323.0
+12092,tallow,2017,9087.0
+12093,tallow,2018,2051.0
+12094,tallow,2019,10429.0
+12138,"tangerines, mandarins, clementines, satsumas",2004,18014.0
+12139,"tangerines, mandarins, clementines, satsumas",2005,12475.0
+12140,"tangerines, mandarins, clementines, satsumas",2006,10712.0
+12141,"tangerines, mandarins, clementines, satsumas",2007,6128.0
+12142,"tangerines, mandarins, clementines, satsumas",2008,6761.0
+12143,"tangerines, mandarins, clementines, satsumas",2009,4412.0
+12144,"tangerines, mandarins, clementines, satsumas",2010,1976.0
+12145,"tangerines, mandarins, clementines, satsumas",2011,921.0
+12146,"tangerines, mandarins, clementines, satsumas",2012,1357.0
+12147,"tangerines, mandarins, clementines, satsumas",2013,638.0
+12148,"tangerines, mandarins, clementines, satsumas",2014,19.0
+12149,"tangerines, mandarins, clementines, satsumas",2015,525.0
+12150,"tangerines, mandarins, clementines, satsumas",2016,59.0
+12151,"tangerines, mandarins, clementines, satsumas",2017,430.0
+12152,"tangerines, mandarins, clementines, satsumas",2018,530.0
+12153,"tangerines, mandarins, clementines, satsumas",2019,440.0
+12197,tea,2004,3658.0
+12198,tea,2005,3427.0
+12199,tea,2006,3277.0
+12200,tea,2007,3433.0
+12201,tea,2008,3191.0
+12202,tea,2009,2458.0
+12203,tea,2010,2637.0
+12204,tea,2011,2117.0
+12205,tea,2012,1832.0
+12206,tea,2013,902.0
+12207,tea,2014,570.0
+12208,tea,2015,477.0
+12209,tea,2016,435.0
+12210,tea,2017,361.0
+12211,tea,2018,336.0
+12212,tea,2019,388.0
+12256,textile fibres,2004,413141.0
+12257,textile fibres,2005,469848.0
+12258,textile fibres,2006,400485.0
+12259,textile fibres,2007,494156.0
+12260,textile fibres,2008,607823.0
+12261,textile fibres,2009,577924.0
+12262,textile fibres,2010,568243.0
+12263,textile fibres,2011,818717.0
+12264,textile fibres,2012,1119979.0
+12265,textile fibres,2013,623167.0
+12266,textile fibres,2014,817443.0
+12267,textile fibres,2015,890800.0
+12268,textile fibres,2016,869468.0
+12269,textile fibres,2017,887240.0
+12270,textile fibres,2018,974016.0
+12271,textile fibres,2019,1682058.0
+12315,tobacco,2004,1182781.0
+12316,tobacco,2005,1256425.0
+12317,tobacco,2006,1158864.0
+12318,tobacco,2007,1415064.0
+12319,tobacco,2008,1379504.0
+12320,tobacco,2009,1347502.0
+12321,tobacco,2010,1010809.0
+12322,tobacco,2011,1090827.0
+12323,tobacco,2012,1275210.0
+12324,tobacco,2013,1253693.0
+12325,tobacco,2014,952068.0
+12326,tobacco,2015,1033242.0
+12327,tobacco,2016,965878.0
+12328,tobacco,2017,922775.0
+12329,tobacco,2018,920175.0
+12330,tobacco,2019,1101449.0
+12374,tomato,2004,15107.0
+12375,tomato,2005,10285.0
+12376,tomato,2006,6575.0
+12377,tomato,2007,17301.0
+12378,tomato,2008,10733.0
+12379,tomato,2009,7363.0
+12380,tomato,2010,8947.0
+12381,tomato,2011,6806.0
+12382,tomato,2012,3997.0
+12383,tomato,2013,4349.0
+12384,tomato,2014,2645.0
+12385,tomato,2015,2382.0
+12386,tomato,2016,7187.0
+12387,tomato,2017,8446.0
+12388,tomato,2018,9533.0
+12389,tomato,2019,3423.0
 12551,wafers,2004,10598.0
 12552,wafers,2005,13044.0
 12553,wafers,2006,14456.0

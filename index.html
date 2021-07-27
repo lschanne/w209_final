@@ -230,200 +230,117 @@
 <div id="exports_header" style="width: 100%; height: 15%;">
     <h1> Brazil Exports</h1>
     <p>In this section, we would like to explore which products that are exported from Brazil may be associated with the deforestation of Brazilian rainforests. For this purpose, we are looking at the <a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv">deforestation rates from Kaggle</a> and the <a style="white-space:nowrap;" href="http://www.fao.org/faostat/en/#data/TP/metadata">export trade data from the Food and Agriculture Organization of the United Nations</a>. By comparing the trends in these data, we hope to provide guidance for experiments or regulations that are targeted at combatting the deforestation problem.</p>
-    <p>Our main goal in this section is to allow users to explore the data themselves and determine which products may be key factors in the deforestation problem. Generally, we think that products like bananas, with a high amount of total exported tonnes between and a high correlation between annual export rates and deforestation rates are the most likely to have a high impact on the deforestation problem. These export products would be to the top and right of the first plot.</p>
-    <p>To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
+    <p><span style="font-weight: bold;">Goal:</span> Allow use to explore which exports from Brazil may be key factors in deforestation.</p>
+    <p><span style="font-weight: bold;">Takeaway:</span> Generally, export rates in Brazil are increasing at a rapid pace. Increasing production continues to jeopardize the rainforests.</p>
 </div>
 <div id="exports_details" style="width: 100%; height: 120vh; padding: 0; white-space: nowrap;">
-    <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 150px;">
-        <label for="export_items">Choose export items (Ctrl + Click: Multi):<br></label>
-            <select name="export_items" id="export_items" multiple style="width: 100%; height: 90%; float: center;">
-                <option value="alfalfa meal and pellets">alfalfa meal and pellets</option>
-                <option value="almonds">almonds</option>
+    <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 15vh;">
+        <p style="white-space: normal; font-size: small">To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
+        <label for="export_items">Choose export items:<br></label>
+            <select name="export_items" id="export_items" multiple style="width: 100%; height: 75%; float: center;">
                 <option value="animal fats and oils (excl. butter)">animal fats and oils (excl. butter)</option>
-                <option value="anise, badian, fennel, coriander">anise, badian, fennel, coriander</option>
                 <option value="apple">apple</option>
-                <option value="apples">apples</option>
-                <option value="apricots">apricots</option>
-                <option value="artichokes">artichokes</option>
-                <option value="asparagus">asparagus</option>
                 <option value="avocados">avocados</option>
                 <option value="bananas">bananas</option>
                 <option value="barley">barley</option>
                 <option value="beans, dry">beans, dry</option>
-                <option value="beans, green">beans, green</option>
                 <option value="beef">beef</option>
-                <option value="beeswax">beeswax</option>
                 <option value="beet pulp">beet pulp</option>
-                <option value="beverages">beverages</option>
                 <option value="bran, maize">bran, maize</option>
                 <option value="brazil nuts, shelled">brazil nuts, shelled</option>
                 <option value="buckwheat">buckwheat</option>
-                <option value="cabbages and other brassicas">cabbages and other brassicas</option>
-                <option value="cake, copra">cake, copra</option>
                 <option value="cake, cottonseed">cake, cottonseed</option>
-                <option value="cake, maize">cake, maize</option>
-                <option value="canary seed">canary seed</option>
                 <option value="carrots and turnips">carrots and turnips</option>
                 <option value="cashew">cashew</option>
-                <option value="cassava dried">cassava dried</option>
-                <option value="cauliflowers and broccoli">cauliflowers and broccoli</option>
                 <option value="cereal">cereal</option>
                 <option value="cheese, processed">cheese, processed</option>
-                <option value="cherries">cherries</option>
-                <option value="chestnut">chestnut</option>
                 <option value="chicken">chicken</option>
                 <option value="chocolate products nes">chocolate products nes</option>
                 <option value="cider etc">cider etc</option>
                 <option value="cigarettes">cigarettes</option>
-                <option value="cigars, cheroots">cigars, cheroots</option>
-                <option value="cinnamon (cannella)">cinnamon (cannella)</option>
                 <option value="citrus">citrus</option>
                 <option value="cloves">cloves</option>
                 <option value="cocoa">cocoa</option>
-                <option value="coconuts">coconuts</option>
-                <option value="cocoons, unreelable & waste">cocoons, unreelable & waste</option>
+                <option value="coconut">coconut</option>
                 <option value="coffee">coffee</option>
-                <option value="coir">coir</option>
-                <option value="copra">copra</option>
                 <option value="cotton">cotton</option>
                 <option value="cream fresh">cream fresh</option>
                 <option value="crude materials nes">crude materials nes</option>
-                <option value="cucumbers and gherkins">cucumbers and gherkins</option>
                 <option value="dairy products">dairy products</option>
-                <option value="dates">dates</option>
-                <option value="dregs from brewing, distillation">dregs from brewing, distillation</option>
-                <option value="eggplants (aubergines)">eggplants (aubergines)</option>
-                <option value="eggs">eggs</option>
+                <option value="egg">egg</option>
                 <option value="fat nes, prepared">fat nes, prepared</option>
                 <option value="fatty acids">fatty acids</option>
                 <option value="fatty substance residues">fatty substance residues</option>
-                <option value="feed and meal, gluten">feed and meal, gluten</option>
                 <option value="feed, pulp of fruit">feed, pulp of fruit</option>
                 <option value="fibre crops nes">fibre crops nes</option>
-                <option value="figs">figs</option>
-                <option value="flax">flax</option>
+                <option value="fig">fig</option>
                 <option value="flour">flour</option>
                 <option value="fodder and feeding stuff">fodder and feeding stuff</option>
                 <option value="food prep nes">food prep nes</option>
                 <option value="food wastes">food wastes</option>
-                <option value="forage products">forage products</option>
-                <option value="fructose and syrup, other">fructose and syrup, other</option>
                 <option value="fruit">fruit</option>
-                <option value="garlic">garlic</option>
-                <option value="germ, maize">germ, maize</option>
                 <option value="ginger">ginger</option>
                 <option value="glucose and dextrose">glucose and dextrose</option>
                 <option value="grape">grape</option>
-                <option value="grapefruit">grapefruit</option>
-                <option value="groundnuts">groundnuts</option>
-                <option value="hazelnuts">hazelnuts</option>
+                <option value="groundnut">groundnut</option>
                 <option value="hides and skins">hides and skins</option>
-                <option value="hides nes">hides nes</option>
                 <option value="honey, natural">honey, natural</option>
-                <option value="hops">hops</option>
-                <option value="ice cream and edible ice">ice cream and edible ice</option>
                 <option value="infant food">infant food</option>
                 <option value="juice, fruit nes">juice, fruit nes</option>
-                <option value="juice, pineapple">juice, pineapple</option>
-                <option value="juice, pineapple, concentrated">juice, pineapple, concentrated</option>
-                <option value="juice, tomato">juice, tomato</option>
-                <option value="jute">jute</option>
-                <option value="kiwi fruit">kiwi fruit</option>
-                <option value="kola nuts">kola nuts</option>
-                <option value="lactose">lactose</option>
                 <option value="lard">lard</option>
                 <option value="lemon">lemon</option>
-                <option value="lemons and limes">lemons and limes</option>
-                <option value="lentils">lentils</option>
-                <option value="lettuce and chicory">lettuce and chicory</option>
-                <option value="linseed">linseed</option>
                 <option value="macaroni">macaroni</option>
                 <option value="maize">maize</option>
-                <option value="maize, green">maize, green</option>
                 <option value="malt">malt</option>
                 <option value="mangoes, mangosteens, guavas">mangoes, mangosteens, guavas</option>
                 <option value="margarine, short">margarine, short</option>
-                <option value="mat�">mat�</option>
+                <option value="mat">mat</option>
                 <option value="meal, meat">meal, meat</option>
-                <option value="meat nes">meat nes</option>
                 <option value="meat, dried nes">meat, dried nes</option>
                 <option value="meat, duck">meat, duck</option>
-                <option value="meat, goat">meat, goat</option>
                 <option value="meat, horse">meat, horse</option>
                 <option value="meat, pork">meat, pork</option>
                 <option value="meat, turkey">meat, turkey</option>
                 <option value="melons, other (inc.cantaloupes)">melons, other (inc.cantaloupes)</option>
                 <option value="milk">milk</option>
-                <option value="millet">millet</option>
                 <option value="mixes and doughs">mixes and doughs</option>
                 <option value="molasses">molasses</option>
-                <option value="mushrooms">mushrooms</option>
-                <option value="mustard seed">mustard seed</option>
-                <option value="nutmeg, mace and cardamoms">nutmeg, mace and cardamoms</option>
-                <option value="nuts">nuts</option>
-                <option value="oats">oats</option>
-                <option value="offals">offals</option>
+                <option value="oat">oat</option>
+                <option value="offal">offal</option>
                 <option value="oil, boiled etc">oil, boiled etc</option>
                 <option value="oil, castor beans">oil, castor beans</option>
-                <option value="oil, coconut (copra)">oil, coconut (copra)</option>
                 <option value="oil, cottonseed">oil, cottonseed</option>
                 <option value="oil, essential nes">oil, essential nes</option>
-                <option value="oil, groundnut">oil, groundnut</option>
-                <option value="oil, linseed">oil, linseed</option>
                 <option value="oil, maize">oil, maize</option>
-                <option value="oil, olive">oil, olive</option>
                 <option value="oil, palm">oil, palm</option>
                 <option value="oil, rapeseed">oil, rapeseed</option>
-                <option value="oil, sesame">oil, sesame</option>
-                <option value="oil, soybean">oil, soybean</option>
-                <option value="oil, vegetable origin nes">oil, vegetable origin nes</option>
-                <option value="oils, fats of animal nes">oils, fats of animal nes</option>
-                <option value="oilseeds">oilseeds</option>
-                <option value="olives">olives</option>
-                <option value="olives preserved">olives preserved</option>
+                <option value="oilseed">oilseed</option>
                 <option value="onions, shallots, green">onions, shallots, green</option>
                 <option value="orange">orange</option>
-                <option value="oranges">oranges</option>
+                <option value="other beverages">other beverages</option>
                 <option value="other food">other food</option>
                 <option value="other meat">other meat</option>
-                <option value="palm">palm</option>
+                <option value="other nuts">other nuts</option>
+                <option value="other vegetables">other vegetables</option>
                 <option value="papayas">papayas</option>
                 <option value="pastry">pastry</option>
-                <option value="peaches and nectarines">peaches and nectarines</option>
-                <option value="pears">pears</option>
-                <option value="peas">peas</option>
                 <option value="pepper">pepper</option>
-                <option value="peppers">peppers</option>
-                <option value="persimmons">persimmons</option>
                 <option value="pet food">pet food</option>
                 <option value="pig">pig</option>
-                <option value="pineapples">pineapples</option>
-                <option value="pistachios">pistachios</option>
-                <option value="plantains and others">plantains and others</option>
-                <option value="plums and sloes">plums and sloes</option>
-                <option value="plums dried (prunes)">plums dried (prunes)</option>
+                <option value="pineapple">pineapple</option>
                 <option value="potatoes">potatoes</option>
                 <option value="pulses">pulses</option>
                 <option value="pumpkins, squash and gourds">pumpkins, squash and gourds</option>
-                <option value="pyrethrum, extraction">pyrethrum, extraction</option>
-                <option value="quinces">quinces</option>
-                <option value="raisins">raisins</option>
-                <option value="rapeseed">rapeseed</option>
                 <option value="rice">rice</option>
-                <option value="roots">roots</option>
+                <option value="root">root</option>
                 <option value="rubber">rubber</option>
-                <option value="rye">rye</option>
                 <option value="sesame seed">sesame seed</option>
-                <option value="sheep">sheep</option>
-                <option value="silk">silk</option>
                 <option value="sorghum">sorghum</option>
                 <option value="soya sauce">soya sauce</option>
-                <option value="soybeans">soybeans</option>
+                <option value="soybean">soybean</option>
                 <option value="spices nes">spices nes</option>
-                <option value="spinach">spinach</option>
                 <option value="starch, cassava">starch, cassava</option>
                 <option value="straw husks">straw husks</option>
-                <option value="strawberries">strawberries</option>
                 <option value="sugar">sugar</option>
                 <option value="sunflower">sunflower</option>
                 <option value="sweet corn">sweet corn</option>
@@ -433,30 +350,21 @@
                 <option value="tea">tea</option>
                 <option value="textile fibres">textile fibres</option>
                 <option value="tobacco">tobacco</option>
-                <option value="tomatoes">tomatoes</option>
-                <option value="vanilla">vanilla</option>
-                <option value="vegetable oil and fat">vegetable oil and fat</option>
-                <option value="vegetables">vegetables</option>
-                <option value="vermouths & similar">vermouths & similar</option>
+                <option value="tomato">tomato</option>
                 <option value="wafers">wafers</option>
-                <option value="walnuts, shelled">walnuts, shelled</option>
-                <option value="walnuts, with shell">walnuts, with shell</option>
-                <option value="watermelons">watermelons</option>
+                <option value="watermelon">watermelon</option>
                 <option value="waters,ice etc">waters,ice etc</option>
-                <option value="waxes vegetable">waxes vegetable</option>
                 <option value="wheat">wheat</option>
                 <option value="wine">wine</option>
                 <option value="wool">wool</option>
-                <option value="yoghurt, concentrated or not">yoghurt, concentrated or not</option>
-
             </select><br>
-            <button id="filter_exports_btn" onclick="set_selections()">Apply</button>
+            <button id="filter_exports_btn" onclick="set_selections()" style="margin-top: 5px;">Apply</button>
             <button id="select_all_btn" onclick="set_selections(true)" style="margin-left: 10%;">Select All</button>
     </div>
     <div id="plots_container" style="width: 75%; height: 100%; padding-left: 15%;">
-            <div id="correlation" style="width: 100%; height:33%;"></div><br>
             <div id="deforestation" style="width: 100%; height:33%;"></div><br>
             <div id="exports" style="width: 100%; height:33%;"></div><br>
+            <div id="correlation" style="width: 100%; height:33%;"></div><br>
     </div>
 </div>
 
@@ -528,9 +436,9 @@
                 data: {values: data},
                 mark: "point",
                 encoding: {
-                    x: {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", scale: {type: "log", domain: [1, 900000000]}},
+                    x: {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", scale: {type: "log", domain: [10000, 900000000]}},
                     y: {field: "corr", type: "quantitative", title: "Annual Corr: Tonnes Exported and DF Area (km^2)", scale: {domain: [-1, 1]}},
-                    color: {field: "item", type: "nominal", title: "Item"},
+                    color: {field: "item", type: "nominal", title: "Item", legend: {columns: 2}},
                     tooltip: [
                         {field: "item", type: "nominal", title: "Item"},
                         {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", format: ".3s"},
@@ -588,7 +496,7 @@
                 encoding: {
                     x: {field: "year", type: "quantitative", title: "Year", scale: {domain: [min_year, max_year]}, axis: {values: years, format: "d"}},
                     y: {field: "tonnes_exported", type: "quantitative", title: "Tonnes Exported"},
-                    color: {field: "item", type: "nominal", title: "Item"},
+                    color: {field: "item", type: "nominal", title: "Item", legend: {columns: 2}},
                     tooltip: [
                         {field: "item", type: "nominal", title: "Item"},
                         {field: "year", type: "ordinal", title: "Year"},
