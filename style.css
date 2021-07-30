@@ -17,6 +17,7 @@ header {
   position: sticky;
   top: 0;
   height: 100px;
+  width: 100vw;
   background: rgba(105,105,105, .98);
   z-index: 7;
   color: white;
@@ -94,4 +95,8 @@ footer {
   background: rgba(105,105,105, .98);
   z-index: 7;
   color: white;
+}
+
+#about-section p {
+    padding-left: 20px;
 }

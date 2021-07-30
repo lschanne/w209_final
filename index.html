@@ -16,7 +16,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   
   <header id="header-background">
-    <div class="logo"> </div>
+    <div class="logo" style="padding: 0;"> </div>
     <h1>Brazilian Rainforest Deforestation</h1>
     <nav>
       <a href="#section-1">Introduction</a>
@@ -24,11 +24,12 @@
       <a href="#section-3">Deforestation Over Time</a>
       <a href="#section-4">Total Deforestation</a>
       <a href="#section-5">Comparison with Bodies of Land</a>
-      <a href="#section-6">Impacts</a>
+      <a href="#section-6">CO<sub>2</sub> Emissions</a>
       <a href="#section-7">Factors and GHG Emissions</a>
       <a href="#section-8">Agriculture and Fires</a>
       <a href="#section-9">Soy Beans as an Export</a>
       <a href="#section-10">Explore Exports</a>
+      <a href="#about-section">About</a>
     </nav>
   </header>
 
@@ -175,7 +176,7 @@ new Runtime().module(define, name => {
 <!-- Section 6 Start -->
     <section id="section-6">
       <div>
-      <h2> Impacts of Deforestation </h2>
+      <h2> CO<sub>2</sub> emissions </h2>
 	<p> 
 	The packed bubble visual shows where Brazil’s contribution of the world<br>
 	total CO<sub>2</sub> emission relative to the top contributing countries.<br>
@@ -578,13 +579,25 @@ new Runtime().module(define, name => {
 
  
   </main>
-  <footer>
+  <footer id="about-section">
     <h1>About</h1>
-  <p>Author: Kritesh Shrestha, Mohamed, Luke </p>
-  <p><a href="mailto:hege@example.com">hege@example.com</a></p>
-    <p>Text should include the names of team members, the visualization’s goals,<br> 
-      its intended audience, and the data source(s). This may be included as an <br>
-      About page or integrated with the visualization itself, as appropriate.</p>
+    <div id="about-authors">
+        <h2>Authors:</h2>
+        <p>Kritesh Shrestha | <a href="mailto:kkshrestha@ischool.berkeley.edu">kkshrestha@ischool.berkeley.edu</a></p>
+        <p>Mohamed Gesalla | <a href="mailto:mgesalla@ischool.berkeley.edu">mgesalla@ischool.berkeley.edu</a></p>
+        <p>Luke Schanne | <a href="mailto:lschanne@ischool.berkeley.edu">lschanne@ischool.berkeley.edu</a></p>
+    </div>
+    <div id="about-audience">
+        <h2>Intended Audience</h2>
+        <p>We are hoping to reach conservationists, researchers, policy makers, and concerned global citizens with this information about the issues surrounding Brazilian Rainforest Deforestation. If we can educate our audiences about the problem and inspire them to take measures to alleviate its causes, we can help shape a future where the rainforest continues to thrive as a natural treasure.</p>
+    </div>
+    <div id="about-data">
+        <h2>Data Sources:</h2>
+        <p><a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes">http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes</a></p>
+        <p><a href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation">https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation</a></p>
+        <p><a href="https://ourworldindata.org/co2/country/brazil">https://ourworldindata.org/co2/country/brazil</a></p>
+        <p><a href="http://www.fao.org/faostat/en/#data/TP/metadata">http://www.fao.org/faostat/en/#data/TP/metadata</a></p>
+    </div>
 </footer>
   
   
