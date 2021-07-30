@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>Brazilian Rainforest Deforestation</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
 <div class="page">
   <!-- Load libraries -->
 <script src="https://d3js.org/d3.v6.js"></script>
@@ -87,38 +77,7 @@
 
 <!-- Section 3 Start -->
      <section id="section-3">
-      <div>
-      <h2> Deforestation Over Time</h2>
-	<p> 
-	While REDD+ proved to help reduce deforestation in Brazil in the short term,<br>
-	there has been an increase in deforested area starting 2013. From 2012 to 2020<br>
-	deforested area has increased by 114%. Deforested area impact multi aspects of<br>
-	Brazil's habitants as well as th rest of the world.
-        </p>
-      <h3> Loss of Habitat for Animals</h3>
-	<p> 
-	The loss of animals and plant species remains one of the most dangerous effects <br>
-	of deforestation. The trees of rainforest provide the canopy that regulates the <br>
-	temperature and shelter for its inhabitants. Deforestation has a direct impact<br>
-	in drastic variation in temperature between day and night.
-        </p>
-      <h3> Loss of Habitat for Humans</h3>
-	<p> 
-	With deforestation follows a short-lived boom that the local community can <br>
-	benefit from. However, in the long run, the level of development is almost <br>
-	identical to prior deforestation once natural resoures are gone.
-        </p>
-      <h3> Water in the Atmosphere</h3>
-	<p> 
-	The Brazilian rainforest aids in regulating regional and global water cycles.<br>
-	In the deforested areas, The air lacks the water vapor to be returned to the <br> 
-	soil. Lack of water causes dryer soil and the inability to grow crops.
-        </p>
-
-	<p>
-	</p>
-      </div>
-	<div>
+ 	<div>
 		<label for="observablehq-viewof-year-6c041b8e" style="white-space: normal; font-size: small;">Press Play or Drag Slider<br></label>
 		<div id="observablehq-viewof-year-6c041b8e"></div><br>
 		<div id="observablehq-brazil_def_geo-6c041b8e"></div><br>
@@ -134,6 +93,26 @@
 	});
 	</script>
 
+       
+      <div>
+      <h2> Deforestation Over Time</h2>
+	<p> 
+	While REDD+ proved to help reduce deforestation in Brazil in the short term,<br>
+	there has been an increase in deforested area starting 2013. From 2012 to 2020<br>
+	deforested area has increased by 114%. Deforested area impact multi aspects of<br>
+	Brazil's habitants as well as th rest of the world.
+        </p>
+        <p>
+          For animals, the shelter and temperature regulation that the Rainforest provided <br>is lost. Local human communities that reside within the forest area experience a <br>
+          short-lived boom which benefits them. However, once their natural resources <br>
+          run out their level of development is almost identical prior to deforestation. <br>
+          The deforestation also causes drier soil due to the tree that would
+          help aid in <br>regulating regional and global water cycles being destroyed.
+        </p> 
+
+	<p>
+	</p>
+      </div>
     </section>
 <!-- Section 3 End -->
 
@@ -159,19 +138,27 @@
 <!-- Section 5 Start -->
     <section id="section-5">
       <div>
+        		<label for="observablehq-viewof-year-6c041b8e" style="white-space: normal; font-size: small;">Click and Drag Globe to Interact<br></label>
+<div id="observablehq-globe-79e4f914"></div>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/d/d57b8f13da8c6c3e.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "globe") return new Inspector(document.querySelector("#observablehq-globe-79e4f914"));
+});
+</script>
+        </div>
+      
+      
+      <div>
       <h2> Comparison with Similar <br>Sized Bodies of Land</h2>
-	<p>Total Deforesation (2004 - 2020): 171,223 km²</p>
+	<p>Total Deforesation (2004 - 2020): 171,223 km² <br>
+	  Orange highlighted areas in the globe are areas of land that <br>
+    are similar in size to the total deforested area between 2004 and 2020.<br>
+	</p>
 
-      </div>
-	
-	<iframe width="400" height="485" frameborder="0"
-	  src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=bubble_chart"></iframe>
-
-	<iframe width="410" height="855" frameborder="0"
-  	src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=tunisia_geo%2Curuguay_geo"></iframe>
-
-	<iframe width="410" height="855" frameborder="0"
-  	src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=florida_geo%2Ccambodia_geo"></iframe>
+      </div>      
 
     </section>
 <!-- Section 5 end -->
@@ -580,8 +567,14 @@
 
  
   </main>
-</div>
-<!-- partial -->
+  <footer>
+    <h1>About</h1>
+  <p>Author: Kritesh Shrestha, Mohamed, Luke </p>
+  <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+    <p>Text should include the names of team members, the visualization’s goals,<br> 
+      its intended audience, and the data source(s). This may be included as an <br>
+      About page or integrated with the visualization itself, as appropriate.</p>
+</footer>
   
-</body>
-</html>
+  
+</div>

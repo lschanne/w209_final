@@ -17,8 +17,9 @@ header {
   position: sticky;
   top: 0;
   height: 100px;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(105,105,105, .98);
   z-index: 7;
+  color: white;
 }
 
 p {
@@ -27,7 +28,7 @@ p {
 
 nav a {
   padding: 0 16px;
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -75,12 +76,22 @@ background: rgba(255, 255, 255, 0.6);
 #section-8 {
 background: rgba(255, 255, 255, 0.6);
 }
-
 #section-9 {
+background: rgba(255, 255, 255, 0.6);
+}
+
+#section-10 {
 background: rgba(255, 255, 255, 0.6);
 }
 
 div {
   padding-right: 30px;
   padding-left: 30px;
+}
+
+footer {
+  padding: 100px;
+  background: rgba(105,105,105, .98);
+  z-index: 7;
+  color: white;
 }
