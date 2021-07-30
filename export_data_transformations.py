@@ -8,7 +8,7 @@ import re
 data_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'data')
 
 # https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv
-def_area_data = pd.read_csv(f'{data_dir}/raw/def_area_2004_2019.csv')
+def_area_data = pd.read_csv(f'{data_dir}/raw/def_area_2004_2020.csv')
 
 # http://www.fao.org/faostat/en/#data/TP/metadata
 # http://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_Crops_Livestock_E_All_Data.zip

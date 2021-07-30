@@ -57,7 +57,7 @@
 55,alfalfa meal and pellets,2016,0.0,7893.0
 56,alfalfa meal and pellets,2017,0.0,6947.0
 57,alfalfa meal and pellets,2018,92.0,7536.0
-58,alfalfa meal and pellets,2019,44.0,9762.0
+58,alfalfa meal and pellets,2019,44.0,10129.0
 59,almond,1961,0.0,
 60,almond,1962,0.0,
 61,almond,1963,0.0,
@@ -116,7 +116,7 @@
 114,almond,2016,0.0,7893.0
 115,almond,2017,0.0,6947.0
 116,almond,2018,0.0,7536.0
-117,almond,2019,26.0,9762.0
+117,almond,2019,26.0,10129.0
 118,animal fats and oils (excl. butter),1961,0.0,
 119,animal fats and oils (excl. butter),1962,0.0,
 120,animal fats and oils (excl. butter),1963,0.0,
@@ -175,7 +175,7 @@
 173,animal fats and oils (excl. butter),2016,13866.0,7893.0
 174,animal fats and oils (excl. butter),2017,17967.0,6947.0
 175,animal fats and oils (excl. butter),2018,10472.0,7536.0
-176,animal fats and oils (excl. butter),2019,18721.0,9762.0
+176,animal fats and oils (excl. butter),2019,18721.0,10129.0
 177,"anise, badian, fennel, coriander",1961,0.0,
 178,"anise, badian, fennel, coriander",1962,0.0,
 179,"anise, badian, fennel, coriander",1963,0.0,
@@ -234,7 +234,7 @@
 232,"anise, badian, fennel, coriander",2016,3.0,7893.0
 233,"anise, badian, fennel, coriander",2017,2.0,6947.0
 234,"anise, badian, fennel, coriander",2018,5.0,7536.0
-235,"anise, badian, fennel, coriander",2019,21.0,9762.0
+235,"anise, badian, fennel, coriander",2019,21.0,10129.0
 236,apple,1961,0.0,
 237,apple,1962,0.0,
 238,apple,1963,0.0,
@@ -293,7 +293,7 @@
 291,apple,2016,42143.0,7893.0
 292,apple,2017,72586.0,6947.0
 293,apple,2018,97905.0,7536.0
-294,apple,2019,70608.0,9762.0
+294,apple,2019,70608.0,10129.0
 295,apricot,1961,0.0,
 296,apricot,1962,0.0,
 297,apricot,1963,0.0,
@@ -352,7 +352,7 @@
 350,apricot,2016,0.0,7893.0
 351,apricot,2017,0.0,6947.0
 352,apricot,2018,0.0,7536.0
-353,apricot,2019,58.0,9762.0
+353,apricot,2019,58.0,10129.0
 354,areca nuts,1961,0.0,
 355,areca nuts,1962,0.0,
 356,areca nuts,1963,0.0,
@@ -411,7 +411,7 @@
 409,areca nuts,2016,0.0,7893.0
 410,areca nuts,2017,0.0,6947.0
 411,areca nuts,2018,0.0,7536.0
-412,areca nuts,2019,0.0,9762.0
+412,areca nuts,2019,0.0,10129.0
 413,artichokes,1961,0.0,
 414,artichokes,1962,0.0,
 415,artichokes,1963,0.0,
@@ -470,7 +470,7 @@
 468,artichokes,2016,0.0,7893.0
 469,artichokes,2017,0.0,6947.0
 470,artichokes,2018,0.0,7536.0
-471,artichokes,2019,1.0,9762.0
+471,artichokes,2019,1.0,10129.0
 472,asparagus,1961,0.0,
 473,asparagus,1962,0.0,
 474,asparagus,1963,0.0,
@@ -529,7 +529,7 @@
 527,asparagus,2016,0.0,7893.0
 528,asparagus,2017,0.0,6947.0
 529,asparagus,2018,0.0,7536.0
-530,asparagus,2019,3.0,9762.0
+530,asparagus,2019,3.0,10129.0
 531,avocados,1961,46.0,
 532,avocados,1962,0.0,
 533,avocados,1963,0.0,
@@ -588,7 +588,7 @@
 586,avocados,2016,4951.0,7893.0
 587,avocados,2017,7835.0,6947.0
 588,avocados,2018,7564.0,7536.0
-589,avocados,2019,10245.0,9762.0
+589,avocados,2019,10245.0,10129.0
 590,bananas,1961,245950.0,
 591,bananas,1962,216340.0,
 592,bananas,1963,205900.0,
@@ -647,7 +647,7 @@
 645,bananas,2016,63567.0,7893.0
 646,bananas,2017,40933.0,6947.0
 647,bananas,2018,64859.0,7536.0
-648,bananas,2019,78945.0,9762.0
+648,bananas,2019,78945.0,10129.0
 649,barley,1961,0.0,
 650,barley,1962,19.0,
 651,barley,1963,0.0,
@@ -706,7 +706,7 @@
 704,barley,2016,128179.0,7893.0
 705,barley,2017,156546.0,6947.0
 706,barley,2018,135527.0,7536.0
-707,barley,2019,128351.0,9762.0
+707,barley,2019,128351.0,10129.0
 708,"beans, dry",1961,7268.0,
 709,"beans, dry",1962,0.0,
 710,"beans, dry",1963,0.0,
@@ -765,7 +765,7 @@
 763,"beans, dry",2016,45049.0,7893.0
 764,"beans, dry",2017,116373.0,6947.0
 765,"beans, dry",2018,117110.0,7536.0
-766,"beans, dry",2019,123106.0,9762.0
+766,"beans, dry",2019,123106.0,10129.0
 767,"beans, green",1961,0.0,
 768,"beans, green",1962,0.0,
 769,"beans, green",1963,0.0,
@@ -824,7 +824,7 @@
 822,"beans, green",2016,0.0,7893.0
 823,"beans, green",2017,0.0,6947.0
 824,"beans, green",2018,1.0,7536.0
-825,"beans, green",2019,7.0,9762.0
+825,"beans, green",2019,7.0,10129.0
 826,beef,1961,70829.0,
 827,beef,1962,54336.0,
 828,beef,1963,44629.0,
@@ -883,7 +883,7 @@
 881,beef,2016,2855078.0,7893.0
 882,beef,2017,3126912.0,6947.0
 883,beef,2018,3496866.0,7536.0
-884,beef,2019,4007304.0,9762.0
+884,beef,2019,4007304.0,10129.0
 885,beeswax,1961,564.0,
 886,beeswax,1962,382.0,
 887,beeswax,1963,608.0,
@@ -942,7 +942,7 @@
 940,beeswax,2016,41.0,7893.0
 941,beeswax,2017,46.0,6947.0
 942,beeswax,2018,34.0,7536.0
-943,beeswax,2019,37.0,9762.0
+943,beeswax,2019,37.0,10129.0
 944,beet pulp,1961,0.0,
 945,beet pulp,1962,0.0,
 946,beet pulp,1963,0.0,
@@ -1001,7 +1001,7 @@
 999,beet pulp,2016,11.0,7893.0
 1000,beet pulp,2017,18.0,6947.0
 1001,beet pulp,2018,9838.0,7536.0
-1002,beet pulp,2019,2.0,9762.0
+1002,beet pulp,2019,2.0,10129.0
 1003,"bran, maize",1961,0.0,
 1004,"bran, maize",1962,0.0,
 1005,"bran, maize",1963,0.0,
@@ -1060,7 +1060,7 @@
 1058,"bran, maize",2016,425.0,7893.0
 1059,"bran, maize",2017,4655.0,6947.0
 1060,"bran, maize",2018,1749.0,7536.0
-1061,"bran, maize",2019,2381.0,9762.0
+1061,"bran, maize",2019,2381.0,10129.0
 1062,"brazil nuts, shelled",1961,6208.0,
 1063,"brazil nuts, shelled",1962,4333.0,
 1064,"brazil nuts, shelled",1963,5154.0,
@@ -1119,7 +1119,7 @@
 1117,"brazil nuts, shelled",2016,587.0,7893.0
 1118,"brazil nuts, shelled",2017,300.0,6947.0
 1119,"brazil nuts, shelled",2018,4973.0,7536.0
-1120,"brazil nuts, shelled",2019,1395.0,9762.0
+1120,"brazil nuts, shelled",2019,1395.0,10129.0
 1121,"broad beans, horse beans, dry",1961,0.0,
 1122,"broad beans, horse beans, dry",1962,0.0,
 1123,"broad beans, horse beans, dry",1963,0.0,
@@ -1178,7 +1178,7 @@
 1176,"broad beans, horse beans, dry",2016,0.0,7893.0
 1177,"broad beans, horse beans, dry",2017,0.0,6947.0
 1178,"broad beans, horse beans, dry",2018,0.0,7536.0
-1179,"broad beans, horse beans, dry",2019,0.0,9762.0
+1179,"broad beans, horse beans, dry",2019,0.0,10129.0
 1180,buckwheat,1961,0.0,
 1181,buckwheat,1962,500.0,
 1182,buckwheat,1963,9848.0,
@@ -1237,7 +1237,7 @@
 1235,buckwheat,2016,1916.0,7893.0
 1236,buckwheat,2017,2467.0,6947.0
 1237,buckwheat,2018,1803.0,7536.0
-1238,buckwheat,2019,1099.0,9762.0
+1238,buckwheat,2019,1099.0,10129.0
 1239,cabbages and other brassicas,1961,0.0,
 1240,cabbages and other brassicas,1962,0.0,
 1241,cabbages and other brassicas,1963,0.0,
@@ -1296,7 +1296,7 @@
 1294,cabbages and other brassicas,2016,150.0,7893.0
 1295,cabbages and other brassicas,2017,20.0,6947.0
 1296,cabbages and other brassicas,2018,75.0,7536.0
-1297,cabbages and other brassicas,2019,333.0,9762.0
+1297,cabbages and other brassicas,2019,333.0,10129.0
 1298,"cake, copra",1961,0.0,
 1299,"cake, copra",1962,0.0,
 1300,"cake, copra",1963,0.0,
@@ -1355,7 +1355,7 @@
 1353,"cake, copra",2016,0.0,7893.0
 1354,"cake, copra",2017,0.0,6947.0
 1355,"cake, copra",2018,0.0,7536.0
-1356,"cake, copra",2019,0.0,9762.0
+1356,"cake, copra",2019,0.0,10129.0
 1357,"cake, cottonseed",1961,33000.0,
 1358,"cake, cottonseed",1962,3699.0,
 1359,"cake, cottonseed",1963,33390.0,
@@ -1414,7 +1414,7 @@
 1412,"cake, cottonseed",2016,3352.0,7893.0
 1413,"cake, cottonseed",2017,263.0,6947.0
 1414,"cake, cottonseed",2018,1494.0,7536.0
-1415,"cake, cottonseed",2019,203.0,9762.0
+1415,"cake, cottonseed",2019,203.0,10129.0
 1416,"cake, linseed",1961,3150.0,
 1417,"cake, linseed",1962,2250.0,
 1418,"cake, linseed",1963,11260.0,
@@ -1473,7 +1473,7 @@
 1471,"cake, linseed",2016,0.0,7893.0
 1472,"cake, linseed",2017,0.0,6947.0
 1473,"cake, linseed",2018,0.0,7536.0
-1474,"cake, linseed",2019,0.0,9762.0
+1474,"cake, linseed",2019,0.0,10129.0
 1475,"cake, maize",1961,2047.0,
 1476,"cake, maize",1962,873.0,
 1477,"cake, maize",1963,12428.0,
@@ -1532,7 +1532,7 @@
 1530,"cake, maize",2016,0.0,7893.0
 1531,"cake, maize",2017,0.0,6947.0
 1532,"cake, maize",2018,0.0,7536.0
-1533,"cake, maize",2019,0.0,9762.0
+1533,"cake, maize",2019,0.0,10129.0
 1534,"cake, rapeseed",1961,0.0,
 1535,"cake, rapeseed",1962,0.0,
 1536,"cake, rapeseed",1963,0.0,
@@ -1591,7 +1591,7 @@
 1589,"cake, rapeseed",2016,0.0,7893.0
 1590,"cake, rapeseed",2017,0.0,6947.0
 1591,"cake, rapeseed",2018,0.0,7536.0
-1592,"cake, rapeseed",2019,0.0,9762.0
+1592,"cake, rapeseed",2019,0.0,10129.0
 1593,canary seed,1961,0.0,
 1594,canary seed,1962,0.0,
 1595,canary seed,1963,0.0,
@@ -1650,7 +1650,7 @@
 1648,canary seed,2016,4.0,7893.0
 1649,canary seed,2017,8.0,6947.0
 1650,canary seed,2018,5.0,7536.0
-1651,canary seed,2019,5.0,9762.0
+1651,canary seed,2019,5.0,10129.0
 1652,carrots and turnips,1961,0.0,
 1653,carrots and turnips,1962,0.0,
 1654,carrots and turnips,1963,0.0,
@@ -1709,7 +1709,7 @@
 1707,carrots and turnips,2016,12126.0,7893.0
 1708,carrots and turnips,2017,4143.0,6947.0
 1709,carrots and turnips,2018,620.0,7536.0
-1710,carrots and turnips,2019,901.0,9762.0
+1710,carrots and turnips,2019,901.0,10129.0
 1711,cashew,1961,380.0,
 1712,cashew,1962,610.0,
 1713,cashew,1963,1070.0,
@@ -1768,7 +1768,7 @@
 1766,cashew,2016,15605.0,7893.0
 1767,cashew,2017,11424.0,6947.0
 1768,cashew,2018,12470.0,7536.0
-1769,cashew,2019,17090.0,9762.0
+1769,cashew,2019,17090.0,10129.0
 1770,cassava,1961,0.0,
 1771,cassava,1962,0.0,
 1772,cassava,1963,0.0,
@@ -1827,7 +1827,7 @@
 1825,cassava,2016,0.0,7893.0
 1826,cassava,2017,0.0,6947.0
 1827,cassava,2018,0.0,7536.0
-1828,cassava,2019,0.0,9762.0
+1828,cassava,2019,0.0,10129.0
 1829,cassava dried,1961,0.0,
 1830,cassava dried,1962,0.0,
 1831,cassava dried,1963,0.0,
@@ -1886,7 +1886,7 @@
 1884,cassava dried,2016,24.0,7893.0
 1885,cassava dried,2017,36.0,6947.0
 1886,cassava dried,2018,46.0,7536.0
-1887,cassava dried,2019,102.0,9762.0
+1887,cassava dried,2019,102.0,10129.0
 1888,cauliflowers and broccoli,1961,0.0,
 1889,cauliflowers and broccoli,1962,0.0,
 1890,cauliflowers and broccoli,1963,0.0,
@@ -1945,7 +1945,7 @@
 1943,cauliflowers and broccoli,2016,1.0,7893.0
 1944,cauliflowers and broccoli,2017,0.0,6947.0
 1945,cauliflowers and broccoli,2018,40.0,7536.0
-1946,cauliflowers and broccoli,2019,172.0,9762.0
+1946,cauliflowers and broccoli,2019,172.0,10129.0
 1947,cereal,1961,155206.0,
 1948,cereal,1962,44173.0,
 1949,cereal,1963,709057.0,
@@ -2004,7 +2004,7 @@
 2002,cereal,2016,23463711.0,7893.0
 2003,cereal,2017,30834218.0,6947.0
 2004,cereal,2018,25275313.0,7536.0
-2005,cereal,2019,44620258.0,9762.0
+2005,cereal,2019,44620258.0,10129.0
 2006,"cheese, processed",1961,0.0,
 2007,"cheese, processed",1962,0.0,
 2008,"cheese, processed",1963,0.0,
@@ -2063,7 +2063,7 @@
 2061,"cheese, processed",2016,1574.0,7893.0
 2062,"cheese, processed",2017,1700.0,6947.0
 2063,"cheese, processed",2018,1580.0,7536.0
-2064,"cheese, processed",2019,1109.0,9762.0
+2064,"cheese, processed",2019,1109.0,10129.0
 2065,cherries,1961,0.0,
 2066,cherries,1962,0.0,
 2067,cherries,1963,0.0,
@@ -2122,7 +2122,7 @@
 2120,cherries,2016,0.0,7893.0
 2121,cherries,2017,0.0,6947.0
 2122,cherries,2018,0.0,7536.0
-2123,cherries,2019,0.0,9762.0
+2123,cherries,2019,0.0,10129.0
 2124,"cherries, sour",1961,0.0,
 2125,"cherries, sour",1962,0.0,
 2126,"cherries, sour",1963,0.0,
@@ -2181,7 +2181,7 @@
 2179,"cherries, sour",2016,0.0,7893.0
 2180,"cherries, sour",2017,0.0,6947.0
 2181,"cherries, sour",2018,0.0,7536.0
-2182,"cherries, sour",2019,0.0,9762.0
+2182,"cherries, sour",2019,0.0,10129.0
 2183,chestnut,1961,0.0,
 2184,chestnut,1962,0.0,
 2185,chestnut,1963,0.0,
@@ -2240,7 +2240,7 @@
 2238,chestnut,2016,9.0,7893.0
 2239,chestnut,2017,5.0,6947.0
 2240,chestnut,2018,4.0,7536.0
-2241,chestnut,2019,9.0,9762.0
+2241,chestnut,2019,9.0,10129.0
 2242,chicken,1961,0.0,
 2243,chicken,1962,0.0,
 2244,chicken,1963,4.0,
@@ -2299,7 +2299,7 @@
 2297,chicken,2016,8535937.0,7893.0
 2298,chicken,2017,8411047.0,6947.0
 2299,chicken,2018,7983845.0,7536.0
-2300,chicken,2019,8182409.0,9762.0
+2300,chicken,2019,8182409.0,10129.0
 2301,chocolate products nes,1961,0.0,
 2302,chocolate products nes,1962,25.0,
 2303,chocolate products nes,1963,23.0,
@@ -2358,7 +2358,7 @@
 2356,chocolate products nes,2016,26896.0,7893.0
 2357,chocolate products nes,2017,25470.0,6947.0
 2358,chocolate products nes,2018,28886.0,7536.0
-2359,chocolate products nes,2019,27776.0,9762.0
+2359,chocolate products nes,2019,27776.0,10129.0
 2360,cider etc,1961,0.0,
 2361,cider etc,1962,0.0,
 2362,cider etc,1963,0.0,
@@ -2417,7 +2417,7 @@
 2415,cider etc,2016,4027.0,7893.0
 2416,cider etc,2017,4249.0,6947.0
 2417,cider etc,2018,4288.0,7536.0
-2418,cider etc,2019,6757.0,9762.0
+2418,cider etc,2019,6757.0,10129.0
 2419,cigarettes,1961,0.0,
 2420,cigarettes,1962,0.0,
 2421,cigarettes,1963,0.0,
@@ -2476,7 +2476,7 @@
 2474,cigarettes,2016,228.0,7893.0
 2475,cigarettes,2017,1662.0,6947.0
 2476,cigarettes,2018,1821.0,7536.0
-2477,cigarettes,2019,2168.0,9762.0
+2477,cigarettes,2019,2168.0,10129.0
 2478,"cigars, cheroots",1961,3.0,
 2479,"cigars, cheroots",1962,25.0,
 2480,"cigars, cheroots",1963,21.0,
@@ -2535,7 +2535,7 @@
 2533,"cigars, cheroots",2016,4.0,7893.0
 2534,"cigars, cheroots",2017,5.0,6947.0
 2535,"cigars, cheroots",2018,4.0,7536.0
-2536,"cigars, cheroots",2019,5.0,9762.0
+2536,"cigars, cheroots",2019,5.0,10129.0
 2537,cinnamon (cannella),1961,0.0,
 2538,cinnamon (cannella),1962,0.0,
 2539,cinnamon (cannella),1963,0.0,
@@ -2594,7 +2594,7 @@
 2592,cinnamon (cannella),2016,2.0,7893.0
 2593,cinnamon (cannella),2017,7.0,6947.0
 2594,cinnamon (cannella),2018,2.0,7536.0
-2595,cinnamon (cannella),2019,3.0,9762.0
+2595,cinnamon (cannella),2019,3.0,10129.0
 2596,citrus,1961,0.0,
 2597,citrus,1962,0.0,
 2598,citrus,1963,0.0,
@@ -2653,7 +2653,7 @@
 2651,citrus,2016,12222.0,7893.0
 2652,citrus,2017,16218.0,6947.0
 2653,citrus,2018,11767.0,7536.0
-2654,citrus,2019,12359.0,9762.0
+2654,citrus,2019,12359.0,10129.0
 2655,cloves,1961,0.0,
 2656,cloves,1962,0.0,
 2657,cloves,1963,0.0,
@@ -2712,7 +2712,7 @@
 2710,cloves,2016,3868.0,7893.0
 2711,cloves,2017,3535.0,6947.0
 2712,cloves,2018,2940.0,7536.0
-2713,cloves,2019,2409.0,9762.0
+2713,cloves,2019,2409.0,10129.0
 2714,cocoa,1961,133754.0,
 2715,cocoa,1962,78426.0,
 2716,cocoa,1963,88918.0,
@@ -2771,7 +2771,7 @@
 2769,cocoa,2016,60976.0,7893.0
 2770,cocoa,2017,60655.0,6947.0
 2771,cocoa,2018,50048.0,7536.0
-2772,cocoa,2019,51231.0,9762.0
+2772,cocoa,2019,51231.0,10129.0
 2773,coconut,1961,631.0,
 2774,coconut,1962,477.0,
 2775,coconut,1963,229.0,
@@ -2830,7 +2830,7 @@
 2828,coconut,2016,1205.0,7893.0
 2829,coconut,2017,1528.0,6947.0
 2830,coconut,2018,1176.0,7536.0
-2831,coconut,2019,1021.0,9762.0
+2831,coconut,2019,1021.0,10129.0
 2832,"cocoons, unreelable & waste",1961,0.0,
 2833,"cocoons, unreelable & waste",1962,0.0,
 2834,"cocoons, unreelable & waste",1963,0.0,
@@ -2889,7 +2889,7 @@
 2887,"cocoons, unreelable & waste",2016,119.0,7893.0
 2888,"cocoons, unreelable & waste",2017,110.0,6947.0
 2889,"cocoons, unreelable & waste",2018,101.0,7536.0
-2890,"cocoons, unreelable & waste",2019,128.0,9762.0
+2890,"cocoons, unreelable & waste",2019,128.0,10129.0
 2891,coffee,1961,1018245.0,
 2892,coffee,1962,982577.0,
 2893,coffee,1963,1170832.0,
@@ -2948,7 +2948,7 @@
 2946,coffee,2016,1918276.0,7893.0
 2947,coffee,2017,1737369.0,6947.0
 2948,coffee,2018,1917865.0,7536.0
-2949,coffee,2019,2332165.0,9762.0
+2949,coffee,2019,2332165.0,10129.0
 2950,coir,1961,0.0,
 2951,coir,1962,0.0,
 2952,coir,1963,0.0,
@@ -3007,7 +3007,7 @@
 3005,coir,2016,0.0,7893.0
 3006,coir,2017,0.0,6947.0
 3007,coir,2018,0.0,7536.0
-3008,coir,2019,0.0,9762.0
+3008,coir,2019,0.0,10129.0
 3009,copra,1961,0.0,
 3010,copra,1962,0.0,
 3011,copra,1963,0.0,
@@ -3066,7 +3066,7 @@
 3064,copra,2016,0.0,7893.0
 3065,copra,2017,0.0,6947.0
 3066,copra,2018,0.0,7536.0
-3067,copra,2019,0.0,9762.0
+3067,copra,2019,0.0,10129.0
 3068,cotton,1961,223587.0,
 3069,cotton,1962,235841.0,
 3070,cotton,1963,248201.0,
@@ -3125,7 +3125,7 @@
 3123,cotton,2016,926944.0,7893.0
 3124,cotton,2017,873764.0,6947.0
 3125,cotton,2018,961469.0,7536.0
-3126,cotton,2019,1691210.0,9762.0
+3126,cotton,2019,1691210.0,10129.0
 3127,cream fresh,1961,0.0,
 3128,cream fresh,1962,0.0,
 3129,cream fresh,1963,0.0,
@@ -3184,7 +3184,7 @@
 3182,cream fresh,2016,6584.0,7893.0
 3183,cream fresh,2017,7129.0,6947.0
 3184,cream fresh,2018,5968.0,7536.0
-3185,cream fresh,2019,6341.0,9762.0
+3185,cream fresh,2019,6341.0,10129.0
 3186,crude materials,1961,0.0,
 3187,crude materials,1962,0.0,
 3188,crude materials,1963,0.0,
@@ -3243,7 +3243,7 @@
 3241,crude materials,2016,0.0,7893.0
 3242,crude materials,2017,0.0,6947.0
 3243,crude materials,2018,0.0,7536.0
-3244,crude materials,2019,0.0,9762.0
+3244,crude materials,2019,0.0,10129.0
 3245,crude materials nes,1961,145.0,
 3246,crude materials nes,1962,28.0,
 3247,crude materials nes,1963,3.0,
@@ -3302,7 +3302,7 @@
 3300,crude materials nes,2016,876.0,7893.0
 3301,crude materials nes,2017,667.0,6947.0
 3302,crude materials nes,2018,593.0,7536.0
-3303,crude materials nes,2019,655.0,9762.0
+3303,crude materials nes,2019,655.0,10129.0
 3304,cucumbers and gherkins,1961,0.0,
 3305,cucumbers and gherkins,1962,0.0,
 3306,cucumbers and gherkins,1963,0.0,
@@ -3361,7 +3361,7 @@
 3359,cucumbers and gherkins,2016,0.0,7893.0
 3360,cucumbers and gherkins,2017,1.0,6947.0
 3361,cucumbers and gherkins,2018,35.0,7536.0
-3362,cucumbers and gherkins,2019,151.0,9762.0
+3362,cucumbers and gherkins,2019,151.0,10129.0
 3363,currants,1961,0.0,
 3364,currants,1962,0.0,
 3365,currants,1963,0.0,
@@ -3420,7 +3420,7 @@
 3418,currants,2016,0.0,7893.0
 3419,currants,2017,0.0,6947.0
 3420,currants,2018,0.0,7536.0
-3421,currants,2019,0.0,9762.0
+3421,currants,2019,0.0,10129.0
 3422,dairy products,1961,0.0,
 3423,dairy products,1962,0.0,
 3424,dairy products,1963,1.0,
@@ -3479,7 +3479,7 @@
 3477,dairy products,2016,51649.0,7893.0
 3478,dairy products,2017,36043.0,6947.0
 3479,dairy products,2018,22241.0,7536.0
-3480,dairy products,2019,23780.0,9762.0
+3480,dairy products,2019,23780.0,10129.0
 3481,dates,1961,0.0,
 3482,dates,1962,0.0,
 3483,dates,1963,0.0,
@@ -3538,7 +3538,7 @@
 3536,dates,2016,0.0,7893.0
 3537,dates,2017,0.0,6947.0
 3538,dates,2018,4.0,7536.0
-3539,dates,2019,30.0,9762.0
+3539,dates,2019,30.0,10129.0
 3540,"dregs from brewing, distillation",1961,0.0,
 3541,"dregs from brewing, distillation",1962,0.0,
 3542,"dregs from brewing, distillation",1963,0.0,
@@ -3597,7 +3597,7 @@
 3595,"dregs from brewing, distillation",2016,0.0,7893.0
 3596,"dregs from brewing, distillation",2017,0.0,6947.0
 3597,"dregs from brewing, distillation",2018,0.0,7536.0
-3598,"dregs from brewing, distillation",2019,0.0,9762.0
+3598,"dregs from brewing, distillation",2019,0.0,10129.0
 3599,egg,1961,64.0,
 3600,egg,1962,10.0,
 3601,egg,1963,6.0,
@@ -3656,7 +3656,7 @@
 3654,egg,2016,39462.0,7893.0
 3655,egg,2017,33748.0,6947.0
 3656,egg,2018,51676.0,7536.0
-3657,egg,2019,42362.0,9762.0
+3657,egg,2019,42362.0,10129.0
 3658,eggplants (aubergines),1961,0.0,
 3659,eggplants (aubergines),1962,0.0,
 3660,eggplants (aubergines),1963,0.0,
@@ -3715,7 +3715,7 @@
 3713,eggplants (aubergines),2016,19.0,7893.0
 3714,eggplants (aubergines),2017,0.0,6947.0
 3715,eggplants (aubergines),2018,30.0,7536.0
-3716,eggplants (aubergines),2019,231.0,9762.0
+3716,eggplants (aubergines),2019,231.0,10129.0
 3717,"fat nes, prepared",1961,0.0,
 3718,"fat nes, prepared",1962,0.0,
 3719,"fat nes, prepared",1963,0.0,
@@ -3774,7 +3774,7 @@
 3772,"fat nes, prepared",2016,4030.0,7893.0
 3773,"fat nes, prepared",2017,2923.0,6947.0
 3774,"fat nes, prepared",2018,3679.0,7536.0
-3775,"fat nes, prepared",2019,3579.0,9762.0
+3775,"fat nes, prepared",2019,3579.0,10129.0
 3776,"fat, liver prepared (foie gras)",1961,0.0,
 3777,"fat, liver prepared (foie gras)",1962,0.0,
 3778,"fat, liver prepared (foie gras)",1963,0.0,
@@ -3833,7 +3833,7 @@
 3831,"fat, liver prepared (foie gras)",2016,0.0,7893.0
 3832,"fat, liver prepared (foie gras)",2017,0.0,6947.0
 3833,"fat, liver prepared (foie gras)",2018,0.0,7536.0
-3834,"fat, liver prepared (foie gras)",2019,0.0,9762.0
+3834,"fat, liver prepared (foie gras)",2019,0.0,10129.0
 3835,fatty acids,1961,0.0,
 3836,fatty acids,1962,0.0,
 3837,fatty acids,1963,0.0,
@@ -3892,7 +3892,7 @@
 3890,fatty acids,2016,19074.0,7893.0
 3891,fatty acids,2017,13843.0,6947.0
 3892,fatty acids,2018,10942.0,7536.0
-3893,fatty acids,2019,11736.0,9762.0
+3893,fatty acids,2019,11736.0,10129.0
 3894,fatty substance residues,1961,0.0,
 3895,fatty substance residues,1962,0.0,
 3896,fatty substance residues,1963,0.0,
@@ -3951,7 +3951,7 @@
 3949,fatty substance residues,2016,907.0,7893.0
 3950,fatty substance residues,2017,1701.0,6947.0
 3951,fatty substance residues,2018,1482.0,7536.0
-3952,fatty substance residues,2019,790.0,9762.0
+3952,fatty substance residues,2019,790.0,10129.0
 3953,"feed and meal, gluten",1961,0.0,
 3954,"feed and meal, gluten",1962,0.0,
 3955,"feed and meal, gluten",1963,0.0,
@@ -4010,7 +4010,7 @@
 4008,"feed and meal, gluten",2016,1.0,7893.0
 4009,"feed and meal, gluten",2017,14.0,6947.0
 4010,"feed and meal, gluten",2018,11.0,7536.0
-4011,"feed and meal, gluten",2019,793.0,9762.0
+4011,"feed and meal, gluten",2019,793.0,10129.0
 4012,"feed, pulp of fruit",1961,0.0,
 4013,"feed, pulp of fruit",1962,0.0,
 4014,"feed, pulp of fruit",1963,0.0,
@@ -4069,7 +4069,7 @@
 4067,"feed, pulp of fruit",2016,105641.0,7893.0
 4068,"feed, pulp of fruit",2017,188668.0,6947.0
 4069,"feed, pulp of fruit",2018,206154.0,7536.0
-4070,"feed, pulp of fruit",2019,195978.0,9762.0
+4070,"feed, pulp of fruit",2019,195978.0,10129.0
 4071,fibre crops nes,1961,14.0,
 4072,fibre crops nes,1962,14.0,
 4073,fibre crops nes,1963,0.0,
@@ -4128,7 +4128,7 @@
 4126,fibre crops nes,2016,34321.0,7893.0
 4127,fibre crops nes,2017,23294.0,6947.0
 4128,fibre crops nes,2018,29622.0,7536.0
-4129,fibre crops nes,2019,36150.0,9762.0
+4129,fibre crops nes,2019,36150.0,10129.0
 4130,fig,1961,0.0,
 4131,fig,1962,0.0,
 4132,fig,1963,0.0,
@@ -4187,7 +4187,7 @@
 4185,fig,2016,1191.0,7893.0
 4186,fig,2017,1313.0,6947.0
 4187,fig,2018,1394.0,7536.0
-4188,fig,2019,1386.0,9762.0
+4188,fig,2019,1386.0,10129.0
 4189,flax,1961,0.0,
 4190,flax,1962,0.0,
 4191,flax,1963,0.0,
@@ -4246,7 +4246,7 @@
 4244,flax,2016,78.0,7893.0
 4245,flax,2017,17.0,6947.0
 4246,flax,2018,11.0,7536.0
-4247,flax,2019,11.0,9762.0
+4247,flax,2019,11.0,10129.0
 4248,flour,1961,16810.0,
 4249,flour,1962,2219.0,
 4250,flour,1963,7349.0,
@@ -4305,7 +4305,7 @@
 4303,flour,2016,123860.0,7893.0
 4304,flour,2017,233223.0,6947.0
 4305,flour,2018,153206.0,7536.0
-4306,flour,2019,151603.0,9762.0
+4306,flour,2019,151603.0,10129.0
 4307,fodder and feeding stuff,1961,238414.0,
 4308,fodder and feeding stuff,1962,213381.0,
 4309,fodder and feeding stuff,1963,255679.0,
@@ -4364,7 +4364,7 @@
 4362,fodder and feeding stuff,2016,14880793.0,7893.0
 4363,fodder and feeding stuff,2017,14797224.0,6947.0
 4364,fodder and feeding stuff,2018,17548763.0,7536.0
-4365,fodder and feeding stuff,2019,17342369.0,9762.0
+4365,fodder and feeding stuff,2019,17342369.0,10129.0
 4366,food prep nes,1961,33.0,
 4367,food prep nes,1962,85.0,
 4368,food prep nes,1963,41.0,
@@ -4423,7 +4423,7 @@
 4421,food prep nes,2016,138200.0,7893.0
 4422,food prep nes,2017,133680.0,6947.0
 4423,food prep nes,2018,143797.0,7536.0
-4424,food prep nes,2019,154890.0,9762.0
+4424,food prep nes,2019,154890.0,10129.0
 4425,food wastes,1961,1386.0,
 4426,food wastes,1962,1250.0,
 4427,food wastes,1963,1989.0,
@@ -4482,7 +4482,7 @@
 4480,food wastes,2016,164500.0,7893.0
 4481,food wastes,2017,229247.0,6947.0
 4482,food wastes,2018,241746.0,7536.0
-4483,food wastes,2019,237370.0,9762.0
+4483,food wastes,2019,237370.0,10129.0
 4484,forage products,1961,0.0,
 4485,forage products,1962,0.0,
 4486,forage products,1963,0.0,
@@ -4541,7 +4541,7 @@
 4539,forage products,2016,145.0,7893.0
 4540,forage products,2017,66.0,6947.0
 4541,forage products,2018,230.0,7536.0
-4542,forage products,2019,174.0,9762.0
+4542,forage products,2019,174.0,10129.0
 4543,"fructose and syrup, other",1961,0.0,
 4544,"fructose and syrup, other",1962,0.0,
 4545,"fructose and syrup, other",1963,0.0,
@@ -4600,7 +4600,7 @@
 4598,"fructose and syrup, other",2016,0.0,7893.0
 4599,"fructose and syrup, other",2017,0.0,6947.0
 4600,"fructose and syrup, other",2018,0.0,7536.0
-4601,"fructose and syrup, other",2019,0.0,9762.0
+4601,"fructose and syrup, other",2019,0.0,10129.0
 4602,fruit,1961,386554.0,
 4603,fruit,1962,350751.0,
 4604,fruit,1963,370511.0,
@@ -4659,7 +4659,7 @@
 4657,fruit,2016,3255105.0,7893.0
 4658,fruit,2017,3169894.0,6947.0
 4659,fruit,2018,3481472.0,7536.0
-4660,fruit,2019,3372456.0,9762.0
+4660,fruit,2019,3372456.0,10129.0
 4661,garlic,1961,0.0,
 4662,garlic,1962,0.0,
 4663,garlic,1963,0.0,
@@ -4718,7 +4718,7 @@
 4716,garlic,2016,1.0,7893.0
 4717,garlic,2017,9.0,6947.0
 4718,garlic,2018,30.0,7536.0
-4719,garlic,2019,57.0,9762.0
+4719,garlic,2019,57.0,10129.0
 4720,"germ, maize",1961,0.0,
 4721,"germ, maize",1962,0.0,
 4722,"germ, maize",1963,0.0,
@@ -4777,7 +4777,7 @@
 4775,"germ, maize",2016,10.0,7893.0
 4776,"germ, maize",2017,0.0,6947.0
 4777,"germ, maize",2018,1.0,7536.0
-4778,"germ, maize",2019,6.0,9762.0
+4778,"germ, maize",2019,6.0,10129.0
 4779,ginger,1961,0.0,
 4780,ginger,1962,0.0,
 4781,ginger,1963,0.0,
@@ -4836,7 +4836,7 @@
 4834,ginger,2016,8847.0,7893.0
 4835,ginger,2017,5639.0,6947.0
 4836,ginger,2018,15326.0,7536.0
-4837,ginger,2019,22095.0,9762.0
+4837,ginger,2019,22095.0,10129.0
 4838,glucose and dextrose,1961,0.0,
 4839,glucose and dextrose,1962,0.0,
 4840,glucose and dextrose,1963,0.0,
@@ -4895,7 +4895,7 @@
 4893,glucose and dextrose,2016,9188.0,7893.0
 4894,glucose and dextrose,2017,12963.0,6947.0
 4895,glucose and dextrose,2018,15445.0,7536.0
-4896,glucose and dextrose,2019,21255.0,9762.0
+4896,glucose and dextrose,2019,21255.0,10129.0
 4897,grape,1961,0.0,
 4898,grape,1962,0.0,
 4899,grape,1963,0.0,
@@ -4954,7 +4954,7 @@
 4952,grape,2016,33622.0,7893.0
 4953,grape,2017,46766.0,6947.0
 4954,grape,2018,41116.0,7536.0
-4955,grape,2019,47477.0,9762.0
+4955,grape,2019,47477.0,10129.0
 4956,grapefruit,1961,1962.0,
 4957,grapefruit,1962,2498.0,
 4958,grapefruit,1963,3967.0,
@@ -5013,7 +5013,7 @@
 5011,grapefruit,2016,0.0,7893.0
 5012,grapefruit,2017,0.0,6947.0
 5013,grapefruit,2018,20.0,7536.0
-5014,grapefruit,2019,10.0,9762.0
+5014,grapefruit,2019,10.0,10129.0
 5015,groundnut,1961,117064.0,
 5016,groundnut,1962,108461.0,
 5017,groundnut,1963,131130.0,
@@ -5072,7 +5072,7 @@
 5070,groundnut,2016,169489.0,7893.0
 5071,groundnut,2017,216594.0,6947.0
 5072,groundnut,2018,287827.0,7536.0
-5073,groundnut,2019,255349.0,9762.0
+5073,groundnut,2019,255349.0,10129.0
 5074,"hair, fine",1961,4.0,
 5075,"hair, fine",1962,4.0,
 5076,"hair, fine",1963,2.0,
@@ -5131,7 +5131,7 @@
 5129,"hair, fine",2016,0.0,7893.0
 5130,"hair, fine",2017,0.0,6947.0
 5131,"hair, fine",2018,0.0,7536.0
-5132,"hair, fine",2019,0.0,9762.0
+5132,"hair, fine",2019,0.0,10129.0
 5133,"hair, goat, coarse",1961,0.0,
 5134,"hair, goat, coarse",1962,0.0,
 5135,"hair, goat, coarse",1963,0.0,
@@ -5190,7 +5190,7 @@
 5188,"hair, goat, coarse",2016,0.0,7893.0
 5189,"hair, goat, coarse",2017,0.0,6947.0
 5190,"hair, goat, coarse",2018,0.0,7536.0
-5191,"hair, goat, coarse",2019,0.0,9762.0
+5191,"hair, goat, coarse",2019,0.0,10129.0
 5192,hazelnut,1961,0.0,
 5193,hazelnut,1962,0.0,
 5194,hazelnut,1963,0.0,
@@ -5249,7 +5249,7 @@
 5247,hazelnut,2016,15.0,7893.0
 5248,hazelnut,2017,0.0,6947.0
 5249,hazelnut,2018,0.0,7536.0
-5250,hazelnut,2019,2.0,9762.0
+5250,hazelnut,2019,2.0,10129.0
 5251,hides and skins,1961,13800.0,
 5252,hides and skins,1962,9499.0,
 5253,hides and skins,1963,9708.0,
@@ -5308,7 +5308,7 @@
 5306,hides and skins,2016,4768.0,7893.0
 5307,hides and skins,2017,4394.0,6947.0
 5308,hides and skins,2018,5187.0,7536.0
-5309,hides and skins,2019,6320.0,9762.0
+5309,hides and skins,2019,6320.0,10129.0
 5310,hides nes,1961,0.0,
 5311,hides nes,1962,0.0,
 5312,hides nes,1963,0.0,
@@ -5367,7 +5367,7 @@
 5365,hides nes,2016,2.0,7893.0
 5366,hides nes,2017,6.0,6947.0
 5367,hides nes,2018,7.0,7536.0
-5368,hides nes,2019,3.0,9762.0
+5368,hides nes,2019,3.0,10129.0
 5369,"hides, horse, dry salted",1961,60.0,
 5370,"hides, horse, dry salted",1962,59.0,
 5371,"hides, horse, dry salted",1963,0.0,
@@ -5426,7 +5426,7 @@
 5424,"hides, horse, dry salted",2016,0.0,7893.0
 5425,"hides, horse, dry salted",2017,0.0,6947.0
 5426,"hides, horse, dry salted",2018,0.0,7536.0
-5427,"hides, horse, dry salted",2019,0.0,9762.0
+5427,"hides, horse, dry salted",2019,0.0,10129.0
 5428,"honey, natural",1961,8.0,
 5429,"honey, natural",1962,4.0,
 5430,"honey, natural",1963,0.0,
@@ -5485,7 +5485,7 @@
 5483,"honey, natural",2016,24203.0,7893.0
 5484,"honey, natural",2017,27053.0,6947.0
 5485,"honey, natural",2018,28524.0,7536.0
-5486,"honey, natural",2019,30039.0,9762.0
+5486,"honey, natural",2019,30039.0,10129.0
 5487,hops,1961,0.0,
 5488,hops,1962,0.0,
 5489,hops,1963,0.0,
@@ -5544,7 +5544,7 @@
 5542,hops,2016,1.0,7893.0
 5543,hops,2017,2.0,6947.0
 5544,hops,2018,1.0,7536.0
-5545,hops,2019,22.0,9762.0
+5545,hops,2019,22.0,10129.0
 5546,ice cream and edible ice,1961,0.0,
 5547,ice cream and edible ice,1962,0.0,
 5548,ice cream and edible ice,1963,0.0,
@@ -5603,7 +5603,7 @@
 5601,ice cream and edible ice,2016,1069.0,7893.0
 5602,ice cream and edible ice,2017,114.0,6947.0
 5603,ice cream and edible ice,2018,269.0,7536.0
-5604,ice cream and edible ice,2019,617.0,9762.0
+5604,ice cream and edible ice,2019,617.0,10129.0
 5605,infant food,1961,0.0,
 5606,infant food,1962,0.0,
 5607,infant food,1963,0.0,
@@ -5662,7 +5662,7 @@
 5660,infant food,2016,8450.0,7893.0
 5661,infant food,2017,8046.0,6947.0
 5662,infant food,2018,6915.0,7536.0
-5663,infant food,2019,7239.0,9762.0
+5663,infant food,2019,7239.0,10129.0
 5664,"juice, fruit nes",1961,0.0,
 5665,"juice, fruit nes",1962,0.0,
 5666,"juice, fruit nes",1963,0.0,
@@ -5721,7 +5721,7 @@
 5719,"juice, fruit nes",2016,76559.0,7893.0
 5720,"juice, fruit nes",2017,70943.0,6947.0
 5721,"juice, fruit nes",2018,70436.0,7536.0
-5722,"juice, fruit nes",2019,69486.0,9762.0
+5722,"juice, fruit nes",2019,69486.0,10129.0
 5723,jute,1961,276.0,
 5724,jute,1962,112.0,
 5725,jute,1963,3181.0,
@@ -5780,7 +5780,7 @@
 5778,jute,2016,0.0,7893.0
 5779,jute,2017,2.0,6947.0
 5780,jute,2018,0.0,7536.0
-5781,jute,2019,0.0,9762.0
+5781,jute,2019,0.0,10129.0
 5782,kiwi fruit,1961,0.0,
 5783,kiwi fruit,1962,0.0,
 5784,kiwi fruit,1963,0.0,
@@ -5839,7 +5839,7 @@
 5837,kiwi fruit,2016,0.0,7893.0
 5838,kiwi fruit,2017,0.0,6947.0
 5839,kiwi fruit,2018,7.0,7536.0
-5840,kiwi fruit,2019,35.0,9762.0
+5840,kiwi fruit,2019,35.0,10129.0
 5841,kola nuts,1961,0.0,
 5842,kola nuts,1962,0.0,
 5843,kola nuts,1963,0.0,
@@ -5898,7 +5898,7 @@
 5896,kola nuts,2016,0.0,7893.0
 5897,kola nuts,2017,0.0,6947.0
 5898,kola nuts,2018,0.0,7536.0
-5899,kola nuts,2019,2.0,9762.0
+5899,kola nuts,2019,2.0,10129.0
 5900,lactose,1961,0.0,
 5901,lactose,1962,0.0,
 5902,lactose,1963,0.0,
@@ -5957,7 +5957,7 @@
 5955,lactose,2016,184.0,7893.0
 5956,lactose,2017,2.0,6947.0
 5957,lactose,2018,7.0,7536.0
-5958,lactose,2019,21.0,9762.0
+5958,lactose,2019,21.0,10129.0
 5959,lard,1961,0.0,
 5960,lard,1962,0.0,
 5961,lard,1963,0.0,
@@ -6016,7 +6016,7 @@
 6014,lard,2016,3306.0,7893.0
 6015,lard,2017,2686.0,6947.0
 6016,lard,2018,3275.0,7536.0
-6017,lard,2019,2323.0,9762.0
+6017,lard,2019,2323.0,10129.0
 6018,lemon,1961,405.0,
 6019,lemon,1962,264.0,
 6020,lemon,1963,338.0,
@@ -6075,7 +6075,7 @@
 6073,lemon,2016,97042.0,7893.0
 6074,lemon,2017,94449.0,6947.0
 6075,lemon,2018,106898.0,7536.0
-6076,lemon,2019,114487.0,9762.0
+6076,lemon,2019,114487.0,10129.0
 6077,lentils,1961,0.0,
 6078,lentils,1962,0.0,
 6079,lentils,1963,0.0,
@@ -6134,7 +6134,7 @@
 6132,lentils,2016,8.0,7893.0
 6133,lentils,2017,148.0,6947.0
 6134,lentils,2018,20.0,7536.0
-6135,lentils,2019,23.0,9762.0
+6135,lentils,2019,23.0,10129.0
 6136,lettuce and chicory,1961,0.0,
 6137,lettuce and chicory,1962,0.0,
 6138,lettuce and chicory,1963,0.0,
@@ -6193,7 +6193,7 @@
 6191,lettuce and chicory,2016,82.0,7893.0
 6192,lettuce and chicory,2017,12.0,6947.0
 6193,lettuce and chicory,2018,86.0,7536.0
-6194,lettuce and chicory,2019,268.0,9762.0
+6194,lettuce and chicory,2019,268.0,10129.0
 6195,linseed,1961,4491.0,
 6196,linseed,1962,6957.0,
 6197,linseed,1963,24511.0,
@@ -6252,7 +6252,7 @@
 6250,linseed,2016,1.0,7893.0
 6251,linseed,2017,1.0,6947.0
 6252,linseed,2018,2.0,7536.0
-6253,linseed,2019,25.0,9762.0
+6253,linseed,2019,25.0,10129.0
 6254,macaroni,1961,0.0,
 6255,macaroni,1962,0.0,
 6256,macaroni,1963,9.0,
@@ -6311,7 +6311,7 @@
 6309,macaroni,2016,7144.0,7893.0
 6310,macaroni,2017,8268.0,6947.0
 6311,macaroni,2018,9488.0,7536.0
-6312,macaroni,2019,6145.0,9762.0
+6312,macaroni,2019,6145.0,10129.0
 6313,maize,1961,4448.0,
 6314,maize,1962,0.0,
 6315,maize,1963,699200.0,
@@ -6370,7 +6370,7 @@
 6368,maize,2016,21873310.0,7893.0
 6369,maize,2017,29265911.0,6947.0
 6370,maize,2018,23566198.0,7536.0
-6371,maize,2019,42752102.0,9762.0
+6371,maize,2019,42752102.0,10129.0
 6372,"maize, green",1961,0.0,
 6373,"maize, green",1962,0.0,
 6374,"maize, green",1963,0.0,
@@ -6429,7 +6429,7 @@
 6427,"maize, green",2016,9.0,7893.0
 6428,"maize, green",2017,56.0,6947.0
 6429,"maize, green",2018,47.0,7536.0
-6430,"maize, green",2019,104.0,9762.0
+6430,"maize, green",2019,104.0,10129.0
 6431,malt,1961,0.0,
 6432,malt,1962,0.0,
 6433,malt,1963,0.0,
@@ -6488,7 +6488,7 @@
 6486,malt,2016,7488.0,7893.0
 6487,malt,2017,7283.0,6947.0
 6488,malt,2018,7133.0,7536.0
-6489,malt,2019,3342.0,9762.0
+6489,malt,2019,3342.0,10129.0
 6490,"mangoes, mangosteens, guavas",1961,0.0,
 6491,"mangoes, mangosteens, guavas",1962,0.0,
 6492,"mangoes, mangosteens, guavas",1963,0.0,
@@ -6547,7 +6547,7 @@
 6545,"mangoes, mangosteens, guavas",2016,154383.0,7893.0
 6546,"mangoes, mangosteens, guavas",2017,179744.0,6947.0
 6547,"mangoes, mangosteens, guavas",2018,170630.0,7536.0
-6548,"mangoes, mangosteens, guavas",2019,216048.0,9762.0
+6548,"mangoes, mangosteens, guavas",2019,216048.0,10129.0
 6549,manila fibre (abaca),1961,0.0,
 6550,manila fibre (abaca),1962,0.0,
 6551,manila fibre (abaca),1963,0.0,
@@ -6606,7 +6606,7 @@
 6604,manila fibre (abaca),2016,0.0,7893.0
 6605,manila fibre (abaca),2017,0.0,6947.0
 6606,manila fibre (abaca),2018,0.0,7536.0
-6607,manila fibre (abaca),2019,0.0,9762.0
+6607,manila fibre (abaca),2019,0.0,10129.0
 6608,"margarine, short",1961,0.0,
 6609,"margarine, short",1962,0.0,
 6610,"margarine, short",1963,0.0,
@@ -6665,7 +6665,7 @@
 6663,"margarine, short",2016,15585.0,7893.0
 6664,"margarine, short",2017,12906.0,6947.0
 6665,"margarine, short",2018,11793.0,7536.0
-6666,"margarine, short",2019,17520.0,9762.0
+6666,"margarine, short",2019,17520.0,10129.0
 6667,mat,1961,60946.0,
 6668,mat,1962,47558.0,
 6669,mat,1963,48428.0,
@@ -6724,7 +6724,7 @@
 6722,mat,2016,35325.0,7893.0
 6723,mat,2017,33625.0,6947.0
 6724,mat,2018,36164.0,7536.0
-6725,mat,2019,36189.0,9762.0
+6725,mat,2019,36189.0,10129.0
 6726,"meal, meat",1961,10.0,
 6727,"meal, meat",1962,0.0,
 6728,"meal, meat",1963,10.0,
@@ -6783,7 +6783,7 @@
 6781,"meal, meat",2016,112935.0,7893.0
 6782,"meal, meat",2017,136249.0,6947.0
 6783,"meal, meat",2018,168265.0,7536.0
-6784,"meal, meat",2019,170580.0,9762.0
+6784,"meal, meat",2019,170580.0,10129.0
 6785,meat nes,1961,1192.0,
 6786,meat nes,1962,145.0,
 6787,meat nes,1963,0.0,
@@ -6842,7 +6842,7 @@
 6840,meat nes,2016,0.0,7893.0
 6841,meat nes,2017,10.0,6947.0
 6842,meat nes,2018,8.0,7536.0
-6843,meat nes,2019,1.0,9762.0
+6843,meat nes,2019,1.0,10129.0
 6844,"meat, dried nes",1961,0.0,
 6845,"meat, dried nes",1962,0.0,
 6846,"meat, dried nes",1963,0.0,
@@ -6901,7 +6901,7 @@
 6899,"meat, dried nes",2016,181500.0,7893.0
 6900,"meat, dried nes",2017,142549.0,6947.0
 6901,"meat, dried nes",2018,95015.0,7536.0
-6902,"meat, dried nes",2019,127950.0,9762.0
+6902,"meat, dried nes",2019,127950.0,10129.0
 6903,"meat, duck",1961,0.0,
 6904,"meat, duck",1962,0.0,
 6905,"meat, duck",1963,0.0,
@@ -6960,7 +6960,7 @@
 6958,"meat, duck",2016,2983.0,7893.0
 6959,"meat, duck",2017,3433.0,6947.0
 6960,"meat, duck",2018,2968.0,7536.0
-6961,"meat, duck",2019,3082.0,9762.0
+6961,"meat, duck",2019,3082.0,10129.0
 6962,"meat, goat",1961,0.0,
 6963,"meat, goat",1962,0.0,
 6964,"meat, goat",1963,0.0,
@@ -7019,7 +7019,7 @@
 7017,"meat, goat",2016,0.0,7893.0
 7018,"meat, goat",2017,0.0,6947.0
 7019,"meat, goat",2018,0.0,7536.0
-7020,"meat, goat",2019,2.0,9762.0
+7020,"meat, goat",2019,2.0,10129.0
 7021,"meat, goose and guinea fowl",1961,0.0,
 7022,"meat, goose and guinea fowl",1962,0.0,
 7023,"meat, goose and guinea fowl",1963,0.0,
@@ -7078,7 +7078,7 @@
 7076,"meat, goose and guinea fowl",2016,0.0,7893.0
 7077,"meat, goose and guinea fowl",2017,0.0,6947.0
 7078,"meat, goose and guinea fowl",2018,0.0,7536.0
-7079,"meat, goose and guinea fowl",2019,0.0,9762.0
+7079,"meat, goose and guinea fowl",2019,0.0,10129.0
 7080,"meat, horse",1961,0.0,
 7081,"meat, horse",1962,27.0,
 7082,"meat, horse",1963,25.0,
@@ -7137,7 +7137,7 @@
 7135,"meat, horse",2016,2747.0,7893.0
 7136,"meat, horse",2017,3063.0,6947.0
 7137,"meat, horse",2018,3862.0,7536.0
-7138,"meat, horse",2019,2535.0,9762.0
+7138,"meat, horse",2019,2535.0,10129.0
 7139,"meat, pork",1961,0.0,
 7140,"meat, pork",1962,0.0,
 7141,"meat, pork",1963,0.0,
@@ -7196,7 +7196,7 @@
 7194,"meat, pork",2016,590805.0,7893.0
 7195,"meat, pork",2017,561249.0,6947.0
 7196,"meat, pork",2018,524319.0,7536.0
-7197,"meat, pork",2019,627382.0,9762.0
+7197,"meat, pork",2019,627382.0,10129.0
 7198,"meat, rabbit",1961,0.0,
 7199,"meat, rabbit",1962,0.0,
 7200,"meat, rabbit",1963,0.0,
@@ -7255,7 +7255,7 @@
 7253,"meat, rabbit",2016,0.0,7893.0
 7254,"meat, rabbit",2017,0.0,6947.0
 7255,"meat, rabbit",2018,0.0,7536.0
-7256,"meat, rabbit",2019,0.0,9762.0
+7256,"meat, rabbit",2019,0.0,10129.0
 7257,"meat, turkey",1961,0.0,
 7258,"meat, turkey",1962,0.0,
 7259,"meat, turkey",1963,0.0,
@@ -7314,7 +7314,7 @@
 7312,"meat, turkey",2016,93421.0,7893.0
 7313,"meat, turkey",2017,72373.0,6947.0
 7314,"meat, turkey",2018,62749.0,7536.0
-7315,"meat, turkey",2019,35035.0,9762.0
+7315,"meat, turkey",2019,35035.0,10129.0
 7316,"melons, other (inc.cantaloupes)",1961,0.0,
 7317,"melons, other (inc.cantaloupes)",1962,0.0,
 7318,"melons, other (inc.cantaloupes)",1963,0.0,
@@ -7373,7 +7373,7 @@
 7371,"melons, other (inc.cantaloupes)",2016,224688.0,7893.0
 7372,"melons, other (inc.cantaloupes)",2017,233653.0,6947.0
 7373,"melons, other (inc.cantaloupes)",2018,197596.0,7536.0
-7374,"melons, other (inc.cantaloupes)",2019,251638.0,9762.0
+7374,"melons, other (inc.cantaloupes)",2019,251638.0,10129.0
 7375,milk,1961,0.0,
 7376,milk,1962,0.0,
 7377,milk,1963,1.0,
@@ -7432,7 +7432,7 @@
 7430,milk,2016,42891.0,7893.0
 7431,milk,2017,25985.0,6947.0
 7432,milk,2018,13083.0,7536.0
-7433,milk,2019,14171.0,9762.0
+7433,milk,2019,14171.0,10129.0
 7434,millet,1961,0.0,
 7435,millet,1962,0.0,
 7436,millet,1963,0.0,
@@ -7491,7 +7491,7 @@
 7489,millet,2016,0.0,7893.0
 7490,millet,2017,0.0,6947.0
 7491,millet,2018,39.0,7536.0
-7492,millet,2019,1248.0,9762.0
+7492,millet,2019,1248.0,10129.0
 7493,mixes and doughs,1961,0.0,
 7494,mixes and doughs,1962,0.0,
 7495,mixes and doughs,1963,0.0,
@@ -7550,7 +7550,7 @@
 7548,mixes and doughs,2016,5633.0,7893.0
 7549,mixes and doughs,2017,5538.0,6947.0
 7550,mixes and doughs,2018,7220.0,7536.0
-7551,mixes and doughs,2019,28537.0,9762.0
+7551,mixes and doughs,2019,28537.0,10129.0
 7552,molasses,1961,0.0,
 7553,molasses,1962,0.0,
 7554,molasses,1963,22750.0,
@@ -7609,7 +7609,7 @@
 7607,molasses,2016,1200.0,7893.0
 7608,molasses,2017,65.0,6947.0
 7609,molasses,2018,54.0,7536.0
-7610,molasses,2019,72.0,9762.0
+7610,molasses,2019,72.0,10129.0
 7611,mushroom,1961,0.0,
 7612,mushroom,1962,0.0,
 7613,mushroom,1963,0.0,
@@ -7668,7 +7668,7 @@
 7666,mushroom,2016,29.0,7893.0
 7667,mushroom,2017,26.0,6947.0
 7668,mushroom,2018,37.0,7536.0
-7669,mushroom,2019,70.0,9762.0
+7669,mushroom,2019,70.0,10129.0
 7670,mustard seed,1961,0.0,
 7671,mustard seed,1962,0.0,
 7672,mustard seed,1963,0.0,
@@ -7727,7 +7727,7 @@
 7725,mustard seed,2016,0.0,7893.0
 7726,mustard seed,2017,1.0,6947.0
 7727,mustard seed,2018,0.0,7536.0
-7728,mustard seed,2019,1.0,9762.0
+7728,mustard seed,2019,1.0,10129.0
 7729,"nutmeg, mace and cardamoms",1961,0.0,
 7730,"nutmeg, mace and cardamoms",1962,0.0,
 7731,"nutmeg, mace and cardamoms",1963,0.0,
@@ -7786,7 +7786,7 @@
 7784,"nutmeg, mace and cardamoms",2016,0.0,7893.0
 7785,"nutmeg, mace and cardamoms",2017,0.0,6947.0
 7786,"nutmeg, mace and cardamoms",2018,0.0,7536.0
-7787,"nutmeg, mace and cardamoms",2019,1.0,9762.0
+7787,"nutmeg, mace and cardamoms",2019,1.0,10129.0
 7788,oat,1961,0.0,
 7789,oat,1962,0.0,
 7790,oat,1963,0.0,
@@ -7845,7 +7845,7 @@
 7843,oat,2016,1663.0,7893.0
 7844,oat,2017,2005.0,6947.0
 7845,oat,2018,5394.0,7536.0
-7846,oat,2019,5216.0,9762.0
+7846,oat,2019,5216.0,10129.0
 7847,offal,1961,1749.0,
 7848,offal,1962,1067.0,
 7849,offal,1963,1086.0,
@@ -7904,7 +7904,7 @@
 7902,offal,2016,209883.0,7893.0
 7903,offal,2017,218356.0,6947.0
 7904,offal,2018,219496.0,7536.0
-7905,offal,2019,234246.0,9762.0
+7905,offal,2019,234246.0,10129.0
 7906,"oil, boiled etc",1961,0.0,
 7907,"oil, boiled etc",1962,0.0,
 7908,"oil, boiled etc",1963,0.0,
@@ -7963,7 +7963,7 @@
 7961,"oil, boiled etc",2016,11193.0,7893.0
 7962,"oil, boiled etc",2017,8774.0,6947.0
 7963,"oil, boiled etc",2018,10678.0,7536.0
-7964,"oil, boiled etc",2019,13497.0,9762.0
+7964,"oil, boiled etc",2019,13497.0,10129.0
 7965,"oil, castor beans",1961,90835.0,
 7966,"oil, castor beans",1962,60786.0,
 7967,"oil, castor beans",1963,77351.0,
@@ -8022,7 +8022,7 @@
 8020,"oil, castor beans",2016,1466.0,7893.0
 8021,"oil, castor beans",2017,385.0,6947.0
 8022,"oil, castor beans",2018,332.0,7536.0
-8023,"oil, castor beans",2019,466.0,9762.0
+8023,"oil, castor beans",2019,466.0,10129.0
 8024,"oil, citronella",1961,0.0,
 8025,"oil, citronella",1962,0.0,
 8026,"oil, citronella",1963,0.0,
@@ -8081,7 +8081,7 @@
 8079,"oil, citronella",2016,0.0,7893.0
 8080,"oil, citronella",2017,0.0,6947.0
 8081,"oil, citronella",2018,0.0,7536.0
-8082,"oil, citronella",2019,0.0,9762.0
+8082,"oil, citronella",2019,0.0,10129.0
 8083,"oil, cottonseed",1961,1811.0,
 8084,"oil, cottonseed",1962,650.0,
 8085,"oil, cottonseed",1963,4359.0,
@@ -8140,7 +8140,7 @@
 8138,"oil, cottonseed",2016,14250.0,7893.0
 8139,"oil, cottonseed",2017,3969.0,6947.0
 8140,"oil, cottonseed",2018,512.0,7536.0
-8141,"oil, cottonseed",2019,3041.0,9762.0
+8141,"oil, cottonseed",2019,3041.0,10129.0
 8142,"oil, essential nes",1961,0.0,
 8143,"oil, essential nes",1962,0.0,
 8144,"oil, essential nes",1963,0.0,
@@ -8199,7 +8199,7 @@
 8197,"oil, essential nes",2016,52655.0,7893.0
 8198,"oil, essential nes",2017,53794.0,6947.0
 8199,"oil, essential nes",2018,54501.0,7536.0
-8200,"oil, essential nes",2019,56149.0,9762.0
+8200,"oil, essential nes",2019,56149.0,10129.0
 8201,"oil, linseed",1961,0.0,
 8202,"oil, linseed",1962,0.0,
 8203,"oil, linseed",1963,0.0,
@@ -8258,7 +8258,7 @@
 8256,"oil, linseed",2016,46.0,7893.0
 8257,"oil, linseed",2017,6.0,6947.0
 8258,"oil, linseed",2018,4.0,7536.0
-8259,"oil, linseed",2019,6.0,9762.0
+8259,"oil, linseed",2019,6.0,10129.0
 8260,"oil, maize",1961,0.0,
 8261,"oil, maize",1962,0.0,
 8262,"oil, maize",1963,0.0,
@@ -8317,7 +8317,7 @@
 8315,"oil, maize",2016,34475.0,7893.0
 8316,"oil, maize",2017,34452.0,6947.0
 8317,"oil, maize",2018,20336.0,7536.0
-8318,"oil, maize",2019,16305.0,9762.0
+8318,"oil, maize",2019,16305.0,10129.0
 8319,"oil, olive",1961,0.0,
 8320,"oil, olive",1962,0.0,
 8321,"oil, olive",1963,0.0,
@@ -8376,7 +8376,7 @@
 8374,"oil, olive",2016,233.0,7893.0
 8375,"oil, olive",2017,36.0,6947.0
 8376,"oil, olive",2018,16.0,7536.0
-8377,"oil, olive",2019,71.0,9762.0
+8377,"oil, olive",2019,71.0,10129.0
 8378,"oil, palm",1961,0.0,
 8379,"oil, palm",1962,3348.0,
 8380,"oil, palm",1963,616.0,
@@ -8435,7 +8435,7 @@
 8433,"oil, palm",2016,47319.0,7893.0
 8434,"oil, palm",2017,92544.0,6947.0
 8435,"oil, palm",2018,31319.0,7536.0
-8436,"oil, palm",2019,17384.0,9762.0
+8436,"oil, palm",2019,17384.0,10129.0
 8437,"oil, rapeseed",1961,0.0,
 8438,"oil, rapeseed",1962,0.0,
 8439,"oil, rapeseed",1963,0.0,
@@ -8494,7 +8494,7 @@
 8492,"oil, rapeseed",2016,443.0,7893.0
 8493,"oil, rapeseed",2017,381.0,6947.0
 8494,"oil, rapeseed",2018,405.0,7536.0
-8495,"oil, rapeseed",2019,346.0,9762.0
+8495,"oil, rapeseed",2019,346.0,10129.0
 8496,"oil, sesame",1961,0.0,
 8497,"oil, sesame",1962,0.0,
 8498,"oil, sesame",1963,0.0,
@@ -8553,7 +8553,7 @@
 8551,"oil, sesame",2016,22.0,7893.0
 8552,"oil, sesame",2017,38.0,6947.0
 8553,"oil, sesame",2018,22.0,7536.0
-8554,"oil, sesame",2019,21.0,9762.0
+8554,"oil, sesame",2019,21.0,10129.0
 8555,"oils, fats of animal nes",1961,0.0,
 8556,"oils, fats of animal nes",1962,0.0,
 8557,"oils, fats of animal nes",1963,0.0,
@@ -8612,7 +8612,7 @@
 8610,"oils, fats of animal nes",2016,4.0,7893.0
 8611,"oils, fats of animal nes",2017,3.0,6947.0
 8612,"oils, fats of animal nes",2018,3.0,7536.0
-8613,"oils, fats of animal nes",2019,10.0,9762.0
+8613,"oils, fats of animal nes",2019,10.0,10129.0
 8614,oilseed,1961,79397.0,
 8615,oilseed,1962,107769.0,
 8616,oilseed,1963,58920.0,
@@ -8671,7 +8671,7 @@
 8669,oilseed,2016,51683414.0,7893.0
 8670,oilseed,2017,68173830.0,6947.0
 8671,oilseed,2018,83633598.0,7536.0
-8672,oilseed,2019,74146933.0,9762.0
+8672,oilseed,2019,74146933.0,10129.0
 8673,olives,1961,0.0,
 8674,olives,1962,0.0,
 8675,olives,1963,0.0,
@@ -8730,7 +8730,7 @@
 8728,olives,2016,0.0,7893.0
 8729,olives,2017,0.0,6947.0
 8730,olives,2018,0.0,7536.0
-8731,olives,2019,1.0,9762.0
+8731,olives,2019,1.0,10129.0
 8732,olives preserved,1961,0.0,
 8733,olives preserved,1962,0.0,
 8734,olives preserved,1963,0.0,
@@ -8789,7 +8789,7 @@
 8787,olives preserved,2016,262.0,7893.0
 8788,olives preserved,2017,267.0,6947.0
 8789,olives preserved,2018,285.0,7536.0
-8790,olives preserved,2019,190.0,9762.0
+8790,olives preserved,2019,190.0,10129.0
 8791,"onions, dry",1961,0.0,
 8792,"onions, dry",1962,3.0,
 8793,"onions, dry",1963,33.0,
@@ -8848,7 +8848,7 @@
 8846,"onions, dry",2016,0.0,7893.0
 8847,"onions, dry",2017,0.0,6947.0
 8848,"onions, dry",2018,0.0,7536.0
-8849,"onions, dry",2019,0.0,9762.0
+8849,"onions, dry",2019,0.0,10129.0
 8850,"onions, shallots, green",1961,0.0,
 8851,"onions, shallots, green",1962,0.0,
 8852,"onions, shallots, green",1963,0.0,
@@ -8907,7 +8907,7 @@
 8905,"onions, shallots, green",2016,21817.0,7893.0
 8906,"onions, shallots, green",2017,12279.0,6947.0
 8907,"onions, shallots, green",2018,21787.0,7536.0
-8908,"onions, shallots, green",2019,11011.0,9762.0
+8908,"onions, shallots, green",2019,11011.0,10129.0
 8909,orange,1961,112667.0,
 8910,orange,1962,104662.0,
 8911,orange,1963,148937.0,
@@ -8966,7 +8966,7 @@
 8964,orange,2016,2345765.0,7893.0
 8965,orange,2017,2182035.0,6947.0
 8966,orange,2018,2487558.0,7536.0
-8967,orange,2019,2253508.0,9762.0
+8967,orange,2019,2253508.0,10129.0
 8968,other beverages,1961,407.0,
 8969,other beverages,1962,85.0,
 8970,other beverages,1963,584.0,
@@ -9025,7 +9025,7 @@
 9023,other beverages,2016,417676.0,7893.0
 9024,other beverages,2017,481958.0,6947.0
 9025,other beverages,2018,455630.0,7536.0
-9026,other beverages,2019,476858.0,9762.0
+9026,other beverages,2019,476858.0,10129.0
 9027,other food,1961,2513306.0,
 9028,other food,1962,2333270.0,
 9029,other food,1963,2682702.0,
@@ -9084,7 +9084,7 @@
 9082,other food,2016,56243582.0,7893.0
 9083,other food,2017,72434109.0,6947.0
 9084,other food,2018,88416125.0,7536.0
-9085,other food,2019,79764559.0,9762.0
+9085,other food,2019,79764559.0,10129.0
 9086,other meat,1961,1787.0,
 9087,other meat,1962,635.0,
 9088,other meat,1963,384.0,
@@ -9143,7 +9143,7 @@
 9141,other meat,2016,187639.0,7893.0
 9142,other meat,2017,149260.0,6947.0
 9143,other meat,2018,104694.0,7536.0
-9144,other meat,2019,134653.0,9762.0
+9144,other meat,2019,134653.0,10129.0
 9145,other nuts,1961,41467.0,
 9146,other nuts,1962,46029.0,
 9147,other nuts,1963,41364.0,
@@ -9202,7 +9202,7 @@
 9200,other nuts,2016,149991.0,7893.0
 9201,other nuts,2017,186668.0,6947.0
 9202,other nuts,2018,255437.0,7536.0
-9203,other nuts,2019,235558.0,9762.0
+9203,other nuts,2019,235558.0,10129.0
 9204,other vegetables,1961,132835.0,
 9205,other vegetables,1962,119914.0,
 9206,other vegetables,1963,120885.0,
@@ -9261,7 +9261,7 @@
 9259,other vegetables,2016,1568882.0,7893.0
 9260,other vegetables,2017,1671285.0,6947.0
 9261,other vegetables,2018,1693350.0,7536.0
-9262,other vegetables,2019,1286765.0,9762.0
+9262,other vegetables,2019,1286765.0,10129.0
 9263,palm,1961,14560.0,
 9264,palm,1962,19989.0,
 9265,palm,1963,16334.0,
@@ -9320,7 +9320,7 @@
 9318,palm,2016,5.0,7893.0
 9319,palm,2017,0.0,6947.0
 9320,palm,2018,0.0,7536.0
-9321,palm,2019,0.0,9762.0
+9321,palm,2019,0.0,10129.0
 9322,papayas,1961,0.0,
 9323,papayas,1962,0.0,
 9324,papayas,1963,0.0,
@@ -9379,7 +9379,7 @@
 9377,papayas,2016,37939.0,7893.0
 9378,papayas,2017,39117.0,6947.0
 9379,papayas,2018,42671.0,7536.0
-9380,papayas,2019,44238.0,9762.0
+9380,papayas,2019,44238.0,10129.0
 9381,pastry,1961,0.0,
 9382,pastry,1962,0.0,
 9383,pastry,1963,0.0,
@@ -9438,7 +9438,7 @@
 9436,pastry,2016,29049.0,7893.0
 9437,pastry,2017,33993.0,6947.0
 9438,pastry,2018,38952.0,7536.0
-9439,pastry,2019,45341.0,9762.0
+9439,pastry,2019,45341.0,10129.0
 9440,pea,1961,0.0,
 9441,pea,1962,0.0,
 9442,pea,1963,0.0,
@@ -9497,7 +9497,7 @@
 9495,pea,2016,259.0,7893.0
 9496,pea,2017,199.0,6947.0
 9497,pea,2018,362.0,7536.0
-9498,pea,2019,102.0,9762.0
+9498,pea,2019,102.0,10129.0
 9499,peaches and nectarines,1961,0.0,
 9500,peaches and nectarines,1962,0.0,
 9501,peaches and nectarines,1963,0.0,
@@ -9556,7 +9556,7 @@
 9554,peaches and nectarines,2016,1.0,7893.0
 9555,peaches and nectarines,2017,4.0,6947.0
 9556,peaches and nectarines,2018,6.0,7536.0
-9557,peaches and nectarines,2019,38.0,9762.0
+9557,peaches and nectarines,2019,38.0,10129.0
 9558,pears,1961,0.0,
 9559,pears,1962,0.0,
 9560,pears,1963,0.0,
@@ -9615,7 +9615,7 @@
 9613,pears,2016,0.0,7893.0
 9614,pears,2017,0.0,6947.0
 9615,pears,2018,17.0,7536.0
-9616,pears,2019,87.0,9762.0
+9616,pears,2019,87.0,10129.0
 9617,pepper,1961,2935.0,
 9618,pepper,1962,2763.0,
 9619,pepper,1963,2377.0,
@@ -9674,7 +9674,7 @@
 9672,pepper,2016,32115.0,7893.0
 9673,pepper,2017,61574.0,6947.0
 9674,pepper,2018,74780.0,7536.0
-9675,pepper,2019,87534.0,9762.0
+9675,pepper,2019,87534.0,10129.0
 9676,peppermint,1961,0.0,
 9677,peppermint,1962,0.0,
 9678,peppermint,1963,0.0,
@@ -9733,7 +9733,7 @@
 9731,peppermint,2016,0.0,7893.0
 9732,peppermint,2017,0.0,6947.0
 9733,peppermint,2018,0.0,7536.0
-9734,peppermint,2019,0.0,9762.0
+9734,peppermint,2019,0.0,10129.0
 9735,persimmons,1961,0.0,
 9736,persimmons,1962,0.0,
 9737,persimmons,1963,0.0,
@@ -9792,7 +9792,7 @@
 9790,persimmons,2016,88.0,7893.0
 9791,persimmons,2017,301.0,6947.0
 9792,persimmons,2018,203.0,7536.0
-9793,persimmons,2019,282.0,9762.0
+9793,persimmons,2019,282.0,10129.0
 9794,pet food,1961,0.0,
 9795,pet food,1962,0.0,
 9796,pet food,1963,0.0,
@@ -9851,7 +9851,7 @@
 9849,pet food,2016,47178.0,7893.0
 9850,pet food,2017,52189.0,6947.0
 9851,pet food,2018,40956.0,7536.0
-9852,pet food,2019,41416.0,9762.0
+9852,pet food,2019,41416.0,10129.0
 9853,pig,1961,386.0,
 9854,pig,1962,1305.0,
 9855,pig,1963,383.0,
@@ -9910,7 +9910,7 @@
 9908,pig,2016,1042117.0,7893.0
 9909,pig,2017,1016879.0,6947.0
 9910,pig,2018,957551.0,7536.0
-9911,pig,2019,1110520.0,9762.0
+9911,pig,2019,1110520.0,10129.0
 9912,pineapple,1961,24006.0,
 9913,pineapple,1962,17138.0,
 9914,pineapple,1963,10158.0,
@@ -9969,7 +9969,7 @@
 9967,pineapple,2016,13273.0,7893.0
 9968,pineapple,2017,9297.0,6947.0
 9969,pineapple,2018,5048.0,7536.0
-9970,pineapple,2019,7177.0,9762.0
+9970,pineapple,2019,7177.0,10129.0
 9971,pistachios,1961,0.0,
 9972,pistachios,1962,0.0,
 9973,pistachios,1963,0.0,
@@ -10028,7 +10028,7 @@
 10026,pistachios,2016,0.0,7893.0
 10027,pistachios,2017,0.0,6947.0
 10028,pistachios,2018,0.0,7536.0
-10029,pistachios,2019,2.0,9762.0
+10029,pistachios,2019,2.0,10129.0
 10030,plantains and others,1961,0.0,
 10031,plantains and others,1962,0.0,
 10032,plantains and others,1963,0.0,
@@ -10087,7 +10087,7 @@
 10085,plantains and others,2016,794.0,7893.0
 10086,plantains and others,2017,464.0,6947.0
 10087,plantains and others,2018,667.0,7536.0
-10088,plantains and others,2019,1006.0,9762.0
+10088,plantains and others,2019,1006.0,10129.0
 10089,plums and sloes,1961,0.0,
 10090,plums and sloes,1962,0.0,
 10091,plums and sloes,1963,0.0,
@@ -10146,7 +10146,7 @@
 10144,plums and sloes,2016,0.0,7893.0
 10145,plums and sloes,2017,22.0,6947.0
 10146,plums and sloes,2018,2.0,7536.0
-10147,plums and sloes,2019,15.0,9762.0
+10147,plums and sloes,2019,15.0,10129.0
 10148,plums dried (prunes),1961,0.0,
 10149,plums dried (prunes),1962,0.0,
 10150,plums dried (prunes),1963,0.0,
@@ -10205,7 +10205,7 @@
 10203,plums dried (prunes),2016,4.0,7893.0
 10204,plums dried (prunes),2017,2.0,6947.0
 10205,plums dried (prunes),2018,2.0,7536.0
-10206,plums dried (prunes),2019,4.0,9762.0
+10206,plums dried (prunes),2019,4.0,10129.0
 10207,poppy seed,1961,0.0,
 10208,poppy seed,1962,0.0,
 10209,poppy seed,1963,0.0,
@@ -10264,7 +10264,7 @@
 10262,poppy seed,2016,0.0,7893.0
 10263,poppy seed,2017,0.0,6947.0
 10264,poppy seed,2018,0.0,7536.0
-10265,poppy seed,2019,0.0,9762.0
+10265,poppy seed,2019,0.0,10129.0
 10266,potatoes,1961,0.0,
 10267,potatoes,1962,186.0,
 10268,potatoes,1963,9.0,
@@ -10323,7 +10323,7 @@
 10321,potatoes,2016,2477.0,7893.0
 10322,potatoes,2017,21045.0,6947.0
 10323,potatoes,2018,13032.0,7536.0
-10324,potatoes,2019,2677.0,9762.0
+10324,potatoes,2019,2677.0,10129.0
 10325,pulses,1961,7268.0,
 10326,pulses,1962,0.0,
 10327,pulses,1963,0.0,
@@ -10382,7 +10382,7 @@
 10380,pulses,2016,45436.0,7893.0
 10381,pulses,2017,122945.0,6947.0
 10382,pulses,2018,152949.0,7536.0
-10383,pulses,2019,166273.0,9762.0
+10383,pulses,2019,166273.0,10129.0
 10384,"pumpkins, squash and gourds",1961,0.0,
 10385,"pumpkins, squash and gourds",1962,0.0,
 10386,"pumpkins, squash and gourds",1963,0.0,
@@ -10441,7 +10441,7 @@
 10439,"pumpkins, squash and gourds",2016,11383.0,7893.0
 10440,"pumpkins, squash and gourds",2017,4031.0,6947.0
 10441,"pumpkins, squash and gourds",2018,6559.0,7536.0
-10442,"pumpkins, squash and gourds",2019,7439.0,9762.0
+10442,"pumpkins, squash and gourds",2019,7439.0,10129.0
 10443,"pyrethrum, dried",1961,0.0,
 10444,"pyrethrum, dried",1962,0.0,
 10445,"pyrethrum, dried",1963,0.0,
@@ -10500,7 +10500,7 @@
 10498,"pyrethrum, dried",2016,0.0,7893.0
 10499,"pyrethrum, dried",2017,0.0,6947.0
 10500,"pyrethrum, dried",2018,0.0,7536.0
-10501,"pyrethrum, dried",2019,0.0,9762.0
+10501,"pyrethrum, dried",2019,0.0,10129.0
 10502,"pyrethrum, extraction",1961,0.0,
 10503,"pyrethrum, extraction",1962,0.0,
 10504,"pyrethrum, extraction",1963,0.0,
@@ -10559,7 +10559,7 @@
 10557,"pyrethrum, extraction",2016,0.0,7893.0
 10558,"pyrethrum, extraction",2017,1.0,6947.0
 10559,"pyrethrum, extraction",2018,6.0,7536.0
-10560,"pyrethrum, extraction",2019,0.0,9762.0
+10560,"pyrethrum, extraction",2019,0.0,10129.0
 10561,quinces,1961,0.0,
 10562,quinces,1962,0.0,
 10563,quinces,1963,0.0,
@@ -10618,7 +10618,7 @@
 10616,quinces,2016,0.0,7893.0
 10617,quinces,2017,0.0,6947.0
 10618,quinces,2018,1.0,7536.0
-10619,quinces,2019,0.0,9762.0
+10619,quinces,2019,0.0,10129.0
 10620,quinoa,1961,0.0,
 10621,quinoa,1962,0.0,
 10622,quinoa,1963,0.0,
@@ -10677,7 +10677,7 @@
 10675,quinoa,2016,0.0,7893.0
 10676,quinoa,2017,0.0,6947.0
 10677,quinoa,2018,0.0,7536.0
-10678,quinoa,2019,0.0,9762.0
+10678,quinoa,2019,0.0,10129.0
 10679,raisins,1961,0.0,
 10680,raisins,1962,0.0,
 10681,raisins,1963,0.0,
@@ -10736,7 +10736,7 @@
 10734,raisins,2016,2.0,7893.0
 10735,raisins,2017,1.0,6947.0
 10736,raisins,2018,2.0,7536.0
-10737,raisins,2019,6.0,9762.0
+10737,raisins,2019,6.0,10129.0
 10738,rapeseed,1961,0.0,
 10739,rapeseed,1962,0.0,
 10740,rapeseed,1963,0.0,
@@ -10795,7 +10795,7 @@
 10793,rapeseed,2016,623.0,7893.0
 10794,rapeseed,2017,255.0,6947.0
 10795,rapeseed,2018,303.0,7536.0
-10796,rapeseed,2019,192.0,9762.0
+10796,rapeseed,2019,192.0,10129.0
 10797,rice,1961,288881.0,
 10798,rice,1962,82982.0,
 10799,rice,1963,0.0,
@@ -10854,7 +10854,7 @@
 10852,rice,2016,1328271.0,7893.0
 10853,rice,2017,1213126.0,6947.0
 10854,rice,2018,2669378.0,7536.0
-10855,rice,2019,2031307.0,9762.0
+10855,rice,2019,2031307.0,10129.0
 10856,root,1961,34632.0,
 10857,root,1962,12506.0,
 10858,root,1963,11086.0,
@@ -10913,7 +10913,7 @@
 10911,root,2016,47194.0,7893.0
 10912,root,2017,42703.0,6947.0
 10913,root,2018,48104.0,7536.0
-10914,root,2019,37738.0,9762.0
+10914,root,2019,37738.0,10129.0
 10915,rubber,1961,8122.0,
 10916,rubber,1962,5756.0,
 10917,rubber,1963,2684.0,
@@ -10972,7 +10972,7 @@
 10970,rubber,2016,2962.0,7893.0
 10971,rubber,2017,5086.0,6947.0
 10972,rubber,2018,1202.0,7536.0
-10973,rubber,2019,1640.0,9762.0
+10973,rubber,2019,1640.0,10129.0
 10974,rye,1961,0.0,
 10975,rye,1962,0.0,
 10976,rye,1963,0.0,
@@ -11031,7 +11031,7 @@
 11029,rye,2016,0.0,7893.0
 11030,rye,2017,0.0,6947.0
 11031,rye,2018,26.0,7536.0
-11032,rye,2019,1.0,9762.0
+11032,rye,2019,1.0,10129.0
 11033,sesame seed,1961,848.0,
 11034,sesame seed,1962,3548.0,
 11035,sesame seed,1963,777.0,
@@ -11090,7 +11090,7 @@
 11088,sesame seed,2016,1556.0,7893.0
 11089,sesame seed,2017,1955.0,6947.0
 11090,sesame seed,2018,3159.0,7536.0
-11091,sesame seed,2019,19960.0,9762.0
+11091,sesame seed,2019,19960.0,10129.0
 11092,sheep,1961,1839.0,
 11093,sheep,1962,1972.0,
 11094,sheep,1963,1863.0,
@@ -11149,7 +11149,7 @@
 11147,sheep,2016,0.0,7893.0
 11148,sheep,2017,0.0,6947.0
 11149,sheep,2018,8.0,7536.0
-11150,sheep,2019,51.0,9762.0
+11150,sheep,2019,51.0,10129.0
 11151,silk,1961,0.0,
 11152,silk,1962,10.0,
 11153,silk,1963,39.0,
@@ -11208,7 +11208,7 @@
 11206,silk,2016,0.0,7893.0
 11207,silk,2017,0.0,6947.0
 11208,silk,2018,0.0,7536.0
-11209,silk,2019,0.0,9762.0
+11209,silk,2019,0.0,10129.0
 11210,"skins, calve, wet salted",1961,0.0,
 11211,"skins, calve, wet salted",1962,0.0,
 11212,"skins, calve, wet salted",1963,0.0,
@@ -11267,7 +11267,7 @@
 11265,"skins, calve, wet salted",2016,0.0,7893.0
 11266,"skins, calve, wet salted",2017,0.0,6947.0
 11267,"skins, calve, wet salted",2018,0.0,7536.0
-11268,"skins, calve, wet salted",2019,0.0,9762.0
+11268,"skins, calve, wet salted",2019,0.0,10129.0
 11269,"skins, goat, wet salted",1961,0.0,
 11270,"skins, goat, wet salted",1962,0.0,
 11271,"skins, goat, wet salted",1963,0.0,
@@ -11326,7 +11326,7 @@
 11324,"skins, goat, wet salted",2016,0.0,7893.0
 11325,"skins, goat, wet salted",2017,0.0,6947.0
 11326,"skins, goat, wet salted",2018,0.0,7536.0
-11327,"skins, goat, wet salted",2019,0.0,9762.0
+11327,"skins, goat, wet salted",2019,0.0,10129.0
 11328,sorghum,1961,0.0,
 11329,sorghum,1962,0.0,
 11330,sorghum,1963,0.0,
@@ -11385,7 +11385,7 @@
 11383,sorghum,2016,4281.0,7893.0
 11384,sorghum,2017,584.0,6947.0
 11385,sorghum,2018,1425.0,7536.0
-11386,sorghum,2019,32397.0,9762.0
+11386,sorghum,2019,32397.0,10129.0
 11387,soya sauce,1961,0.0,
 11388,soya sauce,1962,0.0,
 11389,soya sauce,1963,0.0,
@@ -11444,7 +11444,7 @@
 11442,soya sauce,2016,840.0,7893.0
 11443,soya sauce,2017,998.0,6947.0
 11444,soya sauce,2018,1224.0,7536.0
-11445,soya sauce,2019,997.0,9762.0
+11445,soya sauce,2019,997.0,10129.0
 11446,soybean,1961,106270.0,
 11447,soybean,1962,145832.0,
 11448,soybean,1963,95470.0,
@@ -11503,7 +11503,7 @@
 11501,soybean,2016,67279852.0,7893.0
 11502,soybean,2017,83674126.0,6947.0
 11503,soybean,2018,101881881.0,7536.0
-11504,soybean,2019,91796691.0,9762.0
+11504,soybean,2019,91796691.0,10129.0
 11505,spices nes,1961,0.0,
 11506,spices nes,1962,0.0,
 11507,spices nes,1963,0.0,
@@ -11562,7 +11562,7 @@
 11560,spices nes,2016,462.0,7893.0
 11561,spices nes,2017,605.0,6947.0
 11562,spices nes,2018,1216.0,7536.0
-11563,spices nes,2019,2032.0,9762.0
+11563,spices nes,2019,2032.0,10129.0
 11564,spinach,1961,0.0,
 11565,spinach,1962,0.0,
 11566,spinach,1963,0.0,
@@ -11621,7 +11621,7 @@
 11619,spinach,2016,0.0,7893.0
 11620,spinach,2017,0.0,6947.0
 11621,spinach,2018,7.0,7536.0
-11622,spinach,2019,38.0,9762.0
+11622,spinach,2019,38.0,10129.0
 11623,"starch, cassava",1961,16555.0,
 11624,"starch, cassava",1962,8507.0,
 11625,"starch, cassava",1963,2814.0,
@@ -11680,7 +11680,7 @@
 11678,"starch, cassava",2016,13382.0,7893.0
 11679,"starch, cassava",2017,4414.0,6947.0
 11680,"starch, cassava",2018,4576.0,7536.0
-11681,"starch, cassava",2019,6539.0,9762.0
+11681,"starch, cassava",2019,6539.0,10129.0
 11682,straw husks,1961,0.0,
 11683,straw husks,1962,0.0,
 11684,straw husks,1963,0.0,
@@ -11739,7 +11739,7 @@
 11737,straw husks,2016,43.0,7893.0
 11738,straw husks,2017,0.0,6947.0
 11739,straw husks,2018,367.0,7536.0
-11740,straw husks,2019,384.0,9762.0
+11740,straw husks,2019,384.0,10129.0
 11741,strawberries,1961,4.0,
 11742,strawberries,1962,3.0,
 11743,strawberries,1963,0.0,
@@ -11798,7 +11798,7 @@
 11796,strawberries,2016,1.0,7893.0
 11797,strawberries,2017,1.0,6947.0
 11798,strawberries,2018,65.0,7536.0
-11799,strawberries,2019,171.0,9762.0
+11799,strawberries,2019,171.0,10129.0
 11800,sugar,1961,1566592.0,
 11801,sugar,1962,890526.0,
 11802,sugar,1963,1069996.0,
@@ -11857,7 +11857,7 @@
 11855,sugar,2016,58086789.0,7893.0
 11856,sugar,2017,57634927.0,6947.0
 11857,sugar,2018,42841532.0,7536.0
-11858,sugar,2019,36046384.0,9762.0
+11858,sugar,2019,36046384.0,10129.0
 11859,sunflower,1961,0.0,
 11860,sunflower,1962,0.0,
 11861,sunflower,1963,0.0,
@@ -11916,7 +11916,7 @@
 11914,sunflower,2016,1743.0,7893.0
 11915,sunflower,2017,164.0,6947.0
 11916,sunflower,2018,563.0,7536.0
-11917,sunflower,2019,144.0,9762.0
+11917,sunflower,2019,144.0,10129.0
 11918,sweet corn,1961,0.0,
 11919,sweet corn,1962,0.0,
 11920,sweet corn,1963,0.0,
@@ -11975,7 +11975,7 @@
 11973,sweet corn,2016,13268.0,7893.0
 11974,sweet corn,2017,17128.0,6947.0
 11975,sweet corn,2018,17737.0,7536.0
-11976,sweet corn,2019,16780.0,9762.0
+11976,sweet corn,2019,16780.0,10129.0
 11977,sweet potatoes,1961,0.0,
 11978,sweet potatoes,1962,0.0,
 11979,sweet potatoes,1963,0.0,
@@ -12034,7 +12034,7 @@
 12032,sweet potatoes,2016,20237.0,7893.0
 12033,sweet potatoes,2017,3905.0,6947.0
 12034,sweet potatoes,2018,9714.0,7536.0
-12035,sweet potatoes,2019,8797.0,9762.0
+12035,sweet potatoes,2019,8797.0,10129.0
 12036,tallow,1961,0.0,
 12037,tallow,1962,0.0,
 12038,tallow,1963,0.0,
@@ -12093,7 +12093,7 @@
 12091,tallow,2016,1323.0,7893.0
 12092,tallow,2017,9087.0,6947.0
 12093,tallow,2018,2051.0,7536.0
-12094,tallow,2019,10429.0,9762.0
+12094,tallow,2019,10429.0,10129.0
 12095,"tangerines, mandarins, clementines, satsumas",1961,413.0,
 12096,"tangerines, mandarins, clementines, satsumas",1962,74.0,
 12097,"tangerines, mandarins, clementines, satsumas",1963,543.0,
@@ -12152,7 +12152,7 @@
 12150,"tangerines, mandarins, clementines, satsumas",2016,59.0,7893.0
 12151,"tangerines, mandarins, clementines, satsumas",2017,430.0,6947.0
 12152,"tangerines, mandarins, clementines, satsumas",2018,530.0,7536.0
-12153,"tangerines, mandarins, clementines, satsumas",2019,440.0,9762.0
+12153,"tangerines, mandarins, clementines, satsumas",2019,440.0,10129.0
 12154,tea,1961,1176.0,
 12155,tea,1962,1440.0,
 12156,tea,1963,1310.0,
@@ -12211,7 +12211,7 @@
 12209,tea,2016,435.0,7893.0
 12210,tea,2017,361.0,6947.0
 12211,tea,2018,336.0,7536.0
-12212,tea,2019,388.0,9762.0
+12212,tea,2019,388.0,10129.0
 12213,textile fibres,1961,353908.0,
 12214,textile fibres,1962,374411.0,
 12215,textile fibres,1963,385501.0,
@@ -12270,7 +12270,7 @@
 12268,textile fibres,2016,869468.0,7893.0
 12269,textile fibres,2017,887240.0,6947.0
 12270,textile fibres,2018,974016.0,7536.0
-12271,textile fibres,2019,1682058.0,9762.0
+12271,textile fibres,2019,1682058.0,10129.0
 12272,tobacco,1961,97641.0,
 12273,tobacco,1962,83663.0,
 12274,tobacco,1963,88731.0,
@@ -12329,7 +12329,7 @@
 12327,tobacco,2016,965878.0,7893.0
 12328,tobacco,2017,922775.0,6947.0
 12329,tobacco,2018,920175.0,7536.0
-12330,tobacco,2019,1101449.0,9762.0
+12330,tobacco,2019,1101449.0,10129.0
 12331,tomato,1961,446.0,
 12332,tomato,1962,554.0,
 12333,tomato,1963,329.0,
@@ -12388,7 +12388,7 @@
 12386,tomato,2016,7187.0,7893.0
 12387,tomato,2017,8446.0,6947.0
 12388,tomato,2018,9533.0,7536.0
-12389,tomato,2019,3423.0,9762.0
+12389,tomato,2019,3423.0,10129.0
 12390,vanilla,1961,0.0,
 12391,vanilla,1962,0.0,
 12392,vanilla,1963,0.0,
@@ -12447,7 +12447,7 @@
 12445,vanilla,2016,0.0,7893.0
 12446,vanilla,2017,0.0,6947.0
 12447,vanilla,2018,0.0,7536.0
-12448,vanilla,2019,0.0,9762.0
+12448,vanilla,2019,0.0,10129.0
 12449,vermouths & similar,1961,10.0,
 12450,vermouths & similar,1962,9.0,
 12451,vermouths & similar,1963,0.0,
@@ -12506,7 +12506,7 @@
 12504,vermouths & similar,2016,76.0,7893.0
 12505,vermouths & similar,2017,166.0,6947.0
 12506,vermouths & similar,2018,112.0,7536.0
-12507,vermouths & similar,2019,200.0,9762.0
+12507,vermouths & similar,2019,200.0,10129.0
 12508,wafers,1961,0.0,
 12509,wafers,1962,0.0,
 12510,wafers,1963,0.0,
@@ -12565,7 +12565,7 @@
 12563,wafers,2016,17512.0,7893.0
 12564,wafers,2017,19047.0,6947.0
 12565,wafers,2018,20031.0,7536.0
-12566,wafers,2019,20598.0,9762.0
+12566,wafers,2019,20598.0,10129.0
 12567,"walnuts, shelled",1961,0.0,
 12568,"walnuts, shelled",1962,0.0,
 12569,"walnuts, shelled",1963,0.0,
@@ -12624,7 +12624,7 @@
 12622,"walnuts, shelled",2016,179.0,7893.0
 12623,"walnuts, shelled",2017,109.0,6947.0
 12624,"walnuts, shelled",2018,353.0,7536.0
-12625,"walnuts, shelled",2019,443.0,9762.0
+12625,"walnuts, shelled",2019,443.0,10129.0
 12626,"walnuts, with shell",1961,0.0,
 12627,"walnuts, with shell",1962,0.0,
 12628,"walnuts, with shell",1963,0.0,
@@ -12683,7 +12683,7 @@
 12681,"walnuts, with shell",2016,2.0,7893.0
 12682,"walnuts, with shell",2017,32.0,6947.0
 12683,"walnuts, with shell",2018,21.0,7536.0
-12684,"walnuts, with shell",2019,67.0,9762.0
+12684,"walnuts, with shell",2019,67.0,10129.0
 12685,watermelon,1961,0.0,
 12686,watermelon,1962,0.0,
 12687,watermelon,1963,0.0,
@@ -12742,7 +12742,7 @@
 12740,watermelon,2016,67437.0,7893.0
 12741,watermelon,2017,73852.0,6947.0
 12742,watermelon,2018,67667.0,7536.0
-12743,watermelon,2019,102987.0,9762.0
+12743,watermelon,2019,102987.0,10129.0
 12744,"waters,ice etc",1961,0.0,
 12745,"waters,ice etc",1962,0.0,
 12746,"waters,ice etc",1963,0.0,
@@ -12801,7 +12801,7 @@
 12799,"waters,ice etc",2016,768.0,7893.0
 12800,"waters,ice etc",2017,790.0,6947.0
 12801,"waters,ice etc",2018,2448.0,7536.0
-12802,"waters,ice etc",2019,9798.0,9762.0
+12802,"waters,ice etc",2019,9798.0,10129.0
 12803,wheat,1961,322.0,
 12804,wheat,1962,1953.0,
 12805,wheat,1963,1099.0,
@@ -12860,7 +12860,7 @@
 12858,wheat,2016,714721.0,7893.0
 12859,wheat,2017,619309.0,6947.0
 12860,wheat,2018,222901.0,7536.0
-12861,wheat,2019,565167.0,9762.0
+12861,wheat,2019,565167.0,10129.0
 12862,wine,1961,0.0,
 12863,wine,1962,4.0,
 12864,wine,1963,13.0,
@@ -12919,7 +12919,7 @@
 12917,wine,2016,1961.0,7893.0
 12918,wine,2017,3148.0,6947.0
 12919,wine,2018,4204.0,7536.0
-12920,wine,2019,3956.0,9762.0
+12920,wine,2019,3956.0,10129.0
 12921,wool,1961,480.0,
 12922,wool,1962,200.0,
 12923,wool,1963,3276.0,
@@ -12978,7 +12978,7 @@
 12976,wool,2016,7353.0,7893.0
 12977,wool,2017,6706.0,6947.0
 12978,wool,2018,7772.0,7536.0
-12979,wool,2019,7923.0,9762.0
+12979,wool,2019,7923.0,10129.0
 12980,"yoghurt, concentrated or not",1961,0.0,
 12981,"yoghurt, concentrated or not",1962,0.0,
 12982,"yoghurt, concentrated or not",1963,0.0,
@@ -13037,4 +13037,4 @@
 13035,"yoghurt, concentrated or not",2016,0.0,7893.0
 13036,"yoghurt, concentrated or not",2017,165.0,6947.0
 13037,"yoghurt, concentrated or not",2018,409.0,7536.0
-13038,"yoghurt, concentrated or not",2019,388.0,9762.0
+13038,"yoghurt, concentrated or not",2019,388.0,10129.0

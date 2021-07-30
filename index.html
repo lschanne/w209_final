@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <title>Brazilian Rainforest Deforesation</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    </head>
+
+<body>
 <div class="page">
   <!-- Load libraries -->
 <script src="https://d3js.org/d3.v6.js"></script>
@@ -287,6 +296,8 @@ new Runtime().module(define, name => {
     <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 15vh;">
         <p style="white-space: normal; font-size: small">To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
         <label for="export_items">Choose export items:<br></label>
+            <button id="filter_exports_btn" onclick="set_selections()" style="margin-top: 5px; margin-bottom: 5px;">Apply</button>
+            <button id="select_all_btn" onclick="set_selections(true)" style="margin-left: 10%;">Select All</button><br>
             <select name="export_items" id="export_items" multiple style="width: 100%; height: 75%; float: center;">
                 <option value="animal fats and oils (excl. butter)">animal fats and oils (excl. butter)</option>
                 <option value="apple">apple</option>
@@ -407,9 +418,8 @@ new Runtime().module(define, name => {
                 <option value="wheat">wheat</option>
                 <option value="wine">wine</option>
                 <option value="wool">wool</option>
+
             </select><br>
-            <button id="filter_exports_btn" onclick="set_selections()" style="margin-top: 5px;">Apply</button>
-            <button id="select_all_btn" onclick="set_selections(true)" style="margin-left: 10%;">Select All</button>
     </div>
     <div id="plots_container" style="width: 75%; height: 100%; padding-left: 15%;">
             <div id="deforestation" style="width: 100%; height:33%;"></div><br>
@@ -422,7 +432,8 @@ new Runtime().module(define, name => {
     var corr_data,
         deforestation_data,
         export_data,
-        max_year = 2019,
+        point_size = 60,
+        max_year = 2020,
         min_year = 2004,
         years = [];
     
@@ -484,7 +495,7 @@ new Runtime().module(define, name => {
                 $schema: "https://vega.github.io/schema/vega-lite/v5.json",
                 description: "Correlation between deforestation and exportation",
                 data: {values: data},
-                mark: "point",
+                mark: {type: "point", filled: true, size: point_size},
                 encoding: {
                     x: {field: "total_tonnes_exported", type: "quantitative", title: "Total Tonnes Exported", scale: {type: "log", domain: [10000, 900000000]}},
                     y: {field: "corr", type: "quantitative", title: "Annual Corr: Tonnes Exported and DF Area (km^2)", scale: {domain: [-1, 1]}},
@@ -513,7 +524,7 @@ new Runtime().module(define, name => {
                 data: {values: data},
                 mark: {
                     type: "line",
-                    point: true
+                    point: {size: point_size}
                 },
                 encoding: {
                     x: {field: "year", type: "quantitative", title: "Year", scale: {domain: [min_year, max_year]}, axis: {values: years, format: "d"}},
@@ -541,7 +552,7 @@ new Runtime().module(define, name => {
                 data: {values: data},
                 mark: {
                     type: "line",
-                    point: true
+                    point: {size: point_size}
                 },
                 encoding: {
                     x: {field: "year", type: "quantitative", title: "Year", scale: {domain: [min_year, max_year]}, axis: {values: years, format: "d"}},
@@ -578,3 +589,5 @@ new Runtime().module(define, name => {
   
   
 </div>
+</body>
+</html>
