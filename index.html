@@ -25,23 +25,22 @@
             <a href="#section-1">Introduction</a>
             <a href="#section-2">Deforestation by Year</a>
             <a href="#section-3">Deforestation Over Time</a>
-            <a href="#section-4">Total Deforestation</a>
-            <a href="#section-5">Comparison with Bodies of Land</a>
+            <a href="#section-4">Scale of Total Deforestation</a>
           </div>
       </div>
       <div class="dropdown">
           <button class="dropbtn">The Impacts</button>
           <div class="dropdown-content">
-            <a href="#section-6">CO<sub>2</sub> Emissions</a>
-            <a href="#section-7">Factors and GHG Emissions</a>
+            <a href="#section-5">CO<sub>2</sub> Emissions</a>
+            <a href="#section-6">Factors and GHG Emissions</a>
           </div>
       </div>
       <div class="dropdown">
           <button class="dropbtn">The Causes</button>
           <div class="dropdown-content">
-            <a href="#section-8">Agriculture and Fires</a>
-            <a href="#section-9">Soy Beans as an Export</a>
-            <a href="#section-10">Explore Exports</a>
+            <a href="#section-7">Agriculture and Fires</a>
+            <a href="#section-8">Soy Beans as an Export</a>
+            <a href="#section-9">Explore Exports</a>
           </div>
       </div>
       <div class="dropdown">
@@ -62,23 +61,22 @@
       <div>
       <h2> Introduction</h2>
           <p>
-	Brazil hosts the largest Tropical Rain forest in the world with 30% of the <br>
-	world tropical forests residing within it. The country with the second largest <br>
-	portion, Congo, only has 8% of the world's tropical forest. The Amazon Rain Forest <br>
-	is home to a diverse ecosystem which is important to local communities as well as <br>
-	the wider ecosystems and climate around the world. While it is an integral part of <br>
-	a global ecosystem, it is at risk of degradation due to deforestation over time.
+	Brazil hosts the largest Tropical Rain Forest in the world with <b>30%</b> of the world tropical forests residing within it. The country with the second largest portion, Congo, only has <b>8%</b> of the world's tropical forest. The Amazon Rain Forest is home to a diverse ecosystem which is important to local communities as well as the wider ecosystems and climate around the world. While it is an integral part of a global ecosystem, it is at risk of degradation due to deforestation over time.
         </p>
 
 	
 	<p>
-	Satellite images of deforested area from July 4, 2000 to July 16, 2019 in Para, Brazil.<br>
+	Satellite images of deforested area from July 4, 2000, to July 16, 2019 in Para, Brazil (Lighter portions represent deforested area).<br>
 	Credit: <a href="https://earthobservatory.nasa.gov/images/145888/making-sense-of-amazon-deforestation-patterns">Making Sense of Amazon Deforestation Patterns by Earth Observatory NASA</a></p>
       </div>  
+	<div>
+	<div id="intro-image">
 	<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/145000/145888/br163defores_tmo_amo_2019.gif"
 		width="520" 
-		height="600" />
-	
+		height="600" /><br>
+	<label for="intro-image" style="white-space: normal; font-size: small;">*All Charts will use data from 2004-2020 due to availability of deforetation data.<br></label>
+	</div>
+	<div>
 
     </section>
 <!-- Section 1 end -->
@@ -88,12 +86,17 @@
     <section id="section-2">
       <div>
       <h2> Deforestation by Year</h2>
-        <p>
-	The Brazil Amazon Rainforest has been experiencing deforestation since <br>
-        the 1960s. It reached a peak high on 2004, and an effort to Reduce Emission <br>
-        from Deforestation and Forest Degradation (REDD+) was proposed in 2005. 
-        </p>
+       <p>
+	The Brazil Amazon Rainforest has been experiencing deforestation since the 1960s. It reached a peak high in 2004, and an effort to Reduce Emission from Deforestation and Forest Degradation (<b>REDD+</b>) was proposed in 2005.
+       </p>
+       <p>
+	<b>Goal:</b> Allow user to explore rates of Deforestation between 2004 to 2020.
+       </p>
+       <p>
+	<b>Take Away:</b> 2013 is the start of a gradual increase in Deforested area.
+       </p>
       </div>
+
 	<div id="observablehq-brazilrf_def_chart-81cab98e"></div>
 	<script type="module">
 	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
@@ -109,6 +112,22 @@
 
 <!-- Section 3 Start -->
      <section id="section-3">
+      <div>
+      <h2> Deforestation Over Time</h2>
+	<p> 
+	While the effort to Reduce Emission from Deforestation and Forest Degradation (<b>REDD+</b>) proved to help reduce deforestation in Brazil in the short term, deforested had started to increase in 2013. From 2012 to 2020 deforested area has increased by 114%. Deforested area impacts multiple aspects of Brazil's habitants as well as the rest of the world.
+        </p>
+        <p>
+	<b>Animals</b> lost the shelter and temperature regulation that the Rainforest provided. <b>Local human communities</b> that reside within the forest area experienced a short-lived growth. Although, once their natural resources ran out, the level of development is almost identical prior to deforestation. The deforestation also causes drier soil due to the loss of trees that would usually aid in regulating regional and global water cycles.
+	</p>
+       <p>
+	<b>Goal:</b> Allow user to filter Deforestationed between 2004 to 2020.
+       </p>
+       <p>
+	<b>Take Away:</b> The Brazilian states Para and Mato are the two highest contributors of deforested area.
+       </p>
+      </div>
+
  	<div>
 		<label for="observablehq-viewof-year-6c041b8e" style="white-space: normal; font-size: small;">Press Play or Drag Slider<br></label>
 		<div id="observablehq-viewof-year-6c041b8e"></div><br>
@@ -125,26 +144,6 @@
 	});
 	</script>
 
-       
-      <div>
-      <h2> Deforestation Over Time</h2>
-	<p> 
-	While REDD+ proved to help reduce deforestation in Brazil in the short term,<br>
-	there has been an increase in deforested area starting 2013. From 2012 to 2020<br>
-	deforested area has increased by 114%. Deforested area impact multi aspects of<br>
-	Brazil's habitants as well as th rest of the world.
-        </p>
-        <p>
-          For animals, the shelter and temperature regulation that the Rainforest provided <br>is lost. Local human communities that reside within the forest area experience a <br>
-          short-lived boom which benefits them. However, once their natural resources <br>
-          run out their level of development is almost identical prior to deforestation. <br>
-          The deforestation also causes drier soil due to the tree that would
-          help aid in <br>regulating regional and global water cycles being destroyed.
-        </p> 
-
-	<p>
-	</p>
-      </div>
     </section>
 <!-- Section 3 End -->
 
@@ -153,66 +152,46 @@
 <!-- Section 4 Start -->
     <section id="section-4">
       <div>
-      <h2> Total Deforestation</h2>
-          <p> Within the last 16 years, a total of 171,223 km² of the Brazillian Amazon<br>
-	      Rainforest has been degraded due to deforestation. The total deforested <br>
-	      area is similar in size to the following countries, Tunisia, Uruguay, Cambodia <br>
-	      as well as the state of Florida. 
+      <h2> Scale of Total Deforestation</h2>
+          <p>Within the last 16 years, a total of 171,223 km² of the Brazillian Amazon Rainforest has been degraded due to deforestation. In order to understand the scale of deforested area, the top 100 largest cities are displayed next to the total deforested area from 2004 -2020. The largest city in the world, New York City, NY, is <b>5%</b> of total deforested area from 2004 - 2020. Even after combining largest citites by their country we notice a great disparity in size.
         </p>
+       <p>
+	<b>Goal:</b> Allow user understand the scale of deforested area from 2004 -2020 compared to top 100 largest cities.
+       </p>
+       <p>
+	<b>Take Away:</b> USA's largest cities represents 2/3 of the size of total deforested area between 2004 -2020.
+       </p>
       </div>
 
-<iframe width="400" height="484" frameborder="0"
-  src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=bubble_chart"></iframe>
+	<div id="observablehq-comp_chart-4d48fdae"></div>
+
+	<script type="module">
+	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+	import define from "https://api.observablehq.com/d/bde65e52e9d64ac6.js?v=3";
+	new Runtime().module(define, name => {
+	  if (name === "comp_chart") return new Inspector(document.querySelector("#observablehq-comp_chart-4d48fdae"));
+	});
+	</script>
+
 
     </section>
 <!-- Section 4 end -->
 
+
 <!-- Section 5 Start -->
     <section id="section-5">
       <div>
-        		<label for="observablehq-viewof-year-6c041b8e" style="white-space: normal; font-size: small;">Click and Drag Globe to Interact<br></label>
-<div id="observablehq-globe-79e4f914"></div>
-
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/d/d57b8f13da8c6c3e.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "globe") return new Inspector(document.querySelector("#observablehq-globe-79e4f914"));
-});
-</script>
-        </div>
-      
-      
-      <div>
-      <h2> Comparison with Similar <br>Sized Bodies of Land</h2>
-	<p>Total Deforesation (2004 - 2020): 171,223 km² <br>
-	  Orange highlighted areas in the globe are areas of land that <br>
-    are similar in size to the total deforested area between 2004 and 2020.<br>
-	</p>
-
-      </div>      
-
-    </section>
-<!-- Section 5 end -->
-
-<!-- Section 6 Start -->
-    <section id="section-6">
-      <div>
       <h2> CO<sub>2</sub> emissions </h2>
 	<p> 
-	The packed bubble visual shows where Brazil’s contribution of the world<br>
-	total CO<sub>2</sub> emission relative to the top contributing countries.<br>
-	Even though Brazil is not a big industrial country compared with China, <br>
-	Canada, and India yet it has a significant contribution of total CO<sub>2</sub><br>
-	emission and <b>40%</b> of that contribution comes for rainforest deforestation. <br>
-	Brazil represents <b>50%</b> of South America's total emissions. 
+	The packed bubble visual shows where Brazil’s contribution of the world total CO<sub>2</sub> emission relative to the top 
+contributing countries. Even though Brazil is not a big industrial country compared with China, Canada, and India yet it has a 
+significant contribution of total CO<sub>2</sub> emission and <b>40%</b> of that contribution comes for rainforest deforestation. 
+Brazil represents <b>50%</b> of South America's total emissions. 
 	</p>
 	<p>
-	Trees absorb carbon dioxide, mitigating greenhouse gas emissions produced by<br>
-	human activity. As climate change continues, trees play an important role in <br>
-	carbon sequestration.Tropical trees alone are estimated to provide about <b>23%</b><br>
-	of the climate mitigation that's needed to offset climate change, according to<br>
-	the World Resources Institute, a non-profit global research institute.
+	Trees absorb carbon dioxide, mitigating greenhouse gas emissions produced by human activity. As climate change continues,
+ trees play an important role in carbon sequestration.Tropical trees alone are estimated to provide about <b>23%</b> of the climate
+ mitigation that's needed to offset climate change, according to the World Resources Institute, a non-profit global research institute.
 	</p>
      </div>
 	
@@ -220,37 +199,34 @@ new Runtime().module(define, name => {
 	  src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=emission_impact"></iframe>
 
     </section>
-<!-- Section 6 end -->
+<!-- Section 5 end -->
 
 
-<!-- Section 7 Start -->
-    <section id="section-7">
+<!-- Section 6 Start -->
+    <section id="section-6">
       <div>
-      <h2> Factors and Green House Gas Emission</h2>
-	<p> The main causes that lead to deforestation in the Brazillian <br>
-	Amazon Rainforest are stated as wood extraction, agricultural <br>
-	and infrastructure expansion by 
+      <h2> Factors and Greenhouse Gas Emission</h2>
+	<p> The main causes that lead to deforestation in the Brazilian Amazon Rainforest are stated as wood extraction, agricultural and infrastructure expansion by
 	<a style="white-space:nowrap;" href="https://earthobservatory.nasa.gov/features/Deforestation/deforestation_update3.php">NASA</a>.
 	</p>
 
 	<p>
-	Among the major causes, agriculture is the highest contributor. <br>
-	Although in comparison with other factors, Land-Use stands <br>
-	out, it is a good example of the REDD+ policy in action. After <br>
-	its proposal, a drastic decline in Land-Use is showcased. When <br>
-	included it within total GHG emission metric it seems as if <br>
-	Brazil does not have an issue with GHG emissions. 
+	Among the major causes, agriculture is the highest contributor. Although in comparison with other factors, Land-Use (usage of land for development) stands out as a result of the effort to Reduce Emission from Deforestation and Forest Degradation (REDD+) policy in action. After its proposal, a drastic decline in Land-Use is showcased. When included it within total Greenhouse Gas (GHG) emission metric it seems as if Brazil does not have an issue with Greenhouse Gas (GHG) emissions.
 	</p>
 	<p>
-	However, when we exclude Land-Use, Agriculture can be addressed<br>
-	as the highest contributer which has been steadily growing. <br>
-	Agriculture's contribution also fits in line with the deforested<br>
-	area's steady growth.
+	However, when we exclude Land-Use, Agriculture can be addressed as the highest contributor which has been steadily growing. Agriculture's contribution also fits in line with the deforested area's steady growth.
 	</p>
+       <p>
+	<b>Goal:</b> Allow user to explore different factors increase greenhouse gases in brazil from 2004 - 2020.
+       </p>
+       <p>
+	<b>Take Away:</b> Through REDD+ policies, Land-Use has been reduced but Agriculture still stands as a harmful factor. Further regulation should be explored to further reduce deforestation and emissions.
+       </p>
       </div>
+	<div>
+	<label for="observablehq-ghg_comp_chart-688aef9d" style="white-space: normal; font-size: small;">*Greenhouse gas emissions – carbon dioxide, methane, nitrous oxide, and F-gases, summed & measured in tonnes of carbon-dioxide equivalents (CO₂e).<br> “Equivalent” means “having same warming effect as CO₂ over a period of 100 years”.<br></label>
 	<div id="observablehq-ghg_comp_chart-688aef9d"></div>
-
-	
+	</div>
 	<script type="module">
 	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 	import define from "https://api.observablehq.com/d/bde65e52e9d64ac6.js?v=3";
@@ -260,23 +236,29 @@ new Runtime().module(define, name => {
 	</script>
 
     </section>
-<!-- Section 7 end -->
+<!-- Section 6 end -->
 
 
-<!-- Section 8 Start -->
-    <section id="section-8">
+<!-- Section 7 Start -->
+    <section id="section-7">
       <div>
       <h2> Agriculture and Fires</h2>
 	<p> 
-	Agricutlure as a contributor is concerning due to a Slash-and-Burn method<br>
-	used to clear land, plant crops and raise livestock. Major fires data <br>
-	collected by the National Institute for Space Research 
-	<a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=inpe_brazilian_amazon_fires_1999_2019.csv">(INPE)</a> can be <br>
-	linked to deforested area over time.<br>
+	Agricutlure as a contributor is concerning due to a Slash-and-Burn method used to clear land, plant crops and raise livestock. 
+Major fires data collected by the National Institute for Space Research 
+	<a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=inpe_brazilian_amazon_fires_1999_2019.csv">(INPE)</a> can be linked to deforested area over time.
 	</p>
+       <p>
+	<b>Goal:</b> Allow user to view fire outbreaks and deforested area over time from 2004 - 2020.
+       </p>
+       <p>
+	<b>Take Away:</b> Fires are closely related to deforested areas as unnatural fires caused by humans are common practice to clear land.
+       </p>
      </div>
-
+	<div>
+	<label for="observablehq-fire_def_chart-c0065e7a" style="white-space: normal; font-size: small;">*Red represents fire outbreaks.<br></label>
 	<div id="observablehq-fire_def_chart-c0065e7a"></div>
+	</div>
 
 	<script type="module">
 	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
@@ -287,37 +269,41 @@ new Runtime().module(define, name => {
 	</script>
 	
     </section>
-<!-- Section 8 end -->
+<!-- Section 7 end -->
 
 
-<!-- Section 9 Start -->
-    <section id="section-9">
+<!-- Section 8 Start -->
+    <section id="section-8">
 	<div>
-	<h2> Soy Beans as an Export </h2>
-      	<p>Brazil is the world leading producer of Soybean with steady <br>
-        production increase in the past few decades. The world's demand <br>
-        for Soybean is increasing leading to increase in deforestation <br>
-	rates due to dangerous farming methods, namely Slash-and-Burn.
+	<h2> Soybeans as an Export </h2>
+      	<p>Brazil is the world leading producer of Soybean with steady production increase in the past few decades. 
+The world's demand  for Soybean is increasing leading to increase in deforestation  rates due to dangerous farming methods, 
+namely Slash-and-Burn.
         </p>
+	<b>Goal:</b> Allow user to compare Soybean exports from top producers from 2004 - 2020.
+       </p>
+       <p>
+	<b>Take Away:</b> Brazil competes with the United States in production of Soybeans due to their clearing forests for Soybean plantations.
+       </p>
         </div>
 
 	<iframe width="40%" height="60%" frameborder="0"
 	  src="https://observablehq.com/embed/bde65e52e9d64ac6?cells=brazil_soy_plot"></iframe>
 
     </section>
-<!-- Section 9 End -->  
+<!-- Section 8 End -->  
 
-<!-- Section 10 Start -->
-<div id="section-10" style="padding-top: 124px;">
+<!-- Section 9 Start -->
+<div id="section-9" style="padding-top: 124px;">
 <div id="exports_header" style="width: 100%; height: 15%;">
     <h1> Brazil Exports</h1>
-    <p>In this section, we would like to explore which products that are exported from Brazil may be associated with the deforestation of Brazilian rainforests. For this purpose, we are looking at the <a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv">deforestation rates from Kaggle</a> and the <a style="white-space:nowrap;" href="http://www.fao.org/faostat/en/#data/TP/metadata">export trade data from the Food and Agriculture Organization of the United Nations</a>. By comparing the trends in these data, we hope to provide guidance for experiments or regulations that are targeted at combatting the deforestation problem.</p>
-    <p><span style="font-weight: bold;">Goal:</span> Allow use to explore which exports from Brazil may be key factors in deforestation.</p>
-    <p><span style="font-weight: bold;">Takeaway:</span> Generally, export rates in Brazil are increasing at a rapid pace. Increasing production continues to jeopardize the rainforests.</p>
+    <p1>In this section, we would like to explore which products that are exported from Brazil may be associated with the deforestation of Brazilian rainforests. For this purpose, we are looking at the <a style="white-space:nowrap;" href="https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation?select=def_area_2004_2019.csv">deforestation rates from Kaggle</a> and the <a style="white-space:nowrap;" href="http://www.fao.org/faostat/en/#data/TP/metadata">export trade data from the Food and Agriculture Organization of the United Nations</a>. By comparing the trends in these data, we hope to provide guidance for experiments or regulations that are targeted at combatting the deforestation problem.</p1><br>
+    <p><span style="font-weight: bold;">Goal:</span> Allow user to explore which exports from Brazil may be key factors in deforestation.</p><br>
+    <p1><span style="font-weight: bold;">Takeaway:</span> Generally, export rates in Brazil are increasing at a rapid pace. Increasing production continues to jeopardize the rainforests.</p1>
 </div>
 <div id="exports_details" style="width: 100%; height: 120vh; padding: 0; white-space: nowrap;">
     <div id="export_selection" style="width: 15%; height: 85vh; float: left; position: sticky; top: 15vh;">
-        <p style="white-space: normal; font-size: small">To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p>
+        <p style="white-space: normal; font-size: small">To help you navigate the data, we have included a multi-select for filtering the data points by product. You can hold Ctrl (Cmd on Mac) and click to select multiple export products at once. Additionally, all three plots display tooltips when you hover the cursor over specific data points.</p1>
         <label for="export_items">Choose export items:<br></label>
             <button id="filter_exports_btn" onclick="set_selections()" style="margin-top: 5px; margin-bottom: 5px;">Apply</button>
             <button id="select_all_btn" onclick="set_selections(true)" style="margin-left: 10%;">Select All</button><br>
@@ -597,7 +583,7 @@ new Runtime().module(define, name => {
 </script>
 </div>
    
-<!-- Section 10 End-->
+<!-- Section 9 End-->
 
  
   </main>
